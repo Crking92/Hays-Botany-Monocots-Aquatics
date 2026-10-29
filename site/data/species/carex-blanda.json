@@ -39,8 +39,22 @@
     "names": [],
     "differences": "Compared with C. planostachys, C. blanda usually has broader flatter leaves and taller looser foliage. Compared with C. edwardsiana, it lacks the strongly purple-red culm bases and Central Texas canyon-endemic pattern."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/carex-blanda/carex-blanda-provisional-face.png",
+      "creator": "Britton & Brown (1913) / USDA-NRCS PLANTS Database",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_blanda_drawing_1.png",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "9dbfd017c78360b1f7fef9672682ed7ef9188d32",
+      "role": "Botanical illustration / whole sedge diagnostic form",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "02fe70ae6c2ba416063619910b3de91fc9d045e4c4a4ecac8bf0502066c12150",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

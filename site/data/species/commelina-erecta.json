@@ -51,8 +51,48 @@
     "names": [],
     "differences": "Tinantia anomala: Tinantia lacks the closed Commelina-style spathe pocket. Its terminal one-sided cyme is subtended by a broad leaflike bract that is mostly flat/open, and its upper leaves often clasp the stem with cordate lobes. The flower still has two large blue petals and a smaller white petal, so the inflorescence bract is the better first character. Commelina communis: The introduced Asiatic dayflower also has two large blue petals, but its spathe is open rather than fused into the more pocketlike Commelina erecta spathe. Use spathe architecture and regional flora evidence rather than petal color. Tradescantia spp.: Spiderworts have three comparably showy petals and lack the Commelina dayflower spathe pocket. Their flowers sit in terminal clusters rather than emerging from the folded spathe."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/commelina-erecta/01-flower.jpg",
+      "creator": "Paty000 (original uploader)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "9f25dab5540ae883c8a877e4c2f981e4a5d7faff",
+      "role": "Two large blue petals and small pale lower petal",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/commelina-erecta/02-leaf-sheath.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_271552526.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "9975faa0026c5ab40f473f0ef22b792933cf6cac",
+      "role": "Leaf sheath and stem attachment",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/commelina-erecta/03-spathe.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_279194748.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "15e001ebdf7ed671eab37488004102e7825b8e21",
+      "role": "Folded green spathe enclosing buds and flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c2e3cac273f81f978b342e95ae893afc946562da7d86d8287dcc6a2d5eb1f7bb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

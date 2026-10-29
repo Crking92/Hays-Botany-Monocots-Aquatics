@@ -43,8 +43,22 @@
     "names": [],
     "differences": "C. texensis is the smallest and finest-textured member of B105. Its narrow leaves and tiny clustered spikes contrast strongly with broad-leaved C. cherokeensis and the large winged fruits of C. tetrastachya."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/carex-texensis/carex-texensis-provisional-face.jpg",
+      "creator": "Daderot",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_texensis_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC08932.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "1e2d6ca0a36b7e37b17bc9b074449221ea9d58f5",
+      "role": "Whole plant / sedge habit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8250dce265cdae3efdd02c562dad27073a0687ccd3b06d6afc93ae0104b00b12",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

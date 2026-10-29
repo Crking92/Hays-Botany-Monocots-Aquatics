@@ -35,8 +35,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/agave-americana/01-cultivated-toothed-leaves.jpg",
+      "creator": "Photo by David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agave_americana_4zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d4e93ca91c6ee28c6cd0580e8a309034ac82c61e",
+      "role": "Cultivated broad fleshy leaves with toothed margins and terminal spines; Longwood Gardens specimen",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7d3f8e7b95fdf136bd55c69345967742f69126fe830094f64d3d43fd29394f7d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

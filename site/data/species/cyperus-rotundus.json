@@ -31,8 +31,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cyperus-rotundus/01-purple-nutsedge-inflorescence.jpg",
+      "creator": "Mike",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_inflor.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "a60ef14a1217590b09b5d373f8746013edbab6e7",
+      "role": "flowering_inflorescence",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cyperus-rotundus/02-purple-nutsedge-tuber.jpg",
+      "creator": "Rickjpelleg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_tuber01.jpg",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "source_blob_sha": "f1332195587c925afcd622b206d28af23c1703ab",
+      "role": "tuber_attached_to_stolon",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cyperus-rotundus/03-purple-nutsedge-spikelet.jpg",
+      "creator": "Macleay Grass Man",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_spikelet_DC2.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "604edb0f6c18d9152233a58286b3c7fe56ac13bf",
+      "role": "reddish_spikelet_cluster",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "670afcb3ecac3ff0890084e8a653bb4391cd1922a2f12fe5438feff463183d67",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

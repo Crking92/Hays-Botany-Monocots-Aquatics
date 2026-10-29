@@ -31,8 +31,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cyperus-esculentus/01-yellow-nutsedge-inflorescence.jpg",
+      "creator": "NY State IPM Program at Cornell University",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yellow_Nutsedge_(18842630041).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "bbaddedb25af7aa25fafd31831972b23dbd0e4ff",
+      "role": "flowering_inflorescence",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cyperus-esculentus/02-yellow-nutsedge-tuber.jpg",
+      "creator": "Tamorlan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_esculentus_012.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "290c1ffce699a2165c2e43b6b88fec5bde938888",
+      "role": "dried_harvested_tubers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "aa1189859a4479fc9216b7480611f1659478822ec8004d7cc9927a7c76a420af",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

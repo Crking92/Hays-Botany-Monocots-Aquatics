@@ -35,8 +35,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/agave-lechuguilla/01-texas-habit-flowering-axis.jpg",
+      "creator": "Clarence A. Rechenthin @ USDA-NRCS PLANTS Database",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agave_lechuguilla_habitus.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "b835920fb16acfc74482b653e8d56bfff1ceabc9",
+      "role": "Texas USDA habit view: basal narrow-leaved rosettes and a tall largely spike-like flowering axis",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/agave-lechuguilla/glass-root-garden-738800291-basal-rosette.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/738800291",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "c77a110149c7b286583fb6d418558852137a2b8d",
+      "role": "Lechuguilla: basal rosette of narrow, stiff, sharply pointed leaves on rocky dry ground; margin teeth require magnification",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/agave-lechuguilla/glass-root-garden-738801625-fruiting-stalk.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/738801625",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "64b69b85ef197cb11732114a03a42dbdf5977c05",
+      "role": "Lechuguilla: tall inflorescence stalk with numerous green developing fruit and dried floral remnants; reproductive structure, not leaf-level detail",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4d6cce81b955abe3f3c73ed4e96ea42b41059aecc95ebe262011a61e1d725e68",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

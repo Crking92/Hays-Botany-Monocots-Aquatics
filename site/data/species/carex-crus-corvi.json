@@ -39,8 +39,22 @@
     "names": [],
     "differences": "Much denser and wetter-site than C. blanda, C. edwardsiana, or C. planostachys."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/carex-crus-corvi/carex-crus-corvi-provisional-face.jpg",
+      "creator": "Robert H. Mohlenbrock / USDA SCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_crus-corvi_NRCS-01.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "a314bbc56aee5e7a60a85454e46edd01d61ec1cd",
+      "role": "Whole plant / fruiting sedge recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f51ed2358e53c34f807aee5c1f8d06cd2d56049eba602507116468ba4492aebb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

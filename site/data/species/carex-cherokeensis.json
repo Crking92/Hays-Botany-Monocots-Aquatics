@@ -43,8 +43,22 @@
     "names": [],
     "differences": "Among these five, C. cherokeensis is the broad-leaved drooping-spike woodland sedge. It is much taller and looser than C. texensis and lacks the silvery winged perigynia of C. tetrastachya."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/carex-cherokeensis/carex-cherokeensis-provisional-face.jpg",
+      "creator": "Mason Brock",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_cherokeensis.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "ebb3487c8e4d815161f5a383f1d7ddd8e3f697d7",
+      "role": "Whole plant / sedge habit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d280e76c123f63317f7b6641b4a7c8aab1b075ffd45e6f384b7ef229b277d824",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

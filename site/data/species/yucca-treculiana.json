@@ -1,0 +1,42 @@
+{
+  "id": "yucca-treculiana",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca treculiana",
+  "common_name": "Trecul's Yucca / Spanish Dagger",
+  "look_here_first": "This is the other large tree yucca in the batch. Look for a branched or few-trunked crown of broad rigid leaves that are traditionally mostly without marginal threads and not rolled inward at the tip, then confirm with the stouter ovary and fleshy pendant fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "arborescent/tree-like, often several meters tall and sometimes branched"
+    },
+    {
+      "label": "Identification",
+      "text": "broad thick rigid leaves forming terminal crowns"
+    },
+    {
+      "label": "Identification",
+      "text": "traditional Texas key: leaf margins mostly without marginal threads and leaf tips not strongly inrolled"
+    },
+    {
+      "label": "Identification",
+      "text": "traditional key: stout ovary about 7–12 mm diameter at flowering"
+    },
+    {
+      "label": "Identification",
+      "text": "dense cream to greenish-cream flower panicle"
+    },
+    {
+      "label": "Identification",
+      "text": "large pendant fleshy succulent indehiscent fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1bb639999a54415d9c3ec57b77355824c8a9da78bc40b2d1aa981320babda2fa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "wolffia-columbiana",
+  "family": "Araceae",
+  "genus": "Wolffia",
+  "scientific_name": "Wolffia columbiana",
+  "common_name": "Columbian watermeal",
+  "look_here_first": "Look for tiny rootless floating green bodies; examine budding forms and surface texture with magnification.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f96c150112e1d8a801c54320442c0423c76c0a63f12b2802a15282a5628493f4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "yucca-constricta",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca constricta",
+  "common_name": "Buckley's Yucca",
+  "look_here_first": "Start with the narrow straight leaves and the fruit: Buckley’s yucca makes low colonies of small rosettes with narrow whitish-threaded leaves, an unusually tall naked scape, and dry capsules pinched deeply at the middle.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small to large open colonies, mostly acaulescent or with only a short stem"
+    },
+    {
+      "label": "Identification",
+      "text": "mostly straight linear leaves, usually about 0.7–1.5 cm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins whitish/light green and filiferous, shredding into threads"
+    },
+    {
+      "label": "Identification",
+      "text": "flowering stalk rises far above the leaves on a long naked scape"
+    },
+    {
+      "label": "Identification",
+      "text": "pale greenish-white pendent flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "erect dry dehiscent capsule deeply constricted near the middle"
+    },
+    {
+      "label": "Joey field context",
+      "text": "A Texas Observer field report documents Joey Santore pointing out Yucca constricta during a South Texas field visit. No exact reusable Joey species photo is locked yet, so the diagnostic morphology remains anchored to FNA/NPSOT rather than inferred from generic Yucca media."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "692fd9a37ae87d9b515a0ca7fdd711a2e8ca0e6e57807393c4c118221ff24685",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

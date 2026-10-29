@@ -1,0 +1,17 @@
+{
+  "id": "typha-latifolia",
+  "family": "Typhaceae",
+  "genus": "Typha",
+  "scientific_name": "Typha latifolia",
+  "common_name": "Broadleaf cattail",
+  "look_here_first": "Look for broad flattened leaves and dense brown female flower spikes with a male section immediately above; compare leaf width and separation of male/female spikes to other cattails.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d9a0d214069c4c86b0f1a0fcd61bccc76edba140e34cd20669462c829869d182",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

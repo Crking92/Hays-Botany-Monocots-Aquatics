@@ -1,0 +1,46 @@
+{
+  "id": "yucca-arkansana",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca arkansana",
+  "common_name": "Arkansas yucca / softleaf yucca",
+  "look_here_first": "Start with the low soft-looking rosette. Arkansas yucca is a small stemless to nearly stemless species with many narrow flexible leaves, whitish margins that peel into curly fibers, and a comparatively simple flower stalk that is often raceme-like or only sparsely branched.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small perennial yucca, usually stemless"
+    },
+    {
+      "label": "Identification",
+      "text": "hemispheric basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow flexible strap-shaped leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins initially whitish and separating into curly fibers"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves generally dull green rather than strongly glaucous"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence usually raceme-like or only sparsely branched"
+    },
+    {
+      "label": "Identification",
+      "text": "greenish-white pendent flowers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with Y. pallida, Y. arkansana has greener, narrower leaves with obvious curly marginal fibers and a simpler, less-branched inflorescence. Y. pallida is more strongly glaucous blue-green and has yellowish margins without persistent white fibers."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "542d5e461d5ca3a13b4ea45773ddd350730fa79b4589eeb7073fb2b8cb2758ca",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

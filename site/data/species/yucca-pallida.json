@@ -1,0 +1,42 @@
+{
+  "id": "yucca-pallida",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca pallida",
+  "common_name": "Pale-leaf yucca",
+  "look_here_first": "Low trunkless yucca with broad flexible strongly glaucous blue-gray leaves and weak or absent curly marginal fibers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "acaulescent colony-forming yucca"
+    },
+    {
+      "label": "Identification",
+      "text": "blue-gray glaucous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves broadest above middle"
+    },
+    {
+      "label": "Identification",
+      "text": "yellowish minutely toothed margins"
+    },
+    {
+      "label": "Identification",
+      "text": "marginal fibers absent or weak"
+    },
+    {
+      "label": "Identification",
+      "text": "branched flower panicle"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "734730eff407302837d00cdc8482cb6d6f266fcf10f6e17b4c8c011ad6bb7899",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

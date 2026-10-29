@@ -1,0 +1,46 @@
+{
+  "id": "yucca-rupicola",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca rupicola",
+  "common_name": "Twisted-leaf Yucca",
+  "look_here_first": "Look at the leaves before the flower: a low, essentially trunkless colony with flexible dark-green leaves that twist helically and have wavy/denticulate orange to reddish-brown margins.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "acaulescent/trunkless open colonies of 2–15 rosettes"
+    },
+    {
+      "label": "Identification",
+      "text": "flexible lanceolate leaves, 35–60 cm long and 1.7–4 cm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves conspicuously twisted and strongly concave"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins wavy or minutely toothed, dark orange to reddish brown"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence rises well beyond the rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit erect, dry, dehiscent capsule rather than a fleshy berry"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's landscaping frame gives a clear whole-rosette view and leaf architecture. Use the low basal rosette and visibly twisting blades as the immediate field gestalt, then confirm the orange-to-reddish wavy/denticulate margins."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f4c4ee40ec04c2cae6d9027f0c2062c6d377e05a34cf8c2879d655f8638f525b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "yucca-torreyi",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "scientific_name": "Yucca torreyi",
+  "common_name": "Torrey's Yucca",
+  "look_here_first": "First decide whether you have a tree yucca with fleshy fruit. If yes, look for Torrey’s traditional field combination: rigid spear-like leaves with marginal threads, the leaf tip portion often rolled inward, versus the mostly non-threaded, non-inrolled leaves of Trecul’s yucca.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "arborescent/tree-like yucca with a trunk and crown of rigid dagger leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves commonly with marginal threads in the traditional Texas field key"
+    },
+    {
+      "label": "Identification",
+      "text": "apical leaf portion often inrolled so margins approach each other"
+    },
+    {
+      "label": "Identification",
+      "text": "traditional key gives a relatively slender ovary, not over about 7 mm diameter at flowering"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers cream to whitish, often in a dense panicle"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit fleshy, indehiscent, berry-like rather than a dry splitting capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f809c125d5103f02c87f5a014ce0ab8deee1029f13eabc8fc14a88e21f0b6cd0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

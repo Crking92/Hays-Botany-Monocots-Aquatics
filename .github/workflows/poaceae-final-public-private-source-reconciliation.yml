@@ -1,0 +1,74 @@
+name: Verify complete Poaceae original-source migration (public permitted + private held)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/reconcile_poaceae_public_private_originals.py'
+      - '.github/workflows/poaceae-final-public-private-source-reconciliation.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: private-monocot-poaceae-original-source-preservation
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Read cross-repository original-file verifier
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          persist-credentials: false
+      - name: Read 58 previously archived rights-held original image bytes privately
+        uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          path: private
+          persist-credentials: true
+      - name: Read latest public Poaceae file ledger and committed git tree
+        uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Poaceae
+          ref: main
+          path: public-poaceae
+          persist-credentials: false
+          sparse-checkout: |
+            migration
+      - name: Verify latest canonical source Poaceae tree without checking out image bytes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          PYTHONPYCACHEPREFIX="$RUNNER_TEMP/pycache" python3 -m py_compile code/scripts/reconcile_poaceae_public_private_originals.py
+      - name: Verify all 1402 original public/private SHA identities and no new source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 code/scripts/reconcile_poaceae_public_private_originals.py private public-poaceae "$RUNNER_TEMP/hays-source"
+      - name: Commit final cross-repository source reconciliation to private staging only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd private
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/poaceae-all-originals-public-private-reconciliation.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Verify all 1402 original grass files preserved publicly or privately; zero missing"
+            git fetch origin staging/original-source-transfer
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/original-source-transfer
+          fi
+      - name: Save summary only; no protected photos as artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: poaceae-1402-original-files-public-private-final-reconciliation
+          path: private/migration/poaceae-all-originals-public-private-reconciliation.json
+          retention-days: 30
+          if-no-files-found: warn

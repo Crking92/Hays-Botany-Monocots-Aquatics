@@ -1,0 +1,38 @@
+{
+  "id": "cyperus-odoratus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus odoratus",
+  "common_name": "Fragrant flatsedge / rusty flatsedge",
+  "look_here_first": "LOOK FIRST at a FULLY MATURE spikelet: C. odoratus is unusual because a corky, winged spikelet RACHILLA disarticulates into one-fruited segments (each includes a scale, rachilla internode and achene). Usually subcylindrical spikelets; brown head color is secondary, not diagnostic.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual or short-lived perennial in muddy wetland margins, shores or disturbed moist places, with large spreading leaflike terminal bracts."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Umbel-like branching rays with headlets and elongated narrow spikelets, often rust-colored but variable."
+    },
+    {
+      "label": "Spikelets",
+      "text": "Cylindrical or subcylindrical maturity. Corky winged rachilla breaks at each scale into one-fruited segments; this is key."
+    },
+    {
+      "label": "Scales",
+      "text": "Disarticulating rachilla internode bears its floral scale and achene, not merely scales falling individually."
+    },
+    {
+      "label": "Fruit",
+      "text": "Single achene per reduced flower; achene may remain clasped by a corky winged one-fruited rachilla segment."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9da10e7ab39fc38b760413e783114ff86dbc79fd5884df374256795642f8345b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

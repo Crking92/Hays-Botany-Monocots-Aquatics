@@ -1,0 +1,30 @@
+{
+  "id": "allium-canadense",
+  "family": "Amaryllidaceae",
+  "genus": "Allium",
+  "scientific_name": "Allium canadense",
+  "common_name": "Meadow garlic",
+  "look_here_first": "Inspect the intact umbel spathe: usually 3–4 bracts with 3–7 veins each. Check flowers versus aerial bulbils; their absence does not exclude this variable species.",
+  "key_traits": [
+    {
+      "label": "Leaves",
+      "text": "Basal linear leaves 20–50 cm long, 1–7 mm wide."
+    },
+    {
+      "label": "Spathe",
+      "text": "3–4 papery bracts, generally 3–7-veined."
+    },
+    {
+      "label": "Umbel",
+      "text": "Loose cluster with 0–60 flowers; bulbils often present, but variable."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dc2231f8d0c76687ee56e0417f86cd7cee0a2a1dc9aaff3957685eaadd72f538",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

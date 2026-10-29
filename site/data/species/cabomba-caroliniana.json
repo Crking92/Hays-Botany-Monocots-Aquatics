@@ -1,0 +1,66 @@
+{
+  "id": "cabomba-caroliniana",
+  "family": "Cabombaceae",
+  "genus": "Cabomba",
+  "scientific_name": "Cabomba caroliniana",
+  "common_name": "Carolina fanwort / fanwort",
+  "look_here_first": "Ignore the flower at first and look underwater: submerged leaves are opposite and fan-shaped, split into many fine segments. When flowering, a small white-to-purplish 3-merous flower rises at the surface.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rooted submerged perennial with slender branched stems"
+    },
+    {
+      "label": "Identification",
+      "text": "submerged leaves opposite"
+    },
+    {
+      "label": "Identification",
+      "text": "submerged leaf blades fan-shaped and repeatedly dichotomously divided into fine segments"
+    },
+    {
+      "label": "Identification",
+      "text": "small floating leaves may appear near flowering shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "solitary axillary flowers at or above the water surface"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers 3-merous: three sepals and three petals"
+    },
+    {
+      "label": "Identification",
+      "text": "petals with yellow nectar-bearing auricles"
+    },
+    {
+      "label": "Habit",
+      "text": "Rooted perennial submerged aquatic with much-branched slender stems."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Strongly heterophyllous: the common submerged leaves are opposite, fan-shaped and finely divided; small linear floating leaves may be produced near flowering."
+    },
+    {
+      "label": "Flower",
+      "text": "Solitary axillary 3-merous flower, generally white to purplish with yellow nectar-bearing auricles."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small fruits with one to three seeds."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's San Marcos River frame gives a close flower view; combine it with the unmistakable opposite fan-shaped submerged foliage for identification."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b47b01b655c7c53eb4149b0beff2cf6c9fe511383c1d018ab94064ceaa479d4c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

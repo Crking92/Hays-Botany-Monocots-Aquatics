@@ -1,0 +1,42 @@
+{
+  "id": "canna-glauca",
+  "family": "Cannaceae",
+  "genus": "Canna",
+  "scientific_name": "Canna glauca",
+  "common_name": "Water canna / Louisiana canna",
+  "look_here_first": "Emergent wetland canna with glaucous narrow leaves and yellow flowers whose showy petal-like parts are mostly staminodes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous emergent wetland herb"
+    },
+    {
+      "label": "Identification",
+      "text": "glaucous narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "petaloid staminodes"
+    },
+    {
+      "label": "Identification",
+      "text": "single fertile stamen"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior warty ovary/capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "740706b622d5475fb4c4301c136b297b445a7efce7ae08c717551f1532b23ee8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

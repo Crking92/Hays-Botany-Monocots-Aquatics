@@ -1,0 +1,50 @@
+{
+  "id": "carex-tetrastachya",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex tetrastachya",
+  "common_name": "Britton's sedge",
+  "look_here_first": "Spring-fruiting prairie sedge with 2–4 distinct rounded spikes and large flat silvery-white winged perigynia.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike sedges with sheathing leaves; the fruit is enclosed in a perigynium, and perigynium shape/beak/venation are often decisive for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "densely to loosely tufted perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "culms about 30–100 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves about 2.5–5 mm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 2–4 distant ovoid to globose spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence often silvery white"
+    },
+    {
+      "label": "Identification",
+      "text": "perigynia broad, flat and strongly winged"
+    },
+    {
+      "label": "Identification",
+      "text": "mesic to moist prairie, roadside ditch and shore habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The broad flat white-winged perigynia are the giveaway. None of the other Carex in B105 has that papery silvery winged look."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cec2107ef600b5136caa425d23681c5df4cfaf3751a372d66d9ee3d9e77dc60d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "commelina-erecta",
+  "family": "Commelinaceae",
+  "genus": "Commelina",
+  "scientific_name": "Commelina erecta",
+  "common_name": "Whitemouth dayflower / erect dayflower",
+  "look_here_first": "Find the green bract beneath the flowers: in Commelina erecta it is folded into a pocket, with basal margins joined and the top open for flowers to emerge. Then check the flower macro: smooth filaments and three fertile stamens plus three yellow staminodes, rather than Tinantia's six fertile stamens and conspicuous filament beards. Two big blue petals alone do not separate these plants.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb with fibrous roots and several to many stems from the base"
+    },
+    {
+      "label": "Identification",
+      "text": "stems often decumbent or geniculate and capable of rooting at low nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, simple, parallel-veined and sheathing at the stem"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades variable from narrow lanceolate to broader lanceolate/ovate forms"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf sheaths may show rounded auricles near the blade base"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence enclosed by a conspicuous green spathe that is strongly folded along the midline and fused along part of its margins into a pocket"
+    },
+    {
+      "label": "Identification",
+      "text": "buds develop inside the mucilage-lined spathe and flowers emerge sequentially"
+    },
+    {
+      "label": "Identification",
+      "text": "flower bilaterally symmetric with two large blue lateral petals and a much smaller pale or colorless lower petal"
+    },
+    {
+      "label": "Identification",
+      "text": "androecium includes fertile stamens plus conspicuous yellow staminodes"
+    },
+    {
+      "label": "Identification",
+      "text": "capsule develops hidden within the spathe"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Tinantia anomala: Tinantia lacks the closed Commelina-style spathe pocket. Its terminal one-sided cyme is subtended by a broad leaflike bract that is mostly flat/open, and its upper leaves often clasp the stem with cordate lobes. The flower still has two large blue petals and a smaller white petal, so the inflorescence bract is the better first character. Commelina communis: The introduced Asiatic dayflower also has two large blue petals, but its spathe is open rather than fused into the more pocketlike Commelina erecta spathe. Use spathe architecture and regional flora evidence rather than petal color. Tradescantia spp.: Spiderworts have three comparably showy petals and lack the Commelina dayflower spathe pocket. Their flowers sit in terminal clusters rather than emerging from the folded spathe."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c2e3cac273f81f978b342e95ae893afc946562da7d86d8287dcc6a2d5eb1f7bb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

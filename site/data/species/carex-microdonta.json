@@ -1,0 +1,46 @@
+{
+  "id": "carex-microdonta",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex microdonta",
+  "common_name": "Littletooth sedge",
+  "look_here_first": "Moist-ground sedge with moderately broad leaves and plump perigynia ending in a short but distinct beak.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Carex species are often separated by perigynium shape, beak, venation, and spike arrangement."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves about 3 to 8 mm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "moist open or calcareous habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "plump perigynia"
+    },
+    {
+      "label": "Identification",
+      "text": "perigynium beak about 0.3 to 0.9 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate scales acute to awned"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Broader-leaved and more robust than C. texensis; lacks the broad white winged perigynia of C. tetrastachya."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f6649347acc38b88e091460a0663632d937b07fb366092e0776e5bcb7dece2aa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

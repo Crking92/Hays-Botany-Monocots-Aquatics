@@ -1,0 +1,46 @@
+{
+  "id": "carex-planostachys",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex planostachys",
+  "common_name": "Cedar sedge",
+  "look_here_first": "Low fine-textured woodland sedge with narrow V-shaped leaves and small separate spikes, especially common on calcareous soils beneath juniper and oak.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Carex sedges have sheathing leaves and perigynia enclosing the fruits."
+    },
+    {
+      "label": "Identification",
+      "text": "loosely tufted perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "culms usually under 30 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "very narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "young blades V-shaped in cross section"
+    },
+    {
+      "label": "Identification",
+      "text": "revolute scabrous margins"
+    },
+    {
+      "label": "Identification",
+      "text": "dry to mesic calcareous woodland"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Lower and finer-textured than C. edwardsiana; much smaller and drier-site than C. emoryi or C. crus-corvi."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "385384aff881efd63c0c959ed8d903c4e3e37152879e83f7557d98ea7bc2880c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

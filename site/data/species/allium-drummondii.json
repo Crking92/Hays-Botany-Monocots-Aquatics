@@ -1,0 +1,34 @@
+{
+  "id": "allium-drummondii",
+  "family": "Amaryllidaceae",
+  "genus": "Allium",
+  "scientific_name": "Allium drummondii",
+  "common_name": "Drummond's onion",
+  "look_here_first": "Inspect the intact papery spathe: normally 2–3 bracts, about one vein each. The umbel usually bears 10–25 flowers; bulbils are rare.",
+  "key_traits": [
+    {
+      "label": "Leaves",
+      "text": "Basal linear leaves 10–30 cm long, 1–3(–5) mm wide."
+    },
+    {
+      "label": "Spathe",
+      "text": "Usually 2–3 papery bracts, about one-veined (FNA)."
+    },
+    {
+      "label": "Umbel",
+      "text": "Mostly 10–25 flowers on 5–20 mm pedicels; bulbils rare."
+    },
+    {
+      "label": "Flowers",
+      "text": "Six spreading tepals; campanulate to star-like flowers about 6–9 mm."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e763d891c770ba7c2a140ab2b5a06bd2b4a2d9f62d0e8511473daba044e1847c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

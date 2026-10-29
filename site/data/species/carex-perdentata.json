@@ -1,0 +1,50 @@
+{
+  "id": "carex-perdentata",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex perdentata",
+  "common_name": "Texas meadow sedge / sand sedge",
+  "look_here_first": "Meadow and open-woodland sedge with a somewhat lax oblong inflorescence and unusually long-beaked perigynia with long apical teeth.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike sedges with sheathing leaves; the fruit is enclosed in a perigynium, and perigynium shape/beak/venation are often decisive for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial or rhizomatous sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "open mesic forest, savanna, meadow and lawn-like habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence somewhat lax and oblong"
+    },
+    {
+      "label": "Identification",
+      "text": "proximal spikes distinct"
+    },
+    {
+      "label": "Identification",
+      "text": "perigynium beak long, about 1.4–1.8 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "beak teeth conspicuously long"
+    },
+    {
+      "label": "Identification",
+      "text": "Texas–Oklahoma-centered range"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The long perigynium beak and long teeth are the key split. C. texensis has much smaller short-beaked perigynia, while C. tetrastachya has broad flattened winged perigynia."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a70862520fc8338d640160f02a4b72e55de05ef72bc7e6bb7bd1e10f988f3b9d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

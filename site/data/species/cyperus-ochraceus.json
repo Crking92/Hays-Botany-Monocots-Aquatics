@@ -1,0 +1,17 @@
+{
+  "id": "cyperus-ochraceus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus ochraceus",
+  "common_name": "Ochraceous flatsedge",
+  "look_here_first": "Inspect the triangular sedge stems and umbrella-like clusters of flattened spikelets subtended by leaflike bracts; use mature achenes for confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a0e4bac8b5a36ef3c3fe53b826126e85cd9ec0f28f3d00e3e8cd40dba289bdc6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

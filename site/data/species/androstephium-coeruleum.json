@@ -1,0 +1,38 @@
+{
+  "id": "androstephium-coeruleum",
+  "family": "Asparagaceae",
+  "genus": "Androstephium",
+  "scientific_name": "Androstephium coeruleum",
+  "common_name": "Blue funnel-lily",
+  "look_here_first": "Look for a leafless flower stalk with a terminal umbel of funnel-shaped six-tepaled flowers. Look into the throat for the distinctive crown made by joined stamen filaments. Confirm basal linear leaves; do not use flower color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small spring perennial from corm; glabrous leafless scape 10–20(–35) cm."
+    },
+    {
+      "label": "Leaves",
+      "text": "Several narrow basal leaves 10–30(–35) cm long and 1.5–3 mm wide."
+    },
+    {
+      "label": "Flower attachment",
+      "text": "Terminal umbel of 2–6(–9) stalked flowers, pedicels about 1–2(–2.5) cm."
+    },
+    {
+      "label": "Flowers",
+      "text": "Six partly united tepals form a funnel; perianth 1.5–2.5(–3) cm. Six stamen filaments form an inner crown; anthers 2–4 mm."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Three-angled capsules 1–1.5 cm; flat black seeds 7–9 mm."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f50c9c2189675be6b7593f9479d0b60210e6dc6476cdbb778d0b355d0c91e383",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

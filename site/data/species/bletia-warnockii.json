@@ -1,0 +1,17 @@
+{
+  "id": "bletia-warnockii",
+  "family": "Orchidaceae",
+  "genus": "Bletia",
+  "scientific_name": "Bletia warnockii",
+  "common_name": "Warnock's orchid",
+  "look_here_first": "Inspect the orchid lip and column, and compare floral bracts and leaf arrangement.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "37fc4a5322756dfedc6fbcad143a13554a2f7f4647200b743f1ddcb616415eeb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

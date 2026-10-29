@@ -1,0 +1,50 @@
+{
+  "id": "carex-edwardsiana",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex edwardsiana",
+  "common_name": "Edwards Plateau sedge / canyon sedge",
+  "look_here_first": "Small Central Texas canyon sedge with dense tufts, strongly purple-red culm bases, and a few widely separated spikes in dry-mesic calcareous woodland just above streams.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike perennial sedges with sheathing leaves; Carex fruits are enclosed in a perigynium, a key structure for species-level identification."
+    },
+    {
+      "label": "Identification",
+      "text": "densely cespitose perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "culm bases strongly purple-red"
+    },
+    {
+      "label": "Identification",
+      "text": "culms usually short, about 6–34 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades about 2–3.6 mm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "3–5 spikes, often widely separated"
+    },
+    {
+      "label": "Identification",
+      "text": "proximal spike may be basal"
+    },
+    {
+      "label": "Identification",
+      "text": "calcareous canyon and ravine woodland habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "C. edwardsiana often grows near C. planostachys. Look first for the purple-red culm bases, somewhat broader green blades, and more widely separated spikes; C. planostachys has narrower V-shaped/revolute leaves and a lower cedar-sedge look."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "784601229257399d5574db2e5f9ce8ce5db52acbfae0f112b395981f94d44f95",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

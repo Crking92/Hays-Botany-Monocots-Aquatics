@@ -1,0 +1,42 @@
+{
+  "id": "agave-americana",
+  "family": "Asparagaceae",
+  "genus": "Agave",
+  "scientific_name": "Agave americana",
+  "common_name": "Century plant / American agave",
+  "look_here_first": "Start with the broad, fleshy, toothed leaves and terminal spine. Compare mature leaf width and the flowering architecture: a branched panicle supports A. americana, while lechuguilla has narrower leaves and a largely spike-like flowering axis.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Broad fleshy rosette leaves, typically (80–)100–200 cm long in the existing FNA-based review."
+    },
+    {
+      "label": "Identification",
+      "text": "Marginal teeth about 5–10 mm; a strong terminal spine."
+    },
+    {
+      "label": "Identification",
+      "text": "Flowering axis branches into a panicle, unlike the largely spicate lechuguilla axis."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mature broad succulent leaves; tooth and terminal spine characters should be inspected at close range with scale."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Branched flowering panicle; full flowering-axis photo still needed."
+    },
+    {
+      "label": "Lookalike separators",
+      "text": "A. lechuguilla: much narrower leaves, typically 30–50 × 2–4(–5.2) cm, and largely spicate inflorescence. Do not diagnose species or local nativity by blue color, variegation, or ornamental occurrence. Other cultivated agaves can overlap; require reproductive/leaf-edge evidence when uncertain."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7d3f8e7b95fdf136bd55c69345967742f69126fe830094f64d3d43fd29394f7d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

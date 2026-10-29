@@ -1,0 +1,50 @@
+{
+  "id": "carex-emoryi",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex emoryi",
+  "common_name": "Emory sedge",
+  "look_here_first": "Tall rhizomatous streambank sedge with several long pistillate spikes below 2–3 terminal staminate spikes.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike perennial sedges with sheathing leaves; Carex fruits are enclosed in a perigynium, a key structure for species-level identification."
+    },
+    {
+      "label": "Identification",
+      "text": "rhizomatous rather than tightly tufted"
+    },
+    {
+      "label": "Identification",
+      "text": "culms about 30–115 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades about 3–6 mm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "3–5 elongated pistillate spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "2–3 terminal staminate spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "finely veined flattened perigynia"
+    },
+    {
+      "label": "Identification",
+      "text": "streambanks, ditches and seeps"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "C. emoryi is the tall spreading wet-site species in this set. It differs from ravenfoot sedge by having distinct elongated separate spikes instead of one dense many-branched cylindrical head."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "65c8f3370b52cbc0e5a9666d922ad3dd00ea5e42d9c5277d0a62210fdb9ff8fa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

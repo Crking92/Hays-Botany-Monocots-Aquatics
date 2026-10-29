@@ -1,0 +1,17 @@
+{
+  "id": "cyperus-acuminatus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus acuminatus",
+  "common_name": "Taper-tip flatsedge",
+  "look_here_first": "Look for terminal clusters of flattened spikelets subtended by bracts; examine glumes and achenes for confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "56c67c33062dd935fb6bf9a1a2ed7aa060bf7d2c4d58855a6d2673e353ee9361",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

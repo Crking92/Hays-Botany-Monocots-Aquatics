@@ -1,0 +1,62 @@
+{
+  "id": "heteranthera-dubia",
+  "family": "Pontederiaceae",
+  "genus": "Heteranthera",
+  "scientific_name": "Heteranthera dubia",
+  "common_name": "Water stargrass / grassleaf mudplantain",
+  "look_here_first": "In flower, look for a single yellow star/salver-shaped flower emerging from linear aquatic foliage. Joey's close views add a striking second cue: paired plants can show mirror-image style/anther handedness.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial submerged/procumbent aquatic"
+    },
+    {
+      "label": "Identification",
+      "text": "thin linear sessile leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "single flower per inflorescence/spathe"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow salverform perianth with long tube"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers open early and may wilt by dusk"
+    },
+    {
+      "label": "Identification",
+      "text": "three equal stamens with anthers that coil after anthesis"
+    },
+    {
+      "label": "Identification",
+      "text": "few-winged seeds in an elongate capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "mirror-image flower handedness/enantiostyly visible in Joey comparison"
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Linear thin leaves; submerged plants may be more elongate and narrow than emersed forms."
+    },
+    {
+      "label": "Flower",
+      "text": "Yellow, salverform, one-flowered inflorescence; perianth tube can be long and variable with water/temperature."
+    },
+    {
+      "label": "Fruit",
+      "text": "Elongate capsule with relatively few winged seeds."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dd7d4eee47013e70693bb44c250e1019f227348d89aab1cd4eddf3f2db267b71",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

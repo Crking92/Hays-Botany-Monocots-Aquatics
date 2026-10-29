@@ -1,0 +1,38 @@
+{
+  "id": "cyperus-strigosus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus strigosus",
+  "common_name": "Straw-colored flatsedge",
+  "look_here_first": "LOOK FIRST at mature spikelets and the culm base: spikelets usually FLATTENED with relatively long DECIDUOUS floral scales, typically 3.2–4.5 mm, and a cormlike thickened culm base. Contrast odoratus mature corky rachilla that breaks into one-fruited units.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial flatsedge of wet or disturbed soils, with leaflike bracts radiating beneath the flower cluster."
+    },
+    {
+      "label": "Base",
+      "text": "Cormlike swollen basal region is supporting character; photograph excavated plant without losing the base."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal compound umbrella-like cluster with rays and leaflike bracts, relatively straw-colored radiating flattened spikelets."
+    },
+    {
+      "label": "Spikelets",
+      "text": "Flattened, floral scales commonly 3.2–4.5(–6) mm and DECIDUOUS; mature fruits and exposed rachilla needed to distinguish odoratus."
+    },
+    {
+      "label": "Fruit",
+      "text": "One achene under each fertile scale. Three stigma branches can help support the key, but use entire mature specimen."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b64a97b0f14743b8db87c4f438dd3bf07732b8cff24df087326e4caa9360c6f8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

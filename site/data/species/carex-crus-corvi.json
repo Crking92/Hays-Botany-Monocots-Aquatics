@@ -1,0 +1,46 @@
+{
+  "id": "carex-crus-corvi",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex crus-corvi",
+  "common_name": "Ravenfoot sedge",
+  "look_here_first": "Tall wetland sedge with broad glaucous leaves and a dense cylindrical inflorescence with long-beaked perigynia.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Carex sedges have sheathing leaves and perigynia enclosing the fruits."
+    },
+    {
+      "label": "Identification",
+      "text": "robust wetland perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "broad glaucous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dense cylindrical many-branched inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "large strongly veined perigynia"
+    },
+    {
+      "label": "Identification",
+      "text": "long toothed beaks"
+    },
+    {
+      "label": "Identification",
+      "text": "seasonally wet bottomland habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much denser and wetter-site than C. blanda, C. edwardsiana, or C. planostachys."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f51ed2358e53c34f807aee5c1f8d06cd2d56049eba602507116468ba4492aebb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "carex-cherokeensis",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex cherokeensis",
+  "common_name": "Cherokee sedge",
+  "look_here_first": "Colony-forming woodland sedge with broad leaves and several long drooping pistillate spikes below a raised cluster of staminate spikes.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike sedges with sheathing leaves; the fruit is enclosed in a perigynium, and perigynium shape/beak/venation are often decisive for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "short-creeping rhizomes forming dense colonies"
+    },
+    {
+      "label": "Identification",
+      "text": "culms about 30–80 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades relatively broad, about 2.5–7 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "4–12 lateral spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "proximal pistillate spikes arching or drooping"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate spikes conspicuously raised above pistillate spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "mesic forest, floodplain, streambank and calcareous woodland habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Among these five, C. cherokeensis is the broad-leaved drooping-spike woodland sedge. It is much taller and looser than C. texensis and lacks the silvery winged perigynia of C. tetrastachya."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d280e76c123f63317f7b6641b4a7c8aab1b075ffd45e6f384b7ef229b277d824",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

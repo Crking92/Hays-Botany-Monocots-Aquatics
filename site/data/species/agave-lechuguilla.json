@@ -1,0 +1,42 @@
+{
+  "id": "agave-lechuguilla",
+  "family": "Asparagaceae",
+  "genus": "Agave",
+  "scientific_name": "Agave lechuguilla",
+  "common_name": "Lechuguilla",
+  "look_here_first": "Look at narrow rigid rosette leaves, their spaced marginal teeth, and the terminal spine; then inspect the largely spike-like flowering axis. Distinguish A. univittata with leaf-edge detail, not size alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Narrow erect leaves, typically 30–50 × 2–4(–5.2) cm."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf teeth about 2–6 mm, mostly spaced 2–4 cm apart; terminal spine 1.5–4.5 cm."
+    },
+    {
+      "label": "Identification",
+      "text": "Flowering axis largely spike-like, about 2–3.5 m in the existing FNA-based review."
+    },
+    {
+      "label": "Leaves",
+      "text": "Rigid narrow leaves in a basal rosette; inspect edge teeth and terminal spine with scale."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Tall largely spicate flowering axis; habit and axis are visible in the USDA photograph, but individual flowers are not resolved."
+    },
+    {
+      "label": "Lookalike separators",
+      "text": "A. americana has much broader leaves and a branched panicle. A. univittata has undulate/crenate, less detachable leaf margins and teeth mostly 1–2 cm apart; overlaps require close leaf-edge and flowering evidence. Hybridization is documented in FNA; avoid size-only identification."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4d6cce81b955abe3f3c73ed4e96ea42b41059aecc95ebe262011a61e1d725e68",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

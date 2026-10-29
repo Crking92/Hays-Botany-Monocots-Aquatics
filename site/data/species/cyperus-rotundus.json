@@ -1,0 +1,38 @@
+{
+  "id": "cyperus-rotundus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus rotundus",
+  "common_name": "Purple nutsedge",
+  "look_here_first": "LOOK FIRST underground: tough/wiry stolons and usually small (~3–8 mm) tubers distinguish purple nutsedge in combination with persistent, often purplish/red-brown ~2.6–3.4 mm scales. Don't rely on reddish seedhead color by itself.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Introduced perennial sedge, frequently colonial in cultivated or disturbed ground."
+    },
+    {
+      "label": "Underground",
+      "text": "Hard, wiry stolons bearing tubers commonly 3–8 mm; compare with yellow nutsedge softer stolons and usually larger tubers."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal umbel-like rays with flattened spikelets; scales often red-purple-brown but variable."
+    },
+    {
+      "label": "Scales",
+      "text": "Persistent mature floral scales often ~2.6–3.4 mm with reddish/purple tint; ranges overlap other taxa."
+    },
+    {
+      "label": "Fruit",
+      "text": "One-seeded achene; macro of scale and fruit needed for strong ID."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "670afcb3ecac3ff0890084e8a653bb4391cd1922a2f12fe5438feff463183d67",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

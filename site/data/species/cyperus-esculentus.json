@@ -1,0 +1,38 @@
+{
+  "id": "cyperus-esculentus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "scientific_name": "Cyperus esculentus",
+  "common_name": "Yellow nutsedge",
+  "look_here_first": "LOOK FIRST underground: trace a full stolon from shoot to tuber. Softer/spongier stolons and commonly 6–11 mm tubers support yellow nutsedge; compare several mature persistent floral scales (~1.8–2.7 mm), often yellowish brown. Do not ID by yellow head alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Perennial sedge with basal linear leaves and flowering culms, often in disturbed moist lawns or sites."
+    },
+    {
+      "label": "Underground",
+      "text": "Stoloniferous with softer/spongier stolons, tubers usually 6–11 mm; photograph intact stolon chain."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Umbel-like crown of leaflike bracts, rays and flattened spikelets; often yellow or straw colored but color overlaps."
+    },
+    {
+      "label": "Scales",
+      "text": "Persistent mature floral scales generally 1.8–2.7 mm; use 1 mm ruler; native variety not assigned."
+    },
+    {
+      "label": "Fruit",
+      "text": "Single achene per fertile scale; scaled mature fruit comparison useful."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "aa1189859a4479fc9216b7480611f1659478822ec8004d7cc9927a7c76a420af",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fuirena-simplex",
+  "family": "Cyperaceae",
+  "genus": "Fuirena",
+  "scientific_name": "Fuirena simplex",
+  "common_name": "Fuirena sedge",
+  "look_here_first": "Inspect brown spikelets and leaf sheaths; examine the bristles, scales and mature achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1cf612da7e8df7620b8a6d2752b1b5ddc635bfc24dab6210a4561c5c75acc301",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

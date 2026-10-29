@@ -1,0 +1,17 @@
+{
+  "id": "eleocharis-palustris",
+  "family": "Cyperaceae",
+  "genus": "Eleocharis",
+  "scientific_name": "Eleocharis palustris",
+  "common_name": "Common spikerush",
+  "look_here_first": "Start with slender, apparently leafless green stems and a single spikelet at each stem tip; inspect scales, the achene and the swollen style base.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "468cf2683c162fb24ee7c0a5595eafef0324386582dd3e45ff3f1f0177ce53ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

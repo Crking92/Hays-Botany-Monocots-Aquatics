@@ -1,0 +1,46 @@
+{
+  "id": "carex-blanda",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex blanda",
+  "common_name": "Eastern woodland sedge / common wood sedge",
+  "look_here_first": "Woodland Carex with relatively broad, flat green leaves and a loose set of separate spikes: one terminal staminate spike above several pistillate spikes.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike perennial sedges with sheathing leaves; Carex fruits are enclosed in a perigynium, a key structure for species-level identification."
+    },
+    {
+      "label": "Identification",
+      "text": "densely tufted perennial sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "flat leaves, often noticeably broader than cedar sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal staminate spike"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3–4 pistillate lateral spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "green to yellow-green perigynia"
+    },
+    {
+      "label": "Identification",
+      "text": "dry to mesic woodland habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with C. planostachys, C. blanda usually has broader flatter leaves and taller looser foliage. Compared with C. edwardsiana, it lacks the strongly purple-red culm bases and Central Texas canyon-endemic pattern."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "02fe70ae6c2ba416063619910b3de91fc9d045e4c4a4ecac8bf0502066c12150",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

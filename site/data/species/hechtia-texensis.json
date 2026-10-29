@@ -1,0 +1,17 @@
+{
+  "id": "hechtia-texensis",
+  "family": "Bromeliaceae",
+  "genus": "Hechtia",
+  "scientific_name": "Hechtia texensis",
+  "common_name": "Texas hechtia",
+  "look_here_first": "Look at the tough spiny-edged basal leaves in a rosette; examine the branched stalk of small flowers for confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8bfd2ab9226aea3600e058062af3145104c47a8ef1d5f77ccd7b3252f261d0bd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

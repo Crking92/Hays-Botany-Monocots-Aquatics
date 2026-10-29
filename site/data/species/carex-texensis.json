@@ -1,0 +1,50 @@
+{
+  "id": "carex-texensis",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "scientific_name": "Carex texensis",
+  "common_name": "Texas sedge",
+  "look_here_first": "Small fine-textured sedge with very narrow leaves and a compact cluster of several tiny spikes bearing spreading or reflexed perigynia.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Cyperaceae/Carex: grasslike sedges with sheathing leaves; the fruit is enclosed in a perigynium, and perigynium shape/beak/venation are often decisive for species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "small perennial sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "culms about 10–30 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "very narrow leaves about 1–1.7 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "3–8 short spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "perigynia often spreading or reflexed"
+    },
+    {
+      "label": "Identification",
+      "text": "green to pale-yellow perigynia with short beaks"
+    },
+    {
+      "label": "Identification",
+      "text": "dry to wet-mesic open forest and field habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "C. texensis is the smallest and finest-textured member of B105. Its narrow leaves and tiny clustered spikes contrast strongly with broad-leaved C. cherokeensis and the large winged fruits of C. tetrastachya."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8250dce265cdae3efdd02c562dad27073a0687ccd3b06d6afc93ae0104b00b12",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

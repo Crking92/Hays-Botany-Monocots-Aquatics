@@ -1,0 +1,78 @@
+name: Preserve last public-Poaceae original holds in PRIVATE archive (not Pages)
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/preserve_remaining_poaceae_originals_private.py'
+      - '.github/workflows/preserve-poaceae-58-held-originals.yml'
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency:
+  group: private-monocot-poaceae-original-source-preservation
+  cancel-in-progress: false
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Read private archival script without publishing
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          persist-credentials: false
+      - name: Checkout private source holding branch
+        uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          path: private
+          persist-credentials: true
+      - name: Read current held-file ledger from public Poaceae without modifying it
+        uses: actions/checkout@v4
+        with:
+          repository: Crking92/Hays-Botany-Poaceae
+          ref: main
+          path: public-poaceae
+          persist-credentials: false
+          sparse-checkout: |
+            migration
+      - name: Read exact original Hays Botany Poaceae source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --filter=blob:none --depth 1 --sparse --no-checkout \
+            https://github.com/Crking92/Hays-County-Botany.git \
+            "$RUNNER_TEMP/hays-source"
+          git -C "$RUNNER_TEMP/hays-source" fetch --depth 1 origin d5812999ea32d03b873110db1a526e20ac6ea730
+          git -C "$RUNNER_TEMP/hays-source" sparse-checkout set content/taxa/Poaceae
+          git -C "$RUNNER_TEMP/hays-source" checkout --detach d5812999ea32d03b873110db1a526e20ac6ea730
+          PYTHONPYCACHEPREFIX="$RUNNER_TEMP/pycache" python3 -m py_compile code/scripts/preserve_remaining_poaceae_originals_private.py
+      - name: Exact SHA transfer last Poaceae original holds into PRIVATE holding archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 code/scripts/preserve_remaining_poaceae_originals_private.py "$RUNNER_TEMP/hays-source" private public-poaceae
+          python3 private/scripts/validate_collection.py
+      - name: Commit private exact-byte archive and source-rights metadata, never change family assignments
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd private
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migration/poaceae-rights-held-originals migration/poaceae-held-photo-private-preservation-manifest.json migration/poaceae-held-photo-private-preservation-summary.json
+          git diff --cached --check -- migration/poaceae-held-photo-private-preservation-manifest.json migration/poaceae-held-photo-private-preservation-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve final Poaceae rights-held original photo bytes and credit records privately"
+            git fetch origin staging/original-source-transfer
+            git rebase FETCH_HEAD
+            git push origin HEAD:refs/heads/staging/original-source-transfer
+          fi
+      - name: Upload private summary only, never any held images
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: poaceae-last-held-originals-private-preservation-check
+          path: private/migration/poaceae-held-photo-private-preservation-summary.json
+          retention-days: 30
+          if-no-files-found: warn

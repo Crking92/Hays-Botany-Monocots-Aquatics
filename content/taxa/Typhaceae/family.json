@@ -1,0 +1,181 @@
+{
+  "rank": "family",
+  "name": "Typhaceae",
+  "common_name": "Cattail family",
+  "lineage_context": {
+    "order": "Poales",
+    "batch": "Poales",
+    "close_project_families": [
+      "Poaceae",
+      "Cyperaceae",
+      "Juncaceae"
+    ],
+    "teaching_goal": "Teach the project Typha pool through rhizomatous marsh habit and the vertically separated staminate-above/pistillate-below spike, then use the gap, leaf width, gland pattern and spike color cautiously for T. domingensis vs T. latifolia."
+  },
+  "project_scope": {
+    "selection_mode": "Project module centered on Typha domingensis and Typha latifolia",
+    "note": "Modern Typhaceae contains two accepted genera, Typha and Sparganium, but the current project pool contains only Typha. Species-level Typha calls can be complicated by plasticity and hybridization."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the inflorescence. In Typha, the upper portion is staminate and the lower dense cylindrical portion is pistillate. Then confirm tall linear leaves arising from a rhizomatous wetland clone.",
+    "vegetative": "Robust emergent wetland herbs spreading by rhizomes; leaves long, linear, sheathing at the base and often forming dense clonal stands.",
+    "reproductive": "Flowers minute and unisexual, packed into dense cylindrical spikes. In Typha the staminate zone is above the pistillate zone on the same flowering shoot; a naked gap may or may not separate them depending on species and plant.",
+    "fruit": "Each pistillate flower matures a tiny one-seeded fruit associated with long hairs; mature spikes eventually break apart into masses of wind-dispersed fluff.",
+    "field_tip": "For family recognition, ignore the brown 'cigar' stereotype and read the whole flowering spike vertically: male above, female below."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_013",
+    "teaching_order": "rhizomatous marsh stand → male-above/female-below spike → flower-to-fluff sequence → T. domingensis vs T. latifolia → grass/sedge/rush comparison",
+    "intro": "Cattail ID gets much better when the brown cylinder stops being 'the flower.' It is the female portion of an inflorescence; the male flowers occupy the narrower upper spike and disappear after pollen is shed.",
+    "steps": [
+      {
+        "title": "1 · Read the cattail spike vertically",
+        "photo_role": "annotated fresh Typha inflorescence",
+        "look_for": "Upper staminate spike and lower pistillate spike on the same axis.",
+        "why_it_matters": "This is the core Typha reproductive architecture and the easiest family door in the project.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Follow male spike through anthesis",
+        "photo_role": "male spike before/after pollen release",
+        "look_for": "The upper staminate section becomes pollen-bearing and later withers or disappears, leaving the persistent female spike below.",
+        "why_it_matters": "Explains why mature cattails often seem to have only one brown cylinder.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "3 · Follow female spike to wind-dispersed fluff",
+        "photo_role": "pistillate flower → mature brown spike → disintegrating seed fluff",
+        "look_for": "Dense female flowers form the familiar cylinder, then mature into a mass of tiny fruits with long dispersal hairs.",
+        "why_it_matters": "Connects flower architecture to the winter seed stage.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "4 · Southern cattail door",
+        "photo_role": "Typha domingensis whole inflorescence + sheath macro",
+        "look_for": "Male and female spikes usually separated by a visible naked gap; leaves generally narrower; mature female spike often cinnamon to orange-brown. Brown/orange mucilage glands occur on the sheath and proximal blade.",
+        "why_it_matters": "These are useful field clues for the locally important southern cattail.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Broadleaf cattail door",
+        "photo_role": "Typha latifolia whole inflorescence + broad leaf",
+        "look_for": "Male and female spikes usually contiguous or nearly so; leaves generally broader and often glaucous; pistillate bracteoles absent.",
+        "why_it_matters": "Provides the primary project contrast with T. domingensis.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Know when to stop at Typha",
+        "photo_role": "hybrid/plasticity caution card",
+        "look_for": "Intermediate gap, leaf width or spike characters can occur; damaged or poorly developed spikes can mislead.",
+        "why_it_matters": "FNA warns that detailed flower/bracteole characters and sometimes microscopy are needed for confident species/hybrid calls.",
+        "status": "technical_caution_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Typhaceae vs Poaceae",
+        "rule": "Typha has broad linear marsh leaves and dense unisexual spikes, not grass spikelets with glumes, lemma and palea or obvious jointed culm nodes."
+      },
+      {
+        "title": "Typhaceae vs Cyperaceae",
+        "rule": "Cattail's massive cylindrical male/female inflorescence is unlike sedge spikelets and one-seeded nutlets. Both can dominate wetlands, so reproductive architecture is the safer family split."
+      },
+      {
+        "title": "Typhaceae vs Juncaceae",
+        "rule": "Rushes have small visible 6-tepal flowers and capsules; Typha has minute unisexual flowers packed into dense cylindrical spikes."
+      },
+      {
+        "title": "Typha domingensis vs T. latifolia",
+        "rule": "T. domingensis commonly shows a 1–8 cm naked gap, narrower leaves and brown/orange mucilage glands extending onto the proximal blade; T. latifolia commonly has contiguous spikes and broader leaves. Treat these as a character suite, not single-character proof."
+      }
+    ],
+    "caveat": "Typha species hybridize and respond plastically to environment. Gap width and leaf width are useful first-pass characters but are not infallible; technical species confirmation may require bracteole, stigma, gland and pollen characters."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 1,
+    "current_family_genera_note": "Modern Typhaceae contains Typha and Sparganium; only Typha is represented in the current project pool.",
+    "genera": [
+      {
+        "genus": "Typha",
+        "taxa_count": 2,
+        "fast_cue": "rhizomatous emergent wetland plant + upper male spike + lower dense female cylinder",
+        "role": "cattail door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Typha domingensis",
+    "Typha latifolia"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Typha domingensis",
+      "current_name": "Typha domingensis",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Typha latifolia",
+      "current_name": "Typha latifolia",
+      "note": "Accepted; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "staminate-above / pistillate-below spike",
+      "annotation_goal": "label male spike, female spike and naked gap where present"
+    },
+    {
+      "priority": 1,
+      "structure": "Typha domingensis vs T. latifolia",
+      "annotation_goal": "gap, leaf width, spike color and sheath/blade gland clues"
+    },
+    {
+      "priority": 1,
+      "structure": "female spike to seed fluff",
+      "annotation_goal": "show mature fruiting spike breaking into wind-dispersed hairs"
+    },
+    {
+      "priority": 2,
+      "structure": "T. domingensis mucilage glands",
+      "annotation_goal": "macro/diagram of sheath and proximal blade gland distribution"
+    },
+    {
+      "priority": 2,
+      "structure": "hybrid caution card",
+      "annotation_goal": "show why one-character cattail ID can fail"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Typhaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003824-2"
+    },
+    {
+      "source": "Flora of North America — Typha",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=134063"
+    },
+    {
+      "source": "Flora of North America — Typha domingensis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000445"
+    },
+    {
+      "source": "Flora of North America — Typha latifolia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220013917"
+    },
+    {
+      "source": "POWO — Typha domingensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:836837-1"
+    },
+    {
+      "source": "POWO — Typha latifolia",
+      "url": "https://powo.science.kew.org/taxon/836870-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-013",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_spike_species_comparison_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pistia-stratiotes",
+  "family": "Araceae",
+  "genus": "Pistia",
+  "species": "stratiotes",
+  "scientific_name": "Pistia stratiotes",
+  "common_name": "Water lettuce (invasive aquatic)",
+  "look_here_first": "Recognize floating rosettes of thick ribbed, velvety light green leaves with submerged dangling fibrous roots; compare duckweeds and water hyacinth.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pistia%20stratiotes",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Problematic invasive aquatic plant in Texas. Identification/management comparison only, not a restoration recommendation.",
+  "images": [
+    {
+      "file": "images/commons-pistia-stratiotes.jpg",
+      "role": "Provisional floating lettuce-like rosettes viewed from above",
+      "creator": "yelod",
+      "license": "Public domain (author released)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pistia_stratiotes.JPG",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Public domain self-dedicated; photographer/source credited"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

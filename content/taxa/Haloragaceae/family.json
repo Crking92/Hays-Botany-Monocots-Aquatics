@@ -1,0 +1,139 @@
+{
+  "rank": "family",
+  "name": "Haloragaceae",
+  "common_name": "Water-milfoil family",
+  "lineage_context": {
+    "order": "Saxifragales",
+    "batch": "Saxifragales",
+    "close_project_families": [
+      "Crassulaceae",
+      "Altingiaceae",
+      "Grossulariaceae"
+    ],
+    "teaching_goal": "Teach aquatic whorled dissected foliage plus tiny epigynous flowers and an inferior ovary that splits into one-seeded mericarps."
+  },
+  "project_scope": {
+    "selection_mode": "Myriophyllum-centered project module",
+    "note": "The pool contains Myriophyllum heterophyllum, native in Texas under current Kew, and M. aquaticum, introduced in Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "In the project genus, start with submerged leaves arranged in whorls and deeply pinnately divided into threadlike segments. Then inspect the emergent flowering region for tiny flowers above an inferior 2–4-locular ovary.",
+    "vegetative": "Aquatic or amphibious herbs; Myriophyllum usually has whorled submerged leaves that are pinnatisect/pectinate into fine segments.",
+    "reproductive": "Flowers very small, commonly 4-merous and unisexual or bisexual. In Myriophyllum, lower flowers are usually pistillate and upper flowers staminate. Ovary inferior, commonly 4-celled with one ovule per locule.",
+    "fruit": "Schizocarp or nutlet-like fruit separating into usually 4 one-seeded mericarps.",
+    "field_tip": "Whorled feather-like aquatic leaves + tiny emergent flowers + inferior ovary + 4-part mericarp fruit = project Haloragaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_017",
+    "teaching_order": "whorled submerged leaf → emergent flowering spike → male-above/female-below → inferior ovary → 4 mericarps → native/introduced split",
+    "intro": "Water-milfoils look like foliage plants until you notice the tiny reproductive zone rising from the water.",
+    "steps": [
+      {
+        "title": "1 · Read the whorled feather-like leaf",
+        "photo_role": "submerged leaf/node macro",
+        "look_for": "Several leaves per node, each divided into many threadlike side segments.",
+        "why_it_matters": "This is the fastest project-level Myriophyllum recognition cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Follow the stem above the water",
+        "photo_role": "emergent flowering portion",
+        "look_for": "Upper leaves reduce toward bracts and tiny flowers appear in their axils.",
+        "why_it_matters": "The reproductive zone is easily missed because the flowers are so small.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Learn the sex arrangement",
+        "photo_role": "flowering spike annotation",
+        "look_for": "Pistillate flowers commonly lower on the spike and staminate flowers above.",
+        "why_it_matters": "This provides a memorable reproductive architecture rather than relying on foliage alone.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Confirm the inferior ovary and 4 mericarps",
+        "photo_role": "fruit macro/cutaway",
+        "look_for": "Inferior 4-celled ovary maturing into four one-seeded units.",
+        "why_it_matters": "This is the strongest family-level reproductive confirmation.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "5 · Keep native and introduced species separate",
+        "photo_role": "species-status comparison card",
+        "look_for": "M. heterophyllum is native in Texas; M. aquaticum is South American and introduced in Texas.",
+        "why_it_matters": "Field recognition should not accidentally turn an invasive aquatic into a native restoration target.",
+        "status": "status_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Haloragaceae vs Ceratophyllaceae",
+        "rule": "Both can have finely divided submerged whorled leaves. Myriophyllum has a distinct emergent floral zone and inferior ovary/mericarp fruit; Ceratophyllum has forked leaves and very different reproductive structures."
+      },
+      {
+        "title": "Haloragaceae vs Cabombaceae",
+        "rule": "Cabomba has opposite/whorled fanlike leaves and showier floating/emergent flowers; Myriophyllum has featherlike pinnatisect leaves and minute axillary flowers."
+      }
+    ],
+    "caveat": "Aquatic leaf form is plastic. Confirm flower/fruit characters whenever possible."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Myriophyllum",
+        "fast_cue": "whorled pinnatisect aquatic leaves + tiny emergent flowers + inferior 4-celled ovary + 4 mericarps",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "whorled pinnatisect leaf",
+      "annotation_goal": "label node, leaf whorl and threadlike segments"
+    },
+    {
+      "priority": 1,
+      "structure": "female-lower/male-upper flower sequence",
+      "annotation_goal": "mark sex zones on flowering stem"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary → 4 mericarps",
+      "annotation_goal": "show one seed per mericarp"
+    },
+    {
+      "priority": 2,
+      "structure": "M. heterophyllum vs M. aquaticum status card",
+      "annotation_goal": "native Texas vs introduced Texas"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Haloragaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10394"
+    },
+    {
+      "source": "Flora of North America — Myriophyllum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=121478"
+    },
+    {
+      "source": "Plants of the World Online — Myriophyllum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30028764-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Myriophyllum heterophyllum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:430415-1"
+    },
+    {
+      "source": "Plants of the World Online — Myriophyllum aquaticum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:166319-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-017",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "water_milfoil_family_door_live_mericarps_and_status_card_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

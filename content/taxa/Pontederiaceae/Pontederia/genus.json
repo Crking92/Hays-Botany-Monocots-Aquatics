@@ -1,0 +1,166 @@
+{
+  "rank": "genus",
+  "family": "Pontederiaceae",
+  "name": "Pontederia",
+  "common_group": "pickerelweeds and water-hyacinths",
+  "project_scope": {
+    "source_pool_species": [
+      "Pontederia cordata",
+      "Pontederia crassipes"
+    ],
+    "sheet_index_row": 155,
+    "canonical_at_build": 0,
+    "mode": "genus lesson only; no canonical installation"
+  },
+  "shared_genus_traits": [
+    "Aquatic perennial monocots with six-lobed tubular perianths and six unequal stamens.",
+    "Flowers in spathe-associated spikes; broad long-petiolate leaves may be emergent or floating.",
+    "Modern Pontederia includes former Eichhornia crassipes; these are not two separate species."
+  ],
+  "look_here_first": "TRACE THE ROOTS: rooted rhizome in mud with erect leaves = P. cordata; usually free-floating rosette with dangling feathery roots and spongy petioles = P. crassipes. Confirm with spike flower count and fruit.",
+  "species_comparison_matrix": [
+    {
+      "character": "Rooting (primary)",
+      "cordata": "Rooted in mud, creeping rhizomes.",
+      "crassipes": "Usually free-floating, feathery pendant roots; may root secondarily."
+    },
+    {
+      "character": "Vegetative arrangement",
+      "cordata": "Erect flowering stems and emergent leaves.",
+      "crassipes": "Floating rosettes connected by stolons."
+    },
+    {
+      "character": "Petiole (primary)",
+      "cordata": "Not bulbously inflated; constricted immediately below blade.",
+      "crassipes": "Spongy, often swollen or bulbous; may be elongated and less inflated in dense mats."
+    },
+    {
+      "character": "Blade length × width",
+      "cordata": "6–22 × 0.7–12 cm; lanceolate to cordate.",
+      "crassipes": "2.5–11 × 3.5–9.5 cm; ovate to nearly round."
+    },
+    {
+      "character": "Flowers per spike (primary)",
+      "cordata": "Densely many-flowered; up to several hundred.",
+      "crassipes": "4–15 comparatively large flowers."
+    },
+    {
+      "character": "Spike",
+      "cordata": "2–15 cm; flowers tightly packed.",
+      "crassipes": "Relatively few flowers, individually obvious."
+    },
+    {
+      "character": "Perianth limb lobe length",
+      "cordata": "5–8 mm.",
+      "crassipes": "16–37 mm."
+    },
+    {
+      "character": "Flower markings (supporting)",
+      "cordata": "Upper central lobe with a two-lobed yellow mark.",
+      "crassipes": "Upper lobe with dark blotch enclosing yellow mark."
+    },
+    {
+      "character": "Fruit (primary confirmation)",
+      "cordata": "One-seeded utricle enclosed by toothed-ridged persistent perianth.",
+      "crassipes": "Three-valved capsule with numerous seeds."
+    }
+  ],
+  "field_steps": [
+    "1. Check rooted versus free-floating habit without disturbing the plant.",
+    "2. Photograph mature petiole and rosette/stem with scale.",
+    "3. Count buds, open flowers and scars across an entire spike.",
+    "4. Measure perianth lobe, not just flower diameter.",
+    "5. Confirm with mature fruit anatomy; if missing, use combined vegetative and floral characters."
+  ],
+  "overlap_cautions": [
+    "Both have six-part flowers and can bloom blue-violet; color is not diagnostic.",
+    "P. cordata leaf shapes vary widely; a broad blade alone is not water-hyacinth.",
+    "Crowded P. crassipes may have long, less swollen petioles; inspect roots and spike.",
+    "Detached or deep-water plants can obscure rooting; do not force ID.",
+    "Eichhornia crassipes is a synonym of P. crassipes in POWO, not another canonical card.",
+    "Native-range certification is separate from source-pool learner admission."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Heteranthera dubia",
+      "separator": "Canonical Pontederiaceae relative with narrow aquatic leaves, solitary yellow flower and 3 stamens; not a broad-leaved dense-spiked Pontederia."
+    },
+    {
+      "taxon": "Sagittaria platyphylla / S. lancifolia",
+      "separator": "Source-pool arrowheads with three distinct petals and achene heads, not six-lobed tubular Pontederia flowers and their fruit."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "rooting habit",
+      "targets": "both",
+      "shot": "Same-scale field views, arrows to rhizome attachment vs hanging roots."
+    },
+    {
+      "role": "petiole",
+      "targets": "both",
+      "shot": "Macro with scale, arrow to below-blade constriction vs spongy swelling."
+    },
+    {
+      "role": "full spike",
+      "targets": "both",
+      "shot": "Whole inflorescences with scale and bud/flower counts."
+    },
+    {
+      "role": "fruit",
+      "targets": "both",
+      "shot": "Matched dissections: toothed-ridged one-seeded utricle vs 3-valved capsule."
+    },
+    {
+      "role": "single flower",
+      "targets": "both",
+      "shot": "Millimeter-scale perianth-lobe measurement and tube."
+    },
+    {
+      "role": "leaf variation",
+      "targets": "both",
+      "shot": "Multiple mature leaf outlines and bases, same scale."
+    },
+    {
+      "role": "crowded-mat petiole caution",
+      "targets": "P. crassipes",
+      "shot": "Compare open-water bulbous and crowded elongate petioles."
+    },
+    {
+      "role": "look-alikes",
+      "targets": "Heteranthera / Sagittaria",
+      "shot": "Annotate solitary vs dense flowers and 3 petals vs 6 lobes."
+    }
+  ],
+  "existing_media_reuse": [
+    "content/taxa/Pontederiaceae/family.json",
+    "content/taxa/Pontederiaceae/Heteranthera/heteranthera-dubia/species.json"
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire exact-species licensed root, petiole, spike and fruit photos with provenance; visual-incomplete."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "task": "Both sheet-backed species absent from manifest on 2026-10-12; install separately only after identity gate; Eichhornia is an alias."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Preserve POWO Pontederia crassipes / Eichhornia crassipes mapping and independently label native-range state."
+    }
+  ],
+  "sources": [
+    "https://www.worldfloraonline.org/taxon/wfo-0000500933",
+    "https://stage.worldfloraonline.org/taxon/wfo-0000401771",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:310928-2",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Pontederia%20cordata.html"
+  ],
+  "curation_status": {
+    "status": "genus_lesson_built_photo_pending",
+    "date": "2026-10-12",
+    "visual_complete": false,
+    "canonical_species_installed": false,
+    "sheet_index_row": 155
+  }
+}

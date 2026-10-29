@@ -1,0 +1,40 @@
+# Deep Review sources — Yucca rupicola
+Reviewed: 2026-10-02
+Batch: deep-review-batch-008-yucca-b004
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Yucca rupicola Scheele
+- Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A543775-1
+- NPSOT / BONAP reference: https://www.npsot.org/posts/native-plant/yucca-rupicola-2/
+
+## Strict project-range evidence
+- Hays — UT PRC Purola natural flora: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+- Travis — Balcones Canyonlands Preserve plant list: https://www.traviscountytx.gov/images/tnr/Docs/Plants.pdf
+- Williamson — UT PRC Vascular Plants of Williamson County: https://w3.biosci.utexas.edu/prc/K12/pages/Yucca%20rupicola.html
+Decision: PASS
+
+## Morphology
+- Flora of North America: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102074
+Key: low acaulescent colonies; flexible twisted leaves; orange/red wavy-denticulate margins; dry dehiscent fruit.
+
+## Photo candidates
+- NPSOT credited photographs: https://www.npsot.org/posts/native-plant/yucca-rupicola-2/
+- iNaturalist species photo pool: https://www.inaturalist.org/taxa/170393-Yucca-rupicola/browse_photos
+
+APPROVAL
+User explicitly approved B004 on 2026-10-02.
+PHOTO STATUS
+Exact reusable image metadata recorded in image-sources.csv.
+JOEY SANTORE SPECIES LAYER
+Video: West Texas Native Plant Landscaping (Pro Jahb)
+Video ID: mA0uMKVyswA
+Record jvid-mA0uMKVyswA-009 @ 14:10 — source-explicit Yucca rupicola; basal rosette and leaf architecture.
+Rights: extracted Joey frame is a private-study asset; public reuse is not assumed.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 607698000 https://www.inaturalist.org/photos/607698000 | 334613780 | images/glass-root-garden-607698000-colony.jpg
+- 623378710 https://www.inaturalist.org/photos/623378710 | 342331558 | images/glass-root-garden-623378710-rosette.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

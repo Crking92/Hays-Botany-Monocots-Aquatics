@@ -1,0 +1,96 @@
+{
+  "rank": "family",
+  "name": "Cabombaceae",
+  "common_name": "Fanwort family",
+  "project_scope": {
+    "selection_mode": "San Marcos River local-first aquatic lesson",
+    "canonical_anchor": "Cabomba caroliniana",
+    "note": "Private-study Joey flower frame exists; reusable diagnostic images remain pending."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start underwater: find stalked, fan-shaped submerged leaves divided repeatedly into threadlike segments. Cabomba caroliniana leaves can be opposite OR whorled; confirm the small surface flower rather than treating leaf arrangement alone as decisive.",
+    "vegetative": "Rooted submerged aquatic with slender branching stems and strongly divided leaves; floating leaves may appear near flowering shoots.",
+    "flowers": "Small solitary surface flowers, typically with 3 sepals + 3 petals in the local Cabomba anchor.",
+    "fruit": "Small fruits with few seeds.",
+    "field_tip": "A petiolate, repeatedly divided fan-shaped underwater leaf is more useful than simply counting leaves per node. Check attachment and flower structures before separating it from other feathery aquatics."
+  },
+  "visual_lesson": {
+    "status": "family_structure_live_visual_assets_pending",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Cabomba teaches a clean aquatic ID workflow: underwater leaf architecture first, tiny surface flower second.",
+    "steps": [
+      {
+        "title": "1 · Find stalked fan leaves",
+        "photo_role": "submerged foliage",
+        "anchor_species_id": "cabomba-caroliniana",
+        "look_for": "A stalk (petiole) leading to a broadly fan-shaped submerged blade repeatedly divided into fine threadlike segments.",
+        "why_it_matters": "This is the strongest field character for the local family anchor.",
+        "status": "public_photo_pending"
+      },
+      {
+        "title": "2 · Trace a real stem node",
+        "photo_role": "intact underwater node and petiole attachment macro",
+        "anchor_species_id": "cabomba-caroliniana",
+        "look_for": "Trace each leaf stalk to its stem node. Cabomba caroliniana submerged leaves may be opposite or whorled; do not use phyllotaxy alone as a universal family test.",
+        "why_it_matters": "Distinguishes stalked fan blades from superficially similar finely dissected aquatics without inventing an opposite-only rule.",
+        "status": "public_photo_pending"
+      },
+      {
+        "title": "3 · Find the surface flower",
+        "photo_role": "small 3-merous flower",
+        "anchor_species_id": "cabomba-caroliniana",
+        "look_for": "A small white-to-purplish flower with three sepals and three petals.",
+        "why_it_matters": "Confirms the submerged foliage with reproductive structure.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cabomba vs Limnophila",
+        "rule": "Cabomba caroliniana has petiolate, repeatedly divided fan-shaped submerged leaves; Limnophila has finely divided foliage with a different featherlike outline. Compare the entire blade and its attachment at an intact stem node; both may show whorled foliage, so opposite versus whorled leaves alone is not diagnostic."
+      },
+      {
+        "title": "Cabomba vs Myriophyllum and Ceratophyllum",
+        "rule": "Cabomba has petiolate fan-shaped submerged blades; Myriophyllum has featherlike pinnately divided leaves often in whorls, whereas Ceratophyllum has sessile forked leaves in whorls. Verify the actual stem node and blade branching, not just a feathery underwater silhouette."
+      }
+    ],
+    "caveat": "Public photo locking remains unfinished; the family structure and private-study reference are ready.",
+    "anatomy_examples": [
+      {
+        "species": "Cabomba caroliniana",
+        "plain_label": "A fan-shaped underwater leaf on a stalk",
+        "formal_label": "Petiolate, palmately dissected submerged leaf",
+        "where_to_look": "Follow the petiole to the expanded fan-shaped blade and its threadlike divisions.",
+        "photo_role": "Exact-species submerged leaf macro showing petiole and complete fan blade",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The blade branches like a fan from a distinct stalk; label petiole and divisions only after checking the selected image."
+      },
+      {
+        "species": "Cabomba caroliniana",
+        "plain_label": "Where leaf stalks attach to the stem",
+        "formal_label": "Stem node and submerged-leaf phyllotaxy",
+        "where_to_look": "Photograph one intact stem node in water and trace individual petioles; opposite and whorled leaves can occur.",
+        "photo_role": "Exact-species in-water stem-node close-up resolving all petiole insertions",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "The number of leaves at a node can vary; mark attachments only when actually visible."
+      },
+      {
+        "species": "Cabomba caroliniana",
+        "plain_label": "Three outer and three inner flower parts",
+        "formal_label": "Three sepals, three petals and six stamens",
+        "where_to_look": "Examine an open surface flower front and side; use a dissection to establish perianth boundaries and stamen count.",
+        "photo_role": "Exact-species flower face plus side macro/dissection resolving sepals, petals and stamens",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_plan": "A flower may show yellow basal spots, but separate sepals, petals and stamens need verified close-up views."
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-family-structure-live",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "study_reference_complete_public_photo_pending"
+  }
+}

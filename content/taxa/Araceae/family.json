@@ -1,0 +1,247 @@
+{
+  "rank": "family",
+  "name": "Araceae",
+  "common_name": "Arum / duckweed family",
+  "lineage_context": {
+    "order": "Alismatales",
+    "batch": "Alismatales",
+    "close_project_families": [
+      "Alismataceae",
+      "Potamogetonaceae",
+      "Hydrocharitaceae"
+    ],
+    "teaching_goal": "Teach Araceae with two project doors: conspicuous spathe/spadix aroids and the highly reduced duckweed lineage now included in modern Araceae."
+  },
+  "project_scope": {
+    "selection_mode": "Project module across Amorphophallus, Arisaema, Pistia, Lemna, Spirodela and Wolffia",
+    "note": "Modern Kew classification places Lemna, Spirodela and Wolffia in Araceae. Flora of North America treats the duckweeds in the older family Lemnaceae, but its root/frond keys remain useful morphologically."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "First decide which Araceae door you have. A conventional aroid has many tiny flowers crowded on a fleshy spadix, usually subtended by a spathe. A duckweed is a tiny floating frond with the same lineage reduced almost beyond recognition.",
+    "vegetative": "Extremely broad in the project pool: tuberous terrestrial herbs, floating rosettes, and millimeter-scale free-floating fronds. Conventional aroids often have sheathing leaf bases; duckweeds replace normal shoots and leaves with frond-like bodies.",
+    "reproductive": "The classic family architecture is a spadix of minute flowers associated with a spathe. Flowers may be bisexual or unisexual and perianth may be absent. In duckweeds the inflorescence is drastically reduced and seldom seen.",
+    "fruit": "Variable; not a good first family-level field character in this project.",
+    "field_tip": "Do not make 'big heart-shaped leaf' the family rule. Learn spathe + spadix for ordinary aroids, then separately learn the duckweed root-count door."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_012",
+    "teaching_order": "two-door family overview → spathe/spadix → terrestrial/floating aroid doors → duckweed root-count card → taxonomy reconciliation",
+    "intro": "Araceae is one of the best evolutionary visual lessons in the project: titan arum and a speck of watermeal are relatives. The family makes sense once the learner sees normal aroid architecture and then the extreme reduction of duckweeds.",
+    "steps": [
+      {
+        "title": "1 · Learn the spathe and spadix",
+        "photo_role": "annotated aroid inflorescence",
+        "look_for": "Many tiny flowers packed on a fleshy spadix, with a modified bract—the spathe—beside or around it.",
+        "why_it_matters": "This is the core reproductive architecture of ordinary aroids.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Arisaema door",
+        "photo_role": "green dragon whole plant + inflorescence",
+        "look_for": "Pedately divided leaf with several leaflets and a green spathe surrounding a spadix whose slender appendage projects well beyond it.",
+        "why_it_matters": "Provides the best project native-style terrestrial aroid anchor.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Amorphophallus door",
+        "photo_role": "titan arum inflorescence + giant divided leaf",
+        "look_for": "Massive tuber-derived plant with an enormous spathe/spadix inflorescence and a single giant repeatedly divided leaf.",
+        "why_it_matters": "Memorable comparison showing how large conventional aroid architecture can become.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · Pistia door",
+        "photo_role": "water-lettuce rosette + tiny inflorescence",
+        "look_for": "Floating rosette of velvety, ribbed, spongy leaves with long hanging roots; tiny spathe/spadix tucked near the leaf base.",
+        "why_it_matters": "Bridges ordinary aroids and the free-floating duckweed habit.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Duckweed triad by roots",
+        "photo_role": "Lemna vs Spirodela vs Wolffia macro card",
+        "look_for": "Lemna = 1 root per frond; Spirodela = several roots per frond; Wolffia = no roots and a minute three-dimensional frond.",
+        "why_it_matters": "A simple visual character separates the three project duckweed genera.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "6 · Taxonomy card: old Lemnaceae → modern Araceae",
+        "photo_role": "lineage/taxonomy card",
+        "look_for": "Older floras may label Lemna, Spirodela and Wolffia as Lemnaceae; current Kew places them in Araceae.",
+        "why_it_matters": "Prevents conflict between older field keys and the project's current family framework.",
+        "status": "taxonomy_card_pending"
+      },
+      {
+        "title": "7 · Normalize Spirodela spelling",
+        "photo_role": "accepted-name card",
+        "look_for": "Source Spirodela polyrrhiza → current accepted spelling Spirodela polyrhiza.",
+        "why_it_matters": "Avoids creating duplicate concepts from an orthographic variant/source spelling.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Araceae vs Alismataceae",
+        "rule": "Alismataceae project plants have conspicuous 3-petaled flowers with numerous stamens/carpels and achene heads. Ordinary Araceae packs minute flowers onto a spadix with a spathe; duckweed Araceae is even more reduced."
+      },
+      {
+        "title": "Araceae vs Hydrocharitaceae",
+        "rule": "Both include aquatics. Vallisneria has long submerged ribbon leaves and separate floating male/female flower mechanics; duckweed Araceae is free-floating and separated by frond/root architecture, while Pistia forms a floating rosette with a tiny spathe/spadix."
+      },
+      {
+        "title": "Duckweeds vs Potamogetonaceae",
+        "rule": "Duckweeds are tiny free-floating fronds with reduced flowers; pondweeds have elongate leafy stems, stipules/prophylls and an emergent flower spike."
+      }
+    ],
+    "caveat": "Do not require an obvious spathe/spadix in duckweeds—the duckweed lineage is extremely reduced. Also keep Pistia native/invasive status decisions in the species workflow rather than using family recognition to settle that question."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 6,
+    "current_teaching_genus_count": 6,
+    "genera": [
+      {
+        "genus": "Arisaema",
+        "source_taxa_count": 1,
+        "fast_cue": "pedately divided leaf + green spathe + long projecting spadix appendage",
+        "role": "terrestrial aroid door"
+      },
+      {
+        "genus": "Amorphophallus",
+        "source_taxa_count": 1,
+        "fast_cue": "giant tuberous plant + enormous spathe/spadix + giant divided leaf",
+        "role": "nonlocal comparison door"
+      },
+      {
+        "genus": "Pistia",
+        "source_taxa_count": 1,
+        "fast_cue": "floating velvety ribbed rosette + hanging roots + tiny spathe/spadix",
+        "role": "floating rosette door"
+      },
+      {
+        "genus": "Lemna",
+        "source_taxa_count": 1,
+        "fast_cue": "small flat floating frond + exactly 1 root",
+        "role": "duckweed door"
+      },
+      {
+        "genus": "Spirodela",
+        "source_taxa_count": 1,
+        "fast_cue": "larger floating frond + several roots",
+        "role": "giant-duckweed door"
+      },
+      {
+        "genus": "Wolffia",
+        "source_taxa_count": 1,
+        "fast_cue": "minute rootless 3-D frond",
+        "role": "watermeal door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Amorphophallus titanum",
+    "Arisaema dracontium",
+    "Lemna minor",
+    "Pistia stratiotes",
+    "Spirodela polyrrhiza",
+    "Wolffia columbiana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Amorphophallus titanum",
+      "current_name": "Amorphophallus titanum",
+      "note": "Accepted; native to western Sumatra. Project use is comparison/cultivated, not a Central Texas native anchor."
+    },
+    {
+      "source_name": "Arisaema dracontium",
+      "current_name": "Arisaema dracontium",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Lemna minor",
+      "current_name": "Lemna minor",
+      "note": "Accepted in modern Araceae."
+    },
+    {
+      "source_name": "Pistia stratiotes",
+      "current_name": "Pistia stratiotes",
+      "note": "Accepted in modern Araceae; native-status interpretation is left to species workflow."
+    },
+    {
+      "source_name": "Spirodela polyrrhiza",
+      "current_name": "Spirodela polyrhiza",
+      "note": "Normalize source spelling to current Kew accepted spelling."
+    },
+    {
+      "source_name": "Wolffia columbiana",
+      "current_name": "Wolffia columbiana",
+      "note": "Accepted in modern Araceae."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "spathe + spadix",
+      "annotation_goal": "label spathe, spadix, staminate zone and pistillate zone where visible"
+    },
+    {
+      "priority": 1,
+      "structure": "Lemna vs Spirodela vs Wolffia",
+      "annotation_goal": "one root vs many roots vs no roots"
+    },
+    {
+      "priority": 1,
+      "structure": "Arisaema dracontium",
+      "annotation_goal": "label pedate leaf, spathe and projecting spadix appendage"
+    },
+    {
+      "priority": 1,
+      "structure": "Pistia rosette + tiny spathe/spadix",
+      "annotation_goal": "connect floating habit to ordinary aroid architecture"
+    },
+    {
+      "priority": 2,
+      "structure": "Lemnaceae → Araceae classification card",
+      "annotation_goal": "show historical family versus current family placement"
+    },
+    {
+      "priority": 2,
+      "structure": "Spirodela spelling card",
+      "annotation_goal": "polyrrhiza source spelling → polyrhiza accepted spelling"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Kew POWO — Arisaema dracontium",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:85629-1"
+    },
+    {
+      "source": "Kew POWO — Amorphophallus titanum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:84456-1"
+    },
+    {
+      "source": "Kew POWO — Lemna minor",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:526194-1"
+    },
+    {
+      "source": "Kew POWO — Pistia stratiotes",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:317684-2"
+    },
+    {
+      "source": "Kew POWO — Spirodela polyrhiza",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:526250-1"
+    },
+    {
+      "source": "Kew POWO — Wolffia columbiana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:526266-1"
+    },
+    {
+      "source": "Flora of North America — Araceae / older Lemnaceae keys",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10056"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-012",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_spadix_duckweed_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

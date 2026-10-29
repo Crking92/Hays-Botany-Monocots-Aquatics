@@ -1,0 +1,89 @@
+{
+  "id": "eleocharis-geniculata",
+  "family": "Cyperaceae",
+  "genus": "Eleocharis",
+  "species": "geniculata",
+  "scientific_name": "Eleocharis geniculata",
+  "common_name": "Canada spikesedge",
+  "look_here_first": "Small tufted sedge with mostly leafless round stems, each topped by a solitary compact spikelet; inspect achene and bristle features.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_036": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1029981-2",
+  "images": [
+    {
+      "file": "images/inat-188653953.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Steve Maldonado Silvestrini, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/188653953",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review036-cd902d93d5de7b5.jpg",
+      "role": "Tightly tufted slender leafless sedge culms arising from a single base; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "sonu kumar",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110297275",
+      "media_source_url": "https://bs.plantnet.org/image/o/f343f5c20ce33f33e6b572e10a9be8de0d159f86",
+      "source_determination": "Eleocharis geniculata",
+      "source_observation_id": "5110297275",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/eleocharis-geniculata/plantnet-via-gbif-001306d4d5fb1b.jpg",
+      "archive_image_sha256": "27456e76a1fa74e5a385bbfd146235036dd8f4f364173fa096732f1021cd3ea2",
+      "image_dimensions": [
+        1365,
+        1024
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review036-ff5c029b4d6a8b2.jpg",
+      "role": "Close terminal ovoid spikelets on individual wiry culms; no achene detail verified; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Guillaume Martin",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110505678",
+      "media_source_url": "https://bs.plantnet.org/image/o/b0950955ca67797640ae8d3dcfdb2789b9a597db",
+      "source_determination": "Eleocharis geniculata",
+      "source_observation_id": "5110505678",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/eleocharis-geniculata/plantnet-via-gbif-99cb23c22535bf.jpg",
+      "archive_image_sha256": "6ad94adad5a15fbf075fcd5a3ee64038cd70c16642402b98d5b3acc8d2723e41",
+      "image_dimensions": [
+        1400,
+        808
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

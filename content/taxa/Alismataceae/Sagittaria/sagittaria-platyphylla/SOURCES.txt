@@ -1,0 +1,35 @@
+SAGITTARIA PLATYPHYLLA — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+TAXONOMY
+Kew POWO accepted: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:58550-1
+Flora of North America: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000354
+ITIS TSN 38927: https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=38927
+
+STRICT TARGET-ZONE RANGE
+Hays — San Marcos River native aquatic survey: https://apms.org/wp-content/uploads/japm-39-01-075.pdf
+Travis — City of Austin survey documents delta arrowhead in Barton Creek/Town Lake: https://services.austintexas.gov/edims/document.cfm?id=186179
+Comal — Harvard University Herbaria, Lindheimer New Braunfels Sagittaria platyphylla specimens.
+Williamson — UT PRC Vascular Plants of Williamson County: https://w3.biosci.utexas.edu/prc/K12/pages/Sagittaria%20platyphylla.html
+
+MORPHOLOGY
+FNA and UT PRC Williamson treatment above.
+NPSOT: https://www.npsot.org/posts/native-plant/sagittaria-platyphylla/
+
+JOEY SPECIES LAYER
+Video Hr3nBxvgCv4 — Aquatic Plants on the San Marcos River
+019 @ 00:31:17.7 — inflorescence / source label
+020 @ 00:31:32.7 — protogyny / female phase first
+021 @ 00:31:47.7 — female flowers below male flowers
+022 @ 00:34:01.7 — submerged vs emergent leaf forms / heterophylly
+Rights: private-study frames; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Aquatic Plants on the San Marcos River
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+sagittaria-platyphylla_source-label-inflorescence_00-31-17.7.jpg @ 00:31:17.7 — Source-labeled delta-arrowhead population and emergent foliage beside the river.
+sagittaria-platyphylla_protogynous-female-first_00-31-32.7.jpg @ 00:31:32.7 — Flower stalk with rounded developing fruiting heads. Use the video sequence for the timing of female and male phases; this still does not establish timing.
+sagittaria-platyphylla_female-below-male-above_00-31-47.7.jpg @ 00:31:47.7 — Close view of flower and fruiting structures. The video's original label describes female flowers below male flowers.
+sagittaria-platyphylla_two-leaf-forms_00-34-01.7.jpg @ 00:34:01.7 — Delta-arrowhead patch with varied visible leaf shapes. A clearer paired view of submerged and emergent leaves is still needed.
+Rights: private study only; public reuse not cleared. User confirms private learner. Original frames and source labels preserved. Files decoded and visually inspected before installation.

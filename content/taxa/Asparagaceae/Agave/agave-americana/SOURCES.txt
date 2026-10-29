@@ -1,0 +1,25 @@
+Existing approved Master Plant Pool scientific review, retained verbatim in species.json source_pool_review.
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=100796
+
+Exact photo source: https://commons.wikimedia.org/wiki/File:Agave_americana_4zz.jpg
+Creator: Photo by David J. Stang
+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+Source description: Location taken: Longwood Gardens, Kennett Square, Pennsylvania.. Names: Agave americana americana, Agave, American Agave, American Aloe, American Century Plant, American-Aloe, Ammiria, Century Plant, Century Plant, Century-Plant, Centuryplant, Corni, Filu Di Pitti, Garingboom, Hundraårig Aloe, Invidia, Maguey, Maguey Americano, Ryongsōllan, Sabila, 龍舌 Classification:<SP>Plantae > Magnoliophyta > Liliopsida > Asparagales > Asparagaceae > Agaveae > Agave > Agave americana americana.
+Visual verification: Visible broad succulent leaves, toothed margins and pointed tips in cultivated material. Neighboring plants and scape parts are present; do not assign every visible structure to the agave. No scale or complete flowering panicle is shown.
+Download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Agave_americana_4zz.jpg/960px-Agave_americana_4zz.jpg
+Changes: bounded thumbnail where applicable, JPEG optimization; no anatomical arrows or overlays.
+Reuse: attribution and applicable ShareAlike preserved; public-domain USDA photograph identified as such.
+
+Remaining photo roles:
+- Complete rosette with scale
+- Leaf teeth and terminal spine macro with ruler
+- Entire branched flowering panicle
+- Flower and ovary close-up
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Agave americana L.
+https://www.gbif.org/occurrence/5938132963
+insiderelic | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Mature broad succulent leaf edge and apical spine; branched flowering panicle
+No anatomy arrows; no scientific or native-range changes.

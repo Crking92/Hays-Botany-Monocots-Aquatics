@@ -1,0 +1,94 @@
+COMMELINA ERECTA — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / USER APPROVED FOR INSTALL
+
+## Taxonomy
+Kew Plants of the World Online — accepted Commelina erecta L.; native in Texas:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A172048-1
+
+## Strict target-zone range
+BONAP/NAPA Commelina county atlas:
+https://bonap.net/Napa/TaxonMaps/Genus/County/Commelina
+
+Travis — UT Plant Resources Center Commelinaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Commelinaceae.html
+
+Williamson — UT Plant Resources Center county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta
+
+Val Verde — Amistad National Recreation Area vascular flora:
+https://w3.biosci.utexas.edu/prc/pdfs/Poole-Lundellia16.pdf
+
+Decision: PASS — Travis, Williamson, Val Verde.
+
+## Morphology
+UT PRC Williamson treatment above.
+UT Wildflowers of Texas:
+https://w3.biosci.utexas.edu/prc/wildflowers/flower/commelina-erecta
+NPSOT:
+https://www.npsot.org/posts/native-plant/commelina-erecta/
+
+LOOK HERE FIRST
+Strongly folded/partly fused green spathe pocket enclosing buds and fruits; then two large blue petals plus a much smaller pale petal.
+
+## Comparison
+Tinantia anomala Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala
+TexasInvasives tropical spiderwort lookalike page:
+https://texasinvasives.org/plant_database/detail.php?symbol=COBE2
+
+## Photo lead
+User iNaturalist:
+https://www.inaturalist.org/observations/316362707
+
+
+## Physical gallery fast-fill — 2026-10-05 / batch 009
+Media-only; settled taxonomy/range and PASS status preserved.
+Photos are identification references, not evidence for new county occurrences.
+Automated normalization resizes/recompresses the original photographs; no annotations added.
+Credit, original source, observation/photo identifiers, license URL and reuse conditions are in image-sources.csv. CC BY-SA adaptations retain the indicated same license.
+01-flower.jpg: Two large blue petals and small pale lower petal
+Creator: Paty000 (original uploader); License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+Source: https://commons.wikimedia.org/wiki/File:Commelina_erecta.jpg
+Context: Original file history identifies Paty000; current author field is blank; copyright holder released into public domain
+
+02-leaf-sheath.jpg: Leaf sheath and stem attachment
+Creator: Alex Abair; License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Commelina_erecta_271552526.jpg
+Context: United States; original selected photo reused
+
+03-spathe.jpg: Folded green spathe enclosing buds and flowers
+Creator: Alex Abair; License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Commelina_erecta_279194748.jpg
+Context: Florida; exact-species spathe close-up
+
+Remaining visual needs: Physical photographs cover flower, leaf sheath and folded spathe. Prior historical illustration replaced by a real spathe close-up. User observation 316362707 remains a local lead; inaccessible during this pass.
+
+## Diagnostic photo polish — 2026-10-08
+Morphology checked against A. C. Gibson / UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala
+FNA family key:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10212
+
+images/04-calvin-local-flowering.jpg
+Creator: Calvin King
+Source: https://www.inaturalist.org/observations/316362707
+Direct image: https://static.inaturalist.org/photos/571575412/large.jpg
+License: All rights reserved — creator-authorized private study; private study yes; public reuse no.
+Role: Kyle field view — flowers emerging from folded spathes
+Visual cue: Calvin's observation at Emerald Pass, Kyle, on 2025-09-24. Follow each flower down to its folded green spathe. The two large blue petals occur in both dayflower genera; use the spathe and filament hairs to separate them.
+Decoded dimensions: 576 x 1024
+Git blob SHA: 03d8517032c1692561962dfedf008a0f53a58047
+Permission: Calvin King is the photographer and user; existing authorization to reuse his observations in his private learner. Public-reuse permission not inferred.
+
+images/05-smooth-filaments-macro.jpg
+Creator: Nathan Taylor
+Source: https://www.inaturalist.org/observations/15488109
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/23706098/large.jpeg
+License: CC BY-NC; private study yes; public reuse no.
+Role: Flower macro — smooth filaments and lobed yellow staminodes
+Visual cue: Look at the smooth, curved filaments below the petals and the small lobed yellow staminodes above them. Commelina erecta has three fertile stamens plus three staminodes. The dense purple-and-yellow filament tufts of Tinantia are absent. Do not count the pistil as a stamen.
+Decoded dimensions: 1024 x 945
+Git blob SHA: b07897183c8f4c488f0d49dfd56ccdb68fcc8ff2
+

@@ -1,0 +1,36 @@
+{
+  "id": "amorphophallus-titanum",
+  "family": "Araceae",
+  "genus": "Amorphophallus",
+  "species": "titanum",
+  "scientific_name": "Amorphophallus titanum",
+  "common_name": "Titan arum",
+  "look_here_first": "Look for the enormous arum spathe and spadix, or the solitary massive umbrella-like leaf; cultivated nonlocal comparison.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Amorphophallus%20titanum",
+  "images": [
+    {
+      "file": "images/inat-1586626.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) save_titan_arum_project, some rights reserved (CC BY-NC-SA)",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/photos/1586626",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial and ShareAlike requirements"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

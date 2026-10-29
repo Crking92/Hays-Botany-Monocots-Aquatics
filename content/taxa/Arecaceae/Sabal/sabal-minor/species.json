@@ -1,0 +1,65 @@
+{
+  "id": "sabal-minor",
+  "entry_type": "species",
+  "family": "Arecaceae",
+  "genus": "Sabal",
+  "species": "minor",
+  "scientific_name": "Sabal minor",
+  "authority": "(Jacq.) Pers.",
+  "common_name": "Dwarf palmetto",
+  "look_here_first": "LOOK HERE FIRST: Look for low, fan-shaped, pleated leaves arising near the ground with smooth unarmed petioles, then check the branching flower or fruit stalks rising through and often above the crown.",
+  "taxonomy_notes": "Accepted Sabal minor (Jacq.) Pers. in POWO; do not confuse with trunk-forming Sabal mexicana or ornamental Washingtonia palms.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 1007",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "PROVISIONAL_ENCOUNTER_CARD",
+    "native_metrics_excluded": true,
+    "notes": "County-level native-range certification deferred; no native-only metric inclusion."
+  },
+  "morphology_keys": {
+    "habit": "Low fan palm with mostly subterranean trunk, commonly forming a short ground-level crown.",
+    "leaves_attachment": "Costapalmate fan leaves with many deeply divided, narrow segments; petioles lack marginal spines.",
+    "flower_reproductive": "Large branching panicles bearing numerous small pale flowers, sometimes extending beyond leaves.",
+    "fruit_seed": "Small round dark fruits on branching stalks; close-up needed for confident fruit-stage comparisons.",
+    "stem_bud": "Usually lacks a tall exposed trunk; leaf bases clustered low."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Sabal mexicana (usually tall exposed trunk at maturity)",
+      "Washingtonia robusta (spiny petiole margins and often a tall trunk)"
+    ],
+    "key_distinctions": "Subterranean/short trunk and unarmed fan-leaf petioles, corroborated by inflorescence."
+  },
+  "diagnostic_image_needs": [
+    "needs_photo: petiole margin and hastula close-up",
+    "needs_photo: branching flower/fruit stalk with scale",
+    "needs_photo: leaf segment tips and crown attachment"
+  ],
+  "images": [
+    {
+      "file": "images/sabal-minor-kenraiz.jpg",
+      "role": "provisional_habit_fan_leaves_inflorescence_not_hastula",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sabal_minor_kz02.jpg",
+      "study_use": "private_educational",
+      "public_reuse": "CC_BY_SA_4_attribution_sharealike"
+    }
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

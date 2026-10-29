@@ -1,0 +1,87 @@
+{
+  "entry_type": "species",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "id": "cyperus-strigosus",
+  "species": "strigosus",
+  "scientific_name": "Cyperus strigosus",
+  "authority": "L.",
+  "common_name": "Straw-colored flatsedge",
+  "look_here_first": "LOOK FIRST at mature spikelets and the culm base: spikelets usually FLATTENED with relatively long DECIDUOUS floral scales, typically 3.2–4.5 mm, and a cormlike thickened culm base. Contrast odoratus mature corky rachilla that breaks into one-fruited units.",
+  "source_pool": {
+    "review": "reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md",
+    "admission": "APPROVED"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state level under reviewed FNA/POWO concept. BONAP/NAPA target-zone three-county native proof not yet independently verified."
+  },
+  "morphology_keys": {
+    "habit": "Perennial flatsedge of wet or disturbed soils, with leaflike bracts radiating beneath the flower cluster.",
+    "base": "Cormlike swollen basal region is supporting character; photograph excavated plant without losing the base.",
+    "inflorescence": "Terminal compound umbrella-like cluster with rays and leaflike bracts, relatively straw-colored radiating flattened spikelets.",
+    "spikelets": "Flattened, floral scales commonly 3.2–4.5(–6) mm and DECIDUOUS; mature fruits and exposed rachilla needed to distinguish odoratus.",
+    "fruit": "One achene under each fertile scale. Three stigma branches can help support the key, but use entire mature specimen."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cyperus odoratus",
+      "Cyperus esculentus",
+      "Cyperus erythrorhizos"
+    ],
+    "key_distinctions": "C. odoratus mature spikelet is more subcylindrical and rachilla disarticulates into corky one-fruited segments. C. strigosus retains a cormlike base and deciduous larger scales; immature heads overlap.",
+    "cautions": "C. stenolepis is a synonym under the selected concept; do not split an extra canonical card. Maturity, anatomy and county nativity need independent verification."
+  },
+  "diagnostic_image_needs": [
+    "Pulled basal cormlike swelling still attached to culm",
+    "Mature flattened spikelet, deciduous floral scale with 1 mm ruler",
+    "Same-angle comparison to C. odoratus corky rachilla segments",
+    "Achene, style and stigma tips 3-branch close-up"
+  ],
+  "images": [
+    {
+      "file": "images/01-strawcolored-flatsedge-head.jpg",
+      "role": "flowering_inflorescence",
+      "creator": "Doug McGrady",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_(straw-colored_flatsedge),_Carver,_MA_(32020808972).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Handheld entire straw-colored flatsedge flowering crown in wetland habitat, clearly showing long involucral bracts and packed heads.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    },
+    {
+      "file": "images/02-strawcolored-flatsedge-spikelets.jpg",
+      "role": "multiple_heads_spikelet_arrangement",
+      "creator": "Gilles Ayotte / Université Laval",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_15-p.bot-cyper.strigo-1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Multiple straw-colored starburst flowering heads and their spikelet arrangement, NOT one isolated flat spikelet with individual 3.2–4.5 mm scales measured.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_status": "2 flowering-head photos physically installed and inspected. Cormlike base, deciduous floral-scale close-up, and achene macros remain missing."
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-14",
+    "note": "2 flowering-head photos physically installed and inspected. Cormlike base, deciduous floral-scale close-up, and achene macros remain missing."
+  },
+  "photo_note": "2 flowering-head photos physically installed and inspected. Cormlike base, deciduous floral-scale close-up, and achene macros remain missing."
+}

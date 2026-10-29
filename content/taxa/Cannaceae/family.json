@@ -1,0 +1,129 @@
+{
+  "rank": "family",
+  "name": "Cannaceae",
+  "common_name": "Canna family",
+  "lineage_context": {
+    "order": "Zingiberales",
+    "batch": "Zingiberales",
+    "close_project_families": [
+      "Marantaceae"
+    ],
+    "teaching_goal": "Use the large rhizomatous monocot habit, highly asymmetric flower, one fertile petaloid stamen, inferior multiovulate ovary, and warty many-seeded capsule to separate Cannaceae from Marantaceae."
+  },
+  "project_scope": {
+    "selection_mode": "Canna glauca-centered project module",
+    "note": "Cannaceae contains a single genus, Canna. Canna glauca is accepted and native in Texas under current Kew; strict project county-range approval remains a separate species workflow."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the flower, not the leaf. Cannaceae has a strongly asymmetric flower with only one fertile stamen; that stamen is petaloid and bears a single fertile anther theca along one edge. Then confirm an inferior 3-locular ovary with many ovules.",
+    "vegetative": "Large rhizomatous perennial herbs with broad entire leaves and open sheathing bases; leaves are arranged distichously to spirally and lack a ligule.",
+    "reproductive": "Flowers bisexual, strongly asymmetric and showy. There are 3 sepals and 3 petals, but much of the showy display is made by petaloid staminodes. Only one stamen is fertile, and its anther is monothecal/one-thecous along the margin of the petaloid stamen.",
+    "fruit": "A loculicidal capsule, commonly warty or tuberculate, containing many hard globose seeds.",
+    "field_tip": "Big canna-like leaf + asymmetric flower + one fertile petaloid stamen + warty many-seeded capsule = Cannaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_014",
+    "teaching_order": "rhizomatous broad-leaved monocot → asymmetric flower → one fertile petaloid stamen → flat petaloid style → warty capsule/hard seeds → Marantaceae comparison",
+    "intro": "Cannaceae and Marantaceae are close relatives and both make strange asymmetric flowers. The fastest split is what the fertile stamen, style and ovary are doing.",
+    "steps": [
+      {
+        "title": "1 · Separate petals from petaloid staminodes",
+        "photo_role": "Canna flower dissection",
+        "look_for": "Three actual petals plus several large petal-like sterile staminal structures.",
+        "why_it_matters": "Much of what looks like the corolla in Canna is actually modified staminal tissue.",
+        "status": "macro_or_labeled_plate_pending"
+      },
+      {
+        "title": "2 · Find the one fertile stamen",
+        "photo_role": "single fertile petaloid stamen macro",
+        "look_for": "One petal-like fertile stamen with a single narrow anther theca running along one margin.",
+        "why_it_matters": "This is one of the defining Zingiberales characters and a major Cannaceae confirmation trait.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the flat petaloid style",
+        "photo_role": "style/stigma macro",
+        "look_for": "A broad flattened petaloid style with the stigmatic area at the tip/margin.",
+        "why_it_matters": "Marantaceae instead uses a more specialized hook-shaped style involved in its trigger pollination mechanism.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Inspect the ovary and fruit surface",
+        "photo_role": "inferior warty ovary → capsule sequence",
+        "look_for": "Inferior 3-locular ovary with many ovules; mature capsule is warty/tuberculate and many-seeded.",
+        "why_it_matters": "This sharply contrasts with Marantaceae's one-ovule-per-locule pattern.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Learn the seed",
+        "photo_role": "hard globose Canna seed",
+        "look_for": "Smooth, very hard, rounded seeds inside the capsule.",
+        "why_it_matters": "This reinforces the many-ovule/many-seed Cannaceae plan.",
+        "status": "rights_safe_reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cannaceae vs Marantaceae",
+        "rule": "Cannaceae: one fertile monothecal petaloid stamen, flat petaloid style, axile placentae with many ovules per locule, warty many-seeded capsule. Marantaceae: one fertile monothecal stamen plus highly specialized hooded/callose staminodes, hook-shaped style, usually one ovule per locule, and only 1–3 seeds."
+      },
+      {
+        "title": "Cannaceae vs Zingiberaceae",
+        "rule": "Both have strongly modified asymmetric flowers, but Canna has broad petaloid staminodes and a single marginal one-theca anther on a petaloid stamen; gingers usually have a conspicuous labellum formed from fused staminodes and aromatic rhizomes."
+      }
+    ],
+    "caveat": "Do not identify Cannaceae from broad leaves alone; bananas, gingers and Marantaceae can look similar vegetatively. The flower and fruit are much safer."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Canna",
+        "fast_cue": "broad rhizomatous herb + asymmetric flower + one fertile petaloid stamen + warty many-seeded capsule",
+        "role": "sole family/project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "one fertile petaloid stamen with marginal monothecal anther",
+      "annotation_goal": "label fertile anther edge versus sterile petaloid tissue"
+    },
+    {
+      "priority": 1,
+      "structure": "flat petaloid style",
+      "annotation_goal": "contrast directly with Marantaceae hook-shaped style"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary/capsule",
+      "annotation_goal": "show 3 locules and many ovules/seeds"
+    },
+    {
+      "priority": 2,
+      "structure": "hard globose seed",
+      "annotation_goal": "connect fruit anatomy to many-seeded family plan"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Cannaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30004770-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Canna",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:37222-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Canna glauca",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:796016-1/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-014",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_single_stamen_style_capsule_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

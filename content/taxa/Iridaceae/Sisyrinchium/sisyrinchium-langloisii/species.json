@@ -1,0 +1,89 @@
+{
+  "id": "sisyrinchium-langloisii",
+  "family": "Iridaceae",
+  "genus": "Sisyrinchium",
+  "species": "langloisii",
+  "scientific_name": "Sisyrinchium langloisii",
+  "common_name": "Blue-eyed grass",
+  "look_here_first": "Narrow grasslike iris with flattened leaves, paired spathes enclosing flower stems, and small six-tepaled flowers; examine tepals, spathe length and fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_041": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/441133-1",
+  "images": [
+    {
+      "file": "images/inat-128001974.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) karenandphillip, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/128001974",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review041-29a5ddd0ed269db.jpg",
+      "role": "Flowering colony with multiple lilac six-tepaled blossoms and narrow basal foliage; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/2239003140",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37417786/original.jpeg",
+      "source_determination": "Sisyrinchium langloisii",
+      "source_observation_id": "2239003140",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/sisyrinchium-langloisii/gbif-d7d48f9fa526ae.jpg",
+      "archive_image_sha256": "c8da36ed5fb4c504fa07a072fe2db9ad61b77ed69bc7be384d86bf38d6dcca48",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-1ed7fa04e9c6a20.jpg",
+      "role": "Flowering cluster showing multiple blue-eyed grass flowers at plant scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "susan mathis",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109902126",
+      "media_source_url": "https://bs.plantnet.org/image/o/cd2879874899b79d74b9f495569d4db822b48c2d",
+      "source_determination": "Sisyrinchium langloisii",
+      "source_observation_id": "5109902126",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/sisyrinchium-langloisii/plantnet-via-gbif-c1005e8d9687b8.jpg",
+      "archive_image_sha256": "3886480ceb9fe82ebafec4e528893d3b4318129293fd3906291a47338b585dba",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

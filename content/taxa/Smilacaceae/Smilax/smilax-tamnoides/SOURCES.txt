@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541894-1
+Source research-grade observation: https://www.inaturalist.org/observations/102753579
+Photo: https://www.inaturalist.org/photos/171829069
+Attribution: (c) James Bailey, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Smilax tamnoides
+Creator: Vince Hale; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/5938499834
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/smilax-tamnoides/gbif-ef0614092dd939.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Smilax tamnoides
+Creator: Vince Hale; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/5938647935
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/smilax-tamnoides/gbif-01117b4cc4c1b9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

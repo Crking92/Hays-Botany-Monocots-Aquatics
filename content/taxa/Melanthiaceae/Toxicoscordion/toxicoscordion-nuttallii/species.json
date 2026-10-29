@@ -1,0 +1,37 @@
+{
+  "id": "toxicoscordion-nuttallii",
+  "family": "Melanthiaceae",
+  "genus": "Toxicoscordion",
+  "species": "nuttallii",
+  "scientific_name": "Toxicoscordion nuttallii",
+  "common_name": "Nuttall's death camas",
+  "look_here_first": "Recognize narrow grasslike basal leaves and a stalk of small cream to greenish-white six-tepaled flowers; closely examine tepals, stamens and ovary. Do not mistake it for an edible Allium.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Toxicoscordion%20nuttallii",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Poisonous; do not sample or encourage handling/eating. Arkansas image provenance, not Hays native-range evidence.",
+  "images": [
+    {
+      "file": "images/commons-toxicoscordion-nuttallii.jpg",
+      "role": "Provisional flower close-up for death-camas identification; basal leaves and bulbs not shown.",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Toxicoscordion_nuttallii_(1).jpg",
+      "study_use": "Private noncommercial botanical learner",
+      "public_reuse": "Attribution and ShareAlike apply to derivative use"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

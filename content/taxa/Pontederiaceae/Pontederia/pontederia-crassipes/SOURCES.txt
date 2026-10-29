@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Pontederia%20crassipes
+Source research-grade observation: https://www.inaturalist.org/observations/106994655
+Photo: https://www.inaturalist.org/photos/179861997
+Attribution: (c) Miguel A. Casado, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

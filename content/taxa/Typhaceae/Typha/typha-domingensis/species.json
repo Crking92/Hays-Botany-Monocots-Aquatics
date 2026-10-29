@@ -1,0 +1,37 @@
+{
+  "id": "typha-domingensis",
+  "family": "Typhaceae",
+  "genus": "Typha",
+  "species": "domingensis",
+  "scientific_name": "Typha domingensis",
+  "common_name": "Southern cattail",
+  "look_here_first": "Look for tall linear wetland leaves and flowering spikes divided into a narrow male section above a brown female section; inspect spacing, female-spike color and pollen/flower details.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Typha%20domingensis",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Cattails are difficult to distinguish from hybrids at a distance; no county nativity inference.",
+  "images": [
+    {
+      "file": "images/commons-typha-domingensis.jpg",
+      "role": "Provisional flowering cattail habit; detailed gap between male and female portions needs later comparison with other Typha.",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Typha_domingensis_3.jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Attribution and ShareAlike restrictions apply if adapted"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

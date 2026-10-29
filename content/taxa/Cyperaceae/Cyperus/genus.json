@@ -1,0 +1,451 @@
+{
+  "rank": "genus",
+  "name": "Cyperus",
+  "family": "Cyperaceae",
+  "common_group": "Flatsedges, nutsedges and umbrella-sedges",
+  "authority": "L.",
+  "project_scope": {
+    "source_pool_approved_taxa": [
+      "Cyperus esculentus",
+      "Cyperus rotundus",
+      "Cyperus strigosus",
+      "Cyperus odoratus"
+    ],
+    "species_ids": [
+      "cyperus-esculentus",
+      "cyperus-rotundus",
+      "cyperus-strigosus",
+      "cyperus-odoratus"
+    ],
+    "species_count": 4,
+    "admission": "Four species reviewed and approved in source pool; not county native certification",
+    "native_range_status": "C. esculentus, C. strigosus, C. odoratus Texas-native at state level, target 3-county status UNRESOLVED. C. rotundus introduced in Texas and NON_NATIVE_COMPARISON; never native metrics.",
+    "taxonomic_warning": "C. odoratus is accepted but FNA's broad odoratus concept includes C. engelmannii; POWO accepts engelmannii separately. Never map engelmannii observations into odoratus without voucher review."
+  },
+  "look_here_first": "First inspect the crown of the flowering stem: LEAFLIKE BRACTS below several rays bearing crowded SPIKELETS? That supports Cyperus. Then split by underground tubers/stolons versus mature spikelet construction. Yellow vs purple seedhead color ALONE is not a reliable species test.",
+  "genus_diagnostics": {
+    "habit": "Sedge herbs, annual or perennial, tufted/rhizomatous/stoloniferous and sometimes bearing tubers. Species may occur along muddy shorelines and ditches or disturbed garden soil.",
+    "stem": "Culms commonly three-angled but some Cyperus are rounded; the sedge-versus-grass identification cannot rest on 'sedges have edges'.",
+    "leaves": "Leaves commonly basal with closed sheaths and flat, folded, or keeled linear blades. Broad leaflike structures at the top are INVOLUCRAL BRACTS, not ordinary leaves on the upper culm.",
+    "inflorescence": "Terminal or rarely pseudolateral anthela/umbel-like array with one or more unequal primary RAYS, sometimes secondary rays, bearing clusters of spikelets. Multiple bracts commonly radiate from the base.",
+    "flower": "Each spikelet bears overlapping scales usually in two rows (distichous), commonly each covering one reduced flower. Check scales under magnification rather than assuming a straw-colored plume is diagnostic.",
+    "fruit": "One hard one-seeded ACHENE per fertile Cyperus flower; mature achene surfaces, style-branch count and the spikelet rachilla often resolve difficult species."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Cyperaceae family sedge architecture: minute flowers under scales and one-seeded achenes, not grass lemma/palea.",
+      "Cyperus typically has basal leaves and an umbrella-like terminal arrangement of rays, bracts and spikelets.",
+      "Microscopic spikelet rachilla/scales and subterranean stolons/tubers are frequently species-diagnostic."
+    ],
+    "priority": [
+      "1. Photograph complete inflorescence with bracts, individual rays and spikelets.",
+      "2. Photograph one mature spikelet side and face at 1 mm scale; check flattened versus subcylindrical rachilla and whether scales persist.",
+      "3. Excavate one complete plant without breaking stolons; check for cormlike base or soft versus hard stolons and tubers.",
+      "4. Count style branches and compare mature achenes under magnification.",
+      "5. Preserve local provenance and clear nativity separately. Purple nutsedge is an introduced comparison."
+    ],
+    "warning": "Do not key on flowerhead color, triangular stems or habitat alone. C. odoratus FNA-wide concept vs POWO C. engelmannii separation is unresolved in source specimens."
+  },
+  "quick_key": [
+    {
+      "if": "Tuber-bearing underground stolons; leaves often in rich disturbed soils",
+      "then": "C. esculentus versus C. rotundus — examine stolon texture and mature scale size"
+    },
+    {
+      "if": "Stolons soft/spongy when dried; tubers commonly 6–11 mm; floral scales usually yellowish-brown 1.8–2.7 mm",
+      "then": "Cyperus esculentus — yellow nutsedge; other traits must support"
+    },
+    {
+      "if": "Stolons hard/wiry; tubers commonly 3–8 mm; floral scales often purple/reddish-brown 2.6–3.4 mm",
+      "then": "Cyperus rotundus — purple nutsedge, introduced Texas comparison"
+    },
+    {
+      "if": "Spikelets flattened; basal cormlike swelling; deciduous floral scales commonly 3.2–4.5 mm",
+      "then": "Cyperus strigosus — straw-colored flatsedge; mature material required"
+    },
+    {
+      "if": "Subcylindrical spikelets; corky winged rachilla disarticulates into 1-fruited segments",
+      "then": "Cyperus odoratus — fragrant/rusty flatsedge; avoid collapsing C. engelmannii concept"
+    },
+    {
+      "if": "Only a young spikelet or an uprooted stem without underground parts",
+      "then": "Cyperus sp. until mature scale and tuber/rachilla characters available"
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Most valuable structure",
+      "esculentus": "soft stolons + mature scale",
+      "rotundus": "hard stolons + mature scale",
+      "strigosus": "cormlike base + deciduous scales",
+      "odoratus": "corky one-fruited rachilla segments"
+    },
+    {
+      "character": "Underground habit",
+      "esculentus": "Stoloniferous, often 6–11 mm tubers",
+      "rotundus": "Stoloniferous, often 3–8 mm tubers",
+      "strigosus": "Cormlike culm base",
+      "odoratus": "No tuber chain required for ID; use mature spikelet"
+    },
+    {
+      "character": "Mature scale",
+      "esculentus": "Persistent, commonly 1.8–2.7 mm",
+      "rotundus": "Persistent, commonly 2.6–3.4 mm",
+      "strigosus": "Deciduous, commonly 3.2–4.5 mm",
+      "odoratus": "Scale + corky rachilla fragment, not simple individual scale alone"
+    },
+    {
+      "character": "Spikelet",
+      "esculentus": "Flattened",
+      "rotundus": "Flattened",
+      "strigosus": "Flattened",
+      "odoratus": "Subcylindrical; jointed corky rachilla"
+    },
+    {
+      "character": "Texas native status",
+      "esculentus": "Native state; county UNRESOLVED",
+      "rotundus": "INTRODUCED, comparison only",
+      "strigosus": "Native state; county UNRESOLVED",
+      "odoratus": "Native state; county UNRESOLVED / concept caution"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Yellow nutsedge vs Purple nutsedge",
+      "look_here_first": "Carefully lift a single colony with stolons intact and compare the stolon texture; then measure several mature floral scales.",
+      "field_matrix": [
+        {
+          "character": "Stolons",
+          "esculentus": "Soft/spongy",
+          "rotundus": "Hard/wiry"
+        },
+        {
+          "character": "Tubers",
+          "esculentus": "Usually ~6–11 mm",
+          "rotundus": "Usually ~3–8 mm"
+        },
+        {
+          "character": "Scale color/size",
+          "esculentus": "Often yellow-brown, ~1.8–2.7 mm",
+          "rotundus": "Often red/purple-brown, ~2.6–3.4 mm"
+        }
+      ],
+      "caution": "All ranges and colors overlap; combine multiple traits and preserve non-native status of rotundus."
+    },
+    {
+      "title": "Straw-colored vs Fragrant flatsedge",
+      "look_here_first": "Collect MATURE spikelets. Check whether a scale falls individually from a flattened spikelet or the rachilla breaks into one-fruited corky units.",
+      "field_matrix": [
+        {
+          "character": "Spikelet",
+          "strigosus": "Flattened",
+          "odoratus": "Often subcylindrical"
+        },
+        {
+          "character": "Rachilla",
+          "strigosus": "Not fragmented into special one-fruited corky units",
+          "odoratus": "Corky winged segments disarticulate one achene at a time"
+        },
+        {
+          "character": "Basal organ",
+          "strigosus": "Cormlike thickened base",
+          "odoratus": "Use actual mature rachilla key; basal appearance alone overlaps"
+        }
+      ],
+      "caution": "The FNA broad odoratus concept may overlap C. engelmannii under current POWO taxonomy. Recheck voucher before labeling uncertain specimen."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Cyperus: sedge umbrellas, two nutsedges, two flatsedges",
+    "subtitle": "NINE physically installed exact-name, source-licensed Cyperus photos were checked as actual JPEGs. These cover flowering heads, several whole/partial plants and underground tubers. No photo currently proves submillimeter scale size or the special C. odoratus corky one-fruited rachilla.",
+    "memory_rule": "BRACTS + RAYS + SPIKELETS = FLATSEDGE PATTERN. TUBER/STOLON (esculentus/rotundus) vs MATURE SPIKELET RACHILLA (strigosus/odoratus) names the species.",
+    "items": [
+      {
+        "species_id": "cyperus-esculentus",
+        "scientific_name": "Cyperus esculentus",
+        "label": "YELLOW NUTSEDGE · SPIKELETS",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-esculentus/images/01-yellow-nutsedge-inflorescence.jpg",
+        "caption": "Compare yellow-brown flattened spikelets around the rays; do NOT diagnose tuber structure or exact scale length from this inflorescence photo.",
+        "image_fit": "contain",
+        "creator": "NY State IPM Program at Cornell University",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Yellow_Nutsedge_(18842630041).jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-esculentus",
+        "scientific_name": "Cyperus esculentus",
+        "label": "YELLOW NUTSEDGE · DRIED HARVESTED TUBERS",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-esculentus/images/02-yellow-nutsedge-tuber.jpg",
+        "caption": "Verified installed photograph of harvested, dried C. esculentus tubers in a pile. It does NOT show a growing plant, stolon connection, or mm-sized individual tubers in situ.",
+        "image_fit": "contain",
+        "creator": "Tamorlan",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_esculentus_012.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-rotundus",
+        "scientific_name": "Cyperus rotundus",
+        "label": "PURPLE NUTSEDGE · INFLORESCENCE",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-rotundus/images/01-purple-nutsedge-inflorescence.jpg",
+        "caption": "A real purple nutsedge inflorescence from Arizona; reddish tones support, but cannot by themselves separate it from yellow nutsedge.",
+        "image_fit": "contain",
+        "creator": "Mike",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_inflor.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-rotundus",
+        "scientific_name": "Cyperus rotundus",
+        "label": "PURPLE NUTSEDGE · TUBER AND RUNNER",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-rotundus/images/02-purple-nutsedge-tuber.jpg",
+        "caption": "Verified photo shows a dark C. rotundus tuber with thin connecting underground runner/stolon and shoot. Texture/hardness still cannot be established from the photo alone.",
+        "image_fit": "contain",
+        "creator": "Rickjpelleg",
+        "license": "CC BY 2.5",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_tuber01.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-rotundus",
+        "scientific_name": "Cyperus rotundus",
+        "label": "PURPLE NUTSEDGE · SPIKELET CLUSTER",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-rotundus/images/03-purple-nutsedge-spikelet.jpg",
+        "caption": "Verified photo shows a reddish inflorescence CLUSTER with numerous narrow spikelets, not a 1 mm single-scale or achene macro. Detailed scale measurements remain missing.",
+        "image_fit": "contain",
+        "creator": "Macleay Grass Man",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_spikelet_DC2.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-strigosus",
+        "scientific_name": "Cyperus strigosus",
+        "label": "STRAWCOLORED FLATSEDGE · HEAD",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-strigosus/images/01-strawcolored-flatsedge-head.jpg",
+        "caption": "A wild C. strigosus inflorescence in Massachusetts: observe the cluster's overall appearance and long bracts; stem base and detached scale macro still needed.",
+        "image_fit": "contain",
+        "creator": "Doug McGrady",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_(straw-colored_flatsedge),_Carver,_MA_(32020808972).jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-strigosus",
+        "scientific_name": "Cyperus strigosus",
+        "label": "STRAWCOLORED FLATSEDGE · MULTIPLE HEADS",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-strigosus/images/02-strawcolored-flatsedge-spikelets.jpg",
+        "caption": "Verified photo shows several whole starburst-like flowering heads with packed straw-colored spikelets; it is NOT a single disassembled or measured spikelet macro.",
+        "image_fit": "contain",
+        "creator": "Gilles Ayotte / Université Laval",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_15-p.bot-cyper.strigo-1.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-odoratus",
+        "scientific_name": "Cyperus odoratus",
+        "label": "FRAGRANT FLATSEDGE · BRANCHED HEAD",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-odoratus/images/01-fragrant-flatsedge-habit.jpg",
+        "caption": "Verified photo shows upper C. odoratus flowering rays and bracts in wet greenery, not the entire rooted plant or segmented rachilla.",
+        "image_fit": "contain",
+        "creator": "Dick Culbert",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_odoratus,_the_Fragrant_Flatsedge_(11274574473).jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      },
+      {
+        "species_id": "cyperus-odoratus",
+        "scientific_name": "Cyperus odoratus",
+        "label": "FRAGRANT FLATSEDGE · WHOLE PLANT",
+        "image_url": "content/taxa/Cyperaceae/Cyperus/cyperus-odoratus/images/02-fragrant-flatsedge-heads.jpg",
+        "caption": "Verified photo shows a whole C. odoratus flowering plant with basal foliage and branching terminal head; still does not prove corky rachilla disarticulation.",
+        "image_fit": "contain",
+        "creator": "Franz Xaver",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_odoratus_1.jpg",
+        "markers": [],
+        "annotation_status": "File physically installed in canonical species folder and rendered JPEG visually inspected 2026-10-13. No submillimeter structure or arrow coordinate verified.",
+        "photo_installation": "verified"
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "1 · See the umbrella of bracts and rays",
+        "role": "involucral bracts / umbel-like inflorescence",
+        "anchor_species_id": "cyperus-strigosus",
+        "image_file": "images/01-strawcolored-flatsedge-head.jpg",
+        "look_for": "Long leaflike INVOLUCRAL BRACTS spread from just beneath the cluster. Above them, unequal stalks (RAYS) carry smaller bunches of spikelets. Don't confuse a bract with a basal leaf.",
+        "why_it_matters": "Find the typical flatsedge silhouette before trying to name a species.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "2 · Spot packed spikelets on a flatsedge head",
+        "role": "spikelets / scales",
+        "anchor_species_id": "cyperus-strigosus",
+        "image_file": "images/02-strawcolored-flatsedge-spikelets.jpg",
+        "look_for": "Look at several round, starburst-like heads and the numerous packed narrow SPIKELETS radiating from them. Individual two-ranked scales are too small to confirm from this general view—request a detached same-mm close-up.",
+        "why_it_matters": "Cyperus spikelet architecture is far more reliable than the plant looking vaguely grass-like.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "3 · Compare yellow nutsedge aboveground",
+        "role": "yellow nutsedge head",
+        "anchor_species_id": "cyperus-esculentus",
+        "image_file": "images/01-yellow-nutsedge-inflorescence.jpg",
+        "look_for": "The yellow-brown heads of C. esculentus look distinct at first, but color fades with age. Follow the stolon underground for stronger evidence.",
+        "why_it_matters": "The right species decision requires tubers + stolon texture + measured scales, not just color.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "4 · See harvested yellow nutsedge tubers",
+        "role": "tuber / underground storage organ",
+        "anchor_species_id": "cyperus-esculentus",
+        "image_file": "images/02-yellow-nutsedge-tuber.jpg",
+        "look_for": "This verified image is a PILE of harvested, dried yellow nutsedge tubers. It teaches the look of the storage organ, but the actual underground soft stolon connection is not visible. A fully excavated same-plant photo is still needed.",
+        "why_it_matters": "Separates the underground growth strategy from ordinary fibrous roots.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "5 · Compare purple nutsedge flowering head",
+        "role": "reddish spikelet / purple nutsedge",
+        "anchor_species_id": "cyperus-rotundus",
+        "image_file": "images/01-purple-nutsedge-inflorescence.jpg",
+        "look_for": "C. rotundus commonly has red-brown to purplish persistent floral scales, but hue overlaps yellow nutsedge and is a supporting character only.",
+        "why_it_matters": "Tuber/stolon combinations are more reliable than calling every reddish sedge purple nutsedge.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "6 · Compare purple nutsedge's tuber",
+        "role": "purple nutsedge tuber / hard stolon needed",
+        "anchor_species_id": "cyperus-rotundus",
+        "image_file": "images/02-purple-nutsedge-tuber.jpg",
+        "look_for": "The verified photo shows a purple nutsedge tuber connected by a thin dark horizontal underground runner to a shoot. Locate the tuber and stolon; the expected HARD/WIRY texture still needs a specimen in hand.",
+        "why_it_matters": "The underground character is a key field split from yellow nutsedge.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "7 · Find reddish spikelet clusters",
+        "role": "flattened spikelet / floral scales",
+        "anchor_species_id": "cyperus-rotundus",
+        "image_file": "images/03-purple-nutsedge-spikelet.jpg",
+        "look_for": "Verified photo of several reddish clusters bearing many narrow spikelets, NOT a detached single-scale macro. A true 1 mm side-view of one mature spikelet is still a photo target.",
+        "why_it_matters": "A close-up can teach scales, rachilla and flower units that whole-head portraits hide.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "8 · Locate fragrant flatsedge's rays and bracts",
+        "role": "fragrant flatsedge rays / mature rachilla needs macro",
+        "anchor_species_id": "cyperus-odoratus",
+        "image_file": "images/01-fragrant-flatsedge-habit.jpg",
+        "look_for": "The photo shows the upper flowering head with radiating green bracts and narrow spikelet clusters. It does not show the underground base or the decisive corky segmented rachilla.",
+        "why_it_matters": "Sets up the FNA C. odoratus separation without pretending a broad habit photo proves microscopic segments.",
+        "photo_installation": "verified"
+      },
+      {
+        "title": "9 · NEED PHOTO — jointed rachilla vs deciduous scales",
+        "role": "mature spikelet dissection / rachilla / achene",
+        "look_for": "Matched mature C. odoratus segments showing corky wings and one achene versus C. strigosus flattened spikelets with deciduous scales and a cormlike plant base. Include 1 mm ruler.",
+        "why_it_matters": "This is the highest-value fine botanical separator for the flatsedge pair.",
+        "status": "needs_photo",
+        "photo_installation": "needs_photo"
+      }
+    ],
+    "annotation_policy": "Photo subjects individually inspected against role labels. NO arrows are installed or approved. Single-scales, achenes, stigma branches, actual rachilla segments and matched underground stolon texture need future macroscopic/microscopic captures.",
+    "study_only_intro": "Outside educational pages with existing magnified photos or annotated comparisons. These are reference links only: no rights to copy their diagrams or images to this project have been established.",
+    "study_only_photo_links": [
+      {
+        "label": "University sedge workshop — C. odoratus corky rachilla segment arrows (external PDF)",
+        "url": "https://www.valdosta.edu/biology/documents/faculty-documents/carter-docs/sedge-workshop-fnps-2010.pdf",
+        "look_for": "A workshop photograph with arrows shows how a ripe spikelet breaks into one- to two-fruited corky segments; compare to C. strigosus deciduous glumes.",
+        "reuse": "Link only; reuse rights not established; not installed."
+      },
+      {
+        "label": "Mississippi State Extension — purple vs yellow nutsedge plant and tuber photographs",
+        "url": "https://www.accessibility.extension.msstate.edu/publications/purple-nutsedge-vs-yellow-nutsedge",
+        "look_for": "Two named species pictured with their differently shaped mature tubers; compare intact rhizome chain with tuber photos.",
+        "reuse": "External educational reference only; not installed."
+      }
+    ]
+  },
+  "photo_diagnostic_requirements": [
+    {
+      "priority": 1,
+      "pair": "esculentus / rotundus",
+      "features": [
+        "same-angle excavated full underground stolon chain",
+        "hard/wiry vs soft/spongy stolon at same mm scale",
+        "mature scale side macro 1 mm divisions",
+        "achene and tuber measurements"
+      ],
+      "status": "needs_photo"
+    },
+    {
+      "priority": 1,
+      "pair": "strigosus / odoratus",
+      "features": [
+        "individual mature spikelet laid flat with 1 mm scale",
+        "odoratus one-fruited corky winged rachilla units clearly separated",
+        "strigosus deciduous scale and cormlike basal swelling",
+        "3 stigma branches plus achenes"
+      ],
+      "status": "needs_photo"
+    },
+    {
+      "priority": 2,
+      "pair": "Cyperaceae vs Poaceae/Juncaceae",
+      "features": [
+        "same-scale closed sedge sheath vs grass ligule/node",
+        "Cyperus overlapping distichous scales and achene vs grass lemma/palea and rush six tepals"
+      ],
+      "status": "needs_photo"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "FNA Cyperus genus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=109010"
+    },
+    {
+      "title": "Existing four-taxon science review",
+      "path": "reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md"
+    },
+    {
+      "title": "FNA Cyperus odoratus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242357691"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-cyperus-first-visual-comparison",
+    "reviewed": "2026-10-13",
+    "family": "Cyperaceae",
+    "photo_candidate_count": 9,
+    "photo_installed_count": 9,
+    "photo_status": "9 physical JPEGs verified after successful GitHub curation workflow 38502809680 (zero warnings); visually inspected for honest broad anatomy roles.",
+    "taxonomy_gate": "Four source pool reviewed concepts; odoratus/engelmannii comparison caution retained",
+    "target_zone_decisions_changed": 0,
+    "canonical_installed_species_count": 4,
+    "canonical_manifest_species_count_after_install": 526,
+    "next_stage": "FINAL DIAGNOSTIC PHOTO POLISH only: matched intact underground stolon systems, mm-scale floral scales, C. odoratus corky one-fruited rachilla fragments, C. strigosus cormlike base, verified annotation arrows and iPhone display inspection",
+    "canonical_species_installed": 4,
+    "last_media_audit": "2026-10-13"
+  }
+}

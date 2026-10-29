@@ -1,0 +1,95 @@
+{
+  "id": "allium-canadense",
+  "entry_type": "species",
+  "family": "Amaryllidaceae",
+  "genus": "Allium",
+  "species": "canadense",
+  "scientific_name": "Allium canadense",
+  "authority": "L.",
+  "common_name": "Meadow garlic",
+  "look_here_first": "Inspect the intact umbel spathe: usually 3–4 bracts with 3–7 veins each. Check flowers versus aerial bulbils; their absence does not exclude this variable species.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 34; 2026-10-07 taxonomy/diagnostic review",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state level; three target-zone counties not yet verified."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "leaves": "Basal linear leaves 20–50 cm long, 1–7 mm wide.",
+    "spathe": "3–4 papery bracts, generally 3–7-veined.",
+    "umbel": "Loose cluster with 0–60 flowers; bulbils often present, but variable."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Allium drummondii",
+      "Nothoscordum bivalve"
+    ],
+    "key_distinctions": "A. drummondii usually has 2–3 nearly one-veined spathe bracts and mostly flowers, bulbils rare. Nothoscordum lacks strong onion odor. Color and bulbil absence alone are insufficient."
+  },
+  "diagnostic_image_plan": [
+    {
+      "role": "spathe macro",
+      "target": "count veins"
+    },
+    {
+      "role": "umbel",
+      "target": "show bulbils and flowers"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/allium-canadense-umbel.jpg",
+      "role": "Umbel, provisional",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Allium_canadense_var_canadense.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6178851994-efb42aa4a.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Intact umbel spathe with bracts and veins; flowers compared with aerial bulbils",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6178851994",
+      "gbif_occurrence_id": "6178851994",
+      "source_determination": "Allium canadense L.",
+      "accepted_target": "Allium canadense",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625462975/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

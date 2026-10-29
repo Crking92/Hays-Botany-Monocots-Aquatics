@@ -1,0 +1,141 @@
+{
+  "id": "yucca-rupicola",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "species": "rupicola",
+  "scientific_name": "Yucca rupicola",
+  "authority": "Scheele",
+  "common_name": "Twisted-leaf Yucca",
+  "synonyms": [
+    "Yucca rupicola var. tortifolia Engelm.",
+    "Yucca tortifolia Lindh. & G.M.Ross",
+    "Yucca lutescens Carrière",
+    "Yucca tortilis Carrière"
+  ],
+  "taxonomic_note": "Kew accepts Yucca rupicola; native range is south-central Texas (southeastern Edwards Plateau) to northeastern Mexico. FNA describes it as endemic to the southeastern Edwards Plateau within its U.S. range.",
+  "field_group": "Low acaulescent yucca",
+  "look_here_first": "Look at the leaves before the flower: a low, essentially trunkless colony with flexible dark-green leaves that twist helically and have wavy/denticulate orange to reddish-brown margins.",
+  "project_tracker_diagnostic": "acaulescent/trunkless open colonies of 2–15 rosettes; flexible lanceolate leaves, 35–60 cm long and 1.7–4 cm wide; leaves conspicuously twisted and strongly concave; leaf margins wavy or minutely toothed, dark orange to reddish brown; inflorescence rises well beyond the rosette; fruit erect, dry, dehiscent capsule rather than a fleshy berry",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — UT Plant Resources Center Flora of Purola Preserve lists Yucca rupicola among naturally occurring, non-introduced plants of northern Hays County. Travis — Balcones Canyonlands Preserve plant list for Travis County includes twist-leaf yucca (Yucca rupicola). Williamson — UT Plant Resources Center provides a detailed Vascular Plants of Williamson County treatment for Yucca rupicola."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "acaulescent/trunkless open colonies of 2–15 rosettes",
+      "flexible lanceolate leaves, 35–60 cm long and 1.7–4 cm wide",
+      "leaves conspicuously twisted and strongly concave",
+      "leaf margins wavy or minutely toothed, dark orange to reddish brown",
+      "inflorescence rises well beyond the rosette",
+      "fruit erect, dry, dehiscent capsule rather than a fleshy berry"
+    ],
+    "joey_field_note": "Joey's landscaping frame gives a clear whole-rosette view and leaf architecture. Use the low basal rosette and visibly twisting blades as the immediate field gestalt, then confirm the orange-to-reddish wavy/denticulate margins."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Yucca constricta",
+      "Yucca pallida"
+    ],
+    "key_distinctions": "Yucca constricta: Both are low colony-forming yuccas, but Y. rupicola has broader flexible twisted leaves with orange/red wavy-toothed margins; Y. constricta has much narrower mostly straight leaves with whitish filiferous margins and a deeply waist-constricted capsule. Yucca pallida: Pale yucca is usually glaucous blue-green with straighter leaves and flatter yellowish margins; Y. rupicola is darker green, visibly twisted, and has wavy orange/red margins."
+  },
+  "tags": [
+    "Asparagaceae",
+    "Yucca",
+    "Twisted-leaf Yucca",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.1-b004-joey",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_enhanced": true,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Exact reusable source image metadata locked. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "images": [
+    {
+      "file": "images/01-habit.jpg",
+      "role": "Whole rosette / twisted-leaf habit",
+      "creator": "Dane Larsen",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yucca_rupicola.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-607698000-colony.jpg",
+      "role": "Whole-plant colony habit: multiple basal leaf rosettes in rocky open habitat; leaf-margin close-up still needed",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/607698000",
+      "observation_url": "https://www.inaturalist.org/observations/334613780",
+      "observation_id": 334613780,
+      "photo_id": 607698000,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/607698000/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-623378710-rosette.jpg",
+      "role": "Isolated basal rosette with narrow twisting leaves; margin denticles not clearly resolved",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/623378710",
+      "observation_url": "https://www.inaturalist.org/observations/342331558",
+      "observation_id": 342331558,
+      "photo_id": 623378710,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/623378710/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "14:10",
+      "record_id": "jvid-mA0uMKVyswA-009",
+      "role": "basal rosette / leaf architecture",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    }
+  ]
+}

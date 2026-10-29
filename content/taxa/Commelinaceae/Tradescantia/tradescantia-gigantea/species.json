@@ -1,0 +1,103 @@
+{
+  "id": "tradescantia-gigantea",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "gigantea",
+  "scientific_name": "Tradescantia gigantea",
+  "authority": "Rose",
+  "common_name": "Giant Spiderwort",
+  "synonyms": [],
+  "taxonomic_note": "Accepted in the current Kew/POWO Tradescantia backbone; learner retained at species rank.",
+  "look_here_first": "Start with size and lower-stem hairiness. Giant spiderwort is the robust, usually single-stemmed member of this trio, reaching about 90 cm in the Williamson treatment; the lower stem is essentially glabrous while the upper internodes become finely hairy. Its conspicuous paired leaflike bracts and relatively broad strap-shaped leaves reinforce the ID.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County wild occurrence documentation; UT Plant Resources Center Travis County herbarium index; UT Williamson County species treatment.",
+    "range_guardrail": "County PASS uses explicit Hays occurrence plus Travis/Williamson flora-herbarium records; no broad Central Texas range inference."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "robust perennial, usually 1-stemmed at the base",
+      "suberect habit to about 90 cm in the Williamson treatment",
+      "lower stems essentially glabrous; upper internodes puberulent to short-pilose",
+      "strap-shaped to narrowly lanceolate-linear leaves, to about 39 mm wide locally",
+      "terminal condensed cymes subtended by conspicuous leaflike bracts",
+      "sepals with nonglandular pubescence"
+    ],
+    "comparison_training": "T. humilis is low, many-stemmed and conspicuously hairy. T. occidentalis is narrower-leaved and has obvious long-stalked glandular hairs on the internodes. T. gigantea is the taller robust plant with relatively smooth lower stems."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tradescantia humilis",
+      "Tradescantia occidentalis"
+    ],
+    "key_distinctions": "T. humilis is low, many-stemmed and conspicuously hairy. T. occidentalis is narrower-leaved and has obvious long-stalked glandular hairs on the internodes. T. gigantea is the taller robust plant with relatively smooth lower stems."
+  },
+  "tags": [
+    "Commelinaceae",
+    "Tradescantia",
+    "Giant Spiderwort",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b029",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/tradescantia-gigantea-provisional-face.jpg",
+      "role": "Flower close-up / recognizable face",
+      "creator": "Uli Lorimer (dogtooth77)",
+      "license": "CC BY-NC-SA 2.0",
+      "source_page": "https://www.flickr.com/photos/53817483@N00/8648820375",
+      "study_use": "yes",
+      "public_reuse": "noncommercial_only"
+    },
+    {
+      "file": "images/gbif-manual-6163269479-0ea613e39.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Robust single-stem habit, essentially hairless lower culm and upper-node bracts",
+      "creator": "cindyvigil4",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6163269479",
+      "gbif_occurrence_id": "6163269479",
+      "source_determination": "Tradescantia gigantea Rose",
+      "accepted_target": "Tradescantia gigantea",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614778071/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

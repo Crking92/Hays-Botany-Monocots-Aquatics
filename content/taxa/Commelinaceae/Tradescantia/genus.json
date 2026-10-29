@@ -1,0 +1,130 @@
+{
+  "rank": "genus",
+  "family": "Commelinaceae",
+  "name": "Tradescantia",
+  "authority": "Ruppius ex L.",
+  "common_group": "Spiderworts",
+  "project_scope": {
+    "selection_mode": "B029 first same-genus Central Texas comparison",
+    "species_ids": [
+      "tradescantia-edwardsiana",
+      "tradescantia-gigantea",
+      "tradescantia-hirsutiflora",
+      "tradescantia-humilis",
+      "tradescantia-occidentalis",
+      "tradescantia-pedicellata"
+    ],
+    "species_count": 6,
+    "expansion_note": "Six existing canonical cards; preserve each card's current taxonomy and range status. No canonical installs."
+  },
+  "study_strategy": {
+    "priority": [
+      "basal branching and overall habit",
+      "leaf width and sheath",
+      "internode/peduncle hair type",
+      "inflorescence bracts",
+      "sepal pubescence"
+    ],
+    "warning": "Flower color overlaps heavily. Start with plant architecture and hair type, then confirm the inflorescence and sepals."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "Tradescantia gigantea — robust/tall, usually one-stemmed at the base, lower stem nearly glabrous, broader foliage.",
+      "Tradescantia humilis — low, many-stemmed, bushy and conspicuously hairy, becoming strongly glandular near the inflorescence.",
+      "Tradescantia occidentalis — intermediate/taller prairie plant with narrow grassier leaves and conspicuous long-stalked glandular hairs on internodes and peduncles."
+    ],
+    "caveat": "Tradescantia hybridization is documented regionally, so atypical plants should be checked with multiple characters rather than flower color alone."
+  },
+  "curation_status": {
+    "version": "1.1-six-canonical-species-framework-2026-10-10",
+    "last_reviewed": "2026-10-03",
+    "visual_status": "comparison_macros_pending",
+    "canonical_species_unchanged": true
+  },
+  "look_here_first": "Check lower-stem branching and hair type with a hand lens, then measure a mid-stem leaf blade and examine floral pedicels/sepals. Flowers alone are insufficient.",
+  "shared_genus_traits": "Herbaceous spiderworts with sheathing leaves, terminal paired cymes enclosed by leaflike bracts, and three-petaled flowers; use leaf width, stem/pedicel hairs, bract form and rootstock to separate species.",
+  "species_comparison_matrix": [
+    {
+      "taxon": "Tradescantia gigantea",
+      "first_split": "Robust, often single-stemmed base; lower stem nearly hairless",
+      "confirm": "Broad straplike leaves to ~39 mm; sepals nonglandular-hairy"
+    },
+    {
+      "taxon": "Tradescantia humilis",
+      "first_split": "Low, many-stemmed and densely hairy",
+      "confirm": "Often under 20 cm; long vegetative hairs and glandular flower stalks"
+    },
+    {
+      "taxon": "Tradescantia occidentalis",
+      "first_split": "Narrow leaves (~6–17 mm) with long-stalked glandular hairs on internodes/peduncles",
+      "confirm": "Glandular sepals; taller and less bushy than T. humilis"
+    },
+    {
+      "taxon": "Tradescantia edwardsiana",
+      "first_split": "Robust, broad mid-stem leaves (~2–5 cm)",
+      "confirm": "Often 40–80 cm tall; stem nearly hairless; compare directly with T. gigantea"
+    },
+    {
+      "taxon": "Tradescantia hirsutiflora",
+      "first_split": "Narrow leaves; hairy stems, bracts and sepals",
+      "confirm": "Slender fibrous roots; distinguish from tuberous-rooted T. pedicellata"
+    },
+    {
+      "taxon": "Tradescantia pedicellata",
+      "first_split": "Small narrow-leaved clump, often ~10–40 cm",
+      "confirm": "Elongate pedicels, sparse glandular hairs, distally thickened tuberous roots"
+    }
+  ],
+  "overlap_cautions": [
+    "T. gigantea and T. edwardsiana overlap in robust broad-leaved habit: do not force a species ID without a regional key and measured reproductive details; hand off this exact pair for diagnostic review.",
+    "T. occidentalis, T. hirsutiflora and T. pedicellata overlap in narrow leaves and some hair characters. Roots and pedicel/sepal macros may be necessary.",
+    "Rootstock photographs require authorized collection or existing verified specimens; never uproot plants solely to satisfy the photo checklist.",
+    "Flower color overlaps all six and is not a diagnostic split."
+  ],
+  "realistic_lookalikes": [
+    {
+      "taxon": "Commelina spp.",
+      "separate": "Commelina flowers typically have unequal petals and a folded spathe enclosing the cyme; Tradescantia has three more similar petals and paired leaflike inflorescence bracts."
+    },
+    {
+      "taxon": "Other Tradescantia species",
+      "separate": "Use several traits together: mid-stem blade width, lower-stem pubescence, glandular versus nonglandular sepal hairs, and roots."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "character": "lower-stem branching and hair",
+      "shot": "Same-scale basal habit plus 10x lower-stem hair macros for all six",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "character": "leaf width and sheath",
+      "shot": "Measured mature mid-stem leaves with base/sheath visible for all six",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "character": "pedicel and sepal glandular hairs",
+      "shot": "Paired closeups showing stalked glands versus nonglandular hairs",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "character": "roots for narrow-leaved pair",
+      "shot": "Verified specimen photos showing fibrous T. hirsutiflora versus thickened tuberous T. pedicellata roots",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "character": "paired cymes and bracts",
+      "shot": "Top and side views with two inflorescence bracts labeled",
+      "owner": "Diagnostic Photo Polish"
+    }
+  ],
+  "targeted_handoff": {
+    "lane": "Taxonomy + Diagnostic Review",
+    "question": "Verify decisive separation of broad-leaved T. gigantea vs T. edwardsiana and narrow-leaved T. occidentalis/T. hirsutiflora/T. pedicellata using regional technical key before presenting this matrix as a definitive species key."
+  }
+}

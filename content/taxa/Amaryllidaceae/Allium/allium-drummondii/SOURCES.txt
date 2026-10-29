@@ -1,0 +1,18 @@
+Allium drummondii Regel — approved Master Plant Pool row 35; reviewed 2026-10-07.
+POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:527963-1
+FNA: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101355
+Range: UNRESOLVED for target zone; Texas-native at state level, not a three-county PASS.
+Photo: abbamouse, CC BY-SA 2.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Allium_Drummondii.jpg
+Missing spathe-venation and bulb/leaf macros. Synonyms are not new species cards.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:58:39.157612+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/261412299
+https://www.inaturalist.org/observations/151500268
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:15:01.880299+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/261412337
+https://www.inaturalist.org/observations/151500268
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

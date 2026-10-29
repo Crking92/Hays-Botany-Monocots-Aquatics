@@ -1,0 +1,9 @@
+Phase3 source-pool concept, source rows 1164
+Exact named photo and rights on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Thalia_geniculata_370188828.jpg
+Physical photo source: https://commons.wikimedia.org/wiki/Special:Redirect/file/Thalia%20geniculata%20370188828.jpg
+Creator: Alex Abair
+Photo license: CC BY 4.0
+Working taxonomy: https://powo.science.kew.org/results?q=Thalia%20geniculata
+Provisional view: Provisional emergent wetland-plant recognition; flower details and seed characters need later views.
+Caution: Original photograph is from Florida. Exact Hays County native-range evaluation remains separate.
+No county-level native-range inference and no diagnostic-photo completeness assertion.

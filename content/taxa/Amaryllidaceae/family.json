@@ -1,0 +1,240 @@
+{
+  "rank": "family",
+  "name": "Amaryllidaceae",
+  "common_name": "Amaryllis / onion family",
+  "lineage_context": {
+    "order": "Asparagales",
+    "batch": "Asparagales",
+    "close_project_families": [
+      "Asparagaceae",
+      "Iridaceae",
+      "Orchidaceae"
+    ],
+    "teaching_goal": "Teach the local family as bulbous/scapose monocots with 6 tepals + 6 stamens and a spathe-bracted umbel, then use odor and ovary position to split Allium/Nothoscordum from Zephyranthes."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across Allium, Nothoscordum and Zephyranthes",
+    "note": "The project pool spans both Allioideae-like superior-ovary onions/false garlics and Amaryllidoideae-like inferior-ovary rain lilies, so ovary position is taught as an internal genus-routing character rather than a family absolute."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start below the flower: look for a bulbous geophyte with mostly basal linear leaves and a leafless or nearly leafless scape ending in an umbel subtended by one or more spathe bracts. Then confirm 6 tepals and 6 stamens.",
+    "vegetative": "Perennial bulbous herbs in the local pool. Leaves are mostly basal, simple and linear to straplike; flowering stalk is scapose.",
+    "reproductive": "Flowers typically have 6 petaloid tepals in two whorls and 6 stamens. Inflorescences are umbellate and subtended by spathe bracts. Ovary position varies in the project pool: superior in Allium and Nothoscordum, inferior in Zephyranthes.",
+    "fruit": "Usually a 3-locular capsule with black seeds in the project genera.",
+    "field_tip": "Bulb + scapose spathe-bracted umbel + 6 tepals + 6 stamens gets the family hypothesis. Then ask: onion odor? superior or inferior ovary? broad rain-lily flower or many-flowered umbel?"
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_008",
+    "teaching_order": "bulb/scapose habit → spathe-bracted umbel → 6 tepals + 6 stamens → ovary position → genus doors → Asparagales comparison",
+    "intro": "This family is easiest if you read the whole reproductive stalk before staring at flower color: bulb, scape, spathe, umbel, then six-and-six.",
+    "steps": [
+      {
+        "title": "1 · Find the bulb-to-scape architecture",
+        "photo_role": "whole plant with bulb/base and scape",
+        "look_for": "Basal linear leaves and a mostly leafless flowering stalk arising from a bulb.",
+        "why_it_matters": "Separates these geophytes from grasslike monocots with leafy stems.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the spathe around the umbel",
+        "photo_role": "bud/inflorescence close-up",
+        "look_for": "One or more papery or membranous spathe bracts subtending the flower cluster.",
+        "why_it_matters": "The spathe-bracted umbel is a high-value family pattern in the project pool.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Count six tepals and six stamens",
+        "photo_role": "flower face + side view",
+        "look_for": "Three outer plus three inner petaloid tepals and six stamens.",
+        "why_it_matters": "Establishes the basic Asparagales floral plan before genus routing.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Use ovary position to choose a door",
+        "photo_role": "paired flower-side diagrams",
+        "look_for": "Allium/Nothoscordum: ovary above tepal/stamen insertion; Zephyranthes: ovary below the perianth tube.",
+        "why_it_matters": "This is the cleanest internal split across the project genera.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Allium door: the actual onion/garlic",
+        "photo_role": "Allium umbel + bulb/leaf",
+        "look_for": "Alliaceous onion/garlic odor plus spathe-bracted umbel; superior 3-locular ovary.",
+        "why_it_matters": "Separates true onions from Nothoscordum when flowers are similar.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Nothoscordum door: false garlic without the odor",
+        "photo_role": "Nothoscordum bivalve flower/umbel",
+        "look_for": "White to cream flowers in a small umbel, superior ovary, and no alliaceous odor.",
+        "why_it_matters": "A high-value Central Texas lookalike to small onions.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Zephyranthes door: one/few large rain-lily flowers",
+        "photo_role": "Zephyranthes flower side + ovary",
+        "look_for": "Relatively large funnel-shaped 6-tepaled flower on a scape, with an inferior ovary below the flower.",
+        "why_it_matters": "Makes the rain-lily subgroup visually distinct without removing it from Amaryllidaceae.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Amaryllidaceae vs Iridaceae",
+        "rule": "Both can be bulbous/cormous Asparagales with showy 6-tepaled flowers. Iridaceae has only 3 fertile stamens and an inferior ovary; Amaryllidaceae project genera have 6 stamens, with ovary position varying by subgroup."
+      },
+      {
+        "title": "Amaryllidaceae vs Asparagaceae",
+        "rule": "Both may have 6 tepals and 6 stamens, but the project Amaryllidaceae strongly emphasizes bulb + scape + spathe-bracted umbel. Local Yucca/Asparagaceae uses fibrous rosette leaves and large terminal panicles rather than this onion/rain-lily architecture."
+      },
+      {
+        "title": "Amaryllidaceae vs Orchidaceae",
+        "rule": "Orchids have a labellum, reproductive column and typically one fertile stamen; Amaryllidaceae has a regular 6-tepal/6-stamen flower without an orchid column."
+      }
+    ],
+    "caveat": "Do not teach inferior ovary as universal for Amaryllidaceae. Allium and Nothoscordum in the project have superior ovaries; Zephyranthes has an inferior ovary."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 3,
+    "genera": [
+      {
+        "genus": "Allium",
+        "taxa_count": 2,
+        "fast_cue": "alliaceous odor + spathe-bracted umbel + superior ovary",
+        "role": "true onion door"
+      },
+      {
+        "genus": "Nothoscordum",
+        "taxa_count": 1,
+        "fast_cue": "onion-like bulb/umbel but no alliaceous odor; superior ovary",
+        "role": "false-garlic door"
+      },
+      {
+        "genus": "Zephyranthes",
+        "taxa_count": 2,
+        "fast_cue": "large rain-lily flower + inferior ovary",
+        "role": "rain-lily door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Allium canadense",
+    "Allium drummondii",
+    "Nothoscordum bivalve",
+    "Zephyranthes drummondii",
+    "Zephyranthes chlorosolen"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Allium canadense",
+      "current_name": "Allium canadense",
+      "note": "Accepted current species; distinguish the Linnaean accepted name from later illegitimate homonyms in nomenclatural databases."
+    },
+    {
+      "source_name": "Allium drummondii",
+      "current_name": "Allium drummondii",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Nothoscordum bivalve",
+      "current_name": "Nothoscordum bivalve",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Zephyranthes drummondii",
+      "current_name": "Zephyranthes drummondii",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Cooperia drummondii",
+      "current_name": "Zephyranthes chlorosolen",
+      "note": "Historical/source synonym; do not create a duplicate current taxon."
+    },
+    {
+      "source_name": "Zephyranthes chlorosolen",
+      "current_name": "Zephyranthes chlorosolen",
+      "note": "Accepted current species."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "spathe-bracted umbel",
+      "annotation_goal": "label scape, spathe and individual pedicels"
+    },
+    {
+      "priority": 1,
+      "structure": "superior vs inferior ovary",
+      "annotation_goal": "Allium/Nothoscordum versus Zephyranthes side view"
+    },
+    {
+      "priority": 1,
+      "structure": "Allium vs Nothoscordum",
+      "annotation_goal": "same basic umbel architecture; emphasize odor caution and flower/bulb details"
+    },
+    {
+      "priority": 2,
+      "structure": "Zephyranthes flower-to-capsule sequence",
+      "annotation_goal": "show inferior ovary below perianth and 3-locular capsule"
+    },
+    {
+      "priority": 2,
+      "structure": "Cooperia drummondii → Zephyranthes chlorosolen taxonomy card",
+      "annotation_goal": "legacy source name to accepted current name"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Allium",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=101086"
+    },
+    {
+      "source": "Flora of North America — Nothoscordum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=122440"
+    },
+    {
+      "source": "Flora of North America — Zephyranthes",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=135293"
+    },
+    {
+      "source": "Plants of the World Online — Allium canadense",
+      "url": "https://powo.science.kew.org/taxon/527759-1"
+    },
+    {
+      "source": "Plants of the World Online — Allium drummondii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:527963-1"
+    },
+    {
+      "source": "Plants of the World Online — Nothoscordum bivalve",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170498-2"
+    },
+    {
+      "source": "Plants of the World Online — Zephyranthes drummondii",
+      "url": "https://powo.science.kew.org/taxon/67221-1"
+    },
+    {
+      "source": "Plants of the World Online — Zephyranthes chlorosolen",
+      "url": "https://powo.science.kew.org/taxon/67209-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-008",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_ovary_and_umbel_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-13",
+    "look_here_first": "Count fertile stamens in one open flower, then check ovary position and spathe. Local Amaryllidaceae has six stamens, whereas Iridaceae has three. Zephyranthes and Iridaceae both have inferior ovaries, so ovary position alone is not a family separator.",
+    "comparison": "Allium and Nothoscordum: six stamens, superior ovary, spathe-bracted umbels. Zephyranthes: six stamens, inferior ovary, often solitary flower. Sisyrinchium and Nemastylis: three stamens and inferior ovary.",
+    "genus_routing": "Allium: spathe veins and bulbils/flowers; Nothoscordum: superior ovary and false-garlic umbel; Zephyranthes: stigma and perianth tube. Preserve Cooperia drummondii synonym provenance.",
+    "diagnostic_visual_roles": [
+      "Matched numbered six-versus-three stamen macros",
+      "Side-by-side superior and inferior ovary cutaways with insertion arrows",
+      "Spathe, scape and pedicel annotations",
+      "Allium spathe venation and bulbil comparison",
+      "Zephyranthes solitary flower through capsule development"
+    ],
+    "handoff": "Diagnostic Photo Polish owns licensed macro acquisition."
+  }
+}

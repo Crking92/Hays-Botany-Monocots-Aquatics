@@ -1,0 +1,40 @@
+{
+  "id": "bletia-nitida",
+  "family": "Orchidaceae",
+  "genus": "Bletia",
+  "species": "nitida",
+  "scientific_name": "Bletia nitida",
+  "common_name": "Glass Mountain coralroot / shining hexalectris",
+  "look_here_first": "Inspect the leafless pinkish or rose flowering spike and waxy narrowly opening orchid flowers; use a close view of each sepal, petal, lip, and column to distinguish from crested and revolute coralroots.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77211341-1",
+  "synonyms": [],
+  "photo_observed_taxon": "Bletia nitida",
+  "photo_observed_taxon_relation": "documented_synonym",
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-454216217.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) john, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/454216217",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "rank": "family",
+  "name": "Pontederiaceae",
+  "common_name": "Pickerelweed / water-hyacinth family",
+  "project_scope": {
+    "selection_mode": "San Marcos River Heteranthera-first aquatic lesson",
+    "canonical_anchor": "Heteranthera dubia",
+    "note": "Current local lesson is intentionally species-centered because the family is morphologically broader than the single canonical anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Begin with the aquatic habit, then inspect the inflorescence and flower: Heteranthera dubia has narrow submerged foliage and a solitary yellow flower with three fertile stamens; Pontederia cordata has emergent leaves and a dense flowering spike; Pontederia crassipes forms floating rosettes with often swollen petioles. Confirm using reproductive structures rather than leaf shape or color alone.",
+    "vegetative": "Aquatic or wetland monocots; leaf form varies widely across the family.",
+    "flowers": "Perianth commonly 6-parted; floral symmetry and stamen number vary by genus. Heteranthera dubia has a yellow salverform flower with three stamens.",
+    "fruit": "Fruit differs by genus: Heteranthera dubia produces a capsule; Pontederia cordata develops a one-seeded indehiscent fruit enclosed by persistent floral tissue; Pontederia crassipes can produce a many-seeded capsule. Do not generalize the Heteranthera fruit or seed morphology to the whole family.",
+    "field_tip": "Do not generalize the narrow grasslike leaves or yellow flower to all Pontederiaceae—those are Heteranthera traits."
+  },
+  "visual_lesson": {
+    "status": "family_structure_live_visual_assets_pending",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Heteranthera dubia is a memorable family doorway because the grasslike aquatic foliage suddenly produces a bright yellow flower with unusual left/right reproductive handedness.",
+    "steps": [
+      {
+        "title": "1 · Start with the aquatic habit",
+        "photo_role": "linear submerged/procumbent leaves",
+        "anchor_species_id": "heteranthera-dubia",
+        "look_for": "Thin linear leaves on a submerged or procumbent aquatic plant.",
+        "why_it_matters": "The plant can look grasslike until it flowers.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "2 · Find the solitary yellow flower",
+        "photo_role": "salverform flower",
+        "anchor_species_id": "heteranthera-dubia",
+        "look_for": "One yellow flower with a long tube rising above the foliage.",
+        "why_it_matters": "The reproductive structure immediately breaks the grasslike illusion.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "3 · Count three stamens",
+        "photo_role": "flower center",
+        "anchor_species_id": "heteranthera-dubia",
+        "look_for": "Three equal stamens plus the style inside the 6-part flower.",
+        "why_it_matters": "This is a strong local genus/species confirmation.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "4 · Compare mirror-image flowers",
+        "photo_role": "enantiostyly / floral handedness",
+        "anchor_species_id": "heteranthera-dubia",
+        "look_for": "Style and anthers positioned as left/right mirror images between flowers.",
+        "why_it_matters": "A powerful morphology lesson, even though it should not be the sole ID character.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "5 · Check ovary position against tape-grass",
+        "photo_role": "matched Pontederiaceae flower side/section versus Vallisneria female flower side/section",
+        "anchor_species_id": "heteranthera-dubia",
+        "look_for": "In a verified flower side view or dissection, trace the perianth insertion: BELOW the superior ovary in Pontederiaceae, ABOVE the inferior ovary in the female Vallisneria flower. A flower-face photograph cannot establish this.",
+        "why_it_matters": "Superior versus inferior ovary separates these otherwise confusable aquatic monocot families; Vallisneria also has detached floating male flowers and a coiling female stalk.",
+        "status": "annotation_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Pontederiaceae vs grasslike aquatics",
+        "rule": "Linear leaves alone are misleading. The showy 6-part flower and capsule place Heteranthera far from Poaceae."
+      },
+      {
+        "title": "Route local Pontederiaceae genera",
+        "rule": "Solitary yellow flower with three stamens and narrow aquatic leaves suggests Heteranthera dubia. A dense emergent spike suggests Pontederia cordata; floating rosettes with often inflated petioles suggest Pontederia crassipes. Confirm flowers and fruit."
+      },
+      {
+        "title": "Pontederiaceae vs Potamogetonaceae",
+        "rule": "In narrow-leaved submerged aquatics, inspect the leaf base: compare the Heteranthera sheath with Potamogeton stipules. Confirm the showy six-part Heteranthera flower versus reduced pondweed spike flowers; leaf shape alone is not enough."
+      },
+      {
+        "title": "Pontederiaceae vs Commelinaceae — floral parts",
+        "rule": "Compare six petaloid perianth lobes in Pontederiaceae with three distinct sepals and three petals in Commelinaceae. Heteranthera dubia has three fertile stamens; Commelina commonly has three fertile stamens plus three staminodes. Both families generally have superior ovaries, so ovary position alone does not separate them."
+      },
+      {
+        "title": "Pontederiaceae vs Hydrocharitaceae — ovary position and aquatic flowers",
+        "rule": "Do not use aquatic habit or ribbonlike leaves alone. In the local Pontederiaceae, inspect a flower side view: the ovary is SUPERIOR (the perianth arises below it); Heteranthera dubia has a conspicuous bisexual six-part flower and a capsule, while Pontederia cordata has a many-flowered spike and a one-seeded indehiscent fruit enclosed by persistent floral tissue. In the local Hydrocharitaceae representative Vallisneria, the female flower has an INFERIOR ovary (perianth above it); detached male flowers float at the surface, and the long female peduncle coils after fertilization. These floating-male and coiling-peduncle traits describe Vallisneria, not every Hydrocharitaceae. PHOTO HANDOFF: matched, anatomically verified side/section views of a Pontederiaceae flower and a Vallisneria female flower showing the perianth insertion relative to the ovary, plus a Vallisneria male/female surface-pollination sequence. Existing Heteranthera flower frame jvid-Hr3nBxvgCv4-016 (Joey Santore, private-study only; public reuse not cleared) is a source reference, NOT proof of ovary position or a licensed public comparison image. Arrow positions annotation_pending until actual pixels/sections are checked."
+      }
+    ],
+    "caveat": "Use the Heteranthera lesson as a local anchor, not a universal visual definition of broad Pontederiaceae.",
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Heteranthera dubia",
+        "plain": "leaf base wrapping the stem",
+        "formal": "leaf sheath versus Potamogeton stipule",
+        "photo_role": "matched leaf-base and stipule node macros",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Trace the sheath and free stipule at the attachment point; a distant underwater leaf view cannot verify either."
+      },
+      {
+        "species_reference": "Heteranthera dubia",
+        "plain": "flower's pollen stalks",
+        "formal": "three fertile stamens",
+        "photo_role": "verified flower-face macro",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "species_reference": "Pontederia cordata",
+        "plain": "flower spike and one-seeded fruit",
+        "formal": "inflorescence and indehiscent fruit",
+        "photo_role": "matched flowering spike and dissected mature fruit",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "species_reference": "Pontederia crassipes",
+        "plain": "swollen leaf stalk and fruit pod",
+        "formal": "inflated petiole and capsule",
+        "photo_role": "petiole cross-section and mature capsule",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-family-structure-live",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "study_reference_complete_public_photo_pending"
+  }
+}

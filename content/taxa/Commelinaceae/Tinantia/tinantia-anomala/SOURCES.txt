@@ -1,0 +1,70 @@
+TINANTIA ANOMALA — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / USER APPROVED FOR INSTALL
+
+## Taxonomy
+Kew Plants of the World Online — accepted Tinantia anomala (Torr.) C.B.Clarke; native Texas to Mexico:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A173144-1
+
+Flora of North America treatment:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000407
+
+## Strict target-zone range
+BONAP county map:
+https://bonap.net/TDC/Image/Map?locationType=County&mapType=Normal&taxonId=7717&taxonType=Species
+
+Travis — UT Plant Resources Center Commelinaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Commelinaceae.html
+
+Williamson — UT Plant Resources Center county treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala
+
+Val Verde — Amistad National Recreation Area vascular flora:
+https://w3.biosci.utexas.edu/prc/pdfs/Poole-Lundellia16.pdf
+
+Decision: PASS — Travis, Williamson, Val Verde.
+
+## Morphology
+UT PRC Williamson treatment above.
+NPSOT:
+https://www.npsot.org/posts/native-plant/tinantia-anomala/
+Flora of North America treatment above.
+
+LOOK HERE FIRST
+Open/flat leaflike inflorescence bract + exposed terminal one-sided cyme + clasping upper leaves; no closed Commelina-style spathe pocket.
+
+## Comparison
+Commelina erecta Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta
+
+## Photo lead
+User iNaturalist:
+https://www.inaturalist.org/observations/285824090
+
+## Diagnostic photo polish — 2026-10-08
+Morphology checked against A. C. Gibson / UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala
+FNA family key:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10212
+
+images/03-joey-bearded-filaments-macro.jpg
+Creator: Joey Santore
+Source: https://www.inaturalist.org/observations/202298891
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/357260447/large.jpeg
+License: CC BY-NC; private study yes; public reuse no.
+Role: Joey macro — purple-and-yellow beards on stamen filaments
+Visual cue: The purple-and-yellow tufts are hairs on the filaments, not extra petals. Tinantia has six fertile stamens; five filaments are bearded, with the lower central filament smooth. Compare this image directly with Commelina erecta's smooth filament macro. The little white lower petal is also visible.
+Decoded dimensions: 1024 x 683
+Git blob SHA: 3d7096a1ef67e421b9ddc7aba610160e0fb4d696
+
+images/04-open-bract-cyme.jpg
+Creator: River Wilder
+Source: https://www.inaturalist.org/observations/215840218
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/381655280/large.jpeg
+License: CC BY-NC; private study yes; public reuse no.
+Role: Side view — exposed cyme above an open leaflike bract
+Visual cue: Trace the stalk from the open flower past the buds to the broad green bract below the cluster. The bract spreads outward instead of enclosing the entire cluster in a fused Commelina-style pocket. The boatlike green coverings immediately around individual buds are sepals; do not confuse those with a spathe.
+Decoded dimensions: 1024 x 806
+Git blob SHA: cbb98de14c2b687c1a43b5f467e428ecb3beb51b
+

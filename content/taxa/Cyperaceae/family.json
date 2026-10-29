@@ -1,0 +1,341 @@
+{
+  "rank": "family",
+  "name": "Cyperaceae",
+  "common_name": "Sedge family",
+  "project_scope": {
+    "selection_mode": "Central Texas family-first recognition module with eight project-pool genus doors",
+    "note": "The lesson teaches sedge reproductive structure before the mnemonic. Stem shape is a clue, not a requirement: Cyperaceae culms are often triangular but can be round or flattened."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at a spikelet, not the stem. In Cyperaceae, each minute flower is subtended by a scale/glume and the superior ovary contains a single ovule, maturing into one hard one-seeded nutlet/achene.",
+    "vegetative": "Herbs, often rhizomatous or tufted. Culms are commonly solid and 3-sided; leaves are commonly 3-ranked with closed sheaths, but round culms and other exceptions occur.",
+    "reproductive": "Flowers are minute and arranged in spikelets. The perianth is absent or reduced to bristles/scales. Stamens are usually 1–3; styles usually divide into 2–3 branches.",
+    "fruit": "A hard indehiscent one-seeded nutlet/achene, commonly 2- or 3-sided. In Carex the pistillate flower and later the achene are enclosed in a sac-like perigynium.",
+    "field_tip": "Use three layers: solid/3-ranked vegetative clues → spikelet with one flower under one scale → one-seeded nutlet. Then switch to the genus-specific structure."
+  },
+  "visual_lesson": {
+    "status": "family_first_batch_001",
+    "teaching_order": "Carex sac/perigynium reference → photographed sheath + fruiting spikes → culm/leaf clues → Cyperus bracts and scales → Eleocharis solitary terminal spikelet → fruit/grass/rush comparisons",
+    "intro": "SEE real sedge stems, sheath junctions and tiny flowering units, SPOT the particular Carex PERIGYNIUM (sac around the one-seeded ACHENE), and COMPARE Cyperus umbrella heads, Eleocharis terminal spikelets, grass florets and rush capsules. Stem angles and ligules are clues, not absolute rules.",
+    "steps": [
+      {
+        "title": "1 · Learn the sedge reproductive unit",
+        "photo_role": "Carex perigynium / scale / achene botanical plate",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_stipata_AWP-SW-260.png",
+        "image_label": "Carex stipata diagnostic plate",
+        "image_credit": "Public domain — Correll & Correll / U.S. EPA, 1972",
+        "look_for": "A pistillate scale outside a sac-like perigynium, with the achene inside.",
+        "why_it_matters": "Carex is the largest local sedge door, and the perigynium is a genus-defining structure.",
+        "status": "rights_cleared_reference"
+      },
+      {
+        "title": "1a · See a real Carex leaf sheath and ligule",
+        "photo_role": "sheath / ligule macro on Carex emoryi",
+        "anchor_species_id": "carex-emoryi",
+        "anchor_image_index": 0,
+        "image_label": "Emory sedge leaf-blade junction",
+        "look_for": "On the photographed green sedge, find the whitish/translucent membranous LIGULE where leaf blade meets the leaf SHEATH. Sedge ligules can exist; the presence of a ligule does not alone prove grass.",
+        "why_it_matters": "Family ID requires floral anatomy, not a false 'sedges have no ligules' shortcut.",
+        "status": "installed_exact_species_real_photo_unannotated",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_emoryi_ligule.jpg",
+        "image_credit": "cassi saari · CC BY-SA 4.0"
+      },
+      {
+        "title": "1b · See a real dense fruiting Carex spike",
+        "photo_role": "Carex crus-corvi perigynium-covered head",
+        "anchor_species_id": "carex-crus-corvi",
+        "anchor_image_index": 0,
+        "image_label": "Ravenfoot sedge fruiting head",
+        "look_for": "The upright green column bears many projecting long-beaked reproductive units. The fine sac containing a single achene (PERIGYNIUM) needs an even closer dissection for its outline and scales.",
+        "why_it_matters": "Shows that reproductive heads, not simply triangular stems, are the basis for sedge and genus recognition.",
+        "status": "installed_exact_species_real_photo_unannotated",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_crus-corvi_NRCS-01.jpg",
+        "image_credit": "Robert H. Mohlenbrock / USDA SCS · Public domain"
+      },
+      {
+        "title": "1c · Compare elongated Carex spikes",
+        "photo_role": "Carex cherokeensis drooping female spikes",
+        "anchor_species_id": "carex-cherokeensis",
+        "anchor_image_index": 0,
+        "image_label": "Cherokee sedge elongated arching spikes",
+        "look_for": "Several green and pale reproductive spikes are elongated, separate and curve on slender stalks. Unlike Cyperus umbrella rays, these are Carex spikes with female sacs (perigynia) to investigate.",
+        "why_it_matters": "Different species within the same family make completely different-looking flowering arrays.",
+        "status": "installed_exact_species_real_photo_unannotated",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_cherokeensis.jpg",
+        "image_credit": "Mason Brock · Public domain"
+      },
+      {
+        "title": "2 · Use the stem and leaf arrangement as a clue",
+        "photo_role": "solid culm + closed sheath + 3-ranked leaves",
+        "look_for": "Often solid culms, commonly triangular in cross-section, and leaves arranged in three ranks with closed sheaths.",
+        "why_it_matters": "These characters quickly separate many sedges from grasses, but exceptions keep them from being absolute rules.",
+        "status": "rights_safe_local_macro_pending"
+      },
+      {
+        "title": "3 · Carex door: find the perigynium",
+        "photo_role": "perigynium macro",
+        "look_for": "Each female flower/achene is enclosed in a bottle-, sac-, or pouch-like perigynium; its shape, veins, hairs, beak and teeth are species-level characters.",
+        "why_it_matters": "Once you see a perigynium, you are in Carex.",
+        "status": "rights_cleared_reference_plus_local_macro_pending"
+      },
+      {
+        "title": "4 · Cyperus — locate the umbrella of bracts and rays",
+        "photo_role": "involucral bracts, rays and flattened spikelets",
+        "look_for": "Observe leaflike INVOLUCRAL BRACTS beneath the terminal flower head. Unequal RAYS support clusters of narrow SPIKELETS. Distinguish upper bracts from basal leaves.",
+        "why_it_matters": "Makes an umbrella-sedge instantly recognizable, then directs you to the tiny reproductive units for species ID.",
+        "status": "installed_exact_species_photo_unannotated",
+        "anchor_species_id": "cyperus-strigosus",
+        "anchor_image_index": 0,
+        "image_label": "Cyperus strigosus real flowering head",
+        "image_credit": "Doug McGrady · CC BY 2.0",
+        "original_photo_source": "https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_(straw-colored_flatsedge),_Carver,_MA_(32020808972).jpg",
+        "photo_verification": "GitHub Actions run 38502809680 installed this exact species/source image; original source/creator/license in canonical species.json"
+      },
+      {
+        "title": "5 · Eleocharis door: one spikelet at the tip",
+        "photo_role": "nearly leafless culm + single terminal spikelet + achene tubercle",
+        "look_for": "Leaf blades absent or reduced to sheaths and exactly one terminal spikelet on each culm; the achene usually retains an enlarged style base/tubercle.",
+        "why_it_matters": "This is one of the cleanest genus-level patterns in the family.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Rhynchospora and Schoenoplectus doors",
+        "photo_role": "beaked nutlet / whitetop bracts vs bulrush culm and inflorescence",
+        "look_for": "Rhynchospora often emphasizes a persistent style base on the nutlet and may have conspicuous white involucral bracts; Schoenoplectus is a bulrush pattern with tall spongy round-to-triangular culms and reduced leaves.",
+        "why_it_matters": "These two silhouettes are very different even though both are true sedges.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Look at Cyperus floral scales",
+        "anchor_species_id": "cyperus-rotundus",
+        "anchor_image_index": 2,
+        "photo_role": "flattened spikelet with overlapping scales",
+        "image_label": "Cyperus rotundus exact spikelet",
+        "image_credit": "Macleay Grass Man · CC BY 2.0",
+        "look_for": "A flattened spikelet has two rows of overlapping FLORAL SCALES; each fertile scale subtends one tiny flower. The little fruit eventually matures to one ACHENE, not a grass grain surrounded by a lemma and palea.",
+        "why_it_matters": "Shows the sedge family's small flower architecture and what an individual Cyperus spikelet actually means.",
+        "status": "installed_exact_species_photo_unannotated",
+        "original_photo_source": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_spikelet_DC2.jpg",
+        "photo_verification": "GitHub Actions run 38502809680 installed this exact species/source image; original source/creator/license in canonical species.json"
+      },
+      {
+        "title": "8 · Find the underground tuber",
+        "anchor_species_id": "cyperus-esculentus",
+        "anchor_image_index": 1,
+        "photo_role": "tuber / storage organ",
+        "image_label": "Cyperus esculentus yellow nutsedge tuber",
+        "image_credit": "Tamorlan · CC BY 3.0",
+        "look_for": "The swollen underground storage organ is a TUBER. It is not an aboveground seed. The attached stolon network is missing from the current photo; excavate an intact plant to compare yellow and purple nutsedges.",
+        "why_it_matters": "Explains why hand-pulling shoots doesn't tell you the species or remove all underground growing parts.",
+        "status": "installed_exact_species_photo_unannotated",
+        "original_photo_source": "https://commons.wikimedia.org/wiki/File:Cyperus_esculentus_012.jpg",
+        "photo_verification": "GitHub Actions run 38502809680 installed this exact species/source image; original source/creator/license in canonical species.json"
+      },
+      {
+        "title": "9 · Compare mature flatsedge spikelets",
+        "photo_role": "strawcolored vs fragrant mature rachilla segments",
+        "look_for": "Cyperus strigosus has flattened spikelets, relatively large deciduous scales and a cormlike base; C. odoratus has a corky winged RACHILLA that breaks into one-fruited segments. No installed or external macro has yet been validated for the rachilla split.",
+        "why_it_matters": "Shows exactly which microscopic structure decides this tough pair, rather than relying on the brown head color.",
+        "status": "diagnostic_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cyperaceae vs Poaceae",
+        "rule": "Sedge: commonly solid culm, 3-ranked leaves, closed sheath, one flower under one scale, one-seeded nutlet. Grass: conspicuous nodes, usually 2-ranked leaves, open sheath/collar/ligule, and florets built from lemma + palea inside glumes."
+      },
+      {
+        "title": "Cyperaceae vs Juncaceae",
+        "rule": "Sedge flowers are highly reduced in spikelets and usually make one hard one-seeded nutlet. Rush flowers look like tiny ordinary flowers with 6 tepals and mature into a capsule containing several seeds."
+      },
+      {
+        "title": "Carex vs Cyperus",
+        "rule": "Carex females have a perigynium around the achene; Cyperus does not and usually announces itself with umbrella-like involucral bracts/rays and flattened spikelets."
+      },
+      {
+        "title": "Cyperus vs Carex — different tiny reproductive structures",
+        "rule": "Cyperus has distichous floral scales along spikelets and achenes NOT wrapped in a perigynium. Carex female achenes are enclosed in distinct perigynia; both belong to Cyperaceae."
+      },
+      {
+        "title": "Cyperus nutsedges vs flatsedges",
+        "rule": "C. esculentus and C. rotundus are tuber-bearing stoloniferous comparators; C. strigosus and C. odoratus require mature spikelet architecture, especially corky one-fruited rachilla segments in C. odoratus. All four share the family floral plan."
+      },
+      {
+        "title": "Carex vs Cyperus (real-photo comparison)",
+        "rule": "Carex reproductive sacs enclose one achene; in Cyperus the achene is directly beneath a floral scale (no perigynium). Carex often has distinct male/female spikes, but don't claim all Carex share one arrangement."
+      }
+    ],
+    "caveat": "Images labeled local are physically installed species assets, not new generic diagrams. A Carex stipata drawing is a public-domain anatomical PLATE, not a live photo. Exact dissection of perigynium/scale/achene and annotation-arrow coordinates are still missing. Three UT specimen images for Carex require photo reuse review."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 8,
+    "genera": [
+      {
+        "genus": "Carex",
+        "fast_cue": "pistillate perigynium enclosing achene",
+        "role": "primary high-value genus"
+      },
+      {
+        "genus": "Cyperus",
+        "fast_cue": "umbel-like terminal inflorescence with leaflike bracts/rays",
+        "role": "primary high-value genus"
+      },
+      {
+        "genus": "Eleocharis",
+        "fast_cue": "blade-less culms with one terminal spikelet",
+        "role": "primary high-value genus"
+      },
+      {
+        "genus": "Rhynchospora",
+        "fast_cue": "persistent style base on nutlet; some whitetops with conspicuous pale bracts",
+        "role": "primary comparison genus"
+      },
+      {
+        "genus": "Schoenoplectus",
+        "fast_cue": "tall spongy bulrush culm; basal leaves reduced; terminal/pseudolateral inflorescence",
+        "role": "primary comparison genus"
+      },
+      {
+        "genus": "Fimbristylis",
+        "fast_cue": "fine sedge; style/achene and spikelet characters important",
+        "role": "secondary genus — macro lesson pending"
+      },
+      {
+        "genus": "Fuirena",
+        "fast_cue": "perianth bristles/scales and wetland sedge architecture",
+        "role": "secondary genus — macro lesson pending"
+      },
+      {
+        "genus": "Cladium",
+        "fast_cue": "large sawgrass architecture with cutting/scabrous leaf margins",
+        "role": "secondary genus — macro lesson pending"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Carex perigynium + pistillate scale + achene",
+      "annotation_goal": "label scale, perigynium, achene, beak and stigma"
+    },
+    {
+      "priority": 1,
+      "structure": "Cyperus inflorescence architecture",
+      "annotation_goal": "label involucral bracts, rays and spikelets"
+    },
+    {
+      "priority": 1,
+      "structure": "Eleocharis terminal spikelet + achene tubercle",
+      "annotation_goal": "show one-spikelet habit and persistent style base"
+    },
+    {
+      "priority": 1,
+      "structure": "sedge vs grass vs rush reproductive units",
+      "annotation_goal": "one scale/one nutlet vs grass lemma+palea vs rush 6 tepals/capsule"
+    },
+    {
+      "priority": 2,
+      "structure": "Rhynchospora nutlet/style base and white bracts",
+      "annotation_goal": "connect genus name 'beak-rush' to the fruit character"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Cyperaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10246"
+    },
+    {
+      "source": "Plants of the World Online — Cyperaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000197-2/general-information"
+    },
+    {
+      "source": "Flora of North America — Carex",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=105644"
+    },
+    {
+      "source": "Flora of North America — Cyperus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=109010"
+    },
+    {
+      "source": "Flora of North America — Eleocharis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=111420"
+    },
+    {
+      "source": "Flora of North America — Rhynchospora",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=128495"
+    },
+    {
+      "source": "Flora of North America — Schoenoplectus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=129637"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-family-first-batch-001",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "public_domain_carex_reference_live_local_genus_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent",
+    "visual_photo_upgrade": "2026-10-13 Cyperus door: exact-identified Commons photo sources with credits, 3 new teaching steps, microscopy needs explicitly pending. Family science untouched.",
+    "cyperus_photo_upgrade": "2026-10-13: 3 family lesson structure photos mapped to canonical installed Cyperus species media, with original source links preserved and no false arrows. Genus and species modules installed for 4 species/9 images.",
+    "carex_photo_led_upgrade": "2026-10-13: three installed exact-taxon Carex photographs added to family structure lessons and genus Carex module registered. All previous family scientific and other genus lessons preserved."
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-comparison-first",
+    "updated": "2026-10-06",
+    "field_question": "If this looks grass-like, which family is it and what single structure breaks the tie?",
+    "comparison_matrix": [
+      {
+        "family": "Poaceae",
+        "first_lock": "Jointed culm with conspicuous nodes; blade-sheath junction has a ligule.",
+        "confirm": "Spikelet has grass floret architecture: glumes outside, lemma + palea around each floret; fruit is a caryopsis.",
+        "do_not_overtrust": "Hollow stems or round stems alone."
+      },
+      {
+        "family": "Cyperaceae",
+        "first_lock": "Often solid culm, commonly 3-ranked leaves and closed sheaths; stem may be triangular, round, or flattened.",
+        "confirm": "Minute flower subtended by a single scale; perianth absent/reduced; one hard one-seeded nutlet/achene. Carex adds a perigynium.",
+        "do_not_overtrust": "'Sedges have edges'—many sedges do not."
+      },
+      {
+        "family": "Juncaceae",
+        "first_lock": "Grass/sedge-like habit but individual flowers still look like tiny conventional flowers.",
+        "confirm": "Six persistent tepals surrounding a superior ovary; fruit is a capsule with several seeds.",
+        "do_not_overtrust": "'Rushes are round'—stem shape overlaps."
+      }
+    ],
+    "decision_key": [
+      "Can you see conspicuous culm nodes plus a sheath-blade junction with a ligule? → Poaceae door.",
+      "No obvious grass node/ligule? Inspect one reproductive unit.",
+      "Six tepals around a real flower and later a multi-seeded capsule? → Juncaceae.",
+      "Flower reduced beneath a scale and fruit a single nutlet/achene? → Cyperaceae."
+    ],
+    "exception_locks": [
+      "Triangular stem supports Cyperaceae but never proves it.",
+      "Round stem does not prove Juncaceae.",
+      "A grass may have solid internodes; use nodes + ligule + spikelet architecture.",
+      "Vegetative plants may remain family-uncertain until the collar/sheath or reproductive unit is visible."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "same-scale Poaceae vs Cyperaceae vs Juncaceae reproductive-unit triptych",
+        "labels": "grass glumes/lemma/palea | sedge scale + nutlet | rush 6 tepals + capsule"
+      },
+      {
+        "priority": 1,
+        "shot": "same-scale stem/node/sheath triptych",
+        "labels": "grass node + ligule | sedge closed sheath/3 ranks | rush sheath and node-poor culm"
+      },
+      {
+        "priority": 1,
+        "shot": "fruit comparison macro",
+        "labels": "caryopsis | one-seeded nutlet/achene | multi-seeded capsule"
+      },
+      {
+        "priority": 2,
+        "shot": "cross-section caution card",
+        "labels": "triangular, round and flattened examples showing why stem shape is only a clue"
+      }
+    ],
+    "genus_routing_note": "After family confirmation route by special structure: Carex perigynium; Cyperus umbel-like rays/bracts; Eleocharis single terminal spikelet; Rhynchospora persistent style base; Schoenoplectus bulrush architecture."
+  }
+}

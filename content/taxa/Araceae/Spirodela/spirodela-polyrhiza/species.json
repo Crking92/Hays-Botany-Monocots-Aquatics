@@ -1,0 +1,37 @@
+{
+  "id": "spirodela-polyrhiza",
+  "family": "Araceae",
+  "genus": "Spirodela",
+  "species": "polyrhiza",
+  "scientific_name": "Spirodela polyrhiza",
+  "common_name": "Greater duckweed",
+  "look_here_first": "Look for floating oval flattened fronds larger than most Lemna, each bearing several roots; examine reddish purple undersides and compare one-root Lemna species.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Spirodela%20polyrhiza",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Commons file uses spelling polyrrhiza, accepted working pool uses polyrhiza; exact specimen/taxon diagnosis remains provisional.",
+  "images": [
+    {
+      "file": "images/commons-spirodela-polyrhiza.jpg",
+      "role": "Provisional floating frond recognition; multiple roots per frond require another close-up",
+      "creator": "Declangi",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spirodela_polyrrhiza.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, license URL and ShareAlike terms apply to derivative reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

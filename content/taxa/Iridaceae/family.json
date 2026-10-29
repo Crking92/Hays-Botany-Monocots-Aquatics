@@ -1,0 +1,233 @@
+{
+  "rank": "family",
+  "name": "Iridaceae",
+  "common_name": "Iris family",
+  "lineage_context": {
+    "order": "Asparagales",
+    "batch": "Asparagales",
+    "close_project_families": [
+      "Amaryllidaceae",
+      "Asparagaceae",
+      "Orchidaceae"
+    ],
+    "teaching_goal": "Teach the project pool by the three-stamen rule, inferior 3-locular ovary, equitant/2-ranked leaves and rhipidiate spathe-bracted inflorescences, then split Sisyrinchium from Nemastylis."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across Sisyrinchium and Nemastylis",
+    "note": "The five project taxa provide a strong grasslike-leaf versus pleated-bulb contrast while sharing the same Iridaceae reproductive plan."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a grasslike or sword-leaved monocot, inspect the flower for 6 tepals but only 3 fertile stamens. Then confirm an inferior 3-locular ovary below the tepals and a capsular fruit.",
+    "vegetative": "Perennial herbs from rhizomes, corms or bulbs. Leaves are often basal or 2-ranked and equitant, with flattened swordlike or grasslike blades; Nemastylis leaves are distinctly pleated.",
+    "reproductive": "Flowers have 6 tepals in two whorls and only 3 stamens, positioned opposite the outer tepals. Ovary is inferior and usually 3-locular. Style branches are often conspicuous and important for genus recognition.",
+    "fruit": "A loculicidal capsule with many seeds.",
+    "field_tip": "Six tepals + three stamens + inferior ovary is the strongest family package. The three-stamen count is especially useful against Amaryllidaceae/Asparagaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_008",
+    "teaching_order": "2-ranked/equitant leaf base → 6 tepals → 3 stamens → inferior ovary → spathes/rhipidium → Sisyrinchium-vs-Nemastylis",
+    "intro": "Blue-eyed grasses are not grasses. Count the stamens: the iris-family flower runs on three.",
+    "steps": [
+      {
+        "title": "1 · Look at the leaf bases, not just the blade",
+        "photo_role": "equitant leaf-base macro",
+        "look_for": "Flattened leaves arranged in two ranks, with overlapping/sheathing bases; Nemastylis adds obvious pleating.",
+        "why_it_matters": "This is the vegetative doorway before flowers open.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Count six tepals but only three stamens",
+        "photo_role": "flower face with labels",
+        "look_for": "Six petaloid tepals surrounding exactly three fertile stamens.",
+        "why_it_matters": "The 3-stamen rule is one of the best family-level characters in local Asparagales.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Find the ovary below the flower",
+        "photo_role": "flower side view / ovary diagram",
+        "look_for": "Inferior 3-locular ovary sitting below the point where tepals and stamens attach.",
+        "why_it_matters": "Pairs with the 3-stamen count to separate Iridaceae from many superficially similar monocots.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Read the spathes and rhipidium",
+        "photo_role": "inflorescence/spathe close-up",
+        "look_for": "Flowers emerging sequentially from opposed green spathes in a flattened rhipidiate inflorescence.",
+        "why_it_matters": "A high-value structure for both Sisyrinchium and Nemastylis.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Sisyrinchium door: grasslike but with iris flowers",
+        "photo_role": "Sisyrinchium whole plant + flower",
+        "look_for": "Flattened often winged scapelike stems, equitant narrow leaves, small blue/purple/yellow-centered flowers, 3 stamens and a globose capsule.",
+        "why_it_matters": "Explains why 'blue-eyed grass' is an iris relative, not a grass.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Nemastylis door: pleated leaves + threadlike split styles",
+        "photo_role": "Nemastylis geminiflora flower + pleated leaf",
+        "look_for": "Bulbous geophyte with pleated leaves, blue spreading tepals, and each of three style branches deeply divided into two threadlike arms extending around the anthers.",
+        "why_it_matters": "The style architecture is an exceptionally distinctive genus character.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Iridaceae vs Amaryllidaceae",
+        "rule": "Iridaceae has 3 fertile stamens and an inferior ovary. Project Amaryllidaceae has 6 stamens; Allium/Nothoscordum have superior ovaries while Zephyranthes has an inferior ovary."
+      },
+      {
+        "title": "Iridaceae vs Asparagaceae",
+        "rule": "Both may have 6 tepals, but local Asparagaceae/Yucca has 6 stamens and usually a different rosette/panicle architecture; Iridaceae has 3 stamens and an inferior ovary."
+      },
+      {
+        "title": "Iridaceae vs Orchidaceae",
+        "rule": "Both typically have inferior ovaries, but orchids are strongly specialized with a labellum and reproductive column, commonly only one fertile stamen; Iridaceae retains 6 tepals and 3 ordinary fertile stamens."
+      }
+    ],
+    "caveat": "Do not identify Iridaceae from swordlike leaves alone. The reproductive confirmation is 3 stamens + inferior ovary."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Sisyrinchium",
+        "taxa_count": 4,
+        "fast_cue": "equitant narrow leaves + flattened/winged stems + small iris-like flowers + 3 stamens",
+        "role": "blue-eyed-grass door"
+      },
+      {
+        "genus": "Nemastylis",
+        "taxa_count": 1,
+        "fast_cue": "bulb + pleated leaves + large blue spreading flower + deeply bifid threadlike style branches",
+        "role": "celestial-lily door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Nemastylis geminiflora",
+    "Sisyrinchium angustifolium",
+    "Sisyrinchium ensigerum",
+    "Sisyrinchium biforme",
+    "Sisyrinchium langloisii"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Nemastylis geminiflora",
+      "current_name": "Nemastylis geminiflora",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Nemastylis texana",
+      "current_name": "Nemastylis geminiflora",
+      "note": "Historical synonym useful for Texas-source reconciliation."
+    },
+    {
+      "source_name": "Calydorea texana",
+      "current_name": "Nemastylis geminiflora",
+      "note": "Historical synonym; do not create duplicate lesson."
+    },
+    {
+      "source_name": "Sisyrinchium angustifolium",
+      "current_name": "Sisyrinchium angustifolium",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Sisyrinchium ensigerum",
+      "current_name": "Sisyrinchium ensigerum",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Sisyrinchium biforme",
+      "current_name": "Sisyrinchium biforme",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Sisyrinchium langloisii",
+      "current_name": "Sisyrinchium langloisii",
+      "note": "Accepted current species."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "3-stamen flower face",
+      "annotation_goal": "label three fertile stamens against six tepals"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior 3-locular ovary",
+      "annotation_goal": "mark ovary below tepal/stamen insertion"
+    },
+    {
+      "priority": 1,
+      "structure": "Sisyrinchium equitant leaf + winged stem",
+      "annotation_goal": "show why it is not a grass"
+    },
+    {
+      "priority": 1,
+      "structure": "Nemastylis bifid style arms",
+      "annotation_goal": "label each split style branch around anther"
+    },
+    {
+      "priority": 2,
+      "structure": "rhipidium/spathe architecture",
+      "annotation_goal": "show sequential flowers emerging between opposed spathes"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Iridaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10452"
+    },
+    {
+      "source": "Flora of North America — Sisyrinchium",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=130515"
+    },
+    {
+      "source": "Flora of North America — Nemastylis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=121809"
+    },
+    {
+      "source": "Plants of the World Online — Nemastylis geminiflora",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:440370-1"
+    },
+    {
+      "source": "Plants of the World Online — Sisyrinchium angustifolium",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:440925-1"
+    },
+    {
+      "source": "Plants of the World Online — Sisyrinchium ensigerum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:441024-1"
+    },
+    {
+      "source": "Plants of the World Online — Sisyrinchium",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:329986-2"
+    },
+    {
+      "source": "Plants of the World Online — Sisyrinchium langloisii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:441133-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-008",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_three_stamen_ovary_style_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-13",
+    "look_here_first": "Count three fertile stamens and locate the inferior ovary below tepal insertion. Six tepals alone do not prove iris family: Zephyranthes also has an inferior ovary but six stamens. Inspect equitant leaf bases, flattened stems and spathe-enclosed sequential flowers as supporting characters.",
+    "comparison": "Iridaceae (Sisyrinchium, Nemastylis): three stamens and inferior ovary. Amaryllidaceae (Allium, Nothoscordum, Zephyranthes): six stamens; superior ovary in the onion genera, inferior in rain lilies. Poaceae has spikelets with glumes, lemma and palea rather than six showy tepals. Orchidaceae has a reproductive column and labellum.",
+    "genus_routing": "Sisyrinchium: equitant leaf bases, flattened/winged stem, small flower with three stamens; Nemastylis: pleated leaves and three style branches each deeply split into two slender arms. Verify flower anatomy rather than color.",
+    "diagnostic_visual_roles": [
+      "Same-scale three-stamen Sisyrinchium/Nemastylis versus six-stamen Zephyranthes/Allium flower centers, numbered anthers",
+      "Lateral flower cutaways marking inferior ovary and tepal insertion versus superior Allium ovary",
+      "Sisyrinchium equitant leaf base and winged stem versus true grass collar and ligule",
+      "Opposed spathes and sequential rhipidium flowers with arrows",
+      "Nemastylis pleated leaf and six threadlike style arms arising from three divided branches",
+      "Mature three-locular capsule with cutaway"
+    ],
+    "handoff": "Diagnostic Photo Polish to source licensed matched anatomical photos; existing genus synonyms and taxonomy remain unchanged."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "rank": "genus",
+  "name": "Zephyranthes",
+  "family": "Amaryllidaceae",
+  "lesson_mode": "genus_comparison_builder",
+  "project_scope": {
+    "included_taxa": [
+      "Zephyranthes chlorosolen",
+      "Zephyranthes drummondii"
+    ],
+    "note": "Two-species Master Plant Pool comparison. This lesson reuses the settled Amaryllidaceae family taxonomy reconciliation and does not change species range or admission status."
+  },
+  "shared_genus_characters": {
+    "where_to_look_first": "Start at the flower side view: confirm the rain-lily architecture with a large 6-tepaled flower on a scape and an inferior ovary below the perianth. Then use stigma shape/position and perianth-tube proportions to separate the two project species.",
+    "shared": "Bulbous scapose herbs with basal linear leaves, a spathe-associated flower, 6 tepals, 6 stamens, and an inferior ovary in the project lesson.",
+    "caution": "Do not separate these two primarily by white/pink color. Both may show pink tones; reproductive geometry is more reliable."
+  },
+  "comparison_matrix": [
+    {
+      "character": "Stigma",
+      "chlorosolen": "Capitate; among or very near the anthers, at most slightly exserted.",
+      "drummondii": "3-fid and included within the perianth tube.",
+      "weight": "highest"
+    },
+    {
+      "character": "Perianth shape",
+      "chlorosolen": "Salverform.",
+      "drummondii": "Broadly funnelform.",
+      "weight": "high"
+    },
+    {
+      "character": "Perianth tube vs whole perianth",
+      "chlorosolen": "Tube about 3/4 or more of perianth length.",
+      "drummondii": "Tube about 1/2 of perianth length.",
+      "weight": "high"
+    },
+    {
+      "character": "Perianth tube vs spathe",
+      "chlorosolen": "Tube about 2–4× spathe length.",
+      "drummondii": "Tube roughly 3/4–1 1/4× spathe length.",
+      "weight": "high"
+    },
+    {
+      "character": "Stamens",
+      "chlorosolen": "Appear equal.",
+      "drummondii": "Distinctly subequal.",
+      "weight": "supporting"
+    },
+    {
+      "character": "Style",
+      "chlorosolen": "Longer than perianth tube.",
+      "drummondii": "Notably shorter than perianth tube.",
+      "weight": "high"
+    },
+    {
+      "character": "Pedicel",
+      "chlorosolen": "Absent or extremely short; much shorter than spathe.",
+      "drummondii": "Usually evident, about 0.2–2 cm (occasionally longer), still shorter than spathe.",
+      "weight": "supporting"
+    },
+    {
+      "character": "Leaf blade",
+      "chlorosolen": "Dull green, to about 5 mm wide.",
+      "drummondii": "Glaucous-green, to about 8 mm wide.",
+      "weight": "supporting only"
+    }
+  ],
+  "species_cards": [
+    {
+      "taxon": "Zephyranthes chlorosolen",
+      "fast_rule": "Capitate stigma near the anthers + very long narrow tube making up most of the flower.",
+      "taxonomy_note": "Older Cooperia drummondii is reconciled in the family module to Z. chlorosolen; do not create a duplicate learner concept."
+    },
+    {
+      "taxon": "Zephyranthes drummondii",
+      "fast_rule": "3-fid stigma hidden inside the tube + broader funnel with a tube only about half the perianth length.",
+      "taxonomy_note": "Accepted project concept; keep distinct from the Cooperia drummondii synonym attached to Z. chlorosolen."
+    }
+  ],
+  "overlap_and_cautions": [
+    "Both can have white flowers with pink flushing or tinges, so color is not a safe primary separator.",
+    "Measure proportions from a side view when possible; a face-on flower hides the tube, ovary, stigma position and pedicel.",
+    "Rare biflowered Z. drummondii specimens are documented by FNA, so flower count alone is not an absolute character.",
+    "The historical name Cooperia drummondii is a taxonomy trap: the project family module maps it to Z. chlorosolen, not to Z. drummondii."
+  ],
+  "look_alikes": [
+    {
+      "name": "Allium / Nothoscordum",
+      "separation": "Project family lesson routes these through superior ovaries and usually a many-flowered umbel; Zephyranthes has an inferior ovary and large rain-lily flower architecture."
+    },
+    {
+      "name": "other rain lilies / former Habranthus concepts",
+      "separation": "Use stigma form/position, perianth tube proportions, spathe and pedicel rather than flower color; escalate unfamiliar concepts to diagnostic review instead of forcing an ID."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "paired flower side views",
+      "need": "Show entire perianth tube, spathe and ovary in both species at comparable scale.",
+      "characters": [
+        "perianth shape",
+        "tube/perianth ratio",
+        "tube/spathe ratio"
+      ]
+    },
+    {
+      "role": "flower-center macro",
+      "need": "Sharp view of stigma and anthers.",
+      "characters": [
+        "capitate vs 3-fid stigma",
+        "stigma position",
+        "stamen equality"
+      ]
+    },
+    {
+      "role": "base-of-flower macro",
+      "need": "Show pedicel, spathe and inferior ovary.",
+      "characters": [
+        "pedicel presence/length",
+        "spathe relationship",
+        "inferior ovary"
+      ]
+    },
+    {
+      "role": "leaf comparison",
+      "need": "Blade width and surface/color at similar scale; use only as supporting evidence.",
+      "characters": [
+        "blade width",
+        "dull vs glaucous green"
+      ]
+    },
+    {
+      "role": "taxonomy teaching card",
+      "need": "Label Cooperia drummondii → Zephyranthes chlorosolen and explicitly contrast with Z. drummondii.",
+      "characters": [
+        "legacy-name trap"
+      ]
+    }
+  ],
+  "media_guidance": {
+    "project_media_first": true,
+    "note": "Prefer existing project/user/Joey exact-species media if available for side-view and reproductive macros. Photo-polish worker owns acquisition; this module specifies roles only."
+  },
+  "sources": [
+    {
+      "source": "Flora of North America / eFloras — Zephyranthes genus key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=135293"
+    },
+    {
+      "source": "Flora of North America / eFloras — Zephyranthes chlorosolen",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102080"
+    },
+    {
+      "source": "Flora of North America / eFloras — Zephyranthes drummondii",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102082"
+    },
+    {
+      "source": "Project Amaryllidaceae family module",
+      "path": "content/taxa/Amaryllidaceae/family.json"
+    }
+  ],
+  "handoffs": [],
+  "curation_status": {
+    "version": "1.0-genus-comparison",
+    "last_reviewed": "2026-10-06",
+    "status": "genus_lesson_live",
+    "photo_polish": "diagnostic roles specified; acquisition pending"
+  }
+}

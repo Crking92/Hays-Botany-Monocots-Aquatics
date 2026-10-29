@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:166319-2
+Source research-grade observation: https://www.inaturalist.org/observations/203622598
+Photo: https://www.inaturalist.org/photos/359788354
+Attribution: (c) Chuck Cantley, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Myriophyllum aquaticum
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6131315258
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/myriophyllum-aquaticum/gbif-74cc87feae340b.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Myriophyllum aquaticum
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6159283734
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/myriophyllum-aquaticum/gbif-3fb63363e31b12.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

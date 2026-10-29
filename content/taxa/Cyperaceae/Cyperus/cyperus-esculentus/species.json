@@ -1,0 +1,85 @@
+{
+  "entry_type": "species",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "id": "cyperus-esculentus",
+  "species": "esculentus",
+  "scientific_name": "Cyperus esculentus",
+  "authority": "L.",
+  "common_name": "Yellow nutsedge",
+  "look_here_first": "LOOK FIRST underground: trace a full stolon from shoot to tuber. Softer/spongier stolons and commonly 6–11 mm tubers support yellow nutsedge; compare several mature persistent floral scales (~1.8–2.7 mm), often yellowish brown. Do not ID by yellow head alone.",
+  "source_pool": {
+    "review": "reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md",
+    "admission": "APPROVED"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "POWO/FNA report Texas native at state level. No BONAP/NAPA three target-county proof certified."
+  },
+  "morphology_keys": {
+    "habit": "Perennial sedge with basal linear leaves and flowering culms, often in disturbed moist lawns or sites.",
+    "underground": "Stoloniferous with softer/spongier stolons, tubers usually 6–11 mm; photograph intact stolon chain.",
+    "inflorescence": "Umbel-like crown of leaflike bracts, rays and flattened spikelets; often yellow or straw colored but color overlaps.",
+    "scales": "Persistent mature floral scales generally 1.8–2.7 mm; use 1 mm ruler; native variety not assigned.",
+    "fruit": "Single achene per fertile scale; scaled mature fruit comparison useful."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cyperus rotundus",
+      "Cyperus strigosus"
+    ],
+    "key_distinctions": "Purple nutsedge generally has hard/wiry underground stolons, tubers commonly 3–8 mm, and often red-purple scales 2.6–3.4 mm. Overlap requires the combined underground and reproductive key.",
+    "cautions": "Photo source geography is not evidence of three-county target zone native range; colors and many measurements overlap, require mature specimens."
+  },
+  "diagnostic_image_needs": [
+    "Matched entire dug plant showing intact soft stolons and tuber connection",
+    "Mature floral-scale 1 mm macro measured beside C. rotundus",
+    "Achene and spikelet rachilla close-up"
+  ],
+  "images": [
+    {
+      "file": "images/01-yellow-nutsedge-inflorescence.jpg",
+      "role": "flowering_inflorescence",
+      "creator": "NY State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yellow_Nutsedge_(18842630041).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Flowering yellow nutsedge with elongated yellow-green spikelet clusters and long leaflike bracts clearly present, NOT a measured floral-scale macro.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    },
+    {
+      "file": "images/02-yellow-nutsedge-tuber.jpg",
+      "role": "dried_harvested_tubers",
+      "creator": "Tamorlan",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_esculentus_012.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "A PILE of harvested dried yellow nutsedge tubers; this is not an intact dug plant and does not show stolon attachment or tuber size against a ruler.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_status": "2 photographed views physically installed and visually inspected; intact stolon/mature scale/achene comparisons remain final-polish targets."
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-14",
+    "note": "2 photographed views physically installed and visually inspected; intact stolon/mature scale/achene comparisons remain final-polish targets."
+  },
+  "photo_note": "2 photographed views physically installed and visually inspected; intact stolon/mature scale/achene comparisons remain final-polish targets."
+}

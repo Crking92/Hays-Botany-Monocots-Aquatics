@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1036.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Saururus%20cernuus
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Saururus_cernuus_001.JPG
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Saururus%20cernuus%20001.JPG
+Photo creator: H. Zell
+Image-level license: CC BY-SA 3.0
+Image role (provisional): Provisional whole-plant habit with flowers; tiny individual florets not independently checked.
+Caution: Cultivated garden specimen photographed in Germany, not Texas provenance.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

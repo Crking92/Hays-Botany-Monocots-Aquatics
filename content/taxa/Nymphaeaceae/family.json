@@ -1,0 +1,201 @@
+{
+  "rank": "family",
+  "name": "Nymphaeaceae",
+  "common_name": "Water-lily family",
+  "lineage_context": {
+    "order": "Nymphaeales",
+    "batch": "Aquatic early-angiosperm comparison",
+    "close_project_families": [
+      "Nelumbonaceae",
+      "Ceratophyllaceae"
+    ],
+    "teaching_goal": "Teach the project water lilies as rooted rhizomatous aquatics with long-petioled floating/emergent leaves and solitary many-parted flowers, then separate Nymphaea from Nuphar by leaf venation, flower presentation, petal visibility and stigmatic-disk architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Nymphaea odorata + source Nuphar lutea subsp. advena reconciled to Nuphar advena",
+    "note": "Both current species are accepted and native-range treatments include Texas. The source Nuphar infraspecific name is synonym provenance, not a separate current taxon."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the leaf attachment and the flower. Project Nymphaeaceae are rooted rhizomatous aquatics with long petioles, floating or emergent blades with a basal sinus, and solitary flowers with numerous stamens.",
+    "vegetative": "Perennial aquatic herbs rooted by rhizomes. Leaves arise on long petioles; blades are usually broad and floating or emergent, with the petiole attaching at the basal sinus rather than centrally peltate as in lotus.",
+    "reproductive": "Flowers are solitary and many-parted, with numerous stamens and multiple petals or petaloid organs. Project genera differ strongly: Nymphaea has a spreading showy flower with numerous obvious petals grading toward stamens, while Nuphar has a more globose yellow flower dominated visually by sepals and tiny stamenlike petals.",
+    "fruit": "Project fruits remain associated with the floral axis rather than forming lotus's enlarged showerhead receptacle; Nymphaea fruits mature on recurved/coiled peduncles, while Nuphar produces a leathery many-seeded fruit with a broad stigmatic disk.",
+    "field_tip": "Basal-sinus floating leaf + many-stamen water-lily flower = Nymphaeaceae. Then split Nymphaea versus Nuphar by flower shape and venation."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_027",
+    "teaching_order": "leaf attachment → Nymphaea flower → Nuphar flower → venation split → stigmatic disk → fruit/peduncle → lotus comparison → taxonomy card",
+    "intro": "Water-lily and lotus can look similar from shore, but their leaf attachment and fruit architecture tell completely different evolutionary stories.",
+    "steps": [
+      {
+        "title": "1 · Check where the petiole meets the blade",
+        "photo_role": "leaf underside/top comparison",
+        "look_for": "The petiole reaches the blade at the basal notch/sinus rather than the center of the blade.",
+        "why_it_matters": "This is the fastest whole-leaf split from peltate Nelumbo.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Nymphaea door: spreading petal-rich flower",
+        "photo_role": "Nymphaea odorata flower face",
+        "look_for": "Floating white flower with 4 green sepals and many conspicuous white petals grading inward toward numerous yellow stamens.",
+        "why_it_matters": "The obvious petal-to-stamen transition is the best visual Nymphaea cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Nuphar door: sepals dominate",
+        "photo_role": "Nuphar advena flower side/front",
+        "look_for": "Yellow globose/cup-shaped flower in which 5-9 thick sepals dominate the display; true petals are numerous but small and stamenlike.",
+        "why_it_matters": "Prevents treating every yellow water-lily flower as a lotus or Nymphaea.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Use venation as a genus check",
+        "photo_role": "leaf-vein comparison",
+        "look_for": "Nymphaea has strongly radiating/palmate primary veins; Nuphar has a more pinnate framework with several parallel basal veins along the midrib region.",
+        "why_it_matters": "Allows genus recognition even when flowers are absent.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "5 · Find the stigmatic disk",
+        "photo_role": "flower-center macro",
+        "look_for": "A broad disk at the center of the flower with radiating stigmatic lines/rays; Nuphar's disk is especially conspicuous atop the ovary.",
+        "why_it_matters": "Makes the central floral architecture understandable rather than treating it as an anonymous yellow disk.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "6 · Follow Nymphaea below the surface after flowering",
+        "photo_role": "recurved peduncle/fruit sequence",
+        "look_for": "Flower stalk curves or coils, drawing the developing fruit below the water.",
+        "why_it_matters": "A memorable reproductive sequence not shared with lotus.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "7 · Water-lily vs lotus",
+        "photo_role": "same-scale leaf/flower/fruit comparison",
+        "look_for": "Nymphaeaceae petiole attaches at a basal sinus and flowers lack the lotus showerhead receptacle; Nelumbo leaves are centrally peltate and fruits sit in separate pits of an enlarged receptacle.",
+        "why_it_matters": "Corrects one of the most common aquatic-plant family confusions.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "8 · Fix the spatterdock name",
+        "photo_role": "taxonomy card",
+        "look_for": "Nuphar lutea subsp. advena → accepted Nuphar advena.",
+        "why_it_matters": "Keeps the Hays source record connected to the current backbone without duplicate taxa.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Nymphaeaceae vs Nelumbonaceae",
+        "rule": "Water-lilies have leaves attached at the basal sinus and many-parted flowers without a showerhead fruiting receptacle. Lotus has centrally peltate leaves and separate carpels embedded in a broad flat-topped receptacle."
+      },
+      {
+        "title": "Nymphaeaceae vs Ceratophyllaceae",
+        "rule": "Water-lilies are rooted rhizomatous plants with broad floating/emergent leaves and showy flowers. Ceratophyllum is rootless and fully submerged with whorled forked leaves and tiny perianthless flowers."
+      },
+      {
+        "title": "Nymphaea vs Nuphar",
+        "rule": "Nymphaea = spreading flower with many obvious petals and radiating leaf venation. Nuphar = more globose yellow flower dominated by thick sepals, tiny petals, and more pinnate leaf venation."
+      }
+    ],
+    "caveat": "Do not use 'floating round leaf' alone. Lotus can also produce floating leaves, and Nuphar can produce emergent leaves. Petiole attachment, venation, and floral/fruit architecture are safer."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Nymphaea",
+        "taxa_count": 1,
+        "fast_cue": "basal-sinus leaf + spreading flower with many conspicuous petals grading into stamens",
+        "role": "white water-lily door"
+      },
+      {
+        "genus": "Nuphar",
+        "taxa_count": 1,
+        "fast_cue": "basal-sinus leaf + yellow globose flower dominated by thick sepals + broad stigmatic disk",
+        "role": "spatterdock door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Nymphaea odorata",
+    "Nuphar lutea subsp. advena"
+  ],
+  "project_pool_taxa_current": [
+    "Nymphaea odorata",
+    "Nuphar advena"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Nymphaea odorata",
+      "current_name": "Nymphaea odorata",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Nuphar lutea subsp. advena",
+      "current_name": "Nuphar advena",
+      "note": "Current Kew treats the source infraspecific name as a synonym of accepted Nuphar advena; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "petiole attachment",
+      "annotation_goal": "basal sinus in Nymphaeaceae versus central peltate attachment in Nelumbo"
+    },
+    {
+      "priority": 1,
+      "structure": "Nymphaea vs Nuphar flower",
+      "annotation_goal": "obvious petals versus sepal-dominated globose flower"
+    },
+    {
+      "priority": 1,
+      "structure": "leaf venation",
+      "annotation_goal": "radiate/palmate Nymphaea versus more pinnate Nuphar"
+    },
+    {
+      "priority": 1,
+      "structure": "stigmatic disk",
+      "annotation_goal": "label stigmatic rays and ovary center"
+    },
+    {
+      "priority": 2,
+      "structure": "Nymphaea recurved fruiting peduncle",
+      "annotation_goal": "flower-to-submerged-fruit sequence"
+    },
+    {
+      "priority": 2,
+      "structure": "Nuphar synonym card",
+      "annotation_goal": "N. lutea subsp. advena → N. advena"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Nymphaea odorata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171201-2"
+    },
+    {
+      "source": "FNA — Nymphaea odorata",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500828"
+    },
+    {
+      "source": "POWO — Nuphar advena",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30043701-2"
+    },
+    {
+      "source": "POWO — Nuphar lutea subsp. advena synonym",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:955999-1"
+    },
+    {
+      "source": "FNA — Nuphar advena",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500814"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct Nymphaeaceae target frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-027",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_leaf_attachment_genus_flower_taxonomy_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

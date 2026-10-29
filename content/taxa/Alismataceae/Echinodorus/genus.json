@@ -1,0 +1,152 @@
+{
+  "rank": "genus",
+  "name": "Echinodorus",
+  "family": "Alismataceae",
+  "taxonomic_scope": "Echinodorus sensu Flora of North America for source-pool names. Kew POWO currently places E. cordifolius under Aquarius cordifolius; preserve source-pool labels and hand off accepted-concept mapping rather than creating a new species card.",
+  "species": [
+    "Echinodorus berteroi",
+    "Echinodorus cordifolius"
+  ],
+  "look_here_first": "Follow the complete flowering/fruiting axis. An erect, non-proliferating axis points toward E. berteroi; an arching or ground-hugging axis that often roots or produces plantlets at nodes points toward E. cordifolius. Confirm by examining the tiny veins on a sepal back and glands/ribs on a mature achene.",
+  "shared_traits": [
+    "Rooted shallow-water or mudflat Alismataceae herbs with basal long-petioled leaves and translucent linear leaf markings.",
+    "Flowers in spaced whorls, each with three sepals, three petals, numerous stamens and many separate carpels; mature achenes aggregate into rounded burrlike heads.",
+    "Emergent leaf blades may be ovate to cordate in either species; leaf outline alone is not a dependable species key."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Mature inflorescence axis and vegetative plantlets",
+      "berteroi": "Erect raceme (rarely panicle), generally non-proliferating; 1–9 whorls.",
+      "cordifolius": "Arching to decumbent or prostrate raceme, frequently proliferating/rooting at nodes; 3–9 whorls.",
+      "diagnostic_weight": "HIGH on mature plants; follow the full axis, not a cropped tip."
+    },
+    {
+      "character": "Back of sepals, vein surface",
+      "berteroi": "9–13 veins; smooth, not papillate.",
+      "cordifolius": "10–12 veins; visibly papillate/raised-roughened.",
+      "diagnostic_weight": "HIGH with macro lens; compare multiple mature sepals."
+    },
+    {
+      "character": "Stamen count in a fresh open flower",
+      "berteroi": "Usually 9–15 stamens.",
+      "cordifolius": "About 20–22 stamens.",
+      "diagnostic_weight": "HIGH when countable; photograph with petals displaced and a scale."
+    },
+    {
+      "character": "Petal base",
+      "berteroi": "Petals clawed (narrow basal portion).",
+      "cordifolius": "Petals not clawed.",
+      "diagnostic_weight": "Supporting reproductive distinction; intact flower needed."
+    },
+    {
+      "character": "Pedicels",
+      "berteroi": "Usually 0.6–2.8 cm, spreading to ascending.",
+      "cordifolius": "Usually 2.1–7.5 cm, erect to ascending; substantial overlap at 2.1–2.8 cm.",
+      "diagnostic_weight": "Supporting; measure several mature pedicels."
+    },
+    {
+      "character": "Achene facial glands and keels",
+      "berteroi": "Typically 1–2 facial glands, often 2 keels; about 3–5 ribs.",
+      "cordifolius": "Typically 3–4 facial glands, often 1 keel; about 3–4 ribs.",
+      "diagnostic_weight": "HIGH with ripe separated achenes at magnification; count several."
+    },
+    {
+      "character": "Emergent blade size",
+      "berteroi": "About 2.6–15.5 cm long; elliptic, lanceolate or ovate.",
+      "cordifolius": "About 6.5–32 cm long; usually ovate to elliptic.",
+      "diagnostic_weight": "LOW: size overlaps and depends strongly on water depth and vigor."
+    }
+  ],
+  "decision_sequence": [
+    "Confirm Echinodorus-like burrhead: rooted aquatic basal rosette, whorled three-part flowers, many small achenes in each rounded fruit head.",
+    "Photograph the entire reproductive axis at maturity: erect/non-proliferating favors berteroi; arching/prostrate with rooted nodes or plantlets favors cordifolius.",
+    "Magnify sepal undersides: smooth veins favor berteroi; papillate roughened veins favor cordifolius.",
+    "Count stamens in fresh flowers and achene facial glands in ripe fruit; use at least two independent reproductive characters.",
+    "If plants are sterile, young, or show mixed states, retain Echinodorus/Aquarius sp. and request targeted diagnostic review rather than forcing an ID."
+  ],
+  "overlap_cautions": [
+    "Both species may have heart-shaped leaves, translucent leaf lines, whorled flowers, and rounded fruit heads. Leaf base and flower color do not separate them.",
+    "A young cordifolius axis can initially stand upright; use mature flowering/fruiting stalks before relying on posture.",
+    "Pedicel length overlaps, and gland/rib characters require fully mature achenes.",
+    "Some floras recognize cordifolius in Aquarius. Treat Echinodorus cordifolius as a source-pool/FNA comparison label until the accepted-name mapping is reviewed; do not infer a separate canonical concept.",
+    "The Master Plant Pool includes both names, but neither has a canonical species.json in the checked manifest. Genus lesson is provisional and does not certify native-range status."
+  ],
+  "lookalikes": [
+    {
+      "taxon": "Sagittaria platyphylla",
+      "source": "Existing local canonical Alismataceae anchor",
+      "separator": "Sagittaria typically has unisexual flowers with female flowers below male on the axis; Echinodorus flowers are bisexual with numerous stamens and carpels together. Both can have non-arrow-shaped leaves."
+    },
+    {
+      "taxon": "Alisma spp.",
+      "source": "Related water-plantain family members",
+      "separator": "Compare achene head structure and flower architecture; Echinodorus forms compact rounded burrlike heads at spaced axis nodes. Verify with mature achenes, not leaf shape."
+    },
+    {
+      "taxon": "Echinodorus/Aquarius aquarium or planted specimens",
+      "source": "Cultivation/escape comparison",
+      "separator": "Do not infer wild provenance or native-range status from a pond planting. Check flower, sepal and achene characters and collection context."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "Matched whole mature flowering/fruiting axes",
+      "character": "Erect/non-proliferating vs arching/prostrate/rooting nodes",
+      "shot": "Include entire stalk from rosette to terminal whorl, plus node inset and centimeter scale.",
+      "priority": 1
+    },
+    {
+      "role": "Matched sepal backs",
+      "character": "Smooth vs papillate sepal veins",
+      "shot": "10–20× macro of several sepals from each species, with arrows to veins and mm scale.",
+      "priority": 1
+    },
+    {
+      "role": "Flower-center stamen counts",
+      "character": "9–15 vs ~20–22 stamens and clawed vs unclawed petals",
+      "shot": "Overhead macro of open flower with petals parted; label counted stamens and petal base.",
+      "priority": 1
+    },
+    {
+      "role": "Separated mature achenes",
+      "character": "Facial glands (1–2 vs 3–4), ribs and keels",
+      "shot": "Matched side and back views at 20× with mm scale and labeled glands.",
+      "priority": 1
+    },
+    {
+      "role": "Measured fruiting pedicels",
+      "character": "Length and orientation",
+      "shot": "Two or more fruiting nodes, measured pedicels and node-to-node view.",
+      "priority": 2
+    },
+    {
+      "role": "Same-plant aquatic foliage",
+      "character": "Overlapping leaf shape and submerged/emergent variation",
+      "shot": "Leaf base and backlit pellucid lines from documented plants; teach why leaves alone mislead.",
+      "priority": 2
+    },
+    {
+      "role": "Sagittaria comparison",
+      "character": "Bisexual vs separate female/male flowers",
+      "shot": "Existing Sagittaria platyphylla project/Joey frame when identification and reuse permit; annotate sex positions.",
+      "priority": 2
+    }
+  ],
+  "handoffs": [
+    "Taxonomy + Diagnostic Review: resolve Echinodorus cordifolius (FNA/World Flora Online) versus Aquarius cordifolius (Kew POWO) accepted-name mapping; retain source-pool name as alias if warranted. Do not install duplicate concepts.",
+    "Approved Taxa Installer: source-pool E. berteroi and E. cordifolius lack canonical species cards; install only after accepted-concept mapping and normal species pipeline.",
+    "Diagnostic Photo Polish: source matched diagnostic photos of sepal vein papillae, stamen counts, mature achene glands, and full reproductive axes. Do not use unsourced placeholder images.",
+    "Family Backfill: link this aquatic Echinodorus comparison against existing Sagittaria platyphylla family anchor when convenient; preserve existing family lesson."
+  ],
+  "sources": [
+    "content/taxa/Alismataceae/family.json",
+    "data/manifest.json",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Echinodorus%20berteroi.html",
+    "https://www.worldfloraonline.org/taxon/wfo-0000766369",
+    "https://www.worldfloraonline.org/taxon/wfo-0000766380",
+    "https://www.worldfloraonline.org/taxon/wfo-0001231577",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:58327-1",
+    "https://aquaplant.tamu.edu/plant-identification/alphabetical-index/creeping-burhead/"
+  ],
+  "curation_status": "provisional_genus_structure_live_visual_incomplete_2026-10-11"
+}

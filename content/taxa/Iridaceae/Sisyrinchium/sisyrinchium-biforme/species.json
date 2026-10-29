@@ -1,0 +1,89 @@
+{
+  "id": "sisyrinchium-biforme",
+  "family": "Iridaceae",
+  "genus": "Sisyrinchium",
+  "species": "biforme",
+  "scientific_name": "Sisyrinchium biforme",
+  "common_name": "Blue-eyed grass",
+  "look_here_first": "Slender grasslike iris with flattened blades and small six-tepaled flowers on stalks from paired leafy spathes; inspect spathe bracts and capsules.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_041": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Sisyrinchium%20biforme",
+  "images": [
+    {
+      "file": "images/inat-474027584.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA",
+      "source_page": "https://www.inaturalist.org/photos/474027584",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; ShareAlike requirements"
+    },
+    {
+      "file": "images/library-review041-796e161138963d6.jpg",
+      "role": "Two small blue-white flowers emerging among narrow grassy blades in open habitat; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/3456630928",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176421608/original.jpeg",
+      "source_determination": "Sisyrinchium biforme",
+      "source_observation_id": "3456630928",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/sisyrinchium-biforme/gbif-177c231ab7a3e8.jpg",
+      "archive_image_sha256": "0293d632b83edddd73b0e02dd6c92f224e3b30cbeb0cdc7ed6ca83f2b62a9e9f",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-13b553396f1c075.jpg",
+      "role": "Close six blue tepals and yellow center of a blue-eyed-grass bloom against fingers; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/3465905648",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176644419/original.jpeg",
+      "source_determination": "Sisyrinchium biforme",
+      "source_observation_id": "3465905648",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/sisyrinchium-biforme/gbif-0593034c522751.jpg",
+      "archive_image_sha256": "b757e5f5e0ee1e838b404f37ad1c7e27a9cf062ebaf09eb3afdbab6dcdb51b28",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

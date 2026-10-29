@@ -1,0 +1,155 @@
+{
+  "id": "tradescantia-occidentalis",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "occidentalis",
+  "scientific_name": "Tradescantia occidentalis",
+  "authority": "(Britton) Smyth",
+  "common_name": "Prairie Spiderwort / Western Spiderwort",
+  "synonyms": [],
+  "taxonomic_note": "Accepted in the current Kew/POWO Tradescantia backbone; learner retained at species rank.",
+  "look_here_first": "Start with the narrow leaves and the stem hairs. Prairie spiderwort has narrow linear to strap-shaped leaves and conspicuous long-stalked glandular hairs on the internodes and peduncles. In the Williamson treatment the blades are about 6–17 mm wide, giving the plant a noticeably grassier look than giant spiderwort.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "UT Plant Resources Center Travis County herbarium index; detailed Williamson County treatment; research-grade Bexar County occurrence supported by regional Bexar flora context.",
+    "range_guardrail": "The Bexar count is retained as supporting occurrence evidence under the project's allowed evidence hierarchy; no additional counties are inferred from the broad prairie range."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial, several-stemmed at base",
+      "ascending to suberect, about 15–65 cm in the Williamson treatment",
+      "internodes and peduncles conspicuously long-stalked glandular-hairy",
+      "narrow strap-shaped to linear leaves, about 6–17 mm wide locally",
+      "two conspicuous unequal leaflike bracts subtend the terminal paired cymes",
+      "sepals conspicuously glandular-hairy"
+    ],
+    "comparison_training": "T. gigantea is broader and more robust with a nearly glabrous lower stem. T. humilis is shorter, bushier and hairy across the vegetative plant. T. ohiensis is much more glabrous/glaucous in the upper stem and sepals; T. occidentalis has conspicuous glandular pubescence."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tradescantia gigantea",
+      "Tradescantia humilis",
+      "Tradescantia ohiensis"
+    ],
+    "key_distinctions": "T. gigantea is broader and more robust with a nearly glabrous lower stem. T. humilis is shorter, bushier and hairy across the vegetative plant. T. ohiensis is much more glabrous/glaucous in the upper stem and sepals; T. occidentalis has conspicuous glandular pubescence."
+  },
+  "tags": [
+    "Commelinaceae",
+    "Tradescantia",
+    "Prairie Spiderwort / Western Spiderwort",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b029",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 2,
+    "manual_library_install_018": "2026-10-16"
+  },
+  "photo_note": "Diagnostic photo roles are defined in the deep-review draft; exact reusable selections remain a later visual-polish task. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tradescantia%20occidentalis.jpg",
+      "role": "Whole plant / prairie spiderwort habit",
+      "creator": "Drew Avery",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tradescantia_occidentalis.jpg",
+      "original_source_page": "https://www.flickr.com/photos/33590535@N06/3502141789",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tradescantia%20occidentalis%20001%20%E2%80%94%20Matt%20Lavin.jpg",
+      "role": "Flower detail / petals, sepals and hairy staminal structure",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tradescantia_occidentalis_001_%E2%80%94_Matt_Lavin.jpg",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tradescantia%20occidentalis%20%286253799235%29.jpg",
+      "role": "Stem/axillary structure / prophyll reference",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tradescantia_occidentalis_(6253799235).jpg",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review018-426fa02c0448a53.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Narrow basal foliage and flowering plant habit plus close purple three-petaled flower",
+      "creator": "mbyhower",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6188135843",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634375198/original.jpg",
+      "source_determination": "Tradescantia occidentalis",
+      "source_observation_id": "6188135843",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/tradescantia-occidentalis/gbif-223b0607151996.jpg",
+      "archive_image_sha256": "1b57f857edd03d0eff67241b9c94eb457346fab3438f445ebba3afdd33948afe",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review018-28e77e0c604dabf.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Narrow basal foliage and flowering plant habit plus close purple three-petaled flower",
+      "creator": "CH Hemphill",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6195285365",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637084158/original.jpg",
+      "source_determination": "Tradescantia occidentalis",
+      "source_observation_id": "6195285365",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/tradescantia-occidentalis/gbif-767a7d02932214.jpg",
+      "archive_image_sha256": "2077bad16259d9f4bd50ded5142b388d3e5c66b8532ca0a577f74787618f543a",
+      "image_dimensions": [
+        787,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Presentation fast-fill only; settled scientific taxonomy/range status is unchanged. Rights-clear exact-species images cover the main field-identification roles and can be upgraded later with stronger local material."
+  }
+}

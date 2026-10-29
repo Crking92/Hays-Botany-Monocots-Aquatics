@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 1279.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Toxicoscordion%20nuttallii
+Exact source photograph https://commons.wikimedia.org/wiki/File:Toxicoscordion_nuttallii_(1).jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Toxicoscordion%20nuttallii%20(1).jpg
+Original photo creator Eric Hunt
+Photo file-level license CC BY-SA 4.0
+Provisional photo role Provisional flower close-up for death-camas identification; basal leaves and bulbs not shown.
+Caution Poisonous; do not sample or encourage handling/eating. Arkansas image provenance, not Hays native-range evidence.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

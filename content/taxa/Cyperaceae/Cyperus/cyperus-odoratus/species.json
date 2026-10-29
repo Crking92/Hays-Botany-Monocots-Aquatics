@@ -1,0 +1,87 @@
+{
+  "entry_type": "species",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "id": "cyperus-odoratus",
+  "species": "odoratus",
+  "scientific_name": "Cyperus odoratus",
+  "authority": "L.",
+  "common_name": "Fragrant flatsedge / rusty flatsedge",
+  "look_here_first": "LOOK FIRST at a FULLY MATURE spikelet: C. odoratus is unusual because a corky, winged spikelet RACHILLA disarticulates into one-fruited segments (each includes a scale, rachilla internode and achene). Usually subcylindrical spikelets; brown head color is secondary, not diagnostic.",
+  "source_pool": {
+    "review": "reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md",
+    "admission": "APPROVED"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state level by reviewed FNA/POWO sources. Three distinct project-zone native-county records not independently certified. FNA treats a broad C. odoratus concept which can include C. engelmannii; POWO currently accepts C. engelmannii separately."
+  },
+  "morphology_keys": {
+    "habit": "Annual or short-lived perennial in muddy wetland margins, shores or disturbed moist places, with large spreading leaflike terminal bracts.",
+    "inflorescence": "Umbel-like branching rays with headlets and elongated narrow spikelets, often rust-colored but variable.",
+    "spikelets": "Cylindrical or subcylindrical maturity. Corky winged rachilla breaks at each scale into one-fruited segments; this is key.",
+    "scales": "Disarticulating rachilla internode bears its floral scale and achene, not merely scales falling individually.",
+    "fruit": "Single achene per reduced flower; achene may remain clasped by a corky winged one-fruited rachilla segment."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cyperus strigosus",
+      "Cyperus engelmannii",
+      "Cyperus erythrorhizos"
+    ],
+    "key_distinctions": "C. strigosus flattened spikelets, larger deciduous scales and cormlike culm base. The FNA broad C. odoratus includes C. engelmannii, but POWO recognizes C. engelmannii separately; voucher-level identity needs review rather than an automatic synonym mapping.",
+    "cautions": "Taxonomy CONCEPT WARNING: preserve accepted C. odoratus L. anchor only; do NOT automatically map C. engelmannii observations into C. odoratus, and do not assign another accepted species without full reviewed specimen. Maturity, anatomy and county nativity need independent verification."
+  },
+  "diagnostic_image_needs": [
+    "Corky winged mature rachilla broken into individual one-fruited segments with 1 mm scale",
+    "Same specimen scale plus achene/internode dissected macro",
+    "Flat C. strigosus side-by-side mature spikelet and basal corm",
+    "Separate voucher-grade C. engelmannii comparison under POWO taxonomy"
+  ],
+  "images": [
+    {
+      "file": "images/01-fragrant-flatsedge-habit.jpg",
+      "role": "inflorescence_rays_bracts",
+      "creator": "Dick Culbert",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_odoratus,_the_Fragrant_Flatsedge_(11274574473).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Partial upper flowering head with rays and long green bracts, not a full root-to-tip plant or a mature rachilla dissection.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    },
+    {
+      "file": "images/02-fragrant-flatsedge-heads.jpg",
+      "role": "whole_plant_flowering_habit",
+      "creator": "Franz Xaver",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_odoratus_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Whole flowering fragrant flatsedge plant showing rooted/base portion, basal leaves and a branching terminal head; decisive corky rachilla segments not visible.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_status": "2 exact-name photo references physically installed and inspected; species-concept warning remains and corky one-fruited rachilla segments need a voucher-grade macro."
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-14",
+    "note": "2 exact-name photo references physically installed and inspected; species-concept warning remains and corky one-fruited rachilla segments need a voucher-grade macro."
+  },
+  "photo_note": "2 exact-name photo references physically installed and inspected; species-concept warning remains and corky one-fruited rachilla segments need a voucher-grade macro."
+}

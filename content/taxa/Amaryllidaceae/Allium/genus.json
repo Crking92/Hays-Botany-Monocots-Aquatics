@@ -1,0 +1,169 @@
+{
+  "rank": "genus",
+  "name": "Allium",
+  "family": "Amaryllidaceae",
+  "project_scope": {
+    "source_pool_species": [
+      "Allium canadense",
+      "Allium drummondii"
+    ],
+    "canonical_install": "source-pool pair curated through 2026-10-10 installer; scientific range unresolved",
+    "species_ids": [
+      "allium-canadense",
+      "allium-drummondii"
+    ],
+    "species_count": 2
+  },
+  "look_here_first": "Inspect an intact papery spathe and its veins, then count flowers versus aerial bulbils; flower color and absence of bulbils alone are unreliable.",
+  "shared_traits": [
+    "Bulbous herbs with onion odor, basal linear leaves, a leafless scape and umbel.",
+    "Six tepals, six stamens and superior ovary; capsules develop from flowers."
+  ],
+  "comparison": [
+    {
+      "character": "Intact spathe",
+      "canadense": "Usually 3–4 bracts, each 3–7-veined (FNA).",
+      "drummondii": "Usually 2–3 bracts, about one-veined (FNA). Local descriptions may differ; prioritize intact material."
+    },
+    {
+      "character": "Umbel composition",
+      "canadense": "Loose 0–60-flowered umbel; aerial bulbils may replace flowers in some varieties.",
+      "drummondii": "Usually 10–25 flowers; aerial bulbils rare."
+    },
+    {
+      "character": "Basal leaves",
+      "canadense": "About 20–50 cm × 1–7 mm.",
+      "drummondii": "About 10–30 cm × 1–3(–5) mm; overlap requires multiple traits."
+    }
+  ],
+  "cautions": [
+    "A. canadense includes several varieties; bulbil absence does not exclude it.",
+    "Onion odor distinguishes many Allium from Nothoscordum, but does not separate these two onions.",
+    "Use flower and fruit structure, not tepal color."
+  ],
+  "lookalikes": [
+    {
+      "name": "Nothoscordum bivalve",
+      "difference": "Lacks characteristic onion odor"
+    },
+    {
+      "name": "Zephyranthes",
+      "difference": "Inferior ovary, often solitary larger flower"
+    }
+  ],
+  "photo_targets": [
+    "Whole umbel with flowers and bulbils",
+    "Intact spathe vein close-up",
+    "Flower face and side with scale",
+    "Bulb tunic and basal leaf",
+    "Capsule versus aerial bulbil"
+  ],
+  "handoffs": [
+    {
+      "lane": "Approved Taxa Installer",
+      "need": "Dependency resolved: both species already in canonical manifest. No additional installation needed."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "need": "Matched reproductive macro views for both species."
+    }
+  ],
+  "sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Allium%20canadense%20canadense.html",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Allium%20drummondii.html",
+    "content/taxa/Amaryllidaceae/family.json"
+  ],
+  "status": "two canonical species compared; same-scale spathe-vein diagnostic photos pending; native-range statuses preserved",
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "inspect": "Unopened or intact papery umbel spathe",
+      "decision": "Count bracts and veins on each bract. Three to four multiveined bracts favor A. canadense; two to three approximately one-veined bracts favor A. drummondii."
+    },
+    {
+      "step": 2,
+      "inspect": "Whole umbel with all flowers and aerial bulbils visible",
+      "decision": "Bulbils can support A. canadense but absence is not exclusion; predominantly flowered umbels occur in both."
+    },
+    {
+      "step": 3,
+      "inspect": "Several basal leaves and mature flowers with millimeter scale",
+      "decision": "A. canadense generally has longer/broader leaves; A. drummondii usually has narrower leaves and 5–20 mm flower pedicels. Leaf sizes overlap."
+    },
+    {
+      "step": 4,
+      "inspect": "Six tepals, six stamens, superior ovary and bulb odor",
+      "decision": "Confirm Allium against Nothoscordum and rain lilies; do not use tepal color to separate the two Allium species."
+    }
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Spathe bracts and veins",
+      "canadense": "Usually 3–4 bracts with 3–7 veins each",
+      "drummondii": "Usually 2–3 bracts, about one vein each",
+      "weight": "primary; examine intact spathe"
+    },
+    {
+      "character": "Umbel and bulbils",
+      "canadense": "Loose, 0–60 flowers; bulbils variable by variety",
+      "drummondii": "Usually 10–25 flowers; bulbils rare",
+      "weight": "supporting, overlap"
+    },
+    {
+      "character": "Basal leaves",
+      "canadense": "20–50 cm long × 1–7 mm wide",
+      "drummondii": "10–30 cm long × 1–3(–5) mm wide",
+      "weight": "supporting, overlap"
+    },
+    {
+      "character": "Flower stalks",
+      "canadense": "Measure intact flowers; no non-overlapping value verified in current species card",
+      "drummondii": "Pedicels 5–20 mm in current canonical card",
+      "weight": "supporting only"
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": "critical",
+      "subject": "both species",
+      "photo": "Matched unopened spathes and opened bracts, veins individually arrowed, millimeter scale",
+      "separates": "3–4 multiveined versus 2–3 nearly one-veined bracts"
+    },
+    {
+      "priority": "critical",
+      "subject": "both species",
+      "photo": "Whole mature umbel with flowers, capsules and aerial bulbils annotated",
+      "separates": "Bulbil frequency and umbel composition; note variable absence"
+    },
+    {
+      "priority": "high",
+      "subject": "both species",
+      "photo": "Flower side and face with ruler, arrows to six tepals, six stamens and ovary",
+      "separates": "Confirms genus and prevents color-only identification"
+    },
+    {
+      "priority": "high",
+      "subject": "both species",
+      "photo": "Basal leaves and bulb/tunic on same-scale background",
+      "separates": "Leaf length/width supporting comparison"
+    },
+    {
+      "priority": "high",
+      "subject": "both species",
+      "photo": "Intact spathe at peduncle junction and individual flower pedicels",
+      "separates": "Shows exactly where bracts and stalks are measured"
+    }
+  ],
+  "existing_media_reuse": [
+    {
+      "species_id": "allium-canadense",
+      "file": "content/taxa/Amaryllidaceae/Allium/allium-canadense/images/allium-canadense-umbel.jpg",
+      "role": "existing provisional umbel portrait; not confirmed vein macro"
+    },
+    {
+      "species_id": "allium-drummondii",
+      "file": "content/taxa/Amaryllidaceae/Allium/allium-drummondii/images/allium-drummondii-flowers.jpg",
+      "role": "existing provisional flowering portrait; not confirmed vein macro"
+    }
+  ]
+}

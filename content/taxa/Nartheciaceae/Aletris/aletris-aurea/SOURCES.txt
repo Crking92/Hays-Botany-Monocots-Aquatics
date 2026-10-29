@@ -1,0 +1,7 @@
+Master Plant Pool phase2 preflight; taxonomy source https://powo.science.kew.org/results?q=Aletris%20aurea
+Commons exact species file: https://commons.wikimedia.org/wiki/File:Aletris_aurea_-_Flickr_-_aspidoscelis_(1).jpg
+Direct original JPEG: https://upload.wikimedia.org/wikipedia/commons/c/c1/Aletris_aurea_-_Flickr_-_aspidoscelis_%281%29.jpg
+Photographer: Patrick Alexander
+License: CC0 1.0
+Photo role: Provisional recognition: close-up yellow textured flowers on stalk; whole basal rosette not shown
+Photograph and Commons attribution/rights checked; provisional learner only, no native county inference.

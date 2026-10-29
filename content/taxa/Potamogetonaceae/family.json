@@ -1,0 +1,72 @@
+{
+  "rank": "family",
+  "name": "Potamogetonaceae",
+  "common_name": "Pondweed family",
+  "project_scope": {
+    "selection_mode": "Central Texas Potamogeton-first aquatic lesson",
+    "canonical_anchor": "Potamogeton illinoensis",
+    "note": "Current species anchor is strong morphologically but lacks promoted reusable photo files."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at a leaf axil underwater. In the local Potamogeton anchor, look for alternate two-ranked leaves plus a persistent stipule/prophyll, then confirm the emergent flower spike.",
+    "vegetative": "Submerged rhizomatous aquatic with flexible stems; leaves often arranged in two ranks and with conspicuous stipules/prophylls.",
+    "flowers": "Small sessile flowers densely arranged in an emergent spike; local P. illinoensis has four green perianth segments and four stamens.",
+    "fruit": "Small one-seeded drupelet-like units, commonly several per flower.",
+    "field_tip": "Leaf width alone is weak. Use the axillary stipule/prophyll, vein pattern and emergent spike together."
+  },
+  "visual_lesson": {
+    "status": "family_structure_live_visual_assets_pending",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Pondweed ID becomes much less vague when you stop staring at leaf width and inspect the leaf axil for the stipule, then follow the stem to the flower spike.",
+    "steps": [
+      {
+        "title": "1 · Read the two-ranked leaves",
+        "photo_role": "submerged habit",
+        "anchor_species_id": "potamogeton-illinoensis",
+        "look_for": "Broad submerged leaves arranged alternately in two ranks along flexible stems.",
+        "why_it_matters": "Establishes the pondweed growth pattern.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "2 · Look in the leaf axil",
+        "photo_role": "persistent stipule / prophyll",
+        "anchor_species_id": "potamogeton-illinoensis",
+        "look_for": "A conspicuous persistent sheath-like structure at the leaf axil.",
+        "why_it_matters": "The stipule/prophyll is much more useful than leaf width alone.",
+        "status": "public_macro_pending"
+      },
+      {
+        "title": "3 · Follow the peduncle upward",
+        "photo_role": "emergent flower spike",
+        "anchor_species_id": "potamogeton-illinoensis",
+        "look_for": "A long stalk ending in a dense many-flowered spike above the water.",
+        "why_it_matters": "Links the submerged vegetative plant to its reproductive identity.",
+        "status": "public_photo_pending"
+      },
+      {
+        "title": "4 · Use a local key for species",
+        "photo_role": "veins + stipule + fruit",
+        "anchor_species_id": "potamogeton-illinoensis",
+        "look_for": "Vein architecture, stipule form and mature fruit together.",
+        "why_it_matters": "Broad-leaved pondweeds overlap too much for leaf width alone.",
+        "status": "comparison_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Potamogeton vs generic broad-leaved aquatics",
+        "rule": "Look for the combination of alternate distichous leaves, axillary stipule/prophyll and an emergent dense flower spike."
+      },
+      {
+        "title": "Potamogetonaceae vs Pontederiaceae",
+        "rule": "At the leaf base compare the free stipule of Potamogeton with the sheathing leaf base of Heteranthera. Confirm with flowers: Potamogeton has small reduced green flowers in a spike, whereas Heteranthera has a conspicuous six-part flower. Do not identify either family from narrow underwater leaves alone."
+      }
+    ],
+    "caveat": "Species-level Potamogeton separation should use a local technical key once reproductive material is available."
+  },
+  "curation_status": {
+    "version": "1.0-family-structure-live",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "study_reference_complete_public_photo_pending"
+  }
+}

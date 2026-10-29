@@ -1,0 +1,173 @@
+{
+  "rank": "genus",
+  "family": "Arecaceae",
+  "name": "Sabal",
+  "common_group": "Palmettos",
+  "project_scope": {
+    "selection_mode": "2026-10-10 Genus Comparison Builder; extend existing Arecaceae family lesson",
+    "species_ids": [
+      "sabal-minor",
+      "sabal-mexicana"
+    ],
+    "species_count": 2,
+    "source_pool_names": [
+      "Sabal minor",
+      "Sabal mexicana"
+    ],
+    "canonical_species_installed": 0,
+    "learner_admission": "approved_source_pool",
+    "native_range_note": "Do not infer target-county PASS from Texas-wide distributions; range review remains independent."
+  },
+  "shared_genus_traits": [
+    "Solitary unarmed palms with fan-shaped, costapalmate leaves: a central costa extends into the blade rather than ending abruptly at the petiole.",
+    "Fibrous sheathing leaf bases, long unarmed petioles and a hastula (flap at the upper petiole/blade junction).",
+    "Small bisexual flowers borne in branched inflorescences among leaves; flowers with three sepals, three petals and six stamens.",
+    "Dark, usually one-seeded, rounded to flattened-rounded mature fruits."
+  ],
+  "look_here_first": {
+    "cue": "Follow the leaf petiole into the fan: locate the costa and hastula. Then compare an adult stem, loose segment-edge fibers, and fruit diameter at the SAME SCALE.",
+    "sequence": [
+      "Confirm a costapalmate leaf and unarmed petiole; this gets you into the Sabal lesson.",
+      "On mature plants, look for a persistent above-ground trunk versus leaves arising near ground level; do not stop here.",
+      "At the petiole-blade junction, measure the hastula and assess the length/curvature of the costa; check segment margins for threadlike fibers.",
+      "If reproductive material exists, compare inflorescence length and branching relative to leaves and measure multiple ripe fruits."
+    ]
+  },
+  "comparison_matrix": [
+    {
+      "character": "Mature stem/trunk",
+      "Sabal minor": "Usually subterranean; crown often appears stemless, but some old plants develop an aerial stem.",
+      "Sabal mexicana": "Usually conspicuous aerial trunk, about 20–35 cm diameter in the FNA treatment.",
+      "interpretation": "Fast initial split only; young S. mexicana and exceptional trunked S. minor overlap.",
+      "photo_target": "P1"
+    },
+    {
+      "character": "Leaf blade and segment fibers",
+      "Sabal minor": "Weakly costapalmate, nearly flat; segment margins usually without loose threadlike fibers.",
+      "Sabal mexicana": "Strongly costapalmate and curved; segments commonly filiferous (threadlike fibers).",
+      "interpretation": "Use intact adult leaves; damage or age can remove fibers.",
+      "photo_target": "P2"
+    },
+    {
+      "character": "Hastula length and shape",
+      "Sabal minor": "Obtuse hastula about 0.8–4.7 cm long.",
+      "Sabal mexicana": "Acute to acuminate hastula about 9.5–15.5 cm long.",
+      "interpretation": "Measured structural separator; show scale and exact junction, not a distant leaf.",
+      "photo_target": "P3"
+    },
+    {
+      "character": "Inflorescence architecture",
+      "Sabal minor": "Usually erect, much longer than leaves; 2 orders of branching excluding the main axis.",
+      "Sabal mexicana": "Usually arching, about as long as leaves; 3 orders of branching excluding main axis.",
+      "interpretation": "Compare flowering/fruiting adult plants; wind, damage and cultivation affect apparent length.",
+      "photo_target": "P4"
+    },
+    {
+      "character": "Mature fruit diameter",
+      "Sabal minor": "About 6.4–9.7 mm across; brownish black, usually spheroid.",
+      "Sabal mexicana": "About 14.8–19.3 mm across; black, often oblate-spheroid.",
+      "interpretation": "High-value nonoverlapping published ranges; compare multiple ripe fruits with ruler.",
+      "photo_target": "P5"
+    }
+  ],
+  "overlap_cautions": [
+    "An above-ground trunk does NOT automatically exclude S. minor; FNA notes large emergent forms. A small trunkless juvenile does NOT prove S. minor.",
+    "Cultivated palms, planted outside natural range, and possible interspecific hybrids should not be labeled as wild local native occurrences.",
+    "Do not infer species from leaf color, crown size, or plant height alone; favor measured hastula and ripe fruit plus mature leaf architecture.",
+    "FNA notes a possible hybridization hypothesis for a Brazoria County population; this is not proof of hybrids in Hays County."
+  ],
+  "realistic_lookalikes": [
+    {
+      "name": "Nolina (e.g., Nolina texana in source pool)",
+      "separate": "Nolina has long narrow strap leaves in a rosette, not a broad costapalmate fan with a costa and hastula; flowers in many small clusters rather than palm fruits."
+    },
+    {
+      "name": "Yucca species in source pool",
+      "separate": "Yucca has stiff simple linear blades, not a segmented costapalmate fan; large bell-shaped flowers and dry/fleshy capsules differ from Sabal drupes."
+    },
+    {
+      "name": "Other cultivated fan palms",
+      "separate": "Do not assume any fan palm is Sabal. Check petiole armature, costa/hastula, leaf segment folding and mature fruits; keep cultivated look-alikes as provisional until keyed."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "id": "P1",
+      "character": "Mature stem/trunk",
+      "shot": "Matched whole adult plants with base exposed, ground line marked and crown visible.",
+      "overlay": "label aerial trunk vs subterranean stem; include exception warning",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P2",
+      "character": "Leaf costa and filiferous segments",
+      "shot": "Matched intact adult leaves photographed from comparable angles; macro of segment edges.",
+      "overlay": "arrow costa; label loose marginal threads present/absent",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P3",
+      "character": "Hastula",
+      "shot": "Matched adaxial petiole-to-blade junction macros with centimeter ruler.",
+      "overlay": "trace hastula; mark rounded vs acute tip and measured length",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P4",
+      "character": "Inflorescence branching",
+      "shot": "Whole inflorescence with leaves in same frame, plus detail of branch hierarchy.",
+      "overlay": "count branching orders, indicate inflorescence vs leaf length",
+      "status": "diagnostic_photo_polish_pending"
+    },
+    {
+      "id": "P5",
+      "character": "Mature fruit diameter",
+      "shot": "At least 3 ripe fruits per species side-by-side with millimeter scale; include fruiting panicle context.",
+      "overlay": "mark equatorial fruit diameter and published range",
+      "status": "diagnostic_photo_polish_pending"
+    }
+  ],
+  "existing_media": {
+    "family_lesson_path": "content/taxa/Arecaceae/family.json",
+    "status": "no_verified_project_or_joey_sabal_photo_reference_in_family_lesson",
+    "note": "Existing family module has a Sabal teaching sequence and reports no direct Joey Arecaceae frame indexed. Do not invent photo IDs or claim photo completion."
+  },
+  "dependencies": {
+    "approved_taxa_installer": [
+      "Sabal minor",
+      "Sabal mexicana"
+    ],
+    "diagnostic_photo_polish": [
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5"
+    ],
+    "taxonomy_diagnostic_review": "No newly identified unresolved separator; if measured local material conflicts with FNA ranges, review exact specimen and provenance rather than rewriting the key."
+  },
+  "source_notes": [
+    {
+      "title": "Flora of North America — Sabal minor",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200027117",
+      "role": "hastula, inflorescence, fruit, exceptional trunk"
+    },
+    {
+      "title": "Flora of North America — Sabal mexicana",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000323",
+      "role": "hastula, costa/fibers, inflorescence, fruit"
+    },
+    {
+      "title": "Project Arecaceae family lesson",
+      "path": "content/taxa/Arecaceae/family.json",
+      "role": "reused genus-recognition and look-alike context"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-20261010",
+    "last_reviewed": "2026-10-10",
+    "scientific_comparison": "provisional_structural_comparison_supported_by_FNA",
+    "visual_lock": "text_complete_diagnostic_photos_pending",
+    "species_installation": "not_in_scope"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "commelina-erecta",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Commelina",
+  "species": "erecta",
+  "scientific_name": "Commelina erecta",
+  "authority": "L.",
+  "common_name": "Whitemouth dayflower / erect dayflower",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. The species is highly variable; older North American treatments often recognized varieties such as var. erecta, var. angustifolia, and var. deamiana. The learner remains species-level.",
+  "look_here_first": "Find the green bract beneath the flowers: in Commelina erecta it is folded into a pocket, with basal margins joined and the top open for flowers to emerge. Then check the flower macro: smooth filaments and three fertile stamens plus three yellow staminodes, rather than Tinantia's six fertile stamens and conspicuous filament beards. Two big blue petals alone do not separate these plants.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NAPA maps Commelina erecta at county level and Kew/POWO accepts Texas in the native range. Travis County — UT Plant Resources Center's Travis County Commelinaceae herbarium index includes three Commelina erecta specimens. Williamson County — UT Plant Resources Center provides a detailed county treatment for Commelina erecta. Val Verde County — the Amistad National Recreation Area vascular flora documents Commelina erecta near Devil's Cave at the mouth of the Devil's River.",
+    "range_guardrail": "The species is widespread, morphologically variable, and often cultivated or weedy. County evidence comes from herbarium/floristic sources, not garden occurrences."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb with fibrous roots and several to many stems from the base",
+      "stems often decumbent or geniculate and capable of rooting at low nodes",
+      "leaves alternate, simple, parallel-veined and sheathing at the stem",
+      "leaf blades variable from narrow lanceolate to broader lanceolate/ovate forms",
+      "leaf sheaths may show rounded auricles near the blade base",
+      "inflorescence enclosed by a conspicuous green spathe that is strongly folded along the midline and fused along part of its margins into a pocket",
+      "buds develop inside the mucilage-lined spathe and flowers emerge sequentially",
+      "flower bilaterally symmetric with two large blue lateral petals and a much smaller pale or colorless lower petal",
+      "androecium includes fertile stamens plus conspicuous yellow staminodes",
+      "capsule develops hidden within the spathe"
+    ],
+    "comparison_training": "Tinantia anomala: Tinantia lacks the closed Commelina-style spathe pocket. Its terminal one-sided cyme is subtended by a broad leaflike bract that is mostly flat/open, and its upper leaves often clasp the stem with cordate lobes. The flower still has two large blue petals and a smaller white petal, so the inflorescence bract is the better first character. Commelina communis: The introduced Asiatic dayflower also has two large blue petals, but its spathe is open rather than fused into the more pocketlike Commelina erecta spathe. Use spathe architecture and regional flora evidence rather than petal color. Tradescantia spp.: Spiderworts have three comparably showy petals and lack the Commelina dayflower spathe pocket. Their flowers sit in terminal clusters rather than emerging from the folded spathe."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tinantia anomala",
+      "Commelina communis",
+      "Tradescantia spp."
+    ],
+    "key_distinctions": "Tinantia lacks the closed Commelina-style spathe pocket. Its terminal one-sided cyme is subtended by a broad leaflike bract that is mostly flat/open, and its upper leaves often clasp the stem with cordate lobes. The flower still has two large blue petals and a smaller white petal, so the inflorescence bract is the better first character. The introduced Asiatic dayflower also has two large blue petals, but its spathe is open rather than fused into the more pocketlike Commelina erecta spathe. Use spathe architecture and regional flora evidence rather than petal color. Spiderworts have three comparably showy petals and lack the Commelina dayflower spathe pocket. Their flowers sit in terminal clusters rather than emerging from the folded spathe."
+  },
+  "tags": [
+    "Commelinaceae",
+    "Commelina",
+    "Whitemouth dayflower / erect dayflower",
+    "Central Texas",
+    "Dayflower comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b022",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5
+  },
+  "photo_note": "Five physical exact-species photographs, including Calvin's Kyle observation and a smooth-filament macro. Existing sheath/spathe views rechecked. Mature fruit/seed and dissected spathe-seam views remain follow-up.",
+  "images": [
+    {
+      "file": "images/01-flower.jpg",
+      "role": "Two large blue petals and small pale lower petal",
+      "creator": "Paty000 (original uploader)",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaf-sheath.jpg",
+      "role": "Leaf sheath and stem attachment",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_271552526.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Find the leaf blade leaving the stem at upper left and the sheath wrapping downward around the stem. This establishes the sheathing leaf base; the hairy rim alone is not the dayflower-versus-false-dayflower tie-breaker."
+    },
+    {
+      "file": "images/03-spathe.jpg",
+      "role": "Folded green spathe enclosing buds and flowers",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_279194748.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "The strongly folded green spathe encloses the buds and supports the emerging flower. In Commelina erecta the basal margins are joined, while the upper opening lets flowers emerge. This profile teaches the pocket shape; it is not a dissection of the seam."
+    },
+    {
+      "file": "images/04-calvin-local-flowering.jpg",
+      "role": "Kyle field view — flowers emerging from folded spathes",
+      "caption": "Calvin's observation at Emerald Pass, Kyle, on 2025-09-24. Follow each flower down to its folded green spathe. The two large blue petals occur in both dayflower genera; use the spathe and filament hairs to separate them.",
+      "platform": "iNaturalist",
+      "observation_id": 316362707,
+      "photo_id": 571575412,
+      "creator": "Calvin King",
+      "license": "All rights reserved — creator-authorized private study",
+      "source_page": "https://www.inaturalist.org/observations/316362707",
+      "direct_image_url": "https://static.inaturalist.org/photos/571575412/large.jpg",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "verification": {
+        "taxon": "Commelina erecta",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          576,
+          1024
+        ],
+        "git_blob_sha": "03d8517032c1692561962dfedf008a0f53a58047",
+        "visually_checked_on": "2026-10-08",
+        "limits": "No scale; this photograph is used only for the visible structures identified in the caption.",
+        "permission_basis": "Calvin King is the photographer and user; existing authorization to reuse his observations in his private learner. Public-reuse permission not inferred."
+      }
+    },
+    {
+      "file": "images/05-smooth-filaments-macro.jpg",
+      "role": "Flower macro — smooth filaments and lobed yellow staminodes",
+      "caption": "Look at the smooth, curved filaments below the petals and the small lobed yellow staminodes above them. Commelina erecta has three fertile stamens plus three staminodes. The dense purple-and-yellow filament tufts of Tinantia are absent. Do not count the pistil as a stamen.",
+      "platform": "iNaturalist",
+      "observation_id": 15488109,
+      "photo_id": 23706098,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/15488109",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23706098/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "verification": {
+        "taxon": "Commelina erecta",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1024,
+          945
+        ],
+        "git_blob_sha": "b07897183c8f4c488f0d49dfd56ccdb68fcc8ff2",
+        "visually_checked_on": "2026-10-08",
+        "limits": "No scale; this photograph is used only for the visible structures identified in the caption."
+      }
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 5,
+    "filled_at": "2026-10-05",
+    "note": "Five physical exact-species photographs, including Calvin's Kyle observation and a smooth-filament macro. Existing sheath/spathe views rechecked. Mature fruit/seed and dissected spathe-seam views remain follow-up.",
+    "polished_at": "2026-10-08"
+  },
+  "photo_research": {
+    "updated_at": "2026-10-08",
+    "latest_followup": "reports/dayflower-diagnostic-polish-001-2026-10-08.json",
+    "morphology_sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta",
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10212"
+    ],
+    "remaining_roles": [
+      "Spathe basal seam demonstrated by opened/dissected view",
+      "Mature capsule and seed"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cyperus-ochraceus",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "species": "ochraceus",
+  "scientific_name": "Cyperus ochraceus",
+  "common_name": "Ochraceous flatsedge",
+  "look_here_first": "Inspect the triangular sedge stems and umbrella-like clusters of flattened spikelets subtended by leaflike bracts; use mature achenes for confirmation.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "diagnostic_b004_provisional_installed": "2026-10-19"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Cyperus%20ochraceus",
+  "images": [
+    {
+      "file": "images/inat-326732690.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Ricard Busquets Reverte, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/326732690",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/diagnostic004-plantnet-5109507665-spikelets.jpg",
+      "role": "Close-up of ochraceous radiating spikelet clusters and leaflike bracts; achenes not shown",
+      "creator": "Trap Hers",
+      "license": "CC BY-SA",
+      "license_url": "",
+      "source_platform": "Pl@ntNet via GBIF",
+      "source_page": "https://www.gbif.org/occurrence/5109507665",
+      "direct_image_url": "https://bs.plantnet.org/image/o/51e9f37a587266cdfdb6db58d0becbe4d5eea6c1",
+      "photo_id": "",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution; preserve ShareAlike if applicable",
+      "photo_review": "Full-size photo reviewed; anatomical view confirmed. Species-level identity remains provisional.",
+      "photo_validation_status": "provisional source-taxon agreement, not specimen-confirmed",
+      "modifications": "JPEG display copy, EXIF/GPS removed; original retained in private immutable archive",
+      "source_archive": "diagnostic-39139862679"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

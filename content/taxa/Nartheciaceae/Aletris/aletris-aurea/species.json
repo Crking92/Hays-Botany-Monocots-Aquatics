@@ -1,0 +1,36 @@
+{
+  "id": "aletris-aurea",
+  "family": "Nartheciaceae",
+  "genus": "Aletris",
+  "species": "aurea",
+  "scientific_name": "Aletris aurea",
+  "common_name": "Golden colicroot",
+  "look_here_first": "Begin with a grasslike basal rosette and upright flowering stalk; look closely at the clustered small yellow tubular flowers and their six lobes.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Aletris%20aurea",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/commons-aletris-aurea-patrick-alexander.jpg",
+      "role": "Provisional recognition: close-up yellow textured flowers on stalk; whole basal rosette not shown",
+      "creator": "Patrick Alexander",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aletris_aurea_-_Flickr_-_aspidoscelis_(1).jpg",
+      "study_use": "Noncommercial field morphology learner",
+      "public_reuse": "CC0 public domain dedication; credit supplied"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

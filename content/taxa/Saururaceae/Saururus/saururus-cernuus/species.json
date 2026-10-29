@@ -1,0 +1,37 @@
+{
+  "id": "saururus-cernuus",
+  "family": "Saururaceae",
+  "genus": "Saururus",
+  "species": "cernuus",
+  "scientific_name": "Saururus cernuus",
+  "common_name": "Lizard's-tail",
+  "look_here_first": "Look along shady wet streambanks for heart-shaped, alternate leaves and slender drooping spikes of tiny whitish flowers; inspect the entire flowering spike rather than expecting large petals.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Saururus%20cernuus",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Cultivated garden specimen photographed in Germany, not Texas provenance.",
+  "images": [
+    {
+      "file": "images/commons-saururus-cernuus.jpg",
+      "role": "Provisional whole-plant habit with flowers; tiny individual florets not independently checked.",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Saururus_cernuus_001.JPG",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Attribution and ShareAlike restrictions apply if adapted"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "typha-latifolia",
+  "family": "Typhaceae",
+  "genus": "Typha",
+  "species": "latifolia",
+  "scientific_name": "Typha latifolia",
+  "common_name": "Broadleaf cattail",
+  "look_here_first": "Look for broad flattened leaves and dense brown female flower spikes with a male section immediately above; compare leaf width and separation of male/female spikes to other cattails.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Typha%20latifolia",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Broadleaf versus southern cattail ID requires multiple characters; source photograph is Montana.",
+  "images": [
+    {
+      "file": "images/commons-typha-latifolia.jpg",
+      "role": "Provisional flowering spike showing male segment above adjacent female segment; leaf widths and hybrid characters later.",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Typha_latifolia_(3821083444).jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Attribution and ShareAlike restrictions apply if adapted"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

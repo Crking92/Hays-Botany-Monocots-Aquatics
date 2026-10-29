@@ -1,0 +1,40 @@
+{
+  "id": "aquarius-cordifolius",
+  "family": "Alismataceae",
+  "genus": "Aquarius",
+  "species": "cordifolius",
+  "scientific_name": "Aquarius cordifolius",
+  "common_name": "Creeping burhead",
+  "look_here_first": "Examine the long petioled leaves and branched stalks of three-petaled flowers, then inspect the clustered achenes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77182733-1",
+  "synonyms": [
+    "Echinodorus cordifolius"
+  ],
+  "photo_taxonomy_note": "Kew documents the image observation name as a synonym of the accepted learner scientific name.",
+  "images": [
+    {
+      "file": "images/inat-154847402.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Matt Tomlinson, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/154847402",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

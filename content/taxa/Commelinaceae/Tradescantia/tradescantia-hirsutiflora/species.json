@@ -1,0 +1,86 @@
+{
+  "id": "tradescantia-hirsutiflora",
+  "entry_type": "provisional_species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "hirsutiflora",
+  "scientific_name": "Tradescantia hirsutiflora",
+  "authority": "Bush",
+  "common_name": "Hairyflower spiderwort",
+  "look_here_first": "Hairy spiderwort with narrow leaves and stems, hairy floral bracts and sepals, and notably slender fibrous roots rather than thickened tuberous roots.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: none locked.",
+    "range_guardrail": "Accepted taxon; exact target-zone county evidence not yet locked."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "upright perennial",
+      "narrow linear-lanceolate leaves",
+      "stems and leaves usually pubescent",
+      "hairy green floral bracts and sepals",
+      "blue-violet three-petaled flowers",
+      "slender fibrous roots"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/tradescantia-hirsutiflora-provisional-face.jpg",
+      "role": "Flowering plant / recognizable face",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tradescantia_hirsutiflora_(Nacogdoches_County).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6131040439-3c0430eb0.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Hairy sepals and floral bracts; fine fibrous roots and narrow leaf blades",
+      "creator": "Senna Bryce Robeson",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6131040439",
+      "gbif_occurrence_id": "6131040439",
+      "source_determination": "Tradescantia hirsutiflora Bush",
+      "accepted_target": "Tradescantia hirsutiflora",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608500847/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

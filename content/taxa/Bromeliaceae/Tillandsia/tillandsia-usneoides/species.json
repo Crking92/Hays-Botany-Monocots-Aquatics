@@ -1,0 +1,37 @@
+{
+  "id": "tillandsia-usneoides",
+  "family": "Bromeliaceae",
+  "genus": "Tillandsia",
+  "species": "usneoides",
+  "scientific_name": "Tillandsia usneoides",
+  "common_name": "Spanish moss",
+  "look_here_first": "Look for long hanging curtains of slender silver-gray stems and tiny curved leaves; inspect the tiny scales, greenish flowers, and growth on branches as an epiphytic bromeliad, not a lichen.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Tillandsia%20usneoides",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "This is an epiphytic bromeliad rather than a true moss or a parasite; source may be geographically outside project area.",
+  "images": [
+    {
+      "file": "images/commons-tillandsia-usneoides-kalathalan.jpg",
+      "role": "Provisional hanging Spanish-moss growth habit; individual leaves and small flowers require magnified photos.",
+      "creator": "Kalathalan",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tillandsia_usneoides.JPG",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, link to CC license, and ShareAlike terms apply to adapted image"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

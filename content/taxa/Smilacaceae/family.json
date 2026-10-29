@@ -1,0 +1,172 @@
+{
+  "rank": "family",
+  "name": "Smilacaceae",
+  "common_name": "Greenbrier / catbrier family",
+  "lineage_context": {
+    "order": "Liliales",
+    "batch": "Remaining monocot comparison",
+    "close_project_families": [
+      "Arecaceae",
+      "Nartheciaceae"
+    ],
+    "teaching_goal": "Teach Smilax as the monocot vine that breaks the parallel-vein stereotype: woody/prickly climbing stems, paired petiolar tendrils, broad leaves with 3-5 strong veins and reticulate cross-veins, separate-sex 6-tepaled flowers in umbels, and berries."
+  },
+  "project_scope": {
+    "selection_mode": "Smilax bona-nox + Smilax tamnoides project module",
+    "note": "Both species are accepted by current Kew and native-range treatments include Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find the paired tendrils at the petiole base, then look at the leaf veins. Smilax leaves have several strong longitudinal/arcuate veins but a visible net of smaller cross-veins—unusual for a monocot.",
+    "vegetative": "Perennial rhizomatous climbing vines or shrubs, often prickly. Leaves alternate, usually leathery, prominently 3-veined or 5-veined with reticulate cross-veins; tendrils usually arise from the petiole region.",
+    "reproductive": "Plants usually dioecious. Small greenish flowers are in umbels and have 6 tepals; staminate and pistillate flowers occur on separate plants.",
+    "fruit": "Round berries, commonly black at maturity in the two project species, with 1-3 seeds.",
+    "field_tip": "Prickly climbing vine + petiolar tendrils + broad reticulate 3-5-veined leaf + umbel + berry = Smilacaceae/Smilax."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_028",
+    "teaching_order": "tendril origin → reticulate monocot leaf → prickles → umbel/sexes → berry → bona-nox vs tamnoides",
+    "intro": "Greenbrier is a great monocot lesson because it looks 'too broad-leaved' to be one. The tendrils and 3-5 strong veins are easy to see, but the fine network between them is the surprise.",
+    "steps": [
+      {
+        "title": "1 · Find the tendrils at the petiole",
+        "photo_role": "node macro",
+        "look_for": "Paired curling tendrils associated with the petiole/leaf base.",
+        "why_it_matters": "This is one of the fastest Smilax field characters.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Prove the leaf is reticulate",
+        "photo_role": "backlit leaf",
+        "look_for": "Three to five strong primary veins with a clear mesh of smaller cross-veins between them.",
+        "why_it_matters": "Breaks the misleading 'monocots always have parallel veins' shortcut.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "3 · Read the separate-sex umbels",
+        "photo_role": "male/female flower card",
+        "look_for": "Small 6-tepaled flowers grouped in round umbels; male and female flowers occur on separate plants.",
+        "why_it_matters": "Adds reproductive confirmation beyond prickles and tendrils.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · Saw greenbrier door",
+        "photo_role": "S. bona-nox leaf/stem",
+        "look_for": "Thicker often lobed/hastate leaves, broad cartilaginous marginal band, often stout flattened dark-tipped prickles.",
+        "why_it_matters": "Leaf margin/shape and prickle build distinguish it from bristly greenbrier.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Bristly greenbrier door",
+        "photo_role": "S. tamnoides leaf/stem",
+        "look_for": "Thinner mostly unlobed leaves with basal margins minutely serrulate and conspicuous unequal flexible dark bristles/prickles on lower stems.",
+        "why_it_matters": "FNA identifies the flexible unequal bristles and basal serrulation as strong species clues.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Confirm with black berries",
+        "photo_role": "fruiting umbel",
+        "look_for": "Round black berries held in umbel-like clusters.",
+        "why_it_matters": "Late-season genus confirmation.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Smilacaceae vs ordinary dicot vine",
+        "rule": "Smilax may look dicot-like because of broad reticulate leaves, but it retains monocot flower architecture with 6 tepals and characteristic petiolar tendrils/major venation."
+      },
+      {
+        "title": "S. bona-nox vs S. tamnoides",
+        "rule": "Bona-nox = thick often lobed/hastate leaf with cartilaginous margin + stout flattened prickles. Tamnoides = thinner mostly unlobed leaf + basal serrulation + flexible unequal bristles."
+      },
+      {
+        "title": "Smilacaceae vs Vitaceae and Passifloraceae",
+        "rule": "At the same node, Smilax has paired petiolar tendrils; Vitaceae tendrils or inflorescences are usually leaf-opposed; Passiflora tendrils are axillary. Verify exact attachment, not merely a curling structure."
+      }
+    ],
+    "caveat": "Leaf shape in S. bona-nox is extremely variable even on one plant. Do not identify it from a single lobed or unlobed leaf; use margin texture, prickle form and multiple leaves."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Smilax",
+        "taxa_count": 2,
+        "fast_cue": "prickly climbing vine + petiolar tendrils + 3-5-veined reticulate leaf + umbels + berries",
+        "role": "greenbrier door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Smilax bona-nox",
+    "Smilax tamnoides"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Smilax bona-nox",
+      "current_name": "Smilax bona-nox",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Smilax tamnoides",
+      "current_name": "Smilax tamnoides",
+      "note": "Accepted by current Kew; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "petiolar tendril origin",
+      "annotation_goal": "label petiole, leaf blade and paired tendril"
+    },
+    {
+      "priority": 1,
+      "structure": "reticulate venation",
+      "annotation_goal": "trace major veins and cross-vein network"
+    },
+    {
+      "priority": 1,
+      "structure": "S. bona-nox vs S. tamnoides prickles",
+      "annotation_goal": "stout flattened versus flexible bristly"
+    },
+    {
+      "priority": 1,
+      "structure": "leaf-margin comparison",
+      "annotation_goal": "cartilaginous band/lobing versus thin basal serrulation"
+    },
+    {
+      "priority": 2,
+      "structure": "male vs female umbel",
+      "annotation_goal": "show 6 tepals and separate-sex flowers"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Smilax bona-nox",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541314-1"
+    },
+    {
+      "source": "POWO — Smilax tamnoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541894-1"
+    },
+    {
+      "source": "FNA — Smilacaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10827"
+    },
+    {
+      "source": "FNA — Smilax bona-nox",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101927"
+    },
+    {
+      "source": "FNA — Smilax tamnoides",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101943"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Smilacaceae target frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-028",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_tendril_reticulate_leaf_species_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

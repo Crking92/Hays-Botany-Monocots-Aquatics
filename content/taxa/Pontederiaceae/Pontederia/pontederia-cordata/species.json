@@ -1,0 +1,37 @@
+{
+  "id": "pontederia-cordata",
+  "family": "Pontederiaceae",
+  "genus": "Pontederia",
+  "species": "cordata",
+  "scientific_name": "Pontederia cordata",
+  "common_name": "Pickerelweed",
+  "look_here_first": "Find emergent aquatic plants with glossy broad heart- to lance-shaped leaves and dense upright spikes of blue-violet flowers; examine leaf bases and flower details.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pontederia%20cordata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Image photographed in Québec; identification not evidence of plant's Texas county nativity.",
+  "images": [
+    {
+      "file": "images/commons-pontederia-cordata.jpg",
+      "role": "Provisional mature leaf shape, aquatic habit; violet flower spikes not the focus of this photo.",
+      "creator": "Cephas",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pontederia_cordata_PP_02.jpg",
+      "study_use": "Noncommercial visual learner",
+      "public_reuse": "Credit artist, original and license, preserve ShareAlike terms for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

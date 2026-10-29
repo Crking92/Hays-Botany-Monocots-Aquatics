@@ -1,0 +1,168 @@
+{
+  "rank": "family",
+  "name": "Arecaceae",
+  "common_name": "Palm family",
+  "lineage_context": {
+    "order": "Arecales",
+    "batch": "Remaining monocot comparison",
+    "close_project_families": [
+      "Smilacaceae",
+      "Nartheciaceae"
+    ],
+    "teaching_goal": "Teach the project palms through Sabal's costapalmate fan leaves, fibrous leaf sheaths, unarmed petioles, 3-part flowers and drupaceous fruits, then separate dwarf palmetto from Mexican palmetto by subterranean versus aerial trunk and weak versus strong costa."
+  },
+  "project_scope": {
+    "selection_mode": "Sabal minor + Sabal mexicana project module",
+    "note": "Both species are accepted by current Kew and native-range treatments include Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the leaf architecture. Project Sabal leaves are fanlike but not purely palmate: a central costa extends into the blade, producing a costapalmate fold pattern.",
+    "vegetative": "Perennial palms with solitary stems that may be subterranean or aerial. Leaves have fibrous sheaths, long unarmed petioles and broad fan blades divided into many induplicate segments.",
+    "reproductive": "Inflorescences arise among the leaves and branch into panicles. Flowers are small and fundamentally 3-merous, with 6 tepals and 6 stamens in Sabal.",
+    "fruit": "One-seeded dark drupes/berrylike palm fruits on branched infructescences.",
+    "field_tip": "Costapalmate fan leaf + fibrous sheath + unarmed petiole + many small 3-part flowers = project Arecaceae/Sabal."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_028",
+    "teaching_order": "fan leaf → costa/hastula → leaf sheath → inflorescence → fruit → S. minor vs S. mexicana → monocot comparison",
+    "intro": "Sabal palms are easiest to learn from leaf architecture first. The key is not just 'fan leaf'—it is a costapalmate fan with a real midrib-like costa extending into the blade.",
+    "steps": [
+      {
+        "title": "1 · Find the costa inside the fan",
+        "photo_role": "leaf face/underside",
+        "look_for": "A central costa projects into the fan blade, creating a costapalmate rather than perfectly palmate leaf.",
+        "why_it_matters": "This is the defining Sabal leaf architecture.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Find the hastula",
+        "photo_role": "petiole-blade junction macro",
+        "look_for": "A triangular/rounded flap of tissue on the upper side where the petiole meets the blade.",
+        "why_it_matters": "Hastula shape is useful within Sabal and teaches a palm-specific structure.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Compare trunk architecture",
+        "photo_role": "whole-plant side-by-side",
+        "look_for": "Sabal minor usually has a subterranean stem with leaves appearing near ground level; S. mexicana develops a conspicuous aerial trunk.",
+        "why_it_matters": "This is the fastest project species split.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Compare leaf strength and fibers",
+        "photo_role": "leaf comparison",
+        "look_for": "S. minor weakly costapalmate, fewer leaves and generally no threadlike segment fibers; S. mexicana strongly costapalmate with filiferous segments.",
+        "why_it_matters": "Adds a second structural species check beyond trunk presence.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "5 · Read the inflorescence",
+        "photo_role": "flowering panicle",
+        "look_for": "Much-branched axillary inflorescence carrying many tiny 3-merous flowers.",
+        "why_it_matters": "Confirms the palm as an angiosperm rather than treating the crown only as foliage.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Read the black fruits",
+        "photo_role": "fruiting panicle",
+        "look_for": "Dark round to oblate fruits; S. mexicana fruits are notably larger than those of S. minor.",
+        "why_it_matters": "Late-season confirmation and another species-level tie-breaker.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Arecaceae vs Smilacaceae",
+        "rule": "Sabal is a self-supporting palm with large costapalmate leaves and branched flower/fruit panicles. Smilax is a climbing vine with tendrils, reticulate-veined leaves, umbels and berries."
+      },
+      {
+        "title": "Sabal minor vs Sabal mexicana",
+        "rule": "S. minor = usually subterranean stem + weakly costapalmate leaves + inflorescence much longer than leaves + smaller fruit. S. mexicana = aerial trunk + strongly costapalmate filiferous leaves + larger fruit."
+      }
+    ],
+    "caveat": "Do not use height alone. Young S. mexicana can be short, and old S. minor can appear robust. Trunk position plus leaf costa/fibers and reproductive characters is safer."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Sabal",
+        "taxa_count": 2,
+        "fast_cue": "costapalmate fan leaf + fibrous sheath + unarmed petiole + small 3-merous flowers",
+        "role": "palmetto door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Sabal minor",
+    "Sabal mexicana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Sabal minor",
+      "current_name": "Sabal minor",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Sabal mexicana",
+      "current_name": "Sabal mexicana",
+      "note": "Accepted by current Kew; native range includes southern Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "costa + costapalmate blade",
+      "annotation_goal": "label costa, petiole and fan segments"
+    },
+    {
+      "priority": 1,
+      "structure": "hastula",
+      "annotation_goal": "arrow to petiole-blade flap"
+    },
+    {
+      "priority": 1,
+      "structure": "S. minor vs S. mexicana habit",
+      "annotation_goal": "subterranean versus aerial stem"
+    },
+    {
+      "priority": 1,
+      "structure": "leaf fiber/costa comparison",
+      "annotation_goal": "weak nonfiliferous versus strong filiferous costapalmate blade"
+    },
+    {
+      "priority": 2,
+      "structure": "fruit-size comparison",
+      "annotation_goal": "same-scale S. minor versus S. mexicana fruits"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Sabal minor",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:669719-1"
+    },
+    {
+      "source": "POWO — Sabal mexicana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:669717-1"
+    },
+    {
+      "source": "FNA — Sabal",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=128944"
+    },
+    {
+      "source": "FNA — Sabal minor",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200027117"
+    },
+    {
+      "source": "FNA — Sabal mexicana",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000323"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Arecaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-028",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_costapalmate_hastula_species_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

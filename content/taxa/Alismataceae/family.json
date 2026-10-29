@@ -1,0 +1,118 @@
+{
+  "rank": "family",
+  "name": "Alismataceae",
+  "common_name": "Water-plantain / arrowhead family",
+  "project_scope": {
+    "selection_mode": "San Marcos River local-first aquatic lesson",
+    "canonical_anchor": "Sagittaria platyphylla",
+    "note": "Current website anchor has Joey private-study frames but no promoted reusable image files yet."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: inspect an individual flower and one mature fruit on the aquatic stalk, not just leaf shape. Count 3 sepals + 3 petals; examine numerous separate superior carpels, each developing a one-seeded achene. Then route by flower sex: Sagittaria bears separate staminate and pistillate flowers (pistillate commonly lower on the stalk), whereas Echinodorus bears bisexual flowers with stamens and pistils together. Both can form rounded achene heads; leaf blades change with submergence.",
+    "vegetative": "Aquatic or marsh herbs, often rhizomatous/corm-forming, with strong heterophylly between submerged and emergent leaves.",
+    "flowers": "Typically 3 sepals + 3 petals; numerous stamens and/or carpels are common in family members.",
+    "fruit": "Often aggregates of achenes; local Sagittaria makes rough spherical heads of many beaked achenes.",
+    "field_tip": "LOOK HERE FIRST: Inspect a single flower and a ripe fruit, not leaf outline. Sagittaria has separate staminate and pistillate flowers, commonly female below male on the axis; Echinodorus has bisexual flowers with stamens and many free carpels together. Both can make round heads of achenes. Alismataceae free superior carpels contrast with the fused inferior ovary of Hydrocharitaceae."
+  },
+  "visual_lesson": {
+    "status": "family_structure_live_visual_assets_pending",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "The best local lesson is that one aquatic species can look radically different above and below water—and the reproductive stalk ties those forms together.",
+    "steps": [
+      {
+        "title": "1 · Notice heterophylly",
+        "photo_role": "submerged versus emergent leaves",
+        "anchor_species_id": "sagittaria-platyphylla",
+        "look_for": "Narrow submerged phyllodes versus broader emergent blades on the same species.",
+        "why_it_matters": "Aquatic plants can change leaf form dramatically with water depth.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "2 · Read the flower stalk vertically",
+        "photo_role": "female flowers below / male above",
+        "anchor_species_id": "sagittaria-platyphylla",
+        "look_for": "Pistillate flowers lower on the raceme and staminate flowers above.",
+        "why_it_matters": "Inflorescence position is a high-value Sagittaria teaching character.",
+        "status": "private_study_frame_locked_public_photo_pending"
+      },
+      {
+        "title": "3 · Count in threes",
+        "photo_role": "3 sepals + 3 petals",
+        "anchor_species_id": "sagittaria-platyphylla",
+        "look_for": "Three white petals and the 3-part monocot flower plan.",
+        "why_it_matters": "Connects the aquatic gestalt to reproductive structure.",
+        "status": "public_photo_pending"
+      },
+      {
+        "title": "4 · Follow female flower to achene head",
+        "photo_role": "spherical fruiting head",
+        "anchor_species_id": "sagittaria-platyphylla",
+        "look_for": "A rough spherical head composed of many small beaked achenes.",
+        "why_it_matters": "The aggregate fruit confirms the reproductive pattern.",
+        "status": "public_photo_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Sagittaria platyphylla vs arrow-leaved Sagittaria",
+        "rule": "Do not require deep arrow-shaped basal lobes; S. platyphylla often has ovate to linear-ovate emergent blades and narrow submerged leaves."
+      },
+      {
+        "title": "Sagittaria vs Echinodorus — flower sex before leaf shape",
+        "rule": "Sagittaria commonly separates male (staminate) and female (pistillate) flowers on the same flowering axis; Echinodorus flowers contain both stamens and numerous free carpels. Both can form round heads of achenes, so fruit-head outline alone cannot separate the genera."
+      },
+      {
+        "title": "Alismataceae vs Hydrocharitaceae",
+        "rule": "Alismataceae flowers have many separate superior carpels, each commonly yielding a one-seeded achene; Hydrocharitaceae typically has a fused inferior ovary. Compare female flowers in side view or section; three petals and aquatic habitat alone do not decide the family."
+      },
+      {
+        "title": "Alismataceae vs Pontederiaceae and Potamogetonaceae",
+        "rule": "Pontederiaceae generally has a six-part perianth with a fused ovary and different fruit architecture; Potamogetonaceae has reduced spike flowers and small drupelets. Confirm reproductive structures rather than aquatic habit or emergent leaf form."
+      }
+    ],
+    "caveat": "The current lesson is structurally complete, but public/reusable diagnostic photo files are still a visual-polish task.",
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Sagittaria platyphylla",
+        "plain": "female flowers lower, male flowers above",
+        "formal": "pistillate versus staminate flower whorls",
+        "photo_role": "entire intact flowering axis plus paired flower close-ups",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Show ovary-bearing female flowers and pollen-bearing male flowers without guessing sex from flower position alone."
+      },
+      {
+        "species_reference": "Echinodorus cordifolius",
+        "plain": "both pollen organs and seed-making parts in one flower",
+        "formal": "bisexual flower; stamens surrounding free carpels",
+        "photo_role": "face and oblique macro of same bisexual flower",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Identify stamens and numerous separate superior carpels together in one blossom."
+      },
+      {
+        "species_reference": "Sagittaria lancifolia and Echinodorus berteroi",
+        "plain": "many little dry fruits in one rounded head",
+        "formal": "aggregate of one-seeded achenes; rib, beak, gland",
+        "photo_role": "matched ripe fruit heads and isolated achene macro",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Show that both genera make achene heads; inspect individual achene surfaces for genus/species keys."
+      },
+      {
+        "species_reference": "Sagittaria graminea",
+        "plain": "underwater leaf shape changes",
+        "formal": "submerged phyllodes versus emergent laminae; heterophylly",
+        "photo_role": "matched submerged and emergent foliage from verified same taxon",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Do not require an arrowhead-shaped blade for every Sagittaria."
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-family-structure-live",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "study_reference_complete_public_photo_pending"
+  }
+}

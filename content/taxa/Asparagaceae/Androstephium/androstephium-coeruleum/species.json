@@ -1,0 +1,89 @@
+{
+  "id": "androstephium-coeruleum",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Androstephium",
+  "species": "coeruleum",
+  "scientific_name": "Androstephium coeruleum",
+  "authority": "(Scheele) Greene",
+  "common_name": "Blue funnel-lily",
+  "look_here_first": "Look for a leafless flower stalk with a terminal umbel of funnel-shaped six-tepaled flowers. Look into the throat for the distinctive crown made by joined stamen filaments. Confirm basal linear leaves; do not use flower color alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 69,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "taxonomy_notes": "Androstephium caeruleum is an orthographic variant of coeruleum, not a second species. Historical names Milla coerulea and Brodiaea coerulea refer to the same concept. County-native certification pending.",
+  "morphology_keys": {
+    "habit": "Small spring perennial from corm; glabrous leafless scape 10–20(–35) cm.",
+    "leaves": "Several narrow basal leaves 10–30(–35) cm long and 1.5–3 mm wide.",
+    "flower_attachment": "Terminal umbel of 2–6(–9) stalked flowers, pedicels about 1–2(–2.5) cm.",
+    "flowers": "Six partly united tepals form a funnel; perianth 1.5–2.5(–3) cm. Six stamen filaments form an inner crown; anthers 2–4 mm.",
+    "fruit_seed": "Three-angled capsules 1–1.5 cm; flat black seeds 7–9 mm."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Nothoscordum bivalve",
+      "Allium drummondii",
+      "Androstephium breviflorum"
+    ],
+    "key_distinctions": "Check the joined tepal funnel and filament-built central crown against false garlic and Allium; A. breviflorum is a separate western species."
+  },
+  "diagnostic_image_needs": [
+    "Flowering umbel: exact-species Vanderveck Commons photograph staged, external_reference until installed.",
+    "Tepal tube side view and staminal crown macro: needs_photo.",
+    "Basal leaves versus surrounding grass and leafless scape: needs_photo.",
+    "Mature capsule and flat seeds: needs_photo.",
+    "Local Allium/Nothoscordum matched floral comparison: needs_photo; arrows annotation_pending."
+  ],
+  "images": [
+    {
+      "file": "images/androstephium-coeruleum-flowering-umbel-vanderveck.png",
+      "role": "Exact-species flowering umbel and six tepals; staminal crown not verified in this view",
+      "creator": "Vanderveck",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:BlueFunnelLily_plant.png",
+      "study_use": "yes",
+      "public_reuse": "yes_with_attribution_and_sharealike"
+    },
+    {
+      "file": "images/gbif-manual-5087620923-c85470fe0.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Joined stamen filaments forming crown inside six-tepal flower throat",
+      "creator": "Cody Stricker",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5087620923",
+      "gbif_occurrence_id": "5087620923",
+      "source_determination": "Androstephium coeruleum (Scheele) Greene",
+      "accepted_target": "Androstephium coeruleum",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475295729/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "provisional": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "learner_visual_status": {
+    "status": "provisional_photo_candidate",
+    "note": "One exact-species CC BY-SA 3.0 flower view staged; crown macro and other diagnostic anatomy not yet verified."
+  },
+  "photo_note": "Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

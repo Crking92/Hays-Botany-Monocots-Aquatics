@@ -1,0 +1,42 @@
+# Deep Review sources — Yucca torreyi
+Reviewed: 2026-10-02
+Batch: deep-review-batch-008-yucca-b004
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Yucca torreyi Shafer
+- Kew/POWO current accepted treatment: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A293670-2
+- 2025 Yucca phylogeny cited by Kew: https://doi.org/10.11646/phytotaxa.687.2.2
+Taxonomic note: Flora of North America (2002) cited this under Yucca treculeana; current Kew/POWO accepts Y. torreyi separately.
+
+## Strict project-range evidence
+- Burnet — Illustrated Flora of North Central Texas records Y. torreyi in Burnet County; field documentation at Longhorn Cavern State Park also places flowering Y. torreyi in Burnet County.
+- Bexar — Government Canyon State Natural Area vegetation documentation includes Y. torreyi among local succulents.
+- Val Verde — Amistad National Recreation Area vascular plant inventory lists Y. torreyi in Val Verde County.
+Decision: PASS
+
+## Morphology / separation from Y. treculiana
+- Illustrated Flora key: https://fwbg.org/wp-content/uploads/2021/04/SBM_26-pp309-1151.pdf
+- NPSOT: https://www.npsot.org/posts/native-plant/yucca-torreyi/
+Traditional key: marginal threads + apical leaf portion often inrolled + slender ovary <= ~7 mm. Use several characters because older treatments lumped the pair and hybridization has been reported.
+
+## Photo candidates
+- National Park Service Dagger Flat / Big Bend Y. torreyi habitat images: https://www.nps.gov/places/dagger-flat-7.htm
+- NPSOT credited photographs: https://www.npsot.org/posts/native-plant/yucca-torreyi/
+
+APPROVAL
+User explicitly approved B004 on 2026-10-02.
+PHOTO STATUS
+Exact reusable image metadata recorded in image-sources.csv.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:44:22.091178+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/531315198
+https://www.inaturalist.org/observations/295151498
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:27:38.122462+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/115716217
+https://www.inaturalist.org/observations/71107291
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

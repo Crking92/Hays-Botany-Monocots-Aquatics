@@ -1,0 +1,37 @@
+{
+  "id": "sisyrinchium-angustifolium",
+  "family": "Iridaceae",
+  "genus": "Sisyrinchium",
+  "species": "angustifolium",
+  "scientific_name": "Sisyrinchium angustifolium",
+  "common_name": "Narrowleaf blue-eyed grass",
+  "look_here_first": "Look for narrow grasslike iris-family leaves and small six-tepaled blue-purple flowers with a yellow eye; confirm flattened stems, spathes and capsules to distinguish blue-eyed-grasses.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Sisyrinchium%20angustifolium",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Source Maryland, taxonomic concepts of Sisyrinchium in Central Texas require future species comparison, no native-by-county label inferred.",
+  "images": [
+    {
+      "file": "images/commons-sisyrinchium-angustifolium.jpg",
+      "role": "Provisional blue-eyed-grass flower macro with six tepals and yellow center; stem, spathe and fruit not in view.",
+      "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+      "license": "Public domain (USGS)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sisyrinchium_angustifolium_2_close_up_flower%2C_Narrow-leaf-blue-eyed-grass%2C_Howard_County%2C_MD%2C_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Public domain; credit retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

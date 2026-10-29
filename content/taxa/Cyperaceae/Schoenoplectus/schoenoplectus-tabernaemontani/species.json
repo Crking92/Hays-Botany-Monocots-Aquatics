@@ -1,0 +1,133 @@
+{
+  "id": "schoenoplectus-tabernaemontani",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Schoenoplectus",
+  "species": "tabernaemontani",
+  "scientific_name": "Schoenoplectus tabernaemontani",
+  "authority": "(C.C.Gmel.) Palla",
+  "common_name": "Softstem bulrush",
+  "look_here_first": "Tall colonial bulrush with soft round culms and a lateral-looking cluster of drooping spikelets beneath a short continuation bract.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Hays, Travis.",
+    "range_guardrail": "Accepted/native; 2 exact target-zone counties locked."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous colonial sedge",
+      "tall soft mostly round culms",
+      "leaves reduced to basal sheaths",
+      "lateral-appearing inflorescence",
+      "many drooping spikelets",
+      "short continuation bract"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "visual_status": "private_study_gallery_installed_diagnostic_gaps_remain",
+    "photo_updated_at": "2026-10-04",
+    "manual_library_install_027": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/schoenoplectus-tabernaemontani_inflorescence_00-42-44.1.jpg",
+      "role": "Source-labeled bulrush with upright culms and a held flowering cluster. Useful for inflorescence position and habit; spikelet, achene and culm-detail views remain needed.",
+      "caption": "Source-labeled bulrush with upright culms and a held flowering cluster. Useful for inflorescence position and habit; spikelet, achene and culm-detail views remain needed.",
+      "diagnostic_roles": [
+        "sedge inflorescence close-up"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-029",
+      "timestamp": "00:42:44.1",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained."
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SchoenoplectusTabernaemontani.jpg",
+      "role": "Whole stand / habit",
+      "creator": "Christian Fischer",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:SchoenoplectusTabernaemontani.jpg",
+      "source_type": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review027-544e2e1a42a64c3.jpg",
+      "role": "Living dense circular sedge culms and lateral branched seed heads; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show rushlike sedge culms, sheath and spikelets",
+      "creator": "johnyochum",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/3773774602",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/193198314/original.jpeg",
+      "source_determination": "Schoenoplectus tabernaemontani",
+      "source_observation_id": "3773774602",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/schoenoplectus-tabernaemontani/gbif-db8d20b6e10750.jpg",
+      "archive_image_sha256": "1feb4b21abe0ac0e8c67f70f4ef2cb5f5099375540ab7ee979b5d01369ac60aa",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review027-9d711a17d4fa2e1.jpg",
+      "role": "Pressed botanical specimen with culm sheath and inflorescence structure; not living habit; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show rushlike sedge culms, sheath and spikelets",
+      "creator": "Ingrid P. Lin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/3960442351",
+      "media_source_url": "https://collections.nmnh.si.edu/media/?i=16240772&h=2000",
+      "source_determination": "Schoenoplectus tabernaemontani",
+      "source_observation_id": "3960442351",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/schoenoplectus-tabernaemontani/gbif-3a382bac104bd5.jpg",
+      "archive_image_sha256": "265ac5d0b18e143aea495652d5b380c5d5211091b10fe8e8e2dd44f9d0301da6",
+      "image_dimensions": [
+        1075,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "photo_note": "Saved San Marcos River frame installed locally for private study. Image role and limitations are stated in the gallery caption; diagnostic close-up gaps remain. Learner fast-fill gallery supplemented with exact-species reusable media; stronger diagnostic views may replace or supplement these later. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "diagnostic_image_needs": [
+    "Spikelet and achene close-ups; culm cross-section and bract attachment."
+  ]
+}

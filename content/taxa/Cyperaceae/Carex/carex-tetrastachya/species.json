@@ -1,0 +1,102 @@
+{
+  "id": "carex-tetrastachya",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "species": "tetrastachya",
+  "scientific_name": "Carex tetrastachya",
+  "authority": "Scheele",
+  "common_name": "Britton's sedge",
+  "look_here_first": "Spring-fruiting prairie sedge with 2–4 distinct rounded spikes and large flat silvery-white winged perigynia.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "User has one wild iNaturalist observation; GRIN/ITIS/FNA accept Carex tetrastachya Scheele as native in Texas.",
+    "range_guardrail": "Installed for active visual learning; exact target-zone county reconciliation is deferred and native metrics remain excluded."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Cyperaceae/Carex: grasslike sedges with sheathing leaves; the fruit is enclosed in a perigynium, and perigynium shape/beak/venation are often decisive for species ID.",
+    "best_field_traits": [
+      "densely to loosely tufted perennial",
+      "culms about 30–100 cm",
+      "leaves about 2.5–5 mm wide",
+      "usually 2–4 distant ovoid to globose spikes",
+      "inflorescence often silvery white",
+      "perigynia broad, flat and strongly winged",
+      "mesic to moist prairie, roadside ditch and shore habitat"
+    ],
+    "comparison_training": "The broad flat white-winged perigynia are the giveaway. None of the other Carex in B105 has that papery silvery winged look."
+  },
+  "curation_status": {
+    "version": "1.0-b105-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/inat-665166477-first-photo.jpg",
+      "role": "Mature clustered spikes and fruiting units; measured perigynium and scale macro still needed",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/665166477",
+      "observation_url": "https://www.inaturalist.org/observations/364368199",
+      "observation_id": 364368199,
+      "photo_id": 665166477,
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/665166477/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes; retain attribution",
+      "modifications": "EXIF removed and JPEG normalized; no anatomy overlays",
+      "photo_review": "Exact Research Grade source record and actual pixels reviewed; provisional first-pass view"
+    },
+    {
+      "file": "images/gbif-manual-6185299514-5f22e92ae.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Large silvery-white winged perigynium and 2–4 separate rounded spikes",
+      "creator": "IDClaire",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6185299514",
+      "gbif_occurrence_id": "6185299514",
+      "source_determination": "Carex tetrastachya Scheele",
+      "accepted_target": "Carex tetrastachya",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631042004/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "First exact photograph installed; additional diagnostic views pending."
+  },
+  "photo_note": "First exact licensed photo physically installed 2026-10-14; fine diagnostic gallery pending. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

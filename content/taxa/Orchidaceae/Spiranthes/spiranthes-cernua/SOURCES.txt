@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 1117.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Spiranthes%20cernua
+Exact source photograph https://commons.wikimedia.org/wiki/File:Spiranthes_cernua.jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Spiranthes%20cernua.jpg
+Original photo creator sonnia hill
+Photo file-level license CC BY 2.0
+Provisional photo role Provisional white-flowered orchid inflorescence, Texas source. Detailed labellum morphology not confirmed.
+Caution Spiranthes cernua is a species complex requiring expert floral review; Texas photo from Angelina County is not Hays confirmation.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

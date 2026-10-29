@@ -1,0 +1,103 @@
+{
+  "id": "tradescantia-humilis",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "humilis",
+  "scientific_name": "Tradescantia humilis",
+  "authority": "Rose",
+  "common_name": "Texas Spiderwort",
+  "synonyms": [],
+  "taxonomic_note": "Accepted in the current Kew/POWO Tradescantia backbone; learner retained at species rank.",
+  "look_here_first": "Start at the base of the plant. Texas spiderwort is low, many-stemmed and bushy at ground level, with clearly hairy vegetative shoots; toward the inflorescence the hairs become strongly glandular. That compact, fuzzy architecture separates it quickly from the taller giant and prairie spiderworts.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Bell"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "UT Plant Resources Center Travis County herbarium index; detailed Williamson County treatment; Illustrated Flora of North Central Texas explicit Bell County record.",
+    "range_guardrail": "Bell is counted only because the regional flora explicitly names the county; no ecoregion inference."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial, many-stemmed at ground level",
+      "compact ascending/spreading shoots, under 20 cm in the Williamson treatment",
+      "aboveground internodes short-pilose to pilose",
+      "leaf blades pilose with hairs reaching several millimeters",
+      "inflorescence and pedicels conspicuously stalked-glandular hairy",
+      "terminal condensed cyme, usually 1–2 flowers open per day"
+    ],
+    "comparison_training": "T. gigantea is taller and more robust with lower stems nearly glabrous. T. occidentalis is taller and grassier, with narrow leaves and especially conspicuous glandular stem/peduncle hairs. T. humilis stays low and bushy with hairy blades."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Tradescantia gigantea",
+      "Tradescantia occidentalis"
+    ],
+    "key_distinctions": "T. gigantea is taller and more robust with lower stems nearly glabrous. T. occidentalis is taller and grassier, with narrow leaves and especially conspicuous glandular stem/peduncle hairs. T. humilis stays low and bushy with hairy blades."
+  },
+  "tags": [
+    "Commelinaceae",
+    "Tradescantia",
+    "Texas Spiderwort",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b029",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/tradescantia-humilis-provisional-face.jpg",
+      "role": "Flower close-up / recognizable face",
+      "creator": "HavannaMabel",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spiderwort_Flower-MG.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-2013692333-c26964d25.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Bushy basal shoots and glandular upper stem hair detail",
+      "creator": "mattmsa",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/2013692333",
+      "gbif_occurrence_id": "2013692333",
+      "source_determination": "Tradescantia humilis Rose",
+      "accepted_target": "Tradescantia humilis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32303519/original.jpeg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "rank": "family",
+  "name": "Commelinaceae",
+  "common_name": "Spiderwort / dayflower family",
+  "project_scope": {
+    "selection_mode": "Central Texas Commelinaceae with canonical Tradescantia anchor set",
+    "note": "B029 closed with three canonical Central Texas Tradescantia anchors. The family lesson now teaches jointed/sheathing vegetative structure first, then the 3+3 flower plan and six-fertile-stamen Tradescantia pattern, followed by same-genus architecture/hair comparisons. Commelina remains a useful family-breadth contrast."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at a node: stems are jointed and often somewhat succulent, while alternate parallel-veined leaves form a conspicuous sheath around the stem.",
+    "flower": "Flowers have 3 sepals + 3 petals. In Tradescantia the flowers are bisexual and usually radially symmetric, with 6 fertile stamens; filaments are often conspicuously bearded.",
+    "inflorescence": "Tradescantia commonly bears paired, contracted cymes subtended by conspicuous leaflike or spathaceous bracts.",
+    "ovary": "Superior and typically 3-locular / 3-carpellate.",
+    "fruit": "Capsule, commonly opening by valves.",
+    "field_tip": "Start with jointed stems and parallel-veined leaf SHEATHS, then inspect flower anatomy: three sepals + three petals, 3 carpels/superior ovary and capsule. IMPORTANT: a folded SPATHE is a special Commelina flowering bract, NOT a feature of the whole family. False dayflower Tinantia has an exposed cyme above a flat bract; Tradescantia often has three similar petals with six fertile stamens."
+  },
+  "visual_lesson": {
+    "status": "canonical_tradescantia_anchor_upgrade",
+    "teaching_order": "sheathing node → 3 sepals/3 petals → tradescantia fertile stamens vs commelina 3 fertile + 3 staminodes → true dayflower flower → true dayflower folded spathe → true dayflower leaf sheath → tinantia open bract → capsule",
+    "intro": "Family-first visual field guide: see JOINTED STEMS and sheathing leaves, spot THREE SEPALS and THREE PETALS, then discover how flower clusters vary: Tradescantia has typical 6 fertile stamens, Commelina has a folded SPATHE enclosing buds and 3 fertile/3 sterile stamens, and Tinantia has exposed one-sided cymes with 6 fertile stamens. Real installed Commelina examples separate spathe from leaf sheath, rather than teaching all blue flowers as the same genus.",
+    "steps": [
+      {
+        "title": "1 · Start at the node",
+        "photo_role": "jointed stem + sheathing leaf base",
+        "anchor_species_id": "tradescantia-gigantea",
+        "look_for": "An alternate parallel-veined leaf whose base wraps around a soft, jointed stem.",
+        "why_it_matters": "This is the strongest vegetative doorway into the family and works even when the flowers have already collapsed for the day.",
+        "status": "canonical_anchor_photo_polish_pending"
+      },
+      {
+        "title": "2 · Count 3 sepals + 3 petals",
+        "photo_role": "Tradescantia open flower",
+        "anchor_species_id": "tradescantia-gigantea",
+        "look_for": "Three distinct sepals behind three distinct, usually showy petals.",
+        "why_it_matters": "This confirms the basic Commelinaceae flower plan without relying on petal color.",
+        "status": "canonical_anchor_photo_polish_pending"
+      },
+      {
+        "title": "3 · Look into the spiderwort stamens",
+        "photo_role": "six fertile stamens / bearded filaments",
+        "anchor_species_id": "tradescantia-occidentalis",
+        "look_for": "Six fertile stamens; in the common local Tradescantia pattern the filaments are conspicuously hairy or bearded.",
+        "why_it_matters": "This separates the canonical spiderwort lesson from Commelina, where fertile stamens and staminodes are differentiated.",
+        "status": "canonical_anchor_macro_pending"
+      },
+      {
+        "title": "4 · Split the three canonical spiderworts",
+        "photo_role": "side-by-side habit / stem-hair / leaf-width comparison",
+        "anchor_species_ids": [
+          "tradescantia-gigantea",
+          "tradescantia-humilis",
+          "tradescantia-occidentalis"
+        ],
+        "look_for": "Gigantea = robust with nearly glabrous lower stem; humilis = low, bushy and hairy; occidentalis = narrow-leaved with long-stalked glandular hairs.",
+        "why_it_matters": "This turns the family lesson into an immediately useful local species comparison instead of stopping at family ID.",
+        "status": "canonical_three_species_comparison_live_photo_polish_pending"
+      },
+      {
+        "title": "5 · Compare the TRUE dayflower flower",
+        "photo_role": "two large blue petals, reduced pale third, flower family comparison",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta.jpg",
+        "image_label": "Commelina erecta: three petals, two very large",
+        "image_credit": "Paty000 · Public domain (physically installed exact-species photo)",
+        "look_for": "This genuine whitemouth dayflower has TWO conspicuous BLUE petals and a much smaller third petal below. Its stamens differ from typical spiderworts: Commelina has three fertile and three sterile staminodes, not six equivalent fertile stamens. Counts need a closer, rights-cleared macro than this full flower photograph.",
+        "why_it_matters": "Families contain specialized flower architectures: Commelina still belongs to Commelinaceae despite unequal petal sizes and sterile staminodes.",
+        "status": "physically_installed_public_domain_flower_no_microscopic_stamen_count_verified",
+        "anchor_species_id": "commelina-erecta",
+        "anchor_image_index": 0
+      },
+      {
+        "title": "5a · SPOT a real flowering SPATHE",
+        "photo_role": "Commelina erecta folded green spathe around buds",
+        "anchor_species_id": "commelina-erecta",
+        "anchor_image_index": 2,
+        "image_label": "Whitemouth dayflower: folded spathe",
+        "image_credit": "Alex Abair · CC BY 4.0 (physically installed)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_279194748.jpg",
+        "look_for": "The wide green folded bract DIRECTLY BELOW a blue flower is the SPATHE. It conceals the buds and developing seed capsule. Its long-fused margins are a C. erecta character from FNA, but a dissection is still needed to show the seam itself.",
+        "why_it_matters": "Separates Commelina from Tinantia: false dayflower's one-sided flower cyme sits exposed above a mostly flat bract.",
+        "status": "physically_installed_cc_by_photo_fold_confirmed_seam_not_disassembled"
+      },
+      {
+        "title": "5b · Distinguish sheath from spathe",
+        "photo_role": "Commelina erecta sheathing leaf base and node",
+        "anchor_species_id": "commelina-erecta",
+        "anchor_image_index": 1,
+        "image_label": "Whitemouth dayflower: sheathing leaf base",
+        "image_credit": "Alex Abair · CC BY 4.0 (physically installed)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_271552526.jpg",
+        "look_for": "A leaf blade emerges from a tubular SHEATH clasping the stem; pale hairs at the sheath mouth are visible. This LEAF SHEATH is NOT the separate folded flowering SPATHE shown in the preceding lesson.",
+        "why_it_matters": "One of the most common confusing terms: leaf sheath = base of ordinary leaf; spathe = special bract enclosing dayflower flowers.",
+        "status": "physically_installed_cc_by_sheath_photo"
+      },
+      {
+        "title": "6 · Follow the flower to a capsule",
+        "photo_role": "superior ovary → capsule",
+        "anchor_species_id": "tradescantia-gigantea",
+        "look_for": "A superior 3-locular ovary maturing into a capsule.",
+        "why_it_matters": "Fruit closes the family loop after the vegetative node and flower characters.",
+        "status": "canonical_anchor_fruit_photo_pending"
+      }
+    ],
+    "species_compare": [
+      {
+        "left_species_id": "tradescantia-gigantea",
+        "right_species_id": "tradescantia-humilis",
+        "fastest_split": "Tall/robust and smooth below vs low/many-stemmed and hairy throughout the vegetative plant."
+      },
+      {
+        "left_species_id": "tradescantia-gigantea",
+        "right_species_id": "tradescantia-occidentalis",
+        "fastest_split": "Broader robust plant with nearly glabrous lower stem vs narrower prairie plant with obvious long-stalked glandular hairs."
+      },
+      {
+        "left_species_id": "tradescantia-humilis",
+        "right_species_id": "tradescantia-occidentalis",
+        "fastest_split": "Low bushy hairy plant vs taller grassier plant whose internodes/peduncles are especially glandular."
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Commelinaceae vs Poaceae",
+        "rule": "Both may have parallel-veined sheathing leaves, but Commelinaceae has showy 3-sepal/3-petal flowers and a superior capsule; Poaceae centers on ligules and spikelets with glumes, lemma and palea."
+      },
+      {
+        "title": "Commelinaceae vs Iridaceae",
+        "rule": "Iridaceae commonly presents 6 similar tepals and an inferior ovary; Commelinaceae separates the perianth into 3 sepals + 3 petals and has a superior ovary."
+      },
+      {
+        "title": "Tradescantia vs Commelina",
+        "rule": "Tradescantia has 6 fertile stamens in the FNA genus treatment; Commelina commonly has 3 fertile stamens with 3 staminodes and a strongly bilateral flower."
+      },
+      {
+        "title": "Commelina erecta vs Tinantia anomala — real flowering bract comparison",
+        "rule": "Commelina erecta flowers come from a folded green SPATHE with long-joined margins; Tinantia anomala flowers occupy a largely exposed ONE-SIDED CYME subtended by a mostly FLAT/open leaflike bract. Both can have two large blue petals; verify their stamens: Commelina 3 fertile + 3 staminodes, Tinantia 6 fertile with most filaments bearded."
+      },
+      {
+        "title": "Spathe vs sheath — these are not the same plant part",
+        "rule": "SHEATH = the basal portion of an ordinary leaf wrapping a stem/node. SPATHE = a modified bract surrounding an inflorescence (like the folded green enclosure around Commelina flowers). Do not label every green folded node cover a spathe."
+      }
+    ],
+    "caveat": "The flowers are short-lived, flower color overlaps among Tradescantia species, and regional hybridization can blur one-character IDs. Use multiple characters—especially architecture, leaf width, hair type, bracts and sepals. Three new/relinked Commelina images are physically installed and openly licensed. The existing Calvin field view is private-user photo; Nathan Taylor's close-up and Joey's Tinantia macro are CC BY-NC and not silently added to unrestricted family cards. The spathe seam, filament hair anatomy and mature capsule still need calibrated, individually verified macro/arrow photography."
+  },
+  "curation_status": {
+    "version": "2.0-b029-canonical-tradescantia-anchor-set",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "three_canonical_tradescantia_anchors_live",
+    "b029_closed": true,
+    "commelina_family_upgrade": "2026-10-14: Public-domain flower + two CC BY 4.0 physically installed exact Commelina erecta photos selected to explain unequal petals, fused spathe versus leaf sheath, and comparison to Tinantia; no new family-wide false generalizations, no range edits."
+  },
+  "canonical_anchor_set": {
+    "genus": "Tradescantia",
+    "batch": "B029",
+    "status": "three canonical anchors live",
+    "species": [
+      {
+        "species_id": "tradescantia-gigantea",
+        "scientific_name": "Tradescantia gigantea",
+        "role": "robust / tall anchor",
+        "look_for": "Usually one-stemmed at the base, robust and tall; lower stem essentially glabrous, upper internodes finely hairy; relatively broad strap-shaped foliage."
+      },
+      {
+        "species_id": "tradescantia-humilis",
+        "scientific_name": "Tradescantia humilis",
+        "role": "low / bushy / hairy anchor",
+        "look_for": "Low and many-stemmed at ground level; vegetative shoots and blades conspicuously hairy, becoming strongly glandular toward the inflorescence."
+      },
+      {
+        "species_id": "tradescantia-occidentalis",
+        "scientific_name": "Tradescantia occidentalis",
+        "role": "narrow-leaved / glandular prairie anchor",
+        "look_for": "Taller prairie form with narrow grassier leaves and conspicuous long-stalked glandular hairs on internodes, peduncles and sepals."
+      }
+    ],
+    "comparison_warning": "Flower color overlaps heavily across spiderworts. Start with architecture, leaf width and hair type, then use inflorescence bracts and sepals to confirm."
+  }
+}

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Hechtia%20texensis
+Source research-grade observation: https://www.inaturalist.org/observations/128521603
+Photo: https://www.inaturalist.org/photos/218313250
+Attribution: (c) Aidan Campos, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

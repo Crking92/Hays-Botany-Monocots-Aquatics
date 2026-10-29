@@ -1,0 +1,140 @@
+{
+  "rank": "family",
+  "name": "Orchidaceae",
+  "common_name": "Orchid family",
+  "project_scope": {
+    "selection_mode": "Video-fed Texas terrestrial-orchid reference module",
+    "note": "Video-fed family teaching reference from Epipactis gigantea. Five Orchidaceae concepts, including E. gigantea, are already installed in the learner; this does not establish target-zone nativity or resolve county-range review.",
+    "reference_taxon": "Epipactis gigantea",
+    "reference_status": "canonical_learner_present; target_zone_range_review_deferred",
+    "source_handoff": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json"
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find the lip and the column: orchid flowers typically have 3 sepals plus 3 petals, with one petal modified into a labellum (lip), while the fertile sexual structures are consolidated into a column.",
+    "flower": "Usually strongly zygomorphic; the labellum often differs dramatically from the other petals. Many species are resupinate, but resupination is not universal.",
+    "reproductive": "Pollen is commonly packaged into pollinia associated with the column rather than released as ordinary loose pollen.",
+    "ovary": "Inferior; in many orchids the ovary or flower stalk twists as the flower develops.",
+    "fruit": "Usually a capsule containing many extremely small seeds.",
+    "field_tip": "A strange-looking flower is not enough. The strongest family package is labellum + column + inferior ovary, with pollinia as a high-value confirmation.",
+    "vegetative_exceptions": "Leafless mycoheterotrophic Corallorhiza wisteriana and the former Hexalectris concepts now mapped to Bletia nitida/B. warnockii lack ordinary green leaves. Do not generalize leaflessness to all Bletia or Orchidaceae. Leafy Epipactis and Spiranthes may have foliage that withers by flowering."
+  },
+  "visual_lesson": {
+    "status": "video_reference_first_pass",
+    "teaching_order": "whole flower → labellum → column/anther cap → pollinia",
+    "intro": "The fastest way to stop orchids from looking mysterious is to read the flower as a set of modified parts rather than as one complicated shape.",
+    "steps": [
+      {
+        "title": "1 · Count the flower in threes",
+        "photo_role": "Epipactis gigantea whole flower / six-part perianth",
+        "look_for": "Three sepals and three petals arranged around a strongly asymmetric flower.",
+        "why_it_matters": "This establishes the monocot framework before focusing on the orchid-specific structures.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "2 · Find the labellum",
+        "photo_role": "labellum / lip",
+        "look_for": "One of the three petals is conspicuously modified into the lip or labellum.",
+        "why_it_matters": "The labellum is one of the most memorable orchid structures and helps orient the rest of the flower.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "3 · Move to the column",
+        "photo_role": "column / labellum / anther-cap region",
+        "look_for": "A central column where staminal and stylar tissues are combined instead of appearing as ordinary separate stamens around a free style.",
+        "why_it_matters": "The column is a much stronger family-level character than flower color or overall showiness.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "4 · Expose the pollinia",
+        "photo_role": "anther cap lifted / exposed pollinia",
+        "look_for": "Compact pollen masses beneath or associated with the anther cap.",
+        "why_it_matters": "Pollinia make the orchid reproductive system visually distinct from most superficially similar six-tepaled monocots.",
+        "status": "video_reference_ready_range_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Orchidaceae vs Asparagaceae",
+        "rule": "Both can present six-part monocot flowers, but orchids combine a specialized labellum with a reproductive column and commonly pollinia; Asparagaceae lacks the orchid column/pollinium package."
+      },
+      {
+        "title": "Do not require resupination",
+        "rule": "Many orchid flowers twist during development, but a non-resupinate flower can still be an orchid. Use column, labellum and ovary position instead."
+      },
+      {
+        "title": "Orchidaceae vs leafless Orobanchaceae",
+        "rule": "Leaflessness alone is misleading. Orchids show three sepals and three petals including a modified lip, a fused reproductive column and an inferior ovary. Leafless broomrapes generally show a fused corolla, distinct stamens and a superior ovary. Confirm with flower-center and side views; the current learner need not include a leafless broomrape."
+      }
+    ],
+    "caveat": "Epipactis gigantea and four other Orchidaceae concepts are already canonical learner species; their presence does not establish county-native status. Exact image/photo ID, creator, individual license, public-web rights, caption-to-image anatomical verification and arrow coordinates remain unverified for these requested examples.",
+    "genus_routing": [
+      {
+        "genus": "Epipactis",
+        "look_here_first": "Leafy stem, open flower with distinctive labellum and column; inspect inferior ovary separately from flower stalk."
+      },
+      {
+        "genus": "Spiranthes",
+        "look_here_first": "Many small flowers in a spiral or crowded spike; confirm lip and column on an individual flower. Spike twist alone cannot confirm S. cernua."
+      },
+      {
+        "genus": "Corallorhiza",
+        "look_here_first": "Leafless, mycoheterotrophic flowering shoot; confirm orchid lip and column on a flower."
+      },
+      {
+        "genus": "Bletia (former Hexalectris concepts)",
+        "look_here_first": "Leafless flowering stalk in the represented nitida/warnockii concepts; examine labellum crests and column, not leaflessness alone."
+      }
+    ],
+    "anatomy_examples": [
+      {
+        "species": "Epipactis gigantea",
+        "part": "flower",
+        "plain_label": "Special lower petal, fused pollen/stigma structure and seed-making chamber below the flower",
+        "botanical_label": "labellum; gynostemium; inferior ovary distinct from pedicel",
+        "look_for": "Pair the same flower's face/center and side views; resolve lip, column and ovary boundaries immediately below perianth. An unopened anther cap does not prove exposed pollinia.",
+        "photo_role": "exact-species flower-face and lateral attachment macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Follow the labellum to the column; locate the inferior ovary below the perianth, not the entire flower stalk."
+      },
+      {
+        "species": "Spiranthes cernua",
+        "part": "flower",
+        "plain_label": "Tiny flowers arranged around the spike; lip and side sepals",
+        "botanical_label": "spiral inflorescence; labellum; lateral sepals",
+        "look_for": "Show complete spike and individual open flower; resolve lip and lateral sepals without assuming spiral arrangement identifies species.",
+        "photo_role": "exact-species whole spike plus individual flower macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "The spike suggests Spiranthes; the individual flower reveals the orchid structures."
+      },
+      {
+        "species": "Corallorhiza wisteriana",
+        "part": "shoot and flower",
+        "plain_label": "Leafless flowering shoot and special lip",
+        "botanical_label": "mycoheterotrophic shoot; labellum; gynostemium",
+        "look_for": "Show complete leafless shoot paired with flower-center macro demonstrating lip and column.",
+        "photo_role": "exact-species flowering habit and flower-center macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "No ordinary green leaves; confirm Orchidaceae with the lip and column."
+      },
+      {
+        "species": "Bletia warnockii",
+        "part": "flower",
+        "plain_label": "Raised ridges on the special lower petal and central reproductive structure",
+        "botanical_label": "labellum crests; gynostemium",
+        "look_for": "Show entire flowering stalk and oblique open-flower macro; verify crest relief and column. Historic source name Hexalectris warnockii is an alias, not a second card.",
+        "photo_role": "exact-species habit and oblique labellum/column macro",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Look for the crested labellum and column; leaflessness is not universal across Bletia."
+      }
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-video-fed-family-reference",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass_range_pending"
+  }
+}

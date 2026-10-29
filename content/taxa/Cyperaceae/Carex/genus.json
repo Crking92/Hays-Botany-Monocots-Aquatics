@@ -1,0 +1,481 @@
+{
+  "rank": "genus",
+  "name": "Carex",
+  "family": "Cyperaceae",
+  "authority": "L.",
+  "common_group": "True sedges / Carex sedges",
+  "project_scope": {
+    "study_context": "Hays County and 24-county Central Texas target-zone visual ID",
+    "species_count": 10,
+    "species_ids": [
+      "carex-blanda",
+      "carex-cherokeensis",
+      "carex-crus-corvi",
+      "carex-edwardsiana",
+      "carex-emoryi",
+      "carex-microdonta",
+      "carex-perdentata",
+      "carex-planostachys",
+      "carex-tetrastachya",
+      "carex-texensis"
+    ],
+    "source": "10 already canonical species in data/manifest.json",
+    "native_range_note": "Per-species native statuses remain PROVISIONAL / unverified for strict county certification; do not infer PASS from species inclusion.",
+    "media_note": "Six existing licensed genus presentation anchors (five real photographs and one historic botanical drawing); three institutional photos rights-unverified and tetrastachya has no installed media."
+  },
+  "look_here_first": "First decide whether you're looking at a CAREX flowering spike: several scales along one or more spikes, often terminal staminate and lower pistillate spikes. Then examine ONE ripe female unit with a hand lens: the seed-like ACHENE sits INSIDE a sac called the PERIGYNIUM, protected by a separate pistillate SCALE. Notice SPIKE ARRANGEMENT (drooping? rounded? dense?), leaf width/cross-section and the shape of the perigynium BEAK before naming the species. A triangular stem is not a final ID.",
+  "genus_diagnostics": {
+    "perigynium": "The genus-defining feature is a thin sac or bladder called a PERIGYNIUM enveloping a female flower and later the single ACHENE (dry, one-seeded fruit). A separate pistillate SCALE lies outside the perigynium. Count veins, look for wings and fine hairs, and inspect the beak at its tip. Achenes are not openly exposed as in most Cyperus.",
+    "flower_spikes": "Look for distinct flowering SPIKES with reduced flowers under scales. In many Carex, male/staminate spike(s) occur toward the tip and female/pistillate spikes lower down; other Carex have mixed-sex spikes. Shape ranges from drooping loose spikes to many dense narrow fruiting heads. Never treat one pattern as universal.",
+    "stems_and_sheaths": "Often solid triangular CULMS, but stem shape is only a clue. Leaves arise from mostly CLOSED sheaths and have a sheath-blade junction with a LIGULE. Photograph the culm base, sheath mouth and leaf cross-section on the same plant.",
+    "leaves": "Blades often long and narrow, with two side ridges or a V-shaped fold, but widths range from very thin Texas/cedar sedges to broader Cherokee and Emory sedges. Inspect blade width with a mm scale, midrib and margin roughness; habit alone is not species proof.",
+    "achene_and_beak": "Each female flower matures one small ACHENE inside its PERIGYNIUM. The sac may be beaked, toothed, winged, inflated, veined, flat or rounded in cross-section. Dissection and 1–2 mm macro photos are often necessary for species certainty.",
+    "habitat": "The reviewed ten range from dry limestone canyon/cedar woodland to mesic forest, prairies, seeps and wet bottomlands. Moisture and habitat help build a shortlist but are not replacement morphology."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Cyperaceae family: spikelets with highly reduced flowers under scales and dry one-seeded fruits, commonly solid sedge culms and closed sheaths.",
+      "Carex genus: each female flower/fruit is wrapped in a PERIGYNIUM, unlike most Cyperus and Eleocharis.",
+      "Subgroups vary widely: terminal male + separate female spikes, mixed spikes, winged sac, long beaks and dense fruiting heads occur in different Carex species."
+    ],
+    "priority": [
+      "1. SEE the whole flowering/fruiting plant and whether spikes are drooping, separate, round, or tightly packed.",
+      "2. SPOT one perigynium, then peel it back to reveal the single achene. Do not confuse a pistillate scale with the sac.",
+      "3. NAME the ligule, closed sheath, leaf blade, spike and beaked perigynium using close shots.",
+      "4. COMPARE the canyon pair (edwardsiana/planostachys), drooping woodland pair (cherokeensis/blanda), wetland pair (crus-corvi/emoryi) and winged C. tetrastachya.",
+      "5. REMEMBER: 'Carex carries its fruit in a little bag.' Do not diagnose species from stem edges or garden habit."
+    ],
+    "warnings": [
+      "Genus includes many lineages; shared genus definition does NOT mean all species have a terminal male spike.",
+      "Most existing photo cards are provisional whole-plant faces. Feature-level measured macros are still absent.",
+      "Institutional UT voucher photos for edwardsiana, microdonta and perdentata have reuse rights unverified; no new genus reuse till cleared.",
+      "Taxonomic native-range certification must remain separate from visual gallery admission."
+    ]
+  },
+  "comparison_matrix": [
+    {
+      "character": "First grouping",
+      "blanda": "woodland, terminal staminate plus few lateral pistillate spikes",
+      "cherokeensis": "broad woodland leaves; many drooping spikes",
+      "crus_corvi": "wetland, dense spiny cylindrical head",
+      "edwardsiana": "small canyon; reddish bases, spaced spikes",
+      "emoryi": "tall spreading wet streambank; several long distinct spikes",
+      "microdonta": "moist ground; plump short-beaked perigynia",
+      "perdentata": "meadow; long perigynium beaks and conspicuous teeth",
+      "planostachys": "low cedar-woodland tuft; narrow V-fold leaves",
+      "tetrastachya": "spring silvery-white winged perigynia, 2–4 roundish spikes",
+      "texensis": "fine low tuft; minute close-packed spikes"
+    },
+    {
+      "character": "Check next",
+      "blanda": "leaf width, terminal male/pistillate spikes",
+      "cherokeensis": "staminate spike count, number and droop of female spikes",
+      "crus_corvi": "large long-toothed/beaked perigynia on dense fruiting head",
+      "edwardsiana": "purple basal sheaths and spacing of small spikes",
+      "emoryi": "rhizomes, elongated female spikes, several staminate top spikes",
+      "microdonta": "perigynium beak c. 0.3–0.9 mm + scale",
+      "perdentata": "perigynium beak c. 1.4–1.8 mm + long tips",
+      "planostachys": "small size, V/revolute leaf blades and separate spikes",
+      "tetrastachya": "perigynium wing 1–2 mm wide and fruit size 5.5–8 mm in FNA",
+      "texensis": "leaf width 1–1.7 mm, spreading/reflexed short-beaked perigynia"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "Canyon woodlands: Cedar sedge vs Edwards Plateau sedge vs Woodland sedge",
+      "look_here_first": "Before heads, inspect the culm BASE and take a leaf CROSS-SECTION. Then count and locate spikes along the culm.",
+      "field_matrix": [
+        {
+          "character": "Base",
+          "planostachys": "Usually small low green fine clump",
+          "edwardsiana": "Often purple-red culm bases are conspicuous",
+          "blanda": "Larger loose woodland foliage; purple-red base not the primary clue"
+        },
+        {
+          "character": "Leaves",
+          "planostachys": "Very narrow, V-shaped or inrolled (revolute) margins",
+          "edwardsiana": "Often 2–3.6 mm wide, somewhat broader greener",
+          "blanda": "Broader flat leaves"
+        },
+        {
+          "character": "Reproductive spikes",
+          "planostachys": "Small separate spikes on short culms",
+          "edwardsiana": "3–5 spaced spikes, proximal sometimes basal",
+          "blanda": "Terminal male with several lower female spikes"
+        }
+      ],
+      "caution": "Moisture and calcium-rich habitat are supporting clues. Existing C. edwardsiana photograph has reuse rights unverified and is intentionally excluded from licensed genus-gallery examples."
+    },
+    {
+      "title": "Broad-leaved woodland sedges: Cherokee vs Blanda",
+      "look_here_first": "Count spikes and inspect DROOP. Cherokee sedge usually has several conspicuously arching or drooping long female spikes, while blanda has fewer shorter separated spikes.",
+      "field_matrix": [
+        {
+          "character": "Spike pattern",
+          "cherokeensis": "Many (often 4–12) long lateral pistillate spikes, low ones may droop",
+          "blanda": "Often 3–4 shorter female spikes below one terminal staminate spike"
+        },
+        {
+          "character": "Leaves/habit",
+          "cherokeensis": "Colony-forming, broad-leaved, relatively tall",
+          "blanda": "Tufted or loose woodland, broad flat foliage"
+        },
+        {
+          "character": "Photo evidence",
+          "cherokeensis": "Exact-species real woodland scene installed",
+          "blanda": "Only public-domain botanical drawing currently installed; live photo needed"
+        }
+      ],
+      "caution": "Spike counts vary by plant maturity; species still require perigynium/achene details when in doubt."
+    },
+    {
+      "title": "Wetland giants: Ravenfoot vs Emory sedge",
+      "look_here_first": "Take a whole FRUITING STEM photo, then a close shot of one perigynium. Ravenfoot forms a densely packed spiny head; Emory sedge bears separate long spikes.",
+      "field_matrix": [
+        {
+          "character": "Inflorescence",
+          "crus_corvi": "Dense branching cylindrical fruiting head with conspicuous long perigynium beaks",
+          "emoryi": "Several elongated separate lateral female spikes and upper male spikes"
+        },
+        {
+          "character": "Habit",
+          "crus_corvi": "Robust wetland clumps",
+          "emoryi": "Tall streambank species with spreading rhizomes"
+        },
+        {
+          "character": "Existing photo",
+          "crus_corvi": "Excellent real dense fruiting head; individual achene unseen",
+          "emoryi": "Good real ligule/sheath photo; whole fruiting plant still needed"
+        }
+      ],
+      "caution": "Do not infer rhizome arrangement or beak dimensions from unrelated isolated photographs."
+    },
+    {
+      "title": "Fine meadow and small-fruit sedges: Texas, Meadow, Littletooth & Britton's",
+      "look_here_first": "Compare whole plant scale and individual PERIGYNIA with ruler: small/reflexed, long-beaked, little-toothed, or dramatically silvery broad-winged.",
+      "field_matrix": [
+        {
+          "character": "C. texensis",
+          "species": "Low fine sedge, tiny compact spikes; often reflexed very short-beaked perigynia"
+        },
+        {
+          "character": "C. perdentata",
+          "species": "Somewhat loose oblong fruiting array; beak about 1.4–1.8 mm with long teeth"
+        },
+        {
+          "character": "C. microdonta",
+          "species": "More plump perigynium with about 0.3–0.9 mm beak"
+        },
+        {
+          "character": "C. tetrastachya",
+          "species": "Two to four roundish spikes; large flat silvery-white perigynia with broad 1–2 mm wings"
+        }
+      ],
+      "caution": "C. tetrastachya lacks installed media; existing images of microdonta and perdentata are institutional reference-only with reuse rights unverified. Exact macro photographs remain required."
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Green tufts on dry calcareous cedar/oak slope, small plant",
+      "then": "Try C. planostachys vs C. edwardsiana. Photograph culm bases, leaf cross-sections and spike spacing."
+    },
+    {
+      "if": "Strong purple-red bases, 3–5 separate spaced small spikes in limestone ravine",
+      "then": "C. edwardsiana possibility; exact-species licensed photo of this character needed."
+    },
+    {
+      "if": "Broad woodland leaves with several noticeably DROOPING female spikes",
+      "then": "C. cherokeensis; confirm number, shape and perigynium."
+    },
+    {
+      "if": "Loose woodland 3–4 shorter female spikes under terminal male",
+      "then": "C. blanda; confirm live photo and fruit."
+    },
+    {
+      "if": "Wetland, extremely dense spiny narrow cylindrical fruiting head",
+      "then": "C. crus-corvi, long-beaked perigynia; view true existing head photo."
+    },
+    {
+      "if": "Wet bank, tall spreading from rhizomes, separate elongated pistillate spikes",
+      "then": "C. emoryi, photograph fruiting stem (current photo mainly ligule)."
+    },
+    {
+      "if": "Low fine tuft, very narrow 1–1.7 mm leaves and tiny compact spikes",
+      "then": "C. texensis; not enough without a mature spike close-up."
+    },
+    {
+      "if": "Spring fruiting with silvery broad WHITE-WINGED flat perigynia, 2–4 separate round spikes",
+      "then": "C. tetrastachya; request same-taxon verified source, no current installed image."
+    },
+    {
+      "if": "Meadow loose oblong fruiting spikes, long-beaked ~1.4–1.8 mm with conspicuous teeth",
+      "then": "C. perdentata; exact fruit macro with ruler needed."
+    },
+    {
+      "if": "Plump short-beaked ~0.3–0.9 mm perigynia, wet open site",
+      "then": "C. microdonta; verify structure with magnifier, rights-cleared close-up needed."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Carex: ten sedges, same genus — very different plant parts",
+    "subtitle": "Five actual exact-species real photos plus one public-domain botanical illustration, physically present in canonical species folders. Three UT voucher images have unverified reuse and are not copied into this genus; C. tetrastachya has no installed photo. Species identification still requires fruiting perigynia and achenes.",
+    "memory_rule": "Carex = a female fruit inside a PERIGYNIUM ('little bag') + a separate outer SCALE. Then compare spike architecture, beak, wings, basal sheath and blades.",
+    "items": [
+      {
+        "species_id": "carex-emoryi",
+        "scientific_name": "Carex emoryi",
+        "label": "EMORY SEDGE · REAL SHEATH/LIGULE MACRO",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-emoryi/images/carex-emoryi-provisional-face.jpg",
+        "image_fit": "contain",
+        "caption": "An actual close view of the pale membranous flap at the sheath-blade junction on C. emoryi. Look for the LIGULE; don't assume a sedge with a ligule is a grass.",
+        "creator": "cassi saari",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_emoryi_ligule.jpg",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      },
+      {
+        "species_id": "carex-cherokeensis",
+        "scientific_name": "Carex cherokeensis",
+        "label": "CHEROKEE SEDGE · ARCHING FLOWER SPIKES",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-cherokeensis/images/carex-cherokeensis-provisional-face.jpg",
+        "image_fit": "contain",
+        "caption": "Real woodland scene showing tall Carex shoots with several elongated, arching or drooping reproductive spikes. Do not claim a single perigynium's beak is resolved at this distance.",
+        "creator": "Mason Brock",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_cherokeensis.jpg",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      },
+      {
+        "species_id": "carex-crus-corvi",
+        "scientific_name": "Carex crus-corvi",
+        "label": "RAVENFOOT SEDGE · DENSE SPINY HEAD",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-crus-corvi/images/carex-crus-corvi-provisional-face.jpg",
+        "image_fit": "contain",
+        "caption": "Real head close enough to recognize a packed upright column with numerous outward-projecting beaked structures. The actual achene within each perigynium still needs a dissected macro.",
+        "creator": "Robert H. Mohlenbrock / USDA SCS",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_crus-corvi_NRCS-01.jpg",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      },
+      {
+        "species_id": "carex-planostachys",
+        "scientific_name": "Carex planostachys",
+        "label": "CEDAR SEDGE · LOW FINE-LEAVED CLUMP",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-planostachys/images/carex-planostachys-provisional-face.jpg",
+        "image_fit": "contain",
+        "caption": "Verified exact-species whole-clump view with narrow arching foliage; cannot resolve V-shaped or revolute leaf edges without a close blade cross-section.",
+        "creator": "Cleveland Powell",
+        "license": "CC BY",
+        "source_page": "https://www.thepollinatorpatchgarden.com/plants/cedar-sedge",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      },
+      {
+        "species_id": "carex-texensis",
+        "scientific_name": "Carex texensis",
+        "label": "TEXAS SEDGE · AUSTIN GARDEN HABIT",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-texensis/images/carex-texensis-provisional-face.jpg",
+        "image_fit": "contain",
+        "caption": "Real Austin/Zilker Botanical Garden growing habit showing fine thin clumps. This planted garden scene is morphology reference, NOT a wild Hays County occurrence or proof of spikelet measurements.",
+        "creator": "Daderot",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_texensis_-_Zilker_Botanical_Garden_-_Austin,_Texas_-_DSC08932.jpg",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      },
+      {
+        "species_id": "carex-blanda",
+        "scientific_name": "Carex blanda",
+        "label": "WOODLAND SEDGE · HISTORIC BOTANICAL DRAWING (NOT A PHOTO)",
+        "image_url": "content/taxa/Cyperaceae/Carex/carex-blanda/images/carex-blanda-provisional-face.png",
+        "image_fit": "contain",
+        "caption": "Public-domain Britton & Brown line illustration shows a basal clump and distinct reproductive spikes, and sketches enlarged individual organs. This is NOT a living-plant photo. Need an exact-species real photo.",
+        "creator": "Britton & Brown (1913) / USDA-NRCS PLANTS Database",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Carex_blanda_drawing_1.png",
+        "markers": [],
+        "annotation_status": "Physical existing canonical media checked; exact visual role audited, no invented arrows or microcharacter confidence."
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "1 · SPOT the sheath-blade junction",
+        "role": "leaf sheath and ligule",
+        "anchor_species_id": "carex-emoryi",
+        "image_file": "images/carex-emoryi-provisional-face.jpg",
+        "look_for": "At the point where the vertical green BLADE leaves its pale enclosing SHEATH, find the small transparent membranous LIGULE. It is a REAL Carex ligule example, not a grass collar. The photographed fingers give useful scale.",
+        "why_it_matters": "The grass-versus-sedge distinction is not a ligule/no-ligule rule. Check the floral units for family identity."
+      },
+      {
+        "title": "2 · Compare a woodland spike",
+        "role": "drooping pistillate spikes",
+        "anchor_species_id": "carex-cherokeensis",
+        "image_file": "images/carex-cherokeensis-provisional-face.jpg",
+        "look_for": "Several separate narrow spikes curve and droop from tall woodland culms. The pale slender structures are spike clusters, not individual blades. Photo does NOT resolve perigynium beak or stigma branches.",
+        "why_it_matters": "Spike position and drooping versus compact head architecture are quick Carex species clues."
+      },
+      {
+        "title": "3 · Compare one dense wetland fruiting head",
+        "role": "dense fruiting inflorescence",
+        "anchor_species_id": "carex-crus-corvi",
+        "image_file": "images/carex-crus-corvi-provisional-face.jpg",
+        "look_for": "See many packed outward-pointing spiky structures forming one dense cylindrical head. This is quite different from Cherokee sedge's separate longer drooping spikes.",
+        "why_it_matters": "Head architecture narrows the group before small perigynium details."
+      },
+      {
+        "title": "4 · Compare narrow woodland leaves",
+        "role": "fine basal leaf clump",
+        "anchor_species_id": "carex-planostachys",
+        "image_file": "images/carex-planostachys-provisional-face.jpg",
+        "look_for": "The low tuft with fine green leaves is cedar sedge. A blade cross-section is needed to prove its V-shaped/revolute margins; the broad face alone only teaches size and habit.",
+        "why_it_matters": "Separates a small dry calcareous woodland tuft from large wet bank sedges."
+      },
+      {
+        "title": "5 · Recognize Texas sedge in landscape",
+        "role": "whole plant low texture",
+        "anchor_species_id": "carex-texensis",
+        "image_file": "images/carex-texensis-provisional-face.jpg",
+        "look_for": "The fine-textured clumps at the Austin botanical garden show expected small sedge stature. The sign is a photo subject label, not diagnostic fruiting proof.",
+        "why_it_matters": "Size and setting can start the key, but you still need the tiny fruiting spikes."
+      },
+      {
+        "title": "6 · Read a historical botanical plate",
+        "role": "historic illustration whole plant and fruit",
+        "anchor_species_id": "carex-blanda",
+        "image_file": "images/carex-blanda-provisional-face.png",
+        "look_for": "This is explicitly a DRAWING, not a real photograph. Use it to visualize separate spike arrangement, leaves and schematic enlarged flower/fruit parts; don't pretend it's a measured living macro.",
+        "why_it_matters": "Historic illustrations help decode parts when the local exact-species macro is missing."
+      },
+      {
+        "title": "7 · NEED PHOTO — perigynium and hidden achene",
+        "role": "perigynium / scale / achene dissection",
+        "look_for": "At 1–2 mm scale, photograph one mature female Carex spikelet: show the subtending PISTILLATE SCALE separately from the enclosing PERIGYNIUM and cut/dissect a second perigynium to reveal the single ACHENE inside.",
+        "why_it_matters": "The unique sac-like perigynium is the most important structure defining Carex among local sedges.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "8 · NEED PHOTO — Britton's sedge white wings",
+        "role": "Carex tetrastachya white winged perigynia",
+        "look_for": "Find a rights-cleared photograph of verified C. tetrastachya, preferably a 1–2 mm fruit macro showing silvery-white flat broad WINGS of perigynia and 2–4 separate rounded spikes. Do not substitute a different Carex species.",
+        "why_it_matters": "The wide white perigynium wings are one of the cleanest splits within these ten learner species.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "9 · NEED PHOTO — canyon pair bases and leaf sections",
+        "role": "edwardsiana vs planostachys purple red culm base and leaf cross sections",
+        "look_for": "Same-angle exact-species photos of C. edwardsiana red-purple culm bases, widely separated spikes, and nearby C. planostachys narrow V-keeled or revolute leaves with mm ruler. Rights-cleared originals required.",
+        "why_it_matters": "This is the key Central Texas dry woodland pair where garden-like clump appearance is insufficient.",
+        "status": "needs_photo"
+      }
+    ],
+    "annotation_policy": "Every present image was visually inspected for honest broad teaching roles. None has checked overlay coordinates. Do not invent arrows; micro characters not claimed from distant images.",
+    "remote_sources_only": [
+      {
+        "species_id": "carex-tetrastachya",
+        "reason": "No installed photo; identify suitable exact C. tetrastachya photo with per-photo reuse license verified before installer.",
+        "reference_url": "https://rootfast.org/plants/CATE29"
+      },
+      {
+        "species_id": "carex-edwardsiana",
+        "reason": "UT voucher photo is physically in this private learner but public reuse/license still unverified; not promoted as a reusable genus teaching image.",
+        "reference_url": "https://w3.biosci.utexas.edu/prc/specimens/Cyperaceae1.html"
+      }
+    ]
+  },
+  "photo_diagnostic_requirements": [
+    {
+      "priority": 1,
+      "pair": "Family Carex perigynium vs Cyperus spikelet",
+      "features": [
+        "Same-frame external pistillate SCALE + perigynium and a dissected achene inside",
+        "Perigynium BEAK, apical teeth and 1 mm ruler",
+        "Compare Cyperus exposed achene under scale vs Carex sac"
+      ],
+      "status": "needs_macro"
+    },
+    {
+      "priority": 1,
+      "pair": "C. planostachys vs C. edwardsiana",
+      "features": [
+        "C. edwardsiana red-purple basal culms macro with clear license",
+        "C. planostachys blade cross-section and inrolled edges",
+        "Matched top/side of flowering spike with 1 mm scale"
+      ],
+      "status": "needs_macro"
+    },
+    {
+      "priority": 1,
+      "pair": "C. tetrastachya vs meadow sedges",
+      "features": [
+        "Rights-cleared photographed exact species (not genus substitute), spring 2–4 rounded spikes",
+        "White flat perigynium wings, 1–2 mm and width 3.5–6.3 mm per FNA",
+        "Achene vs enclosing sac dissection"
+      ],
+      "status": "zero-photo-backfill"
+    },
+    {
+      "priority": 2,
+      "pair": "C. cherokeensis vs C. blanda",
+      "features": [
+        "Matched true photos drooping vs separated spikes",
+        "Perigynium shape, leaf-width ruler",
+        "Replace historic Carex blanda drawing with real photo"
+      ],
+      "status": "needs_macro"
+    },
+    {
+      "priority": 2,
+      "pair": "C. crus-corvi vs C. emoryi",
+      "features": [
+        "Same-angle full fruiting culm",
+        "Carex crus-corvi perigynium long beak vs emoryi shape",
+        "Real Emory whole spike image"
+      ],
+      "status": "needs_macro"
+    },
+    {
+      "priority": 2,
+      "pair": "C. perdentata vs C. microdonta vs C. texensis",
+      "features": [
+        "Same-mm measured beak lengths",
+        "Pistillate scale, achene, dorsal/ventral perigynium veining",
+        "Clear photo rights for UT specimens and C. texensis macro"
+      ],
+      "status": "needs_macro"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Flora of North America — Carex genus and identification key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=105644"
+    },
+    {
+      "title": "Flora of North America — C. tetrastachya detailed fruit morphology",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242357582"
+    },
+    {
+      "title": "Hays Botany ID project — Cyperaceae family.json",
+      "path": "content/taxa/Cyperaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-carex-ten-species-visual-genus-20261013",
+    "last_reviewed": "2026-10-13",
+    "canonical_species_count": 10,
+    "physical_photo_sources_verified": 5,
+    "historic_illustrations_verified": 1,
+    "photo_rights_uncertain_species": [
+      "carex-edwardsiana",
+      "carex-microdonta",
+      "carex-perdentata"
+    ],
+    "zero_photo_species": [
+      "carex-tetrastachya"
+    ],
+    "status": "genus lesson/index structural pass; diagnostic closeup/photo enrichment still pending; no county range status modified",
+    "annotation_status": "pending_original_pixel_review"
+  }
+}

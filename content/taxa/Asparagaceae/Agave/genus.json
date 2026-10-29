@@ -1,0 +1,66 @@
+{
+  "rank": "genus",
+  "name": "Agave",
+  "family": "Asparagaceae",
+  "common_group": "Agaves",
+  "look_here_first": "Start with the broad, fleshy, toothed leaves and terminal spine. Compare mature leaf width and the flowering architecture: a branched panicle supports A. americana, while lechuguilla has narrower leaves and a largely spike-like flowering axis.",
+  "project_scope": {
+    "species_ids": [
+      "agave-americana",
+      "agave-lechuguilla"
+    ],
+    "note": "First-pass source-pool learner anchors; unresolved range and comparison labels retained."
+  },
+  "genus_diagnostics": {
+    "leaves": "Fleshy rosette leaves with marginal teeth and terminal spines in these two project species; compare width and edge details.",
+    "inflorescence": "Compare branched A. americana panicle with largely spicate A. lechuguilla axis; reproductive close-ups remain needed."
+  },
+  "study_strategy": {
+    "warning": "Provisional one-photo coverage per species. Specific missing anatomy is shown as needs-photo; no arrows verified."
+  },
+  "comparison_cards": [
+    {
+      "title": "Agave structural comparisons",
+      "look_here_first": "A. lechuguilla: much narrower leaves, typically 30–50 × 2–4(–5.2) cm, and largely spicate inflorescence. Do not diagnose species or local nativity by blue color, variegation, or ornamental occurrence. Other cultivated agaves can overlap; require reproductive/leaf-edge evidence when uncertain. A. americana has much broader leaves and a branched panicle. A. univittata has undulate/crenate, less detachable leaf margins and teeth mostly 1–2 cm apart; overlaps require close leaf-edge and flowering evidence. Hybridization is documented in FNA; avoid size-only identification.",
+      "caution": "Use exact structural characters and provenance; source pictures are first-pass recognition views."
+    }
+  ],
+  "visual_comparison": {
+    "part_examples": [
+      {
+        "title": "Cultivated broad fleshy leaves with toothed margins and terminal spines; Longwood Gardens specimen",
+        "anchor_species_id": "agave-americana",
+        "image_file": "images/01-cultivated-toothed-leaves.jpg",
+        "look_for": "Visible broad succulent leaves, toothed margins and pointed tips in cultivated material. Neighboring plants and scape parts are present; do not assign every visible structure to the agave. No scale or complete flowering panicle is shown.",
+        "why_it_matters": "Start with the broad, fleshy, toothed leaves and terminal spine. Compare mature leaf width and the flowering architecture: a branched panicle supports A. americana, while lechuguilla has narrower leaves and a largely spike-like flowering axis.",
+        "role": "Cultivated broad fleshy leaves with toothed margins and terminal spines; Longwood Gardens specimen"
+      },
+      {
+        "title": "Texas USDA habit view: basal narrow-leaved rosettes and a tall largely spike-like flowering axis",
+        "anchor_species_id": "agave-lechuguilla",
+        "image_file": "images/01-texas-habit-flowering-axis.jpg",
+        "look_for": "Visible basal rosettes and tall unbranched-looking flowering axis west of Van Horn, Texas. Older low-resolution photograph; leaf tooth measurements and flower anatomy cannot be read from it.",
+        "why_it_matters": "Look at narrow rigid rosette leaves, their spaced marginal teeth, and the terminal spine; then inspect the largely spike-like flowering axis. Distinguish A. univittata with leaf-edge detail, not size alone.",
+        "role": "Texas USDA habit view: basal narrow-leaved rosettes and a tall largely spike-like flowering axis"
+      },
+      {
+        "title": "Complete rosette with scale",
+        "look_for": "Needs photo: Complete rosette with scale",
+        "why_it_matters": "Required to apply the structural key; not verified in the installed recognition view.",
+        "role": "Complete rosette with scale"
+      },
+      {
+        "title": "Leaf teeth and terminal spine macro with ruler",
+        "look_for": "Needs photo: Leaf teeth and terminal spine macro with ruler",
+        "why_it_matters": "Required to apply the structural key; not verified in the installed recognition view.",
+        "role": "Leaf teeth and terminal spine macro with ruler"
+      }
+    ]
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=100796",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60474750-2",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101309"
+  ]
+}

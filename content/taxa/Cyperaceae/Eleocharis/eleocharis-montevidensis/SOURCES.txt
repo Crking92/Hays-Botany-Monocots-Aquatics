@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:306963-1
+Source research-grade observation: https://www.inaturalist.org/observations/249839264
+Photo: https://www.inaturalist.org/photos/446695326
+Attribution: (c) Caleb Martinez, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Eleocharis montevidensis
+Creator: Wendy A; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6273790779
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eleocharis-montevidensis/gbif-e615e588bb4e8d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Eleocharis montevidensis
+Creator: Mimi Posey; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6412957702
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eleocharis-montevidensis/gbif-5e22df6aefe0a9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

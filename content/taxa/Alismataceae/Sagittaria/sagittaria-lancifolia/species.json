@@ -1,0 +1,37 @@
+{
+  "id": "sagittaria-lancifolia",
+  "family": "Alismataceae",
+  "genus": "Sagittaria",
+  "species": "lancifolia",
+  "scientific_name": "Sagittaria lancifolia",
+  "common_name": "Bulltongue arrowhead",
+  "look_here_first": "Look for tall emergent wetland leaves that are lance-shaped rather than triangular and three-petaled white flowers borne in whorls; inspect flower sex and seed heads.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Sagittaria%20lancifolia",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Source Florida Everglades; not Hays County occurrence evidence.",
+  "images": [
+    {
+      "file": "images/commons-sagittaria-lancifolia.jpg",
+      "role": "Provisional three-petal flowers and emergent habit; fruits and full leaf variation still need close-ups.",
+      "creator": "Hans Hillewaert",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sagittaria_lancifolia_(flowers).jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Attribution and ShareAlike restrictions apply if adapted"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

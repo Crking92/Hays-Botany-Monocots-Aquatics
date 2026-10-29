@@ -1,0 +1,89 @@
+{
+  "id": "myriophyllum-aquaticum",
+  "family": "Haloragaceae",
+  "genus": "Myriophyllum",
+  "species": "aquaticum",
+  "scientific_name": "Myriophyllum aquaticum",
+  "common_name": "Parrot feather",
+  "look_here_first": "Inspect whorls of finely feather-divided leaves around emergent aquatic stems; compare the aerial and submerged growth.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_028": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:166319-2",
+  "images": [
+    {
+      "file": "images/inat-359788354.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Chuck Cantley, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/359788354",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review028-80a5aede84a46f8.jpg",
+      "role": "Fine pinnately divided leaves on short emerging aquatic shoots at shore; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show parrotfeather water-plant emergent whorled foliage from different angles",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6131315258",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/610994566/original.jpg",
+      "source_determination": "Myriophyllum aquaticum",
+      "source_observation_id": "6131315258",
+      "library_release_tag": "hays-photo-library-mass-38944876482",
+      "library_archive_file": "staged_images/myriophyllum-aquaticum/gbif-74cc87feae340b.jpg",
+      "archive_image_sha256": "9fd0b9443fa049636b5fa4c3e85bfe461574947d6d449aae5766a8b2dec9cf9a",
+      "image_dimensions": [
+        1400,
+        1051
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review028-1b1adfd1cf6ee37.jpg",
+      "role": "Multiple whorls of finely divided bright green emergent leaves over water; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show parrotfeather water-plant emergent whorled foliage from different angles",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6159283734",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/614881803/original.jpg",
+      "source_determination": "Myriophyllum aquaticum",
+      "source_observation_id": "6159283734",
+      "library_release_tag": "hays-photo-library-mass-38944876482",
+      "library_archive_file": "staged_images/myriophyllum-aquaticum/gbif-3fb63363e31b12.jpg",
+      "archive_image_sha256": "669d31095c42adca44c1b3ba57930a99fa54243a3dd34e5fabc4a4705fd2e534",
+      "image_dimensions": [
+        1400,
+        997
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

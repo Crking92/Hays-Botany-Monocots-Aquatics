@@ -1,0 +1,6 @@
+Sabal minor (Jacq.) Pers. — dwarf palmetto
+Approved Master Plant Pool row 1007; accepted species identity and morphology in staged species.json. Native-county verdict UNRESOLVED; exclude from confirmed-native metrics.
+Exact-species image: Krzysztof Ziarnek (Kenraiz), Sabal minor kz02.jpg, photographed 7 March 2025 at Fairchild Tropical Botanic Garden, Miami.
+Source page: https://commons.wikimedia.org/wiki/File:Sabal_minor_kz02.jpg
+Image-level license: CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0/ . Attribute creator and source; preserve ShareAlike for adaptations.
+The reviewed image shows whole low fan-palm habit and branching reproductive stalks; close petiole/hastula/leaf-segment diagnostic photographs still needed. The photo is a source candidate until physically downloaded and verified in canonical gallery.

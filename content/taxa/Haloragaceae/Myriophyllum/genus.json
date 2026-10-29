@@ -1,0 +1,92 @@
+{
+  "rank": "genus",
+  "name": "Myriophyllum",
+  "family": "Haloragaceae",
+  "look_here_first": "Find whorled featherlike submerged leaves, then inspect emergent flowering bracts.",
+  "shared_genus_characters": "Aquatic herbs with finely divided submerged leaves and tiny flowers in upper axils.",
+  "species_comparison_matrix": [
+    {
+      "character": "Emergent bracts",
+      "aquaticum": "Remain featherlike and deeply divided",
+      "heterophyllum": "Become broader and sharply serrulate"
+    },
+    {
+      "character": "Flower sex",
+      "aquaticum": "Dioecious; North American populations are pistillate",
+      "heterophyllum": "Hermaphroditic or occasionally monoecious"
+    },
+    {
+      "character": "Fruit",
+      "aquaticum": "Shallowly four-lobed when formed",
+      "heterophyllum": "Deeply four-lobed"
+    },
+    {
+      "character": "Submerged leaf whorls and segments",
+      "aquaticum": "Whorls commonly 4–6(–8); submerged leaves usually 25–70 mm, with about 14–36 threadlike segments.",
+      "heterophyllum": "Whorls commonly 4–5; submerged leaves typically 20–40 mm with about 5–12 segment pairs.",
+      "caution": "These ranges overlap; emergent bracts are more diagnostic."
+    }
+  ],
+  "overlap_and_cautions": [
+    "Submerged foliage alone is insufficient for confident species ID.",
+    "M. aquaticum is introduced and not yet a canonical learner species; M. heterophyllum has provisional target-zone status.",
+    "The family module's common male-upper/female-lower cue does not apply to dioecious M. aquaticum; use the species-specific reproductive architecture."
+  ],
+  "lookalikes": [
+    "Ceratophyllum has forked rather than pinnate leaves.",
+    "Cabomba has fanlike underwater leaves."
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "character": "Emergent floral bract shape",
+      "shot": "Matched side-by-side emergent shoots with leaf bases and bract margins; label featherlike divisions vs broad serrulate edges.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "character": "Whorl and pinnate leaf structure",
+      "shot": "Same-scale submerged nodes, whorl count, central leaf axis and lateral segments.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 1,
+      "character": "Flower sex",
+      "shot": "Flowering-node macro showing pistillate flower in M. aquaticum and hermaphroditic/sex arrangement in M. heterophyllum when available.",
+      "owner": "Diagnostic Photo Polish"
+    },
+    {
+      "priority": 2,
+      "character": "Mature fruit lobes",
+      "shot": "Scaled fruit and mericarp views where fruit is present; do not treat lack of fruit in female-only populations as an ID key.",
+      "owner": "Diagnostic Photo Polish"
+    }
+  ],
+  "references": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242413752",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416867"
+  ],
+  "visual_status": "provisional_diagnostic_photos_pending",
+  "project_scope": {
+    "canonical_species_ids": [
+      "myriophyllum-heterophyllum"
+    ],
+    "source_pool_comparison": "Myriophyllum aquaticum",
+    "installer_dependency": "M. aquaticum source-pool approved but not canonical; Approved Taxa Installer owns species-card creation.",
+    "range_note": "M. heterophyllum target-zone status remains PROVISIONAL; M. aquaticum is introduced. No range decisions changed."
+  },
+  "decision_sequence": [
+    "Identify whorled, pinnately divided submerged leaves with a central leaf axis; inspect intact nodes rather than loose fragments.",
+    "Follow a stem above water. Feathery divided emergent bracts favor M. aquaticum; broader sharply serrulate bracts favor M. heterophyllum.",
+    "If flowers are visible, distinguish dioecious pistillate M. aquaticum shoots from the hermaphroditic or occasionally monoecious M. heterophyllum; do not apply a male-above/female-below rule to all watermilfoils.",
+    "Use mature fruit lobe depth as supporting evidence when fruit exists. If only submerged fragments are available, leave at Myriophyllum sp."
+  ],
+  "existing_media_anchor": {
+    "species_id": "myriophyllum-heterophyllum",
+    "source_record_id": "jvid-Hr3nBxvgCv4-028",
+    "timecode": "00:42:09.1",
+    "role": "Existing source-labeled submerged foliage frame",
+    "reuse": "Private study only; public reuse not cleared",
+    "limitation": "Does not show emergent bracts or flowers; not proof of local native-range status."
+  }
+}

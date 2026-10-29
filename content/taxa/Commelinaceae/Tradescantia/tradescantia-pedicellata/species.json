@@ -1,0 +1,103 @@
+{
+  "id": "tradescantia-pedicellata",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "pedicellata",
+  "scientific_name": "Tradescantia pedicellata",
+  "authority": "Celarier",
+  "common_name": "Granite spiderwort / Edwards Plateau spiderwort",
+  "look_here_first": "Think small granite spiderwort: a short narrow-leaved perennial on Llano-Uplift granitic soils, with unusually long flower pedicels and sparse glandular hairs on stems, pedicels, and sepals.",
+  "county_occurrences_target_zone": [
+    "Blanco",
+    "Burnet",
+    "Llano",
+    "Mason"
+  ],
+  "target_zone_count": 4,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Blanco — Pedernales Falls records. Burnet — Inks Lake/Buchanan Dam records. Llano — Enchanted Rock/Llano River granite records. Mason — TPWD annotated rare-plant county list.",
+    "range_guardrail": "Restricted Llano-Uplift endemic; do not infer occurrence outside documented granitic counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "small clump-forming perennial usually 10–40 cm tall",
+      "narrow linear to lanceolate leaves",
+      "leaf surfaces nearly glabrous to sparsely hairy",
+      "elongate flower pedicels",
+      "pedicels and sepals sparsely to moderately glandular-pubescent",
+      "fascicle of distally thickened tuberous roots",
+      "strong association with granite, gneiss, and derived sandy-gravelly soils"
+    ],
+    "comparison_training": "Habitat plus stature is powerful: T. pedicellata is the small narrow-leaved granite specialist; T. edwardsiana is taller and broad-leaved; T. hirsutiflora has slender fibrous roots and favors sandy eastern-Texas habitats."
+  },
+  "curation_status": {
+    "version": "1.0-b092",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/inat-128931224-first-photo.jpg",
+      "role": "Open flowers, hairy pedicels and sepals, and linear leaves; measured leaf base and fruit still needed",
+      "creator": "Alison Northup",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/128931224",
+      "observation_url": "https://www.inaturalist.org/observations/78759370",
+      "observation_id": 78759370,
+      "photo_id": 128931224,
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Alison Northup, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/128931224/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes; retain attribution",
+      "modifications": "EXIF removed and JPEG normalized; no anatomy overlays",
+      "photo_review": "Exact Research Grade source record and actual pixels reviewed; provisional first-pass view"
+    },
+    {
+      "file": "images/gbif-manual-4907021426-666029ead.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Long hairy flower pedicels and sepal glands, narrow leaf base",
+      "creator": "MBG",
+      "license": "CC BY-NC-SA",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/4907021426",
+      "gbif_occurrence_id": "4907021426",
+      "source_determination": "Tradescantia pedicellata Celarier",
+      "accepted_target": "Tradescantia pedicellata",
+      "media_source_url": "https://images.mobot.org/tropicosimages5/detailimages/TropicosImagesVol5/101709000/661638A3-BD0F-4A27-B9D9-4EEE632D3834.jpg",
+      "image_dimensions": [
+        724,
+        1086
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "First exact photograph installed; additional diagnostic views pending."
+  },
+  "photo_note": "First exact licensed photo physically installed 2026-10-14; fine diagnostic gallery pending. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

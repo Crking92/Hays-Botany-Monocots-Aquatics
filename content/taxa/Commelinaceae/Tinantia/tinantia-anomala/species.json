@@ -1,0 +1,180 @@
+{
+  "id": "tinantia-anomala",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tinantia",
+  "species": "anomala",
+  "scientific_name": "Tinantia anomala",
+  "authority": "(Torr.) C.B.Clarke",
+  "common_name": "False dayflower / widow's-tears",
+  "synonyms": [
+    "Commelina anomala (Torr.) Woodson",
+    "Commelinantia anomala (Torr.) Tharp",
+    "Tradescantia anomala Torr.",
+    "Tradescantia texensis M.E.Jones"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO; native range Texas to Mexico. Older literature may list it as Commelina anomala, Commelinantia anomala, or Tradescantia anomala.",
+  "look_here_first": "Look below the whole flower cluster: Tinantia anomala has an exposed, one-sided cyme above an open, mostly flat leaflike bract. The green sepals around individual buds are not a fused spathe pocket. Then check Joey's macro for purple-and-yellow filament beards: six fertile stamens, five filaments bearded. Commelina erecta instead has a folded spathe pocket and smooth filaments.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NAPA provides a county map for Tinantia anomala and Kew/POWO accepts Texas in the native range. Travis County — UT Plant Resources Center's Travis County Commelinaceae herbarium index includes Tinantia anomala. Williamson County — UT Plant Resources Center provides a detailed county treatment for Tinantia anomala. Val Verde County — the Amistad National Recreation Area vascular flora documents Tinantia anomala on rocky slopes, flats, ledges, and intermittent drainages.",
+    "range_guardrail": "Tinantia anomala is an annual and may colonize garden settings. County proof uses herbarium/floristic evidence, not horticultural occurrences."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual, tufted to several-stemmed herb, commonly up to about 60–80 cm",
+      "stems cylindrical rather than strongly flattened, often pinkish-purple near exposed nodes",
+      "leaves alternate and sheathing",
+      "basal/lower leaves narrower and often petiolate; upper cauline leaves broader and sessile",
+      "upper leaf bases often rounded to cordate-clasping around the stem",
+      "terminal one-sided cyme with several flowers",
+      "large subtending bract is leaflike and mostly flat/open rather than forming a closed fused spathe pocket",
+      "flowers about 2–2.7 cm across with two broad blue-to-lavender petals and a much smaller white lower petal",
+      "six stamens are fertile and heteromorphic; several filaments have conspicuous violet/yellow-tipped beadlike hairs",
+      "persistent boat-shaped sepals conceal the developing capsule"
+    ],
+    "comparison_training": "Commelina erecta: Commelina erecta has the unmistakable folded/fused green spathe pocket enclosing buds and fruit. Tinantia instead has an open leaflike bract subtending an exposed terminal cyme; its upper leaves also more strongly clasp the stem. Tradescantia spp.: Tradescantia spiderworts usually have three comparably showy petals. Tinantia has two large blue/lavender petals plus one much smaller white petal, and its one-sided cyme/bract architecture differs. Commelina benghalensis: Tropical spiderwort/dayflower is an invasive Commelina with a true spathe and often reddish hairs on leaf sheaths. Tinantia lacks that Commelina spathe pocket and carries its flowers on an open terminal cyme."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Commelina erecta",
+      "Tradescantia spp.",
+      "Commelina benghalensis"
+    ],
+    "key_distinctions": "Commelina erecta has the unmistakable folded/fused green spathe pocket enclosing buds and fruit. Tinantia instead has an open leaflike bract subtending an exposed terminal cyme; its upper leaves also more strongly clasp the stem. Tradescantia spiderworts usually have three comparably showy petals. Tinantia has two large blue/lavender petals plus one much smaller white petal, and its one-sided cyme/bract architecture differs. Tropical spiderwort/dayflower is an invasive Commelina with a true spathe and often reddish hairs on leaf sheaths. Tinantia lacks that Commelina spathe pocket and carries its flowers on an open terminal cyme."
+  },
+  "tags": [
+    "Commelinaceae",
+    "Tinantia",
+    "False dayflower / widow's-tears",
+    "Central Texas",
+    "Dayflower comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b022",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 4,
+    "photo_files_present": 2
+  },
+  "photo_note": "Four exact-species gallery images: two existing external photos plus two physical diagnostic photographs, including Joey's filament macro. Bract/cyme architecture and stamen hairs covered; mature fruit/seed remain follow-up.",
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BartonCreekGreenbelt-27.jpg",
+      "role": "Local Central Texas flowering habit / open bract and terminal cyme",
+      "creator": "lonestarmike",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:BartonCreekGreenbelt-27.JPG",
+      "source_type": "Wikimedia Commons; Barton Creek Greenbelt, Austin, Texas",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tinantia%20anomala%20%28Anne%20Worner%29.jpg",
+      "role": "Flower closeup / false dayflower reproductive structure",
+      "creator": "Anne Worner",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tinantia_anomala_(Anne_Worner).jpg",
+      "original_source_page": "https://www.flickr.com/photos/28652129@N06/11657312984",
+      "source_type": "Flickr via Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-joey-bearded-filaments-macro.jpg",
+      "role": "Joey macro — purple-and-yellow beards on stamen filaments",
+      "caption": "The purple-and-yellow tufts are hairs on the filaments, not extra petals. Tinantia has six fertile stamens; five filaments are bearded, with the lower central filament smooth. Compare this image directly with Commelina erecta's smooth filament macro. The little white lower petal is also visible.",
+      "platform": "iNaturalist",
+      "observation_id": 202298891,
+      "photo_id": 357260447,
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/202298891",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/357260447/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes for strictly noncommercial educational GitHub Pages use under existing photo-specific CC BY-NC 4.0",
+      "verification": {
+        "taxon": "Tinantia anomala",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1024,
+          683
+        ],
+        "git_blob_sha": "3d7096a1ef67e421b9ddc7aba610160e0fb4d696",
+        "visually_checked_on": "2026-10-08",
+        "limits": "No scale; this photograph is used only for the visible structures identified in the caption."
+      },
+      "historical_public_reuse_flag": "no — recorded under prior private-use-only learner policy",
+      "current_photo_rights_verification": {
+        "checked_utc": "2026-10-20T17:10:20.875579+00:00",
+        "source": "https://www.inaturalist.org/photos/357260447",
+        "photo_id": 357260447,
+        "photo_license_code": "cc-by-nc",
+        "photo_attribution": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+        "condition": "Retain attribution and CC BY-NC; re-audit before any commercial website use; no rights waiver or license change",
+        "historical_reuse_record_preserved": true
+      }
+    },
+    {
+      "file": "images/04-open-bract-cyme.jpg",
+      "role": "Side view — exposed cyme above an open leaflike bract",
+      "caption": "Trace the stalk from the open flower past the buds to the broad green bract below the cluster. The bract spreads outward instead of enclosing the entire cluster in a fused Commelina-style pocket. The boatlike green coverings immediately around individual buds are sepals; do not confuse those with a spathe.",
+      "platform": "iNaturalist",
+      "observation_id": 215840218,
+      "photo_id": 381655280,
+      "creator": "River Wilder",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/215840218",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381655280/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "verification": {
+        "taxon": "Tinantia anomala",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1024,
+          806
+        ],
+        "git_blob_sha": "cbb98de14c2b687c1a43b5f467e428ecb3beb51b",
+        "visually_checked_on": "2026-10-08",
+        "limits": "No scale; this photograph is used only for the visible structures identified in the caption."
+      }
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "filled_at": "2026-10-05",
+    "note": "Four exact-species gallery images: two existing external photos plus two physical diagnostic photographs, including Joey's filament macro. Bract/cyme architecture and stamen hairs covered; mature fruit/seed remain follow-up.",
+    "polished_at": "2026-10-08"
+  },
+  "photo_research": {
+    "updated_at": "2026-10-08",
+    "latest_followup": "reports/dayflower-diagnostic-polish-001-2026-10-08.json",
+    "morphology_sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta",
+      "https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala",
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10212"
+    ],
+    "remaining_roles": [
+      "Mature capsule within persistent sepals",
+      "Mature seed"
+    ]
+  }
+}

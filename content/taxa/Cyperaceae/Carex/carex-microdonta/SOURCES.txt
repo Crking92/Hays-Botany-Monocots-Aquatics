@@ -1,0 +1,19 @@
+PHOTO FAST-FILL 048 — Carex microdonta
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact-species UT Plant Resources Center Travis County herbarium specimen.
+Source: https://w3.biosci.utexas.edu/prc/specimens/Cyperaceae1.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/20CarexMicxxx00343878.JPG
+Source attribution: UT Plant Resources Center / University of Texas Herbarium
+Individual photographer: not stated
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: Whole voucher / habit and inflorescence reference
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:37:03.298890+00:00
+Carex microdonta Torr.
+https://www.gbif.org/occurrence/6188146843
+ashleyrsteel | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Perigynium short beak and pistillate spikes, ideally close-up with scale
+No anatomy arrows; no scientific or native-range changes.

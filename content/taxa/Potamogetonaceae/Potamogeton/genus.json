@@ -1,0 +1,155 @@
+{
+  "rank": "genus",
+  "family": "Potamogetonaceae",
+  "name": "Potamogeton",
+  "common_group": "Pondweeds",
+  "project_scope": {
+    "canonical_species_ids": [
+      "potamogeton-illinoensis"
+    ],
+    "source_pool_species": [
+      "Potamogeton illinoensis",
+      "Potamogeton nodosus",
+      "Potamogeton pusillus"
+    ],
+    "installer_dependency": "P. nodosus and P. pusillus are source-pool comparison concepts, not canonical species in the checked manifest; Approved Taxa Installer handles any later installation.",
+    "range_note": "No native-range status changed."
+  },
+  "look_here_first": "Underwater, inspect a leaf AXIL for its membranous STIPULE, then distinguish floating from submerged leaves and compare submerged blade width, petiole length and venation. Seek an emergent flower spike and mature fruit before assigning a difficult species.",
+  "shared_genus_traits": [
+    "Rooted freshwater aquatics with flexible submerged stems and alternate leaves; leaf form can change dramatically with water depth.",
+    "Membranous axillary stipules and small flowers in pedunculate spikes; small clustered one-seeded fruits develop after flowering."
+  ],
+  "genus_diagnostics": {
+    "shared_structure_examples": [
+      {
+        "term": "stipule",
+        "plain": "Thin, sometimes translucent sheath or flap where leaf meets stem; often more informative than overall leaf color.",
+        "photo_role": "submerged node macro with ruler and stipule exposed",
+        "status": "needs_photo"
+      },
+      {
+        "term": "submerged leaf venation",
+        "plain": "Trace lengthwise veins and fine cross-veins; count only with a clear, backlit blade.",
+        "photo_role": "backlit submerged blade both surfaces with scale",
+        "status": "needs_photo"
+      },
+      {
+        "term": "floating versus submerged blade",
+        "plain": "A single plant may have different leaf types above and below water.",
+        "photo_role": "whole attached shoot showing both leaf zones",
+        "status": "needs_photo"
+      },
+      {
+        "term": "pedunculate spike and fruit",
+        "plain": "Tiny flowers form a narrow spike on a stalk; fruitlets are important for confirmation.",
+        "photo_role": "flowering spike and mature fruit macro with scale",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Leaf type",
+      "illinoensis": "Typically broad submerged blades; floating blades may occur",
+      "nodosus": "Broad floating leaves commonly prominent; submerged leaves may be reduced to long petioles",
+      "pusillus": "Narrow linear submerged blades; floating blades generally absent",
+      "how_to_check": "Photograph connected shoots from water surface to base; leaf plasticity requires multiple nodes."
+    },
+    {
+      "character": "Submerged blade and petiole",
+      "illinoensis": "Broad, conspicuously veined blade, generally petiolate",
+      "nodosus": "Often long, slender submerged petioles with reduced or absent submerged blades",
+      "pusillus": "Very narrow linear blades, typically sessile",
+      "how_to_check": "Measure mature submerged blades and stalks with ruler; record water conditions."
+    },
+    {
+      "character": "Stipules and venation",
+      "illinoensis": "Conspicuous stipule; strong parallel and cross venation",
+      "nodosus": "Stipule present; floating-leaf petiole and venation useful",
+      "pusillus": "Stipule present; narrow leaf vein number and stipule form require close view",
+      "how_to_check": "Macro of stipule and backlit leaf; species-level measurements require authoritative key confirmation."
+    },
+    {
+      "character": "Reproductive confirmation",
+      "illinoensis": "Pedunculate many-flowered spike; fruitlets",
+      "nodosus": "Pedunculate flower spike; mature fruitlets",
+      "pusillus": "Shorter narrow-leaved plant with small spikes and fruitlets",
+      "how_to_check": "Matched spike and mature fruit images; do not decide from leaf width alone."
+    }
+  ],
+  "study_strategy": {
+    "look_here_first": [
+      "Check the leaf axil for a stipule, ruling out superficially similar aquatics.",
+      "Record submerged and floating leaf forms on one attached shoot.",
+      "Compare blade width, petiole length, stipule shape and vein count with scale.",
+      "Confirm using spike, mature fruit and a regional key."
+    ],
+    "overlap_cautions": [
+      "Submerged leaves may be reduced or absent on P. nodosus; one fragment may mislead.",
+      "P. illinoensis leaf width varies with environment; broad leaves alone are not decisive.",
+      "P. pusillus belongs to a difficult narrow-leaved complex; final identification requires mature structures and taxonomic review.",
+      "Ruppia and other narrow-leaved aquatic genera can resemble narrow pondweeds; check stipules and reproductive morphology."
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Broad pondweed versus floating-leaf pondweed",
+      "taxon_ids": [
+        "potamogeton-illinoensis",
+        "potamogeton-nodosus"
+      ],
+      "look_here_first": "Compare an attached submerged stem for broad blades versus long petioles/reduced submerged blades.",
+      "photo_requirements": [
+        "matched submerged shoot and leaf axil",
+        "floating leaf and submerged petiole pair",
+        "mature spike/fruit views"
+      ]
+    },
+    {
+      "title": "Narrow pondweed versus broad-leaved species",
+      "taxon_ids": [
+        "potamogeton-pusillus",
+        "potamogeton-illinoensis"
+      ],
+      "look_here_first": "Start with narrow linear versus broad veined submerged leaves, then verify stipule and fruit.",
+      "photo_requirements": [
+        "same-scale backlit submerged blades",
+        "stipule close-up with scale",
+        "fruitlet macro"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "needs_diagnostic_photos",
+    "existing_media": [
+      {
+        "taxon_id": "potamogeton-illinoensis",
+        "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+        "source_record_id": "jvid-Hr3nBxvgCv4-009",
+        "file": "images/potamogeton-illinoensis_submerged-habit-source-label_00-19-04.1.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "status": "external_reference",
+        "observed_anatomy": "source-labeled submerged habit only; no independently verified stipule, venation or fruit detail",
+        "caption": "Study-only aquatic habit reference; not a publicly cleared diagnostic macro.",
+        "annotation": "annotation_pending"
+      }
+    ],
+    "photo_gaps": [
+      "Rights-cleared exact-species P. illinoensis stipule/node macro",
+      "Matched submerged and floating shoot of P. nodosus",
+      "Exact-species P. pusillus leaf/stipule and mature fruit macro",
+      "Matched backlit leaf and mature fruit images with scale for all three"
+    ]
+  },
+  "diagnostic_review_handoffs": [
+    "Confirm P. pusillus taxon concept and authoritative species-level vein/stipule/fruit measurements before adding numeric thresholds.",
+    "Verify P. nodosus submerged leaf reduction and overlap in Texas regional flora; do not assert an exclusive character."
+  ],
+  "curation_status": {
+    "status": "provisional_genus_framework",
+    "photo_acquisition": "Diagnostic Photo Polish",
+    "canonical_species_installation": "separate lane"
+  }
+}

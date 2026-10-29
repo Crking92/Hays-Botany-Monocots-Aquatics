@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Nemastylis%20geminiflora
+Source research-grade observation: https://www.inaturalist.org/observations/156869130
+Photo: https://www.inaturalist.org/photos/271294465
+Attribution: (c) Robert Langellier, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Nemastylis geminiflora
+Creator: Cleveland Powell; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188117644
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/nemastylis-geminiflora/gbif-26aff547edcdcd.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

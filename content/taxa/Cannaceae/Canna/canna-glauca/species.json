@@ -1,0 +1,128 @@
+{
+  "id": "canna-glauca",
+  "entry_type": "provisional_species",
+  "family": "Cannaceae",
+  "genus": "Canna",
+  "species": "glauca",
+  "scientific_name": "Canna glauca",
+  "authority": "L.",
+  "common_name": "Water canna / Louisiana canna",
+  "look_here_first": "Emergent wetland canna with glaucous narrow leaves and yellow flowers whose showy petal-like parts are mostly staminodes.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Hays.",
+    "range_guardrail": "Accepted/native in Texas; only Hays locked in project zone."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous emergent wetland herb",
+      "glaucous narrow leaves",
+      "yellow flowers",
+      "petaloid staminodes",
+      "single fertile stamen",
+      "inferior warty ovary/capsule"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_status": "private_study_gallery_installed_diagnostic_gaps_remain",
+    "photo_updated_at": "2026-10-04"
+  },
+  "images": [
+    {
+      "file": "images/canna-glauca_habit-source-label_00-21-05.9.jpg",
+      "caption": "Emergent canna habit beside the San Marcos River. Look at the upright shoots and long broad leaves.",
+      "label": "Emergent canna habit beside the San Marcos River. Look at the upright shoots and long broad leaves.",
+      "role": "Emergent canna habit beside the San Marcos River. Look at the upright shoots and long broad leaves.",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-011",
+      "timestamp": "00:21:05.9",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; any on-image text is from the source video.",
+      "diagnostic_roles": "emergent wetland habit; source-labeled taxon reference"
+    },
+    {
+      "file": "images/canna-glauca_staminodes_00-21-20.9.jpg",
+      "caption": "Canna flower close-up. The broad petal-like structures are staminodes (sterile stamens); the explanatory label is original to the video.",
+      "label": "Canna flower close-up. The broad petal-like structures are staminodes (sterile stamens); the explanatory label is original to the video.",
+      "role": "Canna flower close-up. The broad petal-like structures are staminodes (sterile stamens); the explanatory label is original to the video.",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-012",
+      "timestamp": "00:21:20.9",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; any on-image text is from the source video.",
+      "diagnostic_roles": "petaloid staminodes; sterile stamen teaching"
+    },
+    {
+      "file": "images/canna-glauca_single-fertile-stamen_00-21-30.9.jpg",
+      "caption": "Opened canna flower showing the narrow fertile-stamen region among the broad petaloid structures.",
+      "label": "Opened canna flower showing the narrow fertile-stamen region among the broad petaloid structures.",
+      "role": "Opened canna flower showing the narrow fertile-stamen region among the broad petaloid structures.",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-013",
+      "timestamp": "00:21:30.9",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; any on-image text is from the source video.",
+      "diagnostic_roles": "single fertile stamen among petaloid structures"
+    },
+    {
+      "file": "images/public-inat-canna-glauca-693989391.jpg",
+      "role": "Provisional exact-species public first view of golden canna. Wetland habit, alternate broad glaucous leaves and floral staminodes require specific image confirmation before anatomy labels.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Canna glauca. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) Rocío Esmeralda Pose, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/693989391",
+      "source_observation_page": "https://www.inaturalist.org/observations/379396098",
+      "source_photo_id": "693989391",
+      "source_observation_id": "379396098",
+      "source_taxon": "Canna glauca",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/693989391/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "c3fc2125be44f9ab3842ebf601a8d1d7eab0f7df46f39d868bd23156cd05689f",
+      "published_jpeg_sha256": "88f758e3d53a59a1addd4530200e63f4334d6f0c2ed615d0a63f514d511b84bb",
+      "published_jpeg_dimensions": [
+        449,
+        599
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "photo_note": "Saved San Marcos River video frames installed locally with source credits for the user's private learner. Remaining diagnostic views are listed below.",
+  "diagnostic_image_needs": [
+    "Sharp ovary/capsule close-up; saved fruit frame rejected as out of focus."
+  ]
+}

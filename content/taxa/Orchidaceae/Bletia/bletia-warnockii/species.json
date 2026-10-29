@@ -1,0 +1,36 @@
+{
+  "id": "bletia-warnockii",
+  "family": "Orchidaceae",
+  "genus": "Bletia",
+  "species": "warnockii",
+  "scientific_name": "Bletia warnockii",
+  "common_name": "Warnock's orchid",
+  "look_here_first": "Inspect the orchid lip and column, and compare floral bracts and leaf arrangement.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Bletia%20warnockii",
+  "images": [
+    {
+      "file": "images/inat-144826596.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Aidan Campos, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/144826596",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

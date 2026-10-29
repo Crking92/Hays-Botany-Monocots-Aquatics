@@ -1,0 +1,162 @@
+{
+  "entry_type": "species",
+  "family": "Cyperaceae",
+  "genus": "Cyperus",
+  "id": "cyperus-rotundus",
+  "species": "rotundus",
+  "scientific_name": "Cyperus rotundus",
+  "authority": "L.",
+  "common_name": "Purple nutsedge",
+  "look_here_first": "LOOK FIRST underground: tough/wiry stolons and usually small (~3–8 mm) tubers distinguish purple nutsedge in combination with persistent, often purplish/red-brown ~2.6–3.4 mm scales. Don't rely on reddish seedhead color by itself.",
+  "source_pool": {
+    "review": "reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md",
+    "admission": "APPROVED"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "target_zone_status": "NON_NATIVE_COMPARISON",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "include_in_native_only_metrics": false,
+    "verified_target_counties": [],
+    "range_basis": "POWO lists Cyperus rotundus as introduced in Texas; retain in learner for weed lookalike recognition only, exclude from native-only calculations."
+  },
+  "morphology_keys": {
+    "habit": "Introduced perennial sedge, frequently colonial in cultivated or disturbed ground.",
+    "underground": "Hard, wiry stolons bearing tubers commonly 3–8 mm; compare with yellow nutsedge softer stolons and usually larger tubers.",
+    "inflorescence": "Terminal umbel-like rays with flattened spikelets; scales often red-purple-brown but variable.",
+    "scales": "Persistent mature floral scales often ~2.6–3.4 mm with reddish/purple tint; ranges overlap other taxa.",
+    "fruit": "One-seeded achene; macro of scale and fruit needed for strong ID."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cyperus esculentus",
+      "Cyperus strigosus"
+    ],
+    "key_distinctions": "Purple versus yellow nutsedge: examine an intact underground system before deciding. C. rotundus often produces chains of smaller tubers connected by wiry rhizomes; C. esculentus more often has single terminal tubers. Both vary, so combine this with mature spikelet scales and other floral characters; reddish versus yellowish color alone is unreliable. C. strigosus is another sedge look-alike, often with different spikelet and rhizome/tuber characters; a triangular stem only confirms a sedge, not the species.",
+    "cautions": "Photo source geography is not evidence of three-county target zone native range; colors and many measurements overlap, require mature specimens."
+  },
+  "diagnostic_image_needs": [
+    "Entire intact stolon and tuber chain side by side with C. esculentus",
+    "Mature 2.6–3.4 mm floral scale with ruler",
+    "Achene and style-branch macro",
+    "Same-scale paired purple/yellow nutsedge rhizome architecture with intact tubers and labels; arrow_pending until pixels verified"
+  ],
+  "images": [
+    {
+      "file": "images/01-purple-nutsedge-inflorescence.jpg",
+      "role": "flowering_inflorescence",
+      "creator": "Mike",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_inflor.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "White-background close view of reddish C. rotundus flower clusters radiating on rays; flowers/scales are not individually measured.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    },
+    {
+      "file": "images/02-purple-nutsedge-tuber.jpg",
+      "role": "tuber_attached_to_stolon",
+      "creator": "Rickjpelleg",
+      "license": "CC BY 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_tuber01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Dark purple nutsedge tuber connected to a thin stolon/runner and shoot. Shows connection, NOT hard or wiry texture measurement.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    },
+    {
+      "file": "images/03-purple-nutsedge-spikelet.jpg",
+      "role": "reddish_spikelet_cluster",
+      "creator": "Macleay Grass Man",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_spikelet_DC2.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Several reddish clusters of narrow spikelets. This is a flowering/inflorescence view, not a true measured single-spikelet, floral-scale or achene macro.",
+      "photo_verification": "Physically installed JPEG visually inspected 2026-10-13; no unverified arrows or microscopic character assertions."
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_identity_checked": true,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_status": "3 photographed views physically installed and inspected; a true same-scale single floral scale and underground texture comparison remain missing."
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-14",
+    "note": "3 photographed views physically installed and inspected; a true same-scale single floral scale and underground texture comparison remain missing."
+  },
+  "photo_note": "3 photographed views physically installed and inspected; a true same-scale single floral scale and underground texture comparison remain missing.",
+  "field_id_lesson": {
+    "status": "PROVISIONAL — DIAGNOSTIC PHOTO GAPS",
+    "look_here_first": "Start with an intact underground connection: purple nutsedge often has small dark tubers joined along tough, slender rhizomes, sometimes in chains. Above ground, check the triangular flowering stalk and flattened, often reddish-brown spikelets; color alone does not separate it from yellow nutsedge.",
+    "crew_field_sequence": [
+      {
+        "step": 1,
+        "structure": "Underground rhizome and tuber",
+        "field_check": "Where already exposed, photograph the shoot, connecting slender rhizome, and several attached tubers in one frame with a ruler. Record whether tubers occur in chains; a single detached tuber is not enough."
+      },
+      {
+        "step": 2,
+        "structure": "Flowering stalk and spikelets",
+        "field_check": "Photograph the full sedge crown, then the narrow flattened spikelets. A triangular stem indicates a sedge, not which nutsedge species."
+      },
+      {
+        "step": 3,
+        "structure": "Individual floral scale",
+        "field_check": "On a mature spikelet, isolate a scale with a millimeter ruler. Existing reference describes C. rotundus scales around 2.6–3.4 mm, but measurements overlap yellow nutsedge."
+      },
+      {
+        "step": 4,
+        "structure": "Mature achene and style",
+        "field_check": "Use a macro or microscope with scale for the fruit and style branches. Do not infer these details from the existing spikelet photographs."
+      }
+    ],
+    "local_look_alikes": [
+      {
+        "taxon": "Cyperus esculentus",
+        "plain_language": "Yellow nutsedge",
+        "separation": "Usually produces individual terminal tubers on softer rhizomes rather than multiple small tubers in chains; often straw-colored spikelets. Both characters vary, so check intact underground growth and measured mature scales together."
+      },
+      {
+        "taxon": "Cyperus strigosus",
+        "plain_language": "Straw-colored flatsedge",
+        "separation": "Also has triangular sedge culms and clustered spikelets. Do not call it purple nutsedge without showing the distinctive tuber-bearing underground system and mature floral structures."
+      }
+    ],
+    "existing_photo_roles": [
+      {
+        "file": "images/01-purple-nutsedge-inflorescence.jpg",
+        "teaches": "Arrangement of flowering rays and clusters",
+        "cannot_confirm": "Individual scale size or underground tuber chain"
+      },
+      {
+        "file": "images/02-purple-nutsedge-tuber.jpg",
+        "teaches": "An attached tuber and connecting runner",
+        "cannot_confirm": "Tuber chains, tissue texture, or same-scale yellow nutsedge comparison"
+      },
+      {
+        "file": "images/03-purple-nutsedge-spikelet.jpg",
+        "teaches": "Narrow reddish spikelet clusters",
+        "cannot_confirm": "Measured floral scale, mature achene, or style branches"
+      }
+    ],
+    "handoff": {
+      "NEEDS_DIAGNOSTIC_PHOTO": [
+        "Intact purple nutsedge tuber chain and yellow nutsedge terminal tuber, both with scale",
+        "Detached mature floral scale against millimeter reference",
+        "Mature achene and style-branch macro"
+      ],
+      "NEEDS_PUBLIC_PHOTO": [],
+      "annotation_pending": "No new arrows. Verify source pixels and exact visible structure before any anatomical arrow."
+    },
+    "completion_note": "This is a teaching-text improvement only. Existing three photo records and provisional curation status remain unchanged; no new image or arrow verification."
+  }
+}

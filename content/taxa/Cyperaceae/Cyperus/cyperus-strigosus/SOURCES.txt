@@ -1,0 +1,5 @@
+Cyperus strigosus L., source-pool approved (reference review reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md). Texas native at state level under reviewed FNA/POWO concept. BONAP/NAPA target-zone three-county native proof not yet independently verified.
+FNA reference https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=109010
+C. stenolepis is a synonym under the selected concept; do not split an extra canonical card.
+Licensed Commons media: https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_(straw-colored_flatsedge),_Carver,_MA_(32020808972).jpg — Doug McGrady CC BY 2.0; https://commons.wikimedia.org/wiki/File:Cyperus_strigosus_15-p.bot-cyper.strigo-1.jpg — Gilles Ayotte / Université Laval CC BY-SA 4.0
+Morphology photography still provisional. Do not count external images as installed until downloader success.

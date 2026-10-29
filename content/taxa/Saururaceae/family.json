@@ -1,0 +1,163 @@
+{
+  "rank": "family",
+  "name": "Saururaceae",
+  "common_name": "Lizard's-tail family",
+  "lineage_context": {
+    "order": "Piperales",
+    "batch": "Magnoliid comparison",
+    "close_project_families": [
+      "Lauraceae",
+      "Magnoliaceae",
+      "Piperaceae"
+    ],
+    "teaching_goal": "Teach Saururus cernuus as a rhizomatous wetland magnoliid with alternate leaves and petiole-adnate stipules, but no floral perianth: tiny exposed flowers are packed into a long spike-like raceme and mature into a schizocarp."
+  },
+  "project_scope": {
+    "selection_mode": "Saururus cernuus one-species family module",
+    "note": "Saururus cernuus is accepted by current Kew and its native range includes Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with habitat and the inflorescence. Saururaceae project plants are aromatic rhizomatous wetland herbs. Saururus carries a long spike-like raceme of many tiny naked flowers—there are no sepals or petals.",
+    "vegetative": "Perennial rhizomatous wetland herb. Leaves alternate, simple and entire. Stipules are present and adnate to the petiole, forming a sheath.",
+    "reproductive": "Flowers bisexual and perianthless, each subtended by a small bract. In Saururus, stamens are usually 6–8 and carpels are distinct or joined only at the base; ovary is superior.",
+    "fruit": "Schizocarp breaking into usually 3–4 indehiscent one-seeded mericarps.",
+    "field_tip": "Wet rhizomatous herb + stipular petiole sheath + long lizard-tail raceme of tiny flowers with no petals/sepals = Saururus/Saururaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_024",
+    "teaching_order": "wetland habit → petiole/stipule sheath → drooping raceme → naked flower macro → separate carpels/styles → schizocarp → Piperaceae comparison",
+    "intro": "Saururus looks floral from a distance only because hundreds of tiny naked flowers are packed together. Under magnification, each flower has stamens and carpels but no showy perianth at all.",
+    "steps": [
+      {
+        "title": "1 · Start with the lizard-tail raceme",
+        "photo_role": "whole inflorescence",
+        "look_for": "A long narrow white spike-like raceme, often arching or drooping toward the tip.",
+        "why_it_matters": "This gives the plant its common name and the fastest whole-plant cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the stipule sheath",
+        "photo_role": "petiole/node macro",
+        "look_for": "Membranous stipule tissue adnate to the petiole and wrapping the stem/node region.",
+        "why_it_matters": "This is a strong vegetative family clue and contrasts with exstipulate Lauraceae.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Prove the flowers are naked",
+        "photo_role": "single-flower macro",
+        "look_for": "Stamens and pistils exposed directly around the axis with no sepals or petals.",
+        "why_it_matters": "Perianth absence is one of the most memorable Saururaceae characters.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Count the reproductive parts",
+        "photo_role": "flower anatomy",
+        "look_for": "Usually 6–8 stamens and 3–4 carpels/styles, with the carpels free or united only near the base.",
+        "why_it_matters": "Confirms Saururus architecture beyond the raceme silhouette.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "5 · Follow the flower into a schizocarp",
+        "photo_role": "mature infructescence macro",
+        "look_for": "Fruit splitting structurally into several indehiscent one-seeded mericarps rather than forming a fleshy fruit.",
+        "why_it_matters": "Separates this wetland magnoliid sharply from Lauraceae and Magnoliaceae fruit plans.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Compare with Piperaceae",
+        "photo_role": "side-by-side spike macro",
+        "look_for": "Both families can have tiny perianthless flowers in spikes; Saururus adds petiolate leaves with stipules and the characteristic long lax raceme/schizocarp architecture.",
+        "why_it_matters": "Keeps the closest Piperales confuser in the lesson.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Saururaceae vs Lauraceae",
+        "rule": "Saururaceae is a rhizomatous wetland herb with stipules and perianthless flowers in a raceme; Lauraceae is woody, exstipulate, and has tiny but definite 3-merous tepals plus a one-seeded fleshy fruit."
+      },
+      {
+        "title": "Saururaceae vs Magnoliaceae",
+        "rule": "Saururaceae reduces each flower to exposed stamens/carpels with no perianth, while Magnoliaceae has exceptionally large flowers with numerous tepals, stamens and pistils."
+      },
+      {
+        "title": "Saururaceae vs Piperaceae",
+        "rule": "Both are Piperales and can have tiny perianthless spicate flowers. Project Saururus has distinct petiolate leaves with stipules and a long loose spike-like raceme, then schizocarpic fruit."
+      }
+    ],
+    "caveat": "Do not confuse the whole raceme with a single flower. The white 'tail' is an inflorescence made of many tiny individual perianthless flowers."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Saururus",
+        "taxa_count": 1,
+        "fast_cue": "rhizomatous wetland herb + petiolate stipulate leaves + long perianthless flower raceme + schizocarp",
+        "role": "lizard's-tail door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Saururus cernuus"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Saururus cernuus",
+      "current_name": "Saururus cernuus",
+      "note": "Accepted by current Kew; native range extends from eastern Canada through the eastern U.S. into Texas and Mexico."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "perianthless Saururus flower",
+      "annotation_goal": "label stamens, carpels, bract and explicitly show no sepals/petals"
+    },
+    {
+      "priority": 1,
+      "structure": "lizard-tail raceme",
+      "annotation_goal": "label inflorescence axis versus individual flowers"
+    },
+    {
+      "priority": 1,
+      "structure": "stipule/petiole sheath",
+      "annotation_goal": "label stipule fused/adnate to petiole"
+    },
+    {
+      "priority": 1,
+      "structure": "schizocarp/mericarps",
+      "annotation_goal": "show fruit units and one-seed-per-mericarps"
+    },
+    {
+      "priority": 2,
+      "structure": "Saururaceae vs Piperaceae spike",
+      "annotation_goal": "same-scale side-by-side inflorescence comparison"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Saururaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10799"
+    },
+    {
+      "source": "POWO — Saururaceae general information",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126697-1/general-information"
+    },
+    {
+      "source": "POWO — Saururus cernuus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284624-2"
+    },
+    {
+      "source": "Flora of China — Saururaceae/Saururus morphology",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10799"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing was checked before external visual planning; no direct Saururaceae target frame is currently indexed. Do not force unrelated Joey media.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-024",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_stipule_perianthless_raceme_schizocarp_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

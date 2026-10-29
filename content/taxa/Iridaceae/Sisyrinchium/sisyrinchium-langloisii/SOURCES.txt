@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/441133-1
+Source research-grade observation: https://www.inaturalist.org/observations/78230351
+Photo: https://www.inaturalist.org/photos/128001974
+Attribution: (c) karenandphillip, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Sisyrinchium langloisii
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/2239003140
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/sisyrinchium-langloisii/gbif-d7d48f9fa526ae.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Sisyrinchium langloisii
+Creator: susan mathis; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109902126
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/sisyrinchium-langloisii/plantnet-via-gbif-c1005e8d9687b8.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

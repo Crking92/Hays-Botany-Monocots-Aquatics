@@ -1,0 +1,9 @@
+Master Plant Pool preflight source rows: 1178.
+Name source: https://powo.science.kew.org/results?q=Tillandsia%20recurvata
+Individual photo from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Tillandsia_recurvata.jpg
+Image direct download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Tillandsia%20recurvata.jpg
+Creator: Kohlnf
+License: CC BY-SA 3.0
+Role: Provisional epiphytic round-clump habit; flowers and leaf scales not diagnostic in this image.
+Explicit caution: Epiphyte is not a parasitic plant. Growing on a tree branch does not by itself show the tree is unhealthy.
+No BONAP county nativity decision. Provisional visual species identity; exact diagnostic organ verification pending.

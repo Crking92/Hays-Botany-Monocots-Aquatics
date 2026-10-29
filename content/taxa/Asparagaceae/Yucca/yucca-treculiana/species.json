@@ -1,0 +1,125 @@
+{
+  "id": "yucca-treculiana",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "species": "treculiana",
+  "scientific_name": "Yucca treculiana",
+  "authority": "Carrière",
+  "common_name": "Trecul's Yucca / Spanish Dagger",
+  "synonyms": [
+    "Yucca treculeana auct./orthographic usage",
+    "Yucca australis (Engelm.) Trel.",
+    "Yucca treculiana var. succulenta McKelvey",
+    "Yucca undulata K.Koch"
+  ],
+  "taxonomic_note": "Canonical spelling corrected to Yucca treculiana Carrière following the current Kew/POWO 2026 backbone. Many Texas floras, databases, and the source pool use Yucca treculeana. Current Kew separately accepts Y. torreyi; older FNA lumped Y. torreyi into Y. treculeana.",
+  "field_group": "Arborescent fleshy-fruited yucca",
+  "look_here_first": "This is the other large tree yucca in the batch. Look for a branched or few-trunked crown of broad rigid leaves that are traditionally mostly without marginal threads and not rolled inward at the tip, then confirm with the stouter ovary and fleshy pendant fruit.",
+  "project_tracker_diagnostic": "arborescent/tree-like, often several meters tall and sometimes branched; broad thick rigid leaves forming terminal crowns; traditional Texas key: leaf margins mostly without marginal threads and leaf tips not strongly inrolled; traditional key: stout ovary about 7–12 mm diameter at flowering; dense cream to greenish-cream flower panicle; large pendant fleshy succulent indehiscent fruit",
+  "county_occurrences_target_zone": [
+    "Bexar",
+    "Travis",
+    "Burnet"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Bexar — a 2025 TCEQ Edwards Aquifer site assessment in Bexar County records Yucca treculeana on the project site; this is the widespread older spelling of the currently accepted Y. treculiana. Travis — Balcones Canyonlands Preserve plant list for Travis County includes Trecul yucca under Yucca treculeana. Burnet — field documentation from Double Eagle Ranch in Burnet County records several wild communities of Yucca treculeana/treculiana."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "arborescent/tree-like, often several meters tall and sometimes branched",
+      "broad thick rigid leaves forming terminal crowns",
+      "traditional Texas key: leaf margins mostly without marginal threads and leaf tips not strongly inrolled",
+      "traditional key: stout ovary about 7–12 mm diameter at flowering",
+      "dense cream to greenish-cream flower panicle",
+      "large pendant fleshy succulent indehiscent fruit"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Yucca torreyi",
+      "Yucca aloifolia"
+    ],
+    "key_distinctions": "Yucca torreyi: Traditional Texas keys separate Y. treculiana by mostly non-filiferous, non-inrolled leaf tips and a stouter ovary, versus Y. torreyi with marginal threads, inrolled apical leaf margins, and a more slender ovary. Use multiple characters because older FNA lumped the taxa and historical hybridization has been reported. Yucca aloifolia: Both are tree yuccas with dagger leaves, but Y. treculiana belongs to the Texas/Mexico fleshy-fruited complex and should be checked by fruit, leaf margin architecture, flower morphology, and geographic range rather than generic 'Spanish dagger' appearance."
+  },
+  "tags": [
+    "Asparagaceae",
+    "Yucca",
+    "Trecul's Yucca / Spanish Dagger",
+    "Central Texas",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b004",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Exact reusable source image metadata locked. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/01-wild-habitat.jpg",
+      "role": "Wild tree yucca habit in Texas grassland",
+      "creator": "William L. Farr",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spanish_Dagger_(Yucca_treculeana),_Laguna_Atascosa_National_Wildlife_Refuge,_Cameron_County,_Texas,_USA_(12_April_2016).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-258891187.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/258891187",
+      "observation_url": "https://www.inaturalist.org/observations/150172397",
+      "observation_id": "150172397",
+      "photo_id": "258891187",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/258891187/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-630926281.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/630926281",
+      "observation_url": "https://www.inaturalist.org/observations/346146076",
+      "observation_id": "346146076",
+      "photo_id": "630926281",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/630926281/large.jpg",
+      "image_dimensions": [
+        577,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nymphaea-odorata",
+  "family": "Nymphaeaceae",
+  "genus": "Nymphaea",
+  "species": "odorata",
+  "scientific_name": "Nymphaea odorata",
+  "common_name": "American white water-lily",
+  "look_here_first": "Look for rounded floating pads with a deep notch and solitary white many-petaled fragrant flowers; examine leaf venation and flower parts against similar aquatic species.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Nymphaea%20odorata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Zoo plant photography does not support a local county nativity or wild provenance conclusion.",
+  "images": [
+    {
+      "file": "images/commons-nymphaea-odorata.jpg",
+      "role": "Provisional water-lily white flower and floating pad recognition view",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nymphaea_odorata_11zz.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, license URL and ShareAlike terms apply to derivative reuse"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

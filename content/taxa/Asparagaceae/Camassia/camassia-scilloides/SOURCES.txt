@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Camassia%20scilloides
+Source research-grade observation: https://www.inaturalist.org/observations/118603402
+Photo: https://www.inaturalist.org/photos/200408346
+Attribution: (c) Patrick Coin, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Camassia scilloides
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188426715
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/camassia-scilloides/gbif-86355ce56b1941.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 043 2026-10-17T00:23:39.068046+00:00
+Camassia scilloides
+Creator: CherieFairy; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109865506
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/camassia-scilloides/plantnet-via-gbif-66246676225de9.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

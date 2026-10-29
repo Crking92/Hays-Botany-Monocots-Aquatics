@@ -1,0 +1,127 @@
+{
+  "rank": "family",
+  "name": "Melanthiaceae",
+  "common_name": "Bunchflower family",
+  "project_scope": {
+    "selection_mode": "Video-fed Texas Schoenocaulon-first reference module",
+    "note": "Built from exact Schoenocaulon texanum video frames showing whole-plant habit, basal foliage, the flowering spike and individual flowers/anthers. The species remains taxonomy/range-pending and is not a canonical target-zone anchor yet.",
+    "reference_taxon": "Schoenocaulon texanum",
+    "reference_status": "taxonomy/range review required before canonical install",
+    "source_handoff": "research-drafts/reconciliation/video-first-visual-intake-2026-10-03.json"
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with monocot habit and inflorescence architecture: many members are perennial herbs with basal or cauline leaves and a terminal spike or raceme of small three-merous flowers.",
+    "flower": "Flowers commonly have 6 tepals and 6 stamens, although family diversity makes that pattern supportive rather than diagnostic by itself.",
+    "ovary": "Superior in the typical family pattern.",
+    "fruit": "Commonly a capsule.",
+    "underground": "Perennial organs may include rhizomes, bulbs or corm-like structures depending on the lineage.",
+    "field_tip": "Six tepals is a weak character shared across many monocot families. Pair the flower with inflorescence architecture, ovary position, fruit and genus-level characters."
+  },
+  "visual_lesson": {
+    "status": "video_reference_first_pass",
+    "teaching_order": "whole plant → inflorescence architecture → one flower → ovary/fruit confirmation",
+    "intro": "Melanthiaceae is a good reminder that some families are learned as a combination of characters rather than one magic field mark.",
+    "steps": [
+      {
+        "title": "1 · Read the whole architecture",
+        "photo_role": "Schoenocaulon texanum whole-plant habit / basal leaves / flowering spike",
+        "look_for": "Basal foliage feeding into a conspicuous upright flowering spike.",
+        "why_it_matters": "The growth form is more useful than trying to identify a tiny six-part flower in isolation.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "2 · Zoom into the spike",
+        "photo_role": "flowering spike / individual flowers",
+        "look_for": "Numerous small flowers arranged along the elongated inflorescence.",
+        "why_it_matters": "This connects whole-plant architecture to the individual floral units.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "3 · Count the floral parts",
+        "photo_role": "individual flower / tepals / anthers",
+        "look_for": "A three-merous monocot pattern, commonly expressed as 6 tepals and 6 stamens.",
+        "why_it_matters": "It confirms the monocot floral framework but should not be used alone to name the family.",
+        "status": "video_reference_ready_range_pending"
+      },
+      {
+        "title": "4 · Confirm the reproductive end",
+        "photo_role": "superior ovary / capsule",
+        "look_for": "Locate the ovary above the attachment point of the other floral parts and, later, a capsule.",
+        "why_it_matters": "Ovary and fruit architecture provide the stronger tie-breakers once the six-tepal pattern has narrowed the field.",
+        "status": "macro_or_fruit_reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Melanthiaceae vs Asparagaceae",
+        "rule": "Both can have six-tepaled monocot flowers, so do not separate them by tepal count alone. Use inflorescence, ovary/fruit characters and genus-level morphology."
+      },
+      {
+        "title": "Why older books can be confusing",
+        "rule": "Several lineages now treated in Melanthiaceae were historically placed broadly in Liliaceae or allied families, so older names and family placements may differ."
+      }
+    ],
+    "caveat": "This is intentionally a combination-character lesson. Schoenocaulon texanum supplies strong video architecture, but the family should not be reduced to a single Schoenocaulon gestalt.",
+    "anatomy_examples": [
+      {
+        "species": "Schoenocaulon texanum",
+        "part": "inflorescence and flower attachment",
+        "plain_label": "Tiny flowers packed along a stalk, each on a very short stalk",
+        "botanical_label": "condensed raceme; pedicel; floral bract",
+        "look_for": "Follow the central inflorescence axis to a single flower and identify its short pedicel and bract; do not label a true spike without confirming flowers are sessile.",
+        "photo_role": "exact-species whole inflorescence plus millimeter-scale flower-attachment macro",
+        "caption": "Texas feathershank: inspect the dense raceme, then the individual short flower stalk and bract.",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "photo_verification": "No exact image ID, creator, individual license, public-web permission or arrow location verified.",
+        "source": "https://w3.biosci.utexas.edu/prc/K12/pages/Schoenocaulon%20texanum.html"
+      },
+      {
+        "species": "Schoenocaulon texanum",
+        "part": "flower reproductive structures",
+        "plain_label": "Six petal-like segments and pollen-bearing stalks; some upper flowers have a reduced seed-producing part",
+        "botanical_label": "tepals; stamens; pistil; functionally staminate distal flower",
+        "look_for": "Use matched flower-face and side/dissected views. Count only visible organs. A reduced distal pistil is not evidence that all flowers lack an ovary; do not assert ovary chamber number without a section.",
+        "photo_role": "exact-species flower face and side/dissection macro with clear sex-expression context",
+        "caption": "Examine tepals and stamens, then verify whether the photographed flower has a developed or reduced pistil.",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "photo_verification": "No exact image ID, creator, individual license, public-web permission or arrow location verified.",
+        "source": "https://w3.biosci.utexas.edu/prc/K12/pages/Schoenocaulon%20texanum.html"
+      },
+      {
+        "species": "Toxicoscordion nuttallii",
+        "source_pool_alias": "Zigadenus nuttallii",
+        "part": "branching inflorescence and nectar gland",
+        "plain_label": "Flowering branches and a nectar patch at the base of each petal-like segment",
+        "botanical_label": "panicle; pedicel; basal tepal nectary gland",
+        "look_for": "Compare the entire flowering stalk for branches, then use an exact-species tepal-base macro to locate the gland. Early flowering stalks may appear less branched. Do not infer a gland from a distant view.",
+        "photo_role": "exact-species whole panicle plus tepal-base macro; optional early-vs-late flowering comparison",
+        "caption": "Nuttall's death camas: follow the flowering branches and inspect the base of a tepal for its nectar gland.",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "photo_verification": "No exact image ID, creator, individual license, public-web permission or arrow location verified.",
+        "source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102102"
+      }
+    ],
+    "genus_routing": [
+      {
+        "genus": "Schoenocaulon",
+        "look_here_first": "Dense, spike-like raceme: confirm short pedicels and floral bracts; small tepals; inspect pistil development flower by flower.",
+        "scope": "S. texanum reference only; S. drummondii remains HOLD_IDENTITY and must not inherit measurements."
+      },
+      {
+        "genus": "Toxicoscordion",
+        "source_alias": "Zigadenus",
+        "look_here_first": "Usually more open, often branched panicle; confirm basal tepal nectary on a real flower.",
+        "scope": "T. nuttallii reference; preserve original source-pool synonym and do not infer species identity from habit alone."
+      }
+    ],
+    "photo_publication_note": "Three diagnostic anatomy examples are teaching requests, not installed or photo-verified images. All annotation_pending; exact photo-level creator/license/public web rights and organ visibility require separate verification. No arrows approved."
+  },
+  "curation_status": {
+    "version": "1.0-video-fed-family-reference",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass_range_pending"
+  }
+}

@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Nelumbo%20lutea
+Source research-grade observation: https://www.inaturalist.org/observations/235517628
+Photo: https://www.inaturalist.org/photos/418868804
+Attribution: (c) Craig K. Hunt, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Nelumbo lutea
+Creator: natgrace18; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6179180960
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/nelumbo-lutea/gbif-61cfc846a06743.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

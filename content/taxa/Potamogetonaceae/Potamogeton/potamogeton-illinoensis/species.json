@@ -1,0 +1,153 @@
+{
+  "id": "potamogeton-illinoensis",
+  "entry_type": "species",
+  "family": "Potamogetonaceae",
+  "genus": "Potamogeton",
+  "species": "illinoensis",
+  "scientific_name": "Potamogeton illinoensis",
+  "authority": "Morong",
+  "common_name": "Illinois pondweed",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO; Texas is within the native range.",
+  "look_here_first": "Look for a broad-leaved submerged pondweed with alternate two-ranked leaves and a persistent axillary stipule/prophyll, then confirm the emergent many-flowered spike.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays qualify; Williamson, Val Verde out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "range_guardrail": "Only exact target-zone county evidence counted; statewide presence was not converted into county evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Williamson",
+        "Val Verde"
+      ],
+      "valid_target_counties": [
+        "Hays"
+      ],
+      "excluded_counties": [
+        "Williamson",
+        "Val Verde"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 1 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Hays — UT Plant Resources Center Purola Preserve natural flora lists Potamogeton illinoensis among plants occurring naturally. Williamson — UT PRC Vascular Plants of Williamson County provides a detailed county treatment. Val Verde — the Amistad National Recreation Area / Val Verde vascular flora inventory documents P. illinoensis in shallow river/lake margins.",
+      "source_document": "content/taxa/Potamogetonaceae/Potamogeton/potamogeton-illinoensis/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "submerged rhizomatous perennial",
+      "alternate distichous leaves",
+      "persistent open-sheath stipule/prophyll in the leaf axil",
+      "thin lanceolate to narrowly rectangular leaf blades with strong parallel venation and cross-bridges",
+      "mostly emergent many-flowered spike on a long peduncle",
+      "four green sepal-like floral segments and four stamens",
+      "3–4 pistils in a tight whorl"
+    ],
+    "habit": "Flexible submerged shoots arise from horizontal rhizomes; adventitious roots occur at nodes.",
+    "leaf_morphology": "Leaves are alternate and two-ranked, petiolate, with a conspicuous persistent axillary prophyll/stipule; blades are thin, lanceolate to narrowly rectangular and strongly veined.",
+    "inflorescence": "Terminal or axillary emergent spike on a long peduncle; flowers sessile and densely arranged.",
+    "fruit": "Small one-seeded drupelet-like fruits, usually four in a whorl.",
+    "joey_field_note": "Joey's San Marcos River frame shows the submerged growth form and broad pondweed leaves in local river context."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Potamogeton nodosus",
+      "other broad-leaved Potamogeton spp."
+    ],
+    "key_distinctions": "Use the combination of submerged broad leaves, persistent free axillary stipule/prophyll, vein pattern, and emergent spike. Final separation from other broad-leaved pondweeds should use a local Potamogeton key rather than leaf width alone."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:19:04.1",
+      "record_id": "jvid-Hr3nBxvgCv4-009",
+      "role": "submerged habit / source-labeled Illinois pondweed",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Potamogetonaceae",
+    "Potamogeton",
+    "Illinois pondweed",
+    "San Marcos River",
+    "Aquatic",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-joey-smr",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "visual_status": "private_study_gallery_installed_diagnostic_gaps_remain",
+    "photo_updated_at": "2026-10-04",
+    "manual_library_install_012": "2026-10-16"
+  },
+  "photo_note": "Saved San Marcos River frame installed locally for private study. Image role and limitations are stated in the gallery caption; diagnostic close-up gaps remain. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/potamogeton-illinoensis_submerged-habit-source-label_00-19-04.1.jpg",
+      "role": "Submerged pondweed habitat from the source's Potamogeton illinoensis sequence. Use as habitat context; close leaf, stipule and fruit views are still needed for identification.",
+      "caption": "Submerged pondweed habitat from the source's Potamogeton illinoensis sequence. Use as habitat context; close leaf, stipule and fruit views are still needed for identification.",
+      "diagnostic_roles": [
+        "submerged aquatic habit",
+        "source-labeled taxon reference"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-009",
+      "timestamp": "00:19:04.1",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained."
+    },
+    {
+      "file": "images/library-review012-2fd5836544e3a70.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Obvious broad submerged pondweed leaf shape/venation; stipule and fertile axis still need review",
+      "creator": "Alan Weakley",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6130470229",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365897284/original.jpg",
+      "source_determination": "Potamogeton illinoensis",
+      "source_observation_id": "6130470229",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/potamogeton-illinoensis/gbif-7f822a7274aea1.jpg",
+      "archive_image_sha256": "81dd49a9b593298b02246bdf6326c6fad41a8857e7c6b4af0f6ae6007ac92d7d",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Close leaf blade and petiole/stipule views; reproductive spike and fruit detail."
+  ],
+  "native_metrics_excluded": true
+}

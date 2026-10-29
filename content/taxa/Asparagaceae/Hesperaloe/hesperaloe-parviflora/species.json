@@ -1,0 +1,115 @@
+{
+  "id": "hesperaloe-parviflora",
+  "family": "Asparagaceae",
+  "genus": "Hesperaloe",
+  "species": "parviflora",
+  "scientific_name": "Hesperaloe parviflora",
+  "common_name": "Red yucca",
+  "look_here_first": "Clump of narrow arching fibrous-edged leaves and tall open flowering stalks with tubular coral-red or pink flowers.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "manual_library_install_052": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Hesperaloe%20parviflora",
+  "images": [
+    {
+      "file": "images/inat-1890618.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Diana-Terry Hibbitts, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/1890618",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review052-76477ae98fd4a85.jpg",
+      "role": "Recognize · arching narrow-leaved clump in habitat; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Leaf rosette, developing fruit capsule and tall red flower stalk",
+      "creator": "Cody Stricker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5168211359",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/505433655/original.jpg",
+      "source_determination": "Hesperaloe parviflora",
+      "source_observation_id": "5168211359",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/hesperaloe-parviflora/gbif-a334af663f44bf.jpg",
+      "archive_image_sha256": "75bb3f13a165942a235554449b91f203dffe3b0b60a34f810d59b6906cdd62a8",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review052-100f112fc5705df.jpg",
+      "role": "Look closer · hanging green fruit capsule; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Leaf rosette, developing fruit capsule and tall red flower stalk",
+      "creator": "matheus olmedo",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110401863",
+      "media_source_url": "https://bs.plantnet.org/image/o/475fd5a3531af76d162917c1895c9e82a3599ae7",
+      "source_determination": "Hesperaloe parviflora",
+      "source_observation_id": "5110401863",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/hesperaloe-parviflora/plantnet-via-gbif-12287dcb482630.jpg",
+      "archive_image_sha256": "b4c781ed2af543a0515fc805a2f3e301af9bb90b66542464793069673eec26ad",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review052-acb1d94d9a5acd0.jpg",
+      "role": "Look closer · red flowers clustered along tall stalk; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Leaf rosette, developing fruit capsule and tall red flower stalk",
+      "creator": "Charles De Gaulle",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109484146",
+      "media_source_url": "https://bs.plantnet.org/image/o/2de642dae7ac613824335ff093eb674914b906be",
+      "source_determination": "Hesperaloe parviflora",
+      "source_observation_id": "5109484146",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/hesperaloe-parviflora/plantnet-via-gbif-5ce6f52f321950.jpg",
+      "archive_image_sha256": "3bdceec4693455c65ad17f2e1d3dbfb8111971f1191db301c49e566864aa8659",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,41 @@
+TRADESCANTIA OCCIDENTALIS — DEEP REVIEW SOURCES
+Reviewed: 2026-10-03
+Status: PASS / BLANKET APPROVED
+
+Taxonomy
+Kew/POWO:
+https://powo.science.kew.org/taxon/256028-2
+
+Range
+Travis herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Commelinaceae.html
+Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tradescantia%20occidentalis
+Bexar supporting research-grade occurrence:
+https://www.inaturalist.org/identifications/beth_snow
+Decision: PASS — Travis, Williamson, Bexar.
+
+Morphology / comparison
+Williamson treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Tradescantia%20occidentalis
+Illustrated Flora of North Central Texas:
+https://fwbg.org/wp-content/uploads/2025/04/FNCT_1077-1352-Acor-Zanni.pdf
+NPSOT:
+https://www.npsot.org/posts/native-plant/tradescantia-occidentalis/
+
+LOOK HERE FIRST
+Narrow grassier leaves + conspicuous long-stalked glandular hairs on internodes and peduncles.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Tradescantia occidentalis
+Creator: mbyhower; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6188135843
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/tradescantia-occidentalis/gbif-223b0607151996.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Tradescantia occidentalis
+Creator: CH Hemphill; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6195285365
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/tradescantia-occidentalis/gbif-767a7d02932214.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

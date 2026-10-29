@@ -1,0 +1,154 @@
+{
+  "id": "yucca-constricta",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "species": "constricta",
+  "scientific_name": "Yucca constricta",
+  "authority": "Buckley",
+  "common_name": "Buckley's Yucca",
+  "synonyms": [
+    "Yucca albospica Van Houtte",
+    "Yucca angustifolia Carrière (illegitimate later homonym)",
+    "Yucca polyphylla Baker"
+  ],
+  "taxonomic_note": "Kew accepts Yucca constricta. FNA provides an especially useful field character: the dry capsule is deeply constricted near the middle.",
+  "field_group": "Low acaulescent yucca",
+  "look_here_first": "Start with the narrow straight leaves and the fruit: Buckley’s yucca makes low colonies of small rosettes with narrow whitish-threaded leaves, an unusually tall naked scape, and dry capsules pinched deeply at the middle.",
+  "project_tracker_diagnostic": "small to large open colonies, mostly acaulescent or with only a short stem; mostly straight linear leaves, usually about 0.7–1.5 cm wide; leaf margins whitish/light green and filiferous, shredding into threads; flowering stalk rises far above the leaves on a long naked scape; pale greenish-white pendent flowers; erect dry dehiscent capsule deeply constricted near the middle",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — UT Plant Resources Center Flora of Purola Preserve lists Yucca constricta among naturally occurring, non-introduced plants of northern Hays County. Travis — Balcones Canyonlands Preserve plant list for Travis County includes Buckley yucca (Yucca constricta). Val Verde — Laughlin Air Force Base Integrated Natural Resources Management Plan, Del Rio/Val Verde County, lists Yucca constricta among observed woody plants."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "small to large open colonies, mostly acaulescent or with only a short stem",
+      "mostly straight linear leaves, usually about 0.7–1.5 cm wide",
+      "leaf margins whitish/light green and filiferous, shredding into threads",
+      "flowering stalk rises far above the leaves on a long naked scape",
+      "pale greenish-white pendent flowers",
+      "erect dry dehiscent capsule deeply constricted near the middle"
+    ],
+    "joey_field_context": "A Texas Observer field report documents Joey Santore pointing out Yucca constricta during a South Texas field visit. No exact reusable Joey species photo is locked yet, so the diagnostic morphology remains anchored to FNA/NPSOT rather than inferred from generic Yucca media."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Yucca rupicola",
+      "Yucca tenuistyla"
+    ],
+    "key_distinctions": "Yucca rupicola: Y. constricta has narrow mostly straight white-threaded leaves and a deeply constricted capsule; Y. rupicola has broader flexible twisted leaves with orange/red denticulate margins. Yucca tenuistyla: Both have narrow filiferous leaves, but FNA separates Y. constricta by the deeply waist-constricted capsule; Y. tenuistyla capsules are not constricted and its leaves tend to recurve."
+  },
+  "tags": [
+    "Asparagaceae",
+    "Yucca",
+    "Buckley's Yucca",
+    "Central Texas",
+    "Genus comparison",
+    "Joey-context"
+  ],
+  "curation_status": {
+    "version": "1.0-b004-joey-context",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "joey_context_added": true,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Diagnostic photo source locked; exact creator/license/direct file remains pending. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Audit 059: nonexistent gallery filename archived in unresolved_photo_references without deleting its original source record.",
+  "images": [
+    {
+      "file": "images/glass-root-615486659-first-photo.jpg",
+      "role": "Basal rosette and narrow upright leaves; flower and constricted capsule views still needed",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/615486659",
+      "observation_url": "https://www.inaturalist.org/observations/338442364",
+      "observation_id": 338442364,
+      "photo_id": 615486659,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/615486659/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-inat-357350297.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357350297",
+      "observation_url": "https://www.inaturalist.org/observations/202345369",
+      "observation_id": "202345369",
+      "photo_id": "357350297",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357350297/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Texas Observer field report describing Joey Santore field documentation",
+      "record_id": "j011-005",
+      "source_page": "https://www.texasobserver.org/abbotts-billion-dollar-barrier/",
+      "role": "field-documentation context / target-species lead",
+      "rights": "external article context only; no Joey image promoted"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "unresolved_photo_references": [
+    {
+      "status": "SOURCE_LEAD_ONLY_MISSING_PHYSICAL_PHOTO",
+      "previous_image_index": 0,
+      "checked_at": "2026-10-17",
+      "audit_reference": "reports/diagnostic-photo-audit-057-20261017.md",
+      "original_gallery_record": {
+        "file": "images/01-diagnostic-source.jpg",
+        "role": "Whole plant / narrow filiferous leaves / tall scape reference",
+        "creator": "",
+        "license": "",
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Yucca_constricta",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      "repair_requirements": "Wikimedia Commons category is not one exact image. Require exact source image, creator, license, and locally saved JPEG before reinstating.",
+      "display_policy": "Do not treat the missing file as installed; retain complete original source/provenance and re-add only after exact image, licensing and identity screening."
+    }
+  ]
+}

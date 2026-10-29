@@ -1,0 +1,122 @@
+{
+  "id": "agave-americana",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Agave",
+  "species": "americana",
+  "scientific_name": "Agave americana",
+  "authority": "L.",
+  "common_name": "Century plant / American agave",
+  "synonyms": [
+    "Aloe americana",
+    "Agave spectabilis"
+  ],
+  "taxonomic_note": "Preserve species-level source concept; no subspecies assigned. The source photograph uses a nominate horticultural label; that does not determine the user's source row below species.",
+  "look_here_first": "Start with the broad, fleshy, toothed leaves and terminal spine. Compare mature leaf width and the flowering architecture: a branched panicle supports A. americana, while lechuguilla has narrower leaves and a largely spike-like flowering axis.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Broad fleshy rosette leaves, typically (80–)100–200 cm long in the existing FNA-based review.",
+      "Marginal teeth about 5–10 mm; a strong terminal spine.",
+      "Flowering axis branches into a panicle, unlike the largely spicate lechuguilla axis."
+    ],
+    "leaves": "Mature broad succulent leaves; tooth and terminal spine characters should be inspected at close range with scale.",
+    "inflorescence": "Branched flowering panicle; full flowering-axis photo still needed.",
+    "lookalike_separators": "A. lechuguilla: much narrower leaves, typically 30–50 × 2–4(–5.2) cm, and largely spicate inflorescence. Do not diagnose species or local nativity by blue color, variegation, or ornamental occurrence. Other cultivated agaves can overlap; require reproductive/leaf-edge evidence when uncertain."
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Texas native at state level in POWO; local origin/cultivation and >=3 target-county native certification remain UNRESOLVED.",
+    "native_range_sources": [
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2"
+    ]
+  },
+  "county_occurrences_target_zone": [],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-14",
+    "review_basis": "Existing Master Plant Pool scientific review; exact accepted-name verification repeated 2026-10-14",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/01-cultivated-toothed-leaves.jpg",
+      "role": "Cultivated broad fleshy leaves with toothed margins and terminal spines; Longwood Gardens specimen",
+      "creator": "Photo by David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agave_americana_4zz.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938132963-993d1b184.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Mature broad succulent leaf edge and apical spine; branched flowering panicle",
+      "creator": "insiderelic",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938132963",
+      "gbif_occurrence_id": "5938132963",
+      "source_determination": "Agave americana L.",
+      "accepted_target": "Agave americana",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604934999/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "diagnostic_photo_plan": [
+    "Complete rosette with scale",
+    "Leaf teeth and terminal spine macro with ruler",
+    "Entire branched flowering panicle",
+    "Flower and ovary close-up"
+  ],
+  "photo_provenance": {
+    "title": "File:Agave americana 4zz.jpg",
+    "direct_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Agave_americana_4zz.jpg/960px-Agave_americana_4zz.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Agave_americana_4zz.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Photo by David J. Stang",
+    "source_description": "Location taken: Longwood Gardens, Kennett Square, Pennsylvania.. Names: Agave americana americana, Agave, American Agave, American Aloe, American Century Plant, American-Aloe, Ammiria, Century Plant, Century Plant, Century-Plant, Centuryplant, Corni, Filu Di Pitti, Garingboom, Hundraårig Aloe, Invidia, Maguey, Maguey Americano, Ryongsōllan, Sabila, 龍舌 Classification:<SP>Plantae > Magnoliophyta > Liliopsida > Asparagales > Asparagaceae > Agaveae > Agave > Agave americana americana.",
+    "index": 0,
+    "source_platform": "Wikimedia Commons",
+    "visual_verification": "Visible broad succulent leaves, toothed margins and pointed tips in cultivated material. Neighboring plants and scape parts are present; do not assign every visible structure to the agave. No scale or complete flowering panicle is shown.",
+    "verified_at": "2026-10-14",
+    "changes": "Width-limited thumbnail where original exceeds 960 px; pipeline JPEG optimization; no overlays.",
+    "study_use": "yes",
+    "public_reuse": "yes; preserve attribution and applicable ShareAlike"
+  },
+  "source_pool_review": {
+    "scientific_name": "Agave americana",
+    "taxonomy_review": "Reviewed 2026-10-09 — accepted Agave americana L. (POWO/WCVP); Texas native at STATE level, but project target-county status UNRESOLVED and cultivated/local-origin ambiguity remains. Kew accepts multiple infraspecifics including subsp. americana and subsp. protamericana; source species row does not certify one. Preserve approved source-pool learner admission. No three-county PASS. Sources: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2 ; https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=100796",
+    "curation_status_before_install": "Taxonomy reviewed — approved_pending_curation; range UNRESOLVED; not canonical",
+    "diagnostic_notes": "LOOK HERE FIRST: mature smooth, fleshy broad leaves ca. (80-)100–200 cm, marginal teeth ca. 5–10 mm, versus A. lechuguilla narrow 30–50 × 2–4(-5.2) cm leaves. If flowering, A. americana has branching panicle, A. lechuguilla mostly spicate axis. Leaf color/variegation and ornamental occurrence do not prove species or local nativity. PHOTO ROLES: whole rosette with scale, marginal teeth + apical spine, full flowering scape, flower/ovary close-up; separate wild vouchers from horticultural cultivars.",
+    "accepted_name_note": "Accepted Agave americana L.; Aloe americana (L.) Crantz homotypic synonym; Agave spectabilis Salisb. illegitimate superfluous name. POWO recognizes multiple subspecies/varieties; source not resolved below species."
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319063-2",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=100796"
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

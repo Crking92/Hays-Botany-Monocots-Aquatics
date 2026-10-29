@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Rhynchospora colorata; reference row(s) 985
+Accepted-name query: https://powo.science.kew.org/results?q=Rhynchospora%20colorata
+Photograph original: https://commons.wikimedia.org/wiki/File:Rhynchospora_colorata_NRCS-002.jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Rhynchospora%20colorata%20NRCS-002.jpg
+Photographer: Robert H. Mohlenbrock / USDA NRCS
+Individual file license: Public domain (US federal government)
+Photo role: Provisional whitetop flowering head identification; achene details and stem cross section missing.
+Caution: USDA wetland field-office plant-photo reference, not confirmation of Hays County occurrence.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

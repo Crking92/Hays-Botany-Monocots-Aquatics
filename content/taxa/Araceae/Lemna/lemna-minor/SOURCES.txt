@@ -1,0 +1,7 @@
+Approved Master Plant Pool Batch 023 first-card preflight. Accepted-name reference: https://powo.science.kew.org/results?q=Lemna%20minor
+Source image: https://commons.wikimedia.org/wiki/File:Lemna_minor_plants.jpg
+Direct original JPEG: https://upload.wikimedia.org/wikipedia/commons/5/58/Lemna_minor_plants.jpg
+Photo author: Kostka Martin
+Photo license: CC0 1.0
+Image visually inspected from Commons original-file preview; species ID supported by Commons exact-taxon metadata; remains provisional pending fuller expert examination.
+No county-level nativity assertion; no cultivar substituted.

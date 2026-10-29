@@ -1,0 +1,33 @@
+POTAMOGETON ILLINOENSIS — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+TAXONOMY
+Kew POWO accepted: https://powo.science.kew.org/taxon/208837-2
+
+STRICT TARGET-ZONE RANGE
+Hays — UT PRC Natural Purola Plants: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Williamson — UT PRC Vascular Plants of Williamson County: https://w3.biosci.utexas.edu/prc/K12/pdf/Potamogeton%20illinoensis
+Val Verde — Val Verde / Amistad vascular inventory: https://w3.biosci.utexas.edu/prc/pdfs/Poole-Lundellia16.pdf
+
+MORPHOLOGY
+UT PRC Williamson treatment above: rhizomatous submerged perennial; alternate distichous leaves; persistent free axillary prophyll/stipule; strongly veined blades; emergent spike; four green floral segments, four stamens and 3–4 pistils.
+
+JOEY SPECIES LAYER
+Video Hr3nBxvgCv4 — Aquatic Plants on the San Marcos River
+009 @ 00:19:04.1 — source-labeled submerged habit and leaf context.
+Rights: private-study frame; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Aquatic Plants on the San Marcos River
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+potamogeton-illinoensis_submerged-habit-source-label_00-19-04.1.jpg @ 00:19:04.1
+Submerged pondweed habitat from the source's Potamogeton illinoensis sequence. Use as habitat context; close leaf, stipule and fruit views are still needed for identification.
+Rights: private study only; public reuse not cleared. User confirms private learner. Original JPEG decoded and visually inspected. Existing scientific/range status preserved.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Potamogeton illinoensis
+Creator: Alan Weakley; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6130470229
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/potamogeton-illinoensis/gbif-7f822a7274aea1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

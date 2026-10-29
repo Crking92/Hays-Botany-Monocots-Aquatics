@@ -1,0 +1,36 @@
+{
+  "id": "pontederia-crassipes",
+  "family": "Pontederiaceae",
+  "genus": "Pontederia",
+  "species": "crassipes",
+  "scientific_name": "Pontederia crassipes",
+  "common_name": "Water hyacinth",
+  "look_here_first": "Look for inflated spongy leaf stalks, glossy rounded leaves and purple-blue flower spikes; this is a non-native aquatic comparison.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pontederia%20crassipes",
+  "images": [
+    {
+      "file": "images/inat-179861997.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Miguel A. Casado, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/179861997",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

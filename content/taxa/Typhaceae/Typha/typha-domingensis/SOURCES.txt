@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1213.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Typha%20domingensis
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Typha_domingensis_3.jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Typha%20domingensis%203.jpg
+Photo creator: Stan Shebs
+Image-level license: CC BY-SA 3.0
+Image role (provisional): Provisional flowering cattail habit; detailed gap between male and female portions needs later comparison with other Typha.
+Caution: Cattails are difficult to distinguish from hybrids at a distance; no county nativity inference.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

@@ -1,0 +1,89 @@
+{
+  "id": "eleocharis-montevidensis",
+  "family": "Cyperaceae",
+  "genus": "Eleocharis",
+  "species": "montevidensis",
+  "scientific_name": "Eleocharis montevidensis",
+  "common_name": "Sand spikerush",
+  "look_here_first": "Tufted wetland sedge with round leafless stems and one narrow spikelet per culm; confirm via tubercle, bristles and achene surfaces.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_041": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:306963-1",
+  "images": [
+    {
+      "file": "images/inat-446695326.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Caleb Martinez, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/446695326",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review041-d3f9856299c706e.jpg",
+      "role": "Fine leafless spikerush culms and spikelets shown next to fingertips for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Wendy A",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6273790779",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644376961/original.jpg",
+      "source_determination": "Eleocharis montevidensis",
+      "source_observation_id": "6273790779",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/eleocharis-montevidensis/gbif-e615e588bb4e8d.jpg",
+      "archive_image_sha256": "95ecc3c793b654445216a4a3179e0b480eabb669232003674d2f6caf72c9de21",
+      "image_dimensions": [
+        1054,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-088787d88cda89c.jpg",
+      "role": "Multiple tiny terminal brown ovate spikelets on green leafless culms; achene anatomy not resolved; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Mimi Posey",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6412957702",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648424628/original.jpg",
+      "source_determination": "Eleocharis montevidensis",
+      "source_observation_id": "6412957702",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/eleocharis-montevidensis/gbif-5e22df6aefe0a9.jpg",
+      "archive_image_sha256": "cd2caa29b05bf7a8d968fe23b7f443be7babb80450739cec29cf966ae2664c24",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

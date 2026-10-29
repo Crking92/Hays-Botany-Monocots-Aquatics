@@ -1,0 +1,417 @@
+{
+  "rank": "genus",
+  "name": "Commelina",
+  "family": "Commelinaceae",
+  "authority": "L.",
+  "common_group": "Dayflowers / whitemouth dayflower relatives",
+  "project_scope": {
+    "mode": "Photo-led Hays/Central Texas identification; canonical species C. erecta",
+    "species_count": 1,
+    "species_ids": [
+      "commelina-erecta"
+    ],
+    "admission": "C. erecta already canonical with project native-range PASS; this lesson adds no new taxon or county claims.",
+    "lookalikes": "Tinantia anomala and Tradescantia spp. canonical in Commelinaceae; introduced Commelina communis included ONLY as a comparison (not installed).",
+    "rights_note": "3 real, physically installed and public-safe Commelina erecta photographs in this genus gallery. Original Calvin observation all-rights-reserved private-study only; Nathan Taylor flower macro CC BY-NC study/noncommercial; neither silently relabeled as unrestricted public."
+  },
+  "look_here_first": "DON'T stop at two BLUE PETALS. Follow the flower stem DOWN to its enclosing BRACT: Commelina flowers emerge from a folded green SPATHE (a leaflike bract making a shelter for buds and young fruit). In C. erecta the spathe margins are joined/CONNATE along a long basal portion. By contrast, local Tinantia anomala has a mostly FLAT open subtending bract and an EXPOSED one-sided cyme. Then zoom in: Commelina has THREE fertile stamens plus THREE sterile STAMINODES; Tinantia has SIX fertile stamens with distinctive bearded filaments.",
+  "genus_diagnostics": {
+    "habit": "Annual or perennial soft-stemmed herbs, often branched, with conspicuously JOINTED stems; several species can root at lower nodes. Local C. erecta is usually a perennial, not the introduced annual C. communis.",
+    "leaves": "ALTERNATE leaves with mostly parallel veins; each blade emerges from a conspicuous basal SHEATH wrapping the jointed stem. A sheath is part of a regular leaf—different from the separate green SPATHE that encloses flowers.",
+    "spathe": "SPECIAL GENUS CLUE: the inflorescence is subtended by a folded, boatlike or funnel-like GREEN SPATHE containing one/two short flower branches (cincinni). Spathe margins vary within Commelina: LONG CONNATE in C. erecta, mostly FREE/OPEN in C. communis, so do not claim all species have a fused pocket.",
+    "flower": "Flowers BILATERAL (zygomorphic), usually two conspicuous larger upper/lateral blue petals and one much smaller pale third petal; three sepals also exist, though behind the petals. Flower color/size overlap with Tinantia; folded spathe distinguishes genus more readily.",
+    "stamens": "Typically THREE fertile stamens (bearing pollen-producing anthers) and THREE STAMINODES (sterile, showy yellow antherlike ANTHERODES); fertile filaments are usually GLABROUS or smooth. Tinantia has SIX fertile stamens, several with long conspicuous colorful filamental hairs.",
+    "inflorescence": "Small flower clusters (cincinni/cymes) are held INSIDE the folded spathe; buds and developing capsules may be hidden. Tinantia's terminal one-sided cyme is plainly above an open leaflike bract.",
+    "fruit": "A 2–3-chambered CAPSULE, not a berry or legume; in C. erecta usually 3-locular and usually two-valved. Young fruit remains protected in the spathe. Capsule/seed anatomy needs a confirmed local macro."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "A Commelinaceae stem is usually jointed with parallel-veined, sheathing leaves and short-lived 3-sepal/3-petal flowers.",
+      "Commelina inflorescences emerge from SPATHE bracts; the relative fusion of spathe margins differentiates C. erecta from some other Commelina species.",
+      "The distinctive reproductive plan is 3 fertile stamens plus 3 staminodes; photo certainty must be established for counts, not assumed from distant flowers."
+    ],
+    "priority": [
+      "SEE: open blue flower and locate the tiny pale third petal.",
+      "SPOT: trace flower to the folded GREEN SPATHE, separate from ordinary leaf sheath.",
+      "NAME: spathe, connate margins, sheathing leaf, fertile stamen, sterile staminode/antherode, style.",
+      "COMPARE: Tinantia open one-sided cyme, Tradescantia three similar petals, introduced Commelina communis open spathe.",
+      "REMEMBER: Blue petals are not enough; a flower tucked in a folded spathe is a stronger dayflower clue."
+    ],
+    "cautions": [
+      "Petal colors, blue/purple tones, and two large petals overlap Commelina and Tinantia.",
+      "Fused spathe margins distinguish C. erecta from C. communis but are NOT universal to genus Commelina.",
+      "The small green coverings on Tinantia buds are SEPALS; they are not an enclosed Commelina spathe.",
+      "C. erecta has geographically varied leaf widths/flower colors; use a combination of traits."
+    ]
+  },
+  "quick_key": [
+    {
+      "if": "Blue/lavender flower with 2 very large petals and tiny third petal",
+      "then": "Follow the flower down: is there a folded pocket enclosing buds? If yes, Commelina door; if not, inspect Tinantia exposed cyme."
+    },
+    {
+      "if": "Broad GREEN folded spathe with margins joined for a long distance",
+      "then": "Commelina erecta candidate. Confirm sheathing leaves, 3 fertile stamens plus 3 yellow staminodes, and fruit in spathe."
+    },
+    {
+      "if": "Open folded spathe with clearly separate/unfused margins; 2 large blue petals",
+      "then": "Compare introduced Commelina communis, not automatically C. erecta; check real seam and floral/anther traits."
+    },
+    {
+      "if": "Open, FLAT leaflike bract under a terminal one-sided exposed cyme, no pocket",
+      "then": "Tinantia anomala (false dayflower): check 6 fertile stamens, showy violet and pale-yellow filament beards, strongly clasping upper leaves."
+    },
+    {
+      "if": "Three more evenly showy petals, often six conspicuously hairy fertile filaments and paired terminal cymes",
+      "then": "Tradescantia spiderworts; inspect sepal/flower, hair on filaments and different bract architecture."
+    },
+    {
+      "if": "No flowers present",
+      "then": "Identify family provisionally by parallel-veined sheathing leaves and jointed nodes; wait for spathe/flowers to separate genera."
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Inflorescence bract",
+      "erecta": "Folded pocket; margins joined (connate) along substantial length",
+      "communis": "Folded but margins mostly distinct/open",
+      "tinantia": "Flat/open broad leaflike bract; exposed one-sided cyme",
+      "tradescantia": "Bracts beneath clusters/paired cymes, not Commelina spathe pocket"
+    },
+    {
+      "character": "Petal appearance",
+      "erecta": "Two large blue + tiny pale third",
+      "communis": "Two large blue + small pale third",
+      "tinantia": "Two blue/lavender + smaller white third",
+      "tradescantia": "Usually three comparably conspicuous petals"
+    },
+    {
+      "character": "Fertile stamens",
+      "erecta": "3 fertile + 3 yellow staminodes",
+      "communis": "3 fertile + 3 staminodes",
+      "tinantia": "6 fertile; most filaments visibly bearded",
+      "tradescantia": "6 fertile; many have bearded filaments"
+    },
+    {
+      "character": "Leaf/stem",
+      "erecta": "Sheathing, parallel-veined, perennial; variable leaves",
+      "communis": "Sheathing, similar; often annual introduced in region",
+      "tinantia": "Clasping upper leaves; one-sided exposed terminal clusters",
+      "tradescantia": "Parallel-veined sheathing leaves; varied hair traits"
+    },
+    {
+      "character": "Photo evidence",
+      "erecta": "3 licensed installed photos + 2 private/restricted",
+      "communis": "External comparison only, not canonical",
+      "tinantia": "Canonically documented; external licensed images and restricted micros",
+      "tradescantia": "Several canonical species + genus lesson"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "TRUE DAYFLOWER vs FALSE DAYFLOWER — Commelina erecta vs Tinantia anomala",
+      "look_here_first": "Forget blue flowers at first: inspect the STRUCTURE directly beneath buds. A Commelina erecta spathe is folded/connate into a pocket; Tinantia flowers are on an exposed one-sided cyme ABOVE a flat bract.",
+      "field_matrix": [
+        {
+          "character": "Bract",
+          "commelina": "Folded green enclosing SPATHE; buds concealed",
+          "tinantia": "Mostly FLAT/open subtending leaflike bract, cyme exposed"
+        },
+        {
+          "character": "Stamen count",
+          "commelina": "3 fertile + 3 yellow staminodes (antherodes)",
+          "tinantia": "6 fertile stamens; 5 with obvious bearded hair tufts"
+        },
+        {
+          "character": "Plant",
+          "commelina": "Generally perennial, sometimes rooting near base; auriculate sheath",
+          "tinantia": "Typically annual in Central Texas; broad upper leaves often clasp stem"
+        },
+        {
+          "character": "Photo proof",
+          "commelina": "Installed exact-species spathe and sheath views; restricted filament macro in species lesson",
+          "tinantia": "Existing species has public external bract/flower images and private Joey/River macro studies; don't equate external with installed"
+        }
+      ],
+      "caution": "A green boatlike sepal enclosing EACH Tinantia bud is not a genus-level Commelina spathe. Spathe shape and true filaments beat petal color."
+    },
+    {
+      "title": "TRUE DAYFLOWER vs INTRODUCED ASIATIC DAYFLOWER — C. erecta vs C. communis",
+      "look_here_first": "Both have nearly the same showy two-blue-petal flower and both have a green spathe. Carefully inspect SPATHE MARGINS: long-connate in erecta vs distinct/open in communis.",
+      "field_matrix": [
+        {
+          "character": "Spathe seam",
+          "erecta": "Margins LONG CONNATE (joined) and pocketlike",
+          "communis": "Margins distinct, OPEN/unfused"
+        },
+        {
+          "character": "Life history",
+          "erecta": "Perennial with fleshy/tufted roots",
+          "communis": "Often annual rooting at lower nodes"
+        },
+        {
+          "character": "Stamens",
+          "erecta": "3 fertile + 3 sterile; both overlap",
+          "communis": "3 fertile + 3 sterile; no easy split from count"
+        },
+        {
+          "character": "Photo status",
+          "erecta": "Installed spathe side view (seam dissection still needed)",
+          "communis": "Comparison species not currently canonical in learner"
+        }
+      ],
+      "caution": "Do not claim every Commelina flower belongs to erecta. An OPEN spathe isn't enough alone to conclude communis without full key and regional source."
+    },
+    {
+      "title": "DAYFLOWER vs SPIDERWORT — Commelina vs Tradescantia",
+      "look_here_first": "Commelina has two very large petals + tiny pale third, and flowers tucked into a folded spathe. Local spiderworts typically have three evenly sized showy petals with six fertile stamens.",
+      "field_matrix": [
+        {
+          "character": "Petals",
+          "commelina": "Strongly unequal, 2 large blue",
+          "tradescantia": "Typically 3 comparably large"
+        },
+        {
+          "character": "Androecium",
+          "commelina": "3 fertile, 3 staminodes",
+          "tradescantia": "6 fertile with often visibly bearded filaments"
+        },
+        {
+          "character": "Bract/head",
+          "commelina": "Folded spathe surrounding buds",
+          "tradescantia": "Terminal clusters subtended by bracts but no dayflower pocket"
+        }
+      ],
+      "caution": "Both have parallel-veined sheathing leaves, which indicate family but do not decide genus."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Commelina dayflowers — look inside the green folded spathe",
+    "subtitle": "THREE public-safe physically installed C. erecta images (flower, sheath, folded spathe), followed by TWO explicitly EXTERNAL licensed Tinantia comparison photos. The genus-stamen details in Calvin/Nathan/Joey limited-use species photos are NOT redistributed here.",
+    "memory_rule": "BLUE FLOWER → GREEN SPATHE → 3 FERTILE STAMENS + 3 STAMINODES. FALSE DAYFLOWER = exposed cyme + FLAT bract + 6 hairy fertile stamens.",
+    "items": [
+      {
+        "species_id": "commelina-erecta",
+        "scientific_name": "Commelina erecta",
+        "label": "1 · TWO LARGE BLUE PETALS",
+        "image_url": "content/taxa/Commelinaceae/Commelina/commelina-erecta/images/01-flower.jpg",
+        "image_fit": "contain",
+        "role": "bilateral flower with two large blue petals and reduced third petal",
+        "caption": "Exact C. erecta face. TWO large sky-blue petals dominate; the tiny third petal and yellow reproductive structures sit below. Blue petals alone do not separate Commelina from Tinantia.",
+        "creator": "Paty000 (original uploader)",
+        "license": "Public domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta.jpg",
+        "markers": [],
+        "annotation_status": "Physical installed JPEG visually inspected; no arrow coordinates or inaccessible structures asserted."
+      },
+      {
+        "species_id": "commelina-erecta",
+        "scientific_name": "Commelina erecta",
+        "label": "2 · SHEATH HUGGING THE STEM",
+        "image_url": "content/taxa/Commelinaceae/Commelina/commelina-erecta/images/02-leaf-sheath.jpg",
+        "image_fit": "contain",
+        "role": "leaf base / sheathing and ciliate edge",
+        "caption": "Real close view of leaf blade exiting its long sheath around a stem NODE; fine whitish hairs at sheath mouth visible. It does not reveal the fused spathe seam, which is a different structure.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_271552526.jpg",
+        "markers": [],
+        "annotation_status": "Physical installed JPEG visually inspected; no arrow coordinates or inaccessible structures asserted."
+      },
+      {
+        "species_id": "commelina-erecta",
+        "scientific_name": "Commelina erecta",
+        "label": "3 · FOLDED GREEN SPATHE",
+        "image_url": "content/taxa/Commelinaceae/Commelina/commelina-erecta/images/03-spathe.jpg",
+        "image_fit": "contain",
+        "role": "spathe / folded bract and emerging flower",
+        "caption": "Exact C. erecta inflorescence: large folded green SPATHE encloses buds; one flower emerges above. The strongly joined margins (connate) are a species trait established from FNA; the seam itself has NOT been dissected/verified in this side-view.",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Commelina_erecta_279194748.jpg",
+        "markers": [],
+        "annotation_status": "Physical installed JPEG visually inspected; no arrow coordinates or inaccessible structures asserted."
+      },
+      {
+        "species_id": "tinantia-anomala",
+        "scientific_name": "Tinantia anomala",
+        "label": "FALSE DAYFLOWER · flower structure reference (EXTERNAL, NOT INSTALLED)",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tinantia_anomala_(Anne_Worner).jpg",
+        "caption": "Licensed CC BY 2.0 external photo reference only. Compare petal proportions and flower structure; bract and six stamen morphology require additional validated close-ups.",
+        "creator": "Anne Worner",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tinantia_anomala_(Anne_Worner).jpg",
+        "status": "external_reference",
+        "markers": [],
+        "image_fit": "contain",
+        "annotation_status": "External source-license checked; NOT physically installed, no verified arrows or microscopic claims."
+      },
+      {
+        "species_id": "tinantia-anomala",
+        "scientific_name": "Tinantia anomala",
+        "label": "FALSE DAYFLOWER · Austin habitat reference (EXTERNAL, NOT INSTALLED)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BartonCreekGreenbelt-27.jpg",
+        "caption": "Local Barton Creek exact-species record already linked from Tinantia species JSON; external reference only, not a physically installed image.",
+        "creator": "lonestarmike",
+        "license": "CC BY-SA 3.0 (canonical Tinantia metadata)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:BartonCreekGreenbelt-27.JPG",
+        "status": "external_reference",
+        "markers": [],
+        "image_fit": "contain",
+        "annotation_status": "External source-license checked; NOT physically installed, no verified arrows or microscopic claims."
+      }
+    ],
+    "part_examples": [
+      {
+        "title": "1 · SEE the blue flower",
+        "role": "bilateral corolla / uneven petal sizes",
+        "anchor_species_id": "commelina-erecta",
+        "image_file": "images/01-flower.jpg",
+        "look_for": "Two conspicuously large rounded BLUE petals stand above a much smaller pale third petal. The flower has THREE petals, not merely two; the little third one is easy to overlook in a front view. The three sepals are behind the corolla, not confidently visible here.",
+        "why_it_matters": "Introduces the asymmetrical (ZYGOMORPHIC) dayflower flower plan without miscounting petals."
+      },
+      {
+        "title": "2 · SPOT the leaf SHEATH at a node",
+        "role": "closed or encircling sheathing leaf base / node",
+        "anchor_species_id": "commelina-erecta",
+        "image_file": "images/02-leaf-sheath.jpg",
+        "look_for": "The green blade leaves the stem toward upper left while a pale, elongated SHEATH runs downward hugging the vertical stem. Tiny hair tufts are visible at the sheath's top edge. Do not confuse this leaf sheath with the flowering spathe.",
+        "why_it_matters": "This is a strong Commelinaceae clue even when the blue flowers have shut for the day."
+      },
+      {
+        "title": "3 · NAME the folded SPATHE",
+        "role": "spathe / bract enclosing buds",
+        "anchor_species_id": "commelina-erecta",
+        "image_file": "images/03-spathe.jpg",
+        "look_for": "Find the broad, folded GREEN pocket directly below the emerging flower. This bract is the SPATHE. In C. erecta its margins are joined for a substantial length (CONNATE), but the actual joined seam still needs its own opened, labeled macro.",
+        "why_it_matters": "More useful than petal color for separating erected dayflower from open-bracted Tinantia and from an open-spathed Commelina communis."
+      },
+      {
+        "title": "4 · COMPARE bracts, not blue petals",
+        "role": "Commelina closed spathe vs Tinantia open subtending bract",
+        "anchor_species_id": "commelina-erecta",
+        "image_file": "images/03-spathe.jpg",
+        "look_for": "The illustrated flower buds emerge FROM a folded pocket. For false dayflower Tinantia, follow flowers down to an EXPOSED ONE-SIDED CYME above a mostly FLAT leaflike bract; small green sepals around each Tinantia bud are NOT a Commelina spathe.",
+        "why_it_matters": "Both plants have two large blue/lavender petals, so their inflorescence architecture is a better tie-breaker."
+      },
+      {
+        "title": "5 · NEED PUBLIC PHOTO — count fertile stamens",
+        "role": "fertile stamens / three yellow staminodes",
+        "look_for": "An existing exact C. erecta flower macro shows 3 fertile stamens and 3 yellow cross-shaped ANTHERODES (sterile staminodes) with generally smooth filaments, but it is CC BY-NC and private-study only. Find an independently rights-cleared, close face-on flower showing the stamens, STAMINODES and STYLE with original pixel verification.",
+        "why_it_matters": "Commelina's 3 fertile + 3 sterile stamens are crucial against Tinantia's six fertile stamens and bearded filaments.",
+        "status": "needs_public_photo"
+      },
+      {
+        "title": "6 · NEED PHOTO — open the fused spathe seam",
+        "role": "spathe dissection showing connate basal margins",
+        "look_for": "Dissect ONE species-verified C. erecta spathe and photograph both sides with mm ruler, showing which green margins are actually FUSED and the internal buds. Compare at matched scale with Commelina communis's OPEN spathe and Tinantia anomala's flat bract.",
+        "why_it_matters": "The installed green-spathe photo shows the outer folded shape but cannot prove seam fusion itself.",
+        "status": "needs_macro"
+      },
+      {
+        "title": "7 · NEED PHOTO — fruit hidden inside the spathe",
+        "role": "capsule / three locules / seeds",
+        "look_for": "Photograph an opened mature spathe and a split brown capsule showing the 3-locular ovary pattern, capsule valves and seeds. Match a flower view to a fruit view on the same plant when feasible.",
+        "why_it_matters": "Connects dayflower floral parts to the fruit and avoids confusing the green spathe with a pod.",
+        "status": "needs_photo"
+      },
+      {
+        "title": "8 · NEED LICENSED MATCH — Tinantia stamens and exposed cyme",
+        "role": "false dayflower / upper leaves clasp stem / filament beards",
+        "look_for": "Side-by-side genuine Tinantia anomala exposed cyme (not folded) and a close view of the 6 fertile stamens: five of six filaments bear conspicuous purplish/yellow beadlike hairs. Existing close-ups in species learner are CC BY-NC/other limited permissions; verify reuse on every intended image.",
+        "why_it_matters": "Explains why false dayflower belongs to the same family, but has a different reproductive architecture.",
+        "status": "needs_comparison"
+      }
+    ],
+    "annotation_policy": "All three examples were inspected at image level. The outer spathe shape and sheath hairs are visually confirmed; joined spathe seam, seed locules, and stigma/staminode count are NOT shown with approved arrow coordinates.",
+    "comparison_reference_photos": [
+      {
+        "species_id": "tinantia-anomala",
+        "scientific_name": "Tinantia anomala",
+        "label": "FALSE DAYFLOWER · flower structure reference (EXTERNAL, NOT INSTALLED)",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tinantia_anomala_(Anne_Worner).jpg",
+        "caption": "Licensed CC BY 2.0 external photo reference only. Compare petal proportions and flower structure; bract and six stamen morphology require additional validated close-ups.",
+        "creator": "Anne Worner",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Tinantia_anomala_(Anne_Worner).jpg",
+        "status": "external_reference",
+        "markers": []
+      },
+      {
+        "species_id": "tinantia-anomala",
+        "scientific_name": "Tinantia anomala",
+        "label": "FALSE DAYFLOWER · Austin habitat reference (EXTERNAL, NOT INSTALLED)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BartonCreekGreenbelt-27.jpg",
+        "caption": "Local Barton Creek exact-species record already linked from Tinantia species JSON; external reference only, not a physically installed image.",
+        "creator": "lonestarmike",
+        "license": "CC BY-SA 3.0 (canonical Tinantia metadata)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:BartonCreekGreenbelt-27.JPG",
+        "status": "external_reference",
+        "markers": []
+      }
+    ]
+  },
+  "photo_diagnostic_requirements": [
+    {
+      "priority": 1,
+      "character": "C. erecta vs C. communis spathe margins",
+      "need": "Matched right-and-left 1-mm side/opened green spathe photographs from verified exact species, showing LONG CONNATE vs UNFUSED margins; three existing C. erecta photos demonstrate fold but not seam dissection.",
+      "status": "needs_macro_and_annotation"
+    },
+    {
+      "priority": 1,
+      "character": "Commelina vs Tinantia androecium",
+      "need": "Rights-cleared Commelina 3 fertile stamens + 3 yellow staminodes macro and Tinantia 6 fertile bearded filament macro at same scale; preserve CC BY-NC study photos without public republishing.",
+      "status": "needs_public_rights_macro"
+    },
+    {
+      "priority": 2,
+      "character": "Capsule + seeds",
+      "need": "Mature dayflower capsule dissected with its spathe, 3 chambers / seed counts and 2–3 valves visible, 1-mm scale and precise arrows.",
+      "status": "needs_macro"
+    },
+    {
+      "priority": 2,
+      "character": "Commelina sheath vs true spathe",
+      "need": "Matched leaf-sheath node close-up and flowering bract from one plant, captioned to avoid equating a leaf sheath and spathe.",
+      "status": "two_separate_exact_species_photos_installed; paired_anatomy_annotation_pending"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Flora of North America — Commelina erecta margins, stamens and capsule",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000043"
+    },
+    {
+      "title": "Flora of North America — introduced C. communis open spathe margins",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200027375"
+    },
+    {
+      "title": "UT Austin Williamson County — Commelina erecta reproductive anatomy",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Commelina%20erecta"
+    },
+    {
+      "title": "UT Austin Williamson County — Tinantia anomala bract, stamens and hair",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Tinantia%20anomala"
+    },
+    {
+      "title": "Flora of China — Commelina genus variation",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=107770"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-dayflower-photo-anatomy-20261014",
+    "last_reviewed": "2026-10-14",
+    "canonical_species_count": 1,
+    "canonical_species_photo_count": 5,
+    "genus_public_safe_installed_photo_count": 3,
+    "private_or_noncommercial_species_photo_count": 2,
+    "genus_visual_tiles": 8,
+    "genus_visual_installed_tiles": 4,
+    "genus_visual_missing_tiles": 4,
+    "scientific_native_target_zone_status": "PASS (in species source, unchanged)",
+    "visual_status": "genus structural/photo pass completed; true fused seam, restricted stamen macro replacement, capsule and pixel-verified arrows need final polish",
+    "genus_external_comparison_photo_count": 2,
+    "gallery_display_count": 5
+  }
+}

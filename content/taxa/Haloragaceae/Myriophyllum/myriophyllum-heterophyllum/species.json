@@ -1,0 +1,69 @@
+{
+  "id": "myriophyllum-heterophyllum",
+  "entry_type": "provisional_species",
+  "family": "Haloragaceae",
+  "genus": "Myriophyllum",
+  "species": "heterophyllum",
+  "scientific_name": "Myriophyllum heterophyllum",
+  "authority": "Michx.",
+  "common_name": "Variable-leaf watermilfoil",
+  "look_here_first": "Bushy submerged watermilfoil with feather-like whorled leaves and emergent flowering shoots that transition to broader serrate bracts.",
+  "county_occurrences_target_zone": [
+    "Williamson"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Williamson.",
+    "range_guardrail": "Accepted/native at state level; Hays/Travis records may be native transplants, so native metrics remain excluded."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "submerged aquatic perennial",
+      "finely divided feather-like leaves",
+      "submerged leaves usually whorled",
+      "emergent flowering spike",
+      "upper bracts broaden and become serrate",
+      "fruit deeply four-lobed"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1,
+    "visual_status": "private_study_gallery_installed_diagnostic_gaps_remain",
+    "photo_updated_at": "2026-10-04"
+  },
+  "images": [
+    {
+      "file": "images/myriophyllum-heterophyllum_foliage-source-label_00-42-09.1.jpg",
+      "role": "Source-labeled watermilfoil shoot held above the river. Fine divided foliage is visible; detailed leaf-whorl and reproductive views remain necessary. This photo does not resolve the project's native-range hold.",
+      "caption": "Source-labeled watermilfoil shoot held above the river. Fine divided foliage is visible; detailed leaf-whorl and reproductive views remain necessary. This photo does not resolve the project's native-range hold.",
+      "diagnostic_roles": [
+        "source-labeled submerged foliage"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-028",
+      "timestamp": "00:42:09.1",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained."
+    }
+  ],
+  "photo_note": "Saved San Marcos River frame installed locally for private study. Image role and limitations are stated in the gallery caption; diagnostic close-up gaps remain.",
+  "diagnostic_image_needs": [
+    "Leaf whorls and divided segments close-up; emergent reproductive shoot and bracts."
+  ]
+}

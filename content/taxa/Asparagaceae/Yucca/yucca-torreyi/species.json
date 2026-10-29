@@ -1,0 +1,124 @@
+{
+  "id": "yucca-torreyi",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Yucca",
+  "species": "torreyi",
+  "scientific_name": "Yucca torreyi",
+  "authority": "Shafer",
+  "common_name": "Torrey's Yucca",
+  "synonyms": [
+    "Yucca baccata var. macrocarpa Torr.",
+    "Yucca macrocarpa (Torr.) Merriam, nom. illeg.",
+    "Yucca torreyi f. parviflora McKelvey"
+  ],
+  "taxonomic_note": "Current Kew/POWO (2026 backbone) accepts Yucca torreyi as a distinct species and cites the 2025 Phytotaxa Yucca phylogeny. Flora of North America (2002) instead included it within Yucca treculeana/treculiana, so older sources and labels may conflict.",
+  "field_group": "Arborescent fleshy-fruited yucca",
+  "look_here_first": "First decide whether you have a tree yucca with fleshy fruit. If yes, look for Torrey’s traditional field combination: rigid spear-like leaves with marginal threads, the leaf tip portion often rolled inward, versus the mostly non-threaded, non-inrolled leaves of Trecul’s yucca.",
+  "project_tracker_diagnostic": "arborescent/tree-like yucca with a trunk and crown of rigid dagger leaves; leaves commonly with marginal threads in the traditional Texas field key; apical leaf portion often inrolled so margins approach each other; traditional key gives a relatively slender ovary, not over about 7 mm diameter at flowering; flowers cream to whitish, often in a dense panicle; fruit fleshy, indehiscent, berry-like rather than a dry splitting capsule",
+  "county_occurrences_target_zone": [
+    "Burnet",
+    "Bexar",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Burnet — Illustrated Flora of North Central Texas records Yucca torreyi from Burnet County; contemporary field documentation also records flowering plants at Longhorn Cavern State Park, Burnet County. Bexar — Government Canyon State Natural Area vegetation documentation for Bexar County includes Yucca torreyi among local succulents. Val Verde — Amistad National Recreation Area vascular-plant inventory in Val Verde County lists Yucca torreyi; Lower Pecos sources likewise describe it as a common yucca of the study area."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "arborescent/tree-like yucca with a trunk and crown of rigid dagger leaves",
+      "leaves commonly with marginal threads in the traditional Texas field key",
+      "apical leaf portion often inrolled so margins approach each other",
+      "traditional key gives a relatively slender ovary, not over about 7 mm diameter at flowering",
+      "flowers cream to whitish, often in a dense panicle",
+      "fruit fleshy, indehiscent, berry-like rather than a dry splitting capsule"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Yucca treculiana",
+      "Yucca rupicola"
+    ],
+    "key_distinctions": "Yucca treculiana: This is the critical pair. Traditional Texas keys use marginal threads + inrolled leaf tips + a slender ovary for Y. torreyi, versus mostly non-threaded, non-inrolled leaves + a stouter 7–12 mm ovary for Y. treculiana. Geographic context and fruit/flower details should be used because historical lumping and possible hybridization make leaf-only IDs risky. Yucca rupicola: Both may occur on the Edwards Plateau, but Y. torreyi is trunk-forming with rigid dagger leaves and fleshy fruit; Y. rupicola stays low/trunkless with flexible twisted leaves and a dry dehiscent capsule."
+  },
+  "tags": [
+    "Asparagaceae",
+    "Yucca",
+    "Torrey's Yucca",
+    "Central Texas",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b004",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Exact reusable source image metadata locked. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/01-habit.jpg",
+      "role": "Tree-like habit / leaf crown",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yucca_torreyi_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-531315198.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/531315198",
+      "observation_url": "https://www.inaturalist.org/observations/295151498",
+      "observation_id": "295151498",
+      "photo_id": "531315198",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/531315198/large.jpg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-115716217.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/115716217",
+      "observation_url": "https://www.inaturalist.org/observations/71107291",
+      "observation_id": "71107291",
+      "photo_id": "115716217",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/115716217/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ]
+}

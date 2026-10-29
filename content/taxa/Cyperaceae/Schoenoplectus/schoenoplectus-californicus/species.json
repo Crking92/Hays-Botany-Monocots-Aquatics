@@ -1,0 +1,37 @@
+{
+  "id": "schoenoplectus-californicus",
+  "family": "Cyperaceae",
+  "genus": "Schoenoplectus",
+  "species": "californicus",
+  "scientific_name": "Schoenoplectus californicus",
+  "common_name": "California bulrush",
+  "look_here_first": "Look for tall upright leafless-looking triangular or rounded wetland culms with lateral-appearing spikelet clusters beneath a long bract; examine mature nutlets and stem cross-section.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Schoenoplectus%20californicus",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Exact species image may be geographically outside Texas; preserve separate local range assessment.",
+  "images": [
+    {
+      "file": "images/commons-schoenoplectus-californicus.jpg",
+      "role": "Provisional emergent bulrush growth/inflorescence recognition; mature nutlets and stem cross-section missing.",
+      "creator": "Andrés González",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Schoenoplectus_californicus.jpg",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "Keep author/source/license attribution and ShareAlike for any derivative"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

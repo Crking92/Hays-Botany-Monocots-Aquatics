@@ -1,0 +1,114 @@
+{
+  "rank": "genus",
+  "family": "Asparagaceae",
+  "name": "Yucca",
+  "authority": "L.",
+  "common_group": "Yuccas",
+  "project_scope": {
+    "selection_mode": "comparison-first / B134 source-concept reconciliation",
+    "canonical_species_count": 6,
+    "canonical_species_ids": [
+      "yucca-arkansana",
+      "yucca-constricta",
+      "yucca-pallida",
+      "yucca-rupicola",
+      "yucca-torreyi",
+      "yucca-treculiana"
+    ],
+    "represented_source_concepts": [
+      "yucca-treculeana"
+    ],
+    "source_concept_count": 7,
+    "note": "B004 established the original four-species comparison; B082 added Y. arkansana and provisional Y. pallida. The source spelling Yucca treculeana is represented by canonical Yucca treculiana and is not a separate learner concept."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "evergreen rosettes of sword-shaped leaves",
+      "large pendent cream to greenish-white flowers",
+      "specialized yucca-moth pollination syndrome",
+      "fruit type, leaf margins, and rosette/trunk habit are highly diagnostic"
+    ],
+    "priority": [
+      "trunkless versus arborescent habit",
+      "leaf width, stiffness, color, and flexibility",
+      "leaf twisting",
+      "marginal threads versus toothed/wavy margins",
+      "apical leaf rolling",
+      "inflorescence branching",
+      "dry dehiscent capsule versus fleshy indehiscent fruit"
+    ],
+    "warning": "Do not identify the tree yuccas Y. torreyi and Y. treculiana from one leaf character alone; older taxonomic lumping and overlap make multi-character confirmation important. Keep Y. pallida's range HOLD separate from morphology confidence."
+  },
+  "quick_key": [
+    {
+      "if": "low stemless rosette with narrow flexible dull-green leaves and conspicuous white curly marginal fibers; flower stalk simple or sparsely branched",
+      "then": "Yucca arkansana"
+    },
+    {
+      "if": "low trunkless colony with broad flexible strongly glaucous blue-gray leaves, yellowish margins, and weak/absent curly fibers",
+      "then": "Yucca pallida (provisional range HOLD)"
+    },
+    {
+      "if": "trunkless colony; broad flexible leaves conspicuously twisted with orange/red wavy-toothed margins",
+      "then": "Yucca rupicola"
+    },
+    {
+      "if": "trunkless/short-stemmed colony; very narrow mostly straight leaves with white marginal threads and deeply waist-constricted dry capsule",
+      "then": "Yucca constricta"
+    },
+    {
+      "if": "tree yucca; traditionally marginal threads and often inrolled leaf tips; fleshy fruit",
+      "then": "Yucca torreyi"
+    },
+    {
+      "if": "tree yucca; traditionally few/no marginal threads, leaf tips not strongly inrolled; stouter ovary and fleshy fruit; older/source spelling often 'treculeana'",
+      "then": "Yucca treculiana"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-b134-reconciliation",
+    "source_concepts_reconciled": true,
+    "full_installed_set_in_genus_lesson": true,
+    "provisional_status_preserved": true,
+    "last_reviewed": "2026-10-05"
+  },
+  "source_concept_status": [
+    {
+      "id": "yucca-arkansana",
+      "scientific_name": "Yucca arkansana",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "yucca-constricta",
+      "scientific_name": "Yucca constricta",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "yucca-pallida",
+      "scientific_name": "Yucca pallida",
+      "status": "CANONICAL_PROVISIONAL_RANGE_HOLD",
+      "note": "Two exact target-zone counties locked; native metrics excluded pending a third county."
+    },
+    {
+      "id": "yucca-rupicola",
+      "scientific_name": "Yucca rupicola",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "yucca-torreyi",
+      "scientific_name": "Yucca torreyi",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "yucca-treculeana",
+      "scientific_name": "Yucca treculeana",
+      "status": "SOURCE_SPELLING_REPRESENTED_BY_YUCCA_TRECULIANA"
+    },
+    {
+      "id": "yucca-treculiana",
+      "scientific_name": "Yucca treculiana",
+      "status": "CANONICAL_PASS"
+    }
+  ],
+  "taxonomy_note": "Current Kew/POWO accepts Yucca treculiana Carrière. The project preserves the source-pool spelling Yucca treculeana for provenance/older literature but maps it to the single canonical Y. treculiana learner. Current Kew also keeps Yucca torreyi distinct, while older treatments may lump it."
+}

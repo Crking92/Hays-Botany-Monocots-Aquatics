@@ -1,0 +1,147 @@
+{
+  "id": "agave-lechuguilla",
+  "entry_type": "species",
+  "family": "Asparagaceae",
+  "genus": "Agave",
+  "species": "lechuguilla",
+  "scientific_name": "Agave lechuguilla",
+  "authority": "Torr.",
+  "common_name": "Lechuguilla",
+  "synonyms": [
+    "Agave poselgeri",
+    "Agave univittata var. tamaulipasana"
+  ],
+  "taxonomic_note": "Keep separate accepted Agave univittata; only its historical var. tamaulipasana is listed here as a synonym.",
+  "look_here_first": "Look at narrow rigid rosette leaves, their spaced marginal teeth, and the terminal spine; then inspect the largely spike-like flowering axis. Distinguish A. univittata with leaf-edge detail, not size alone.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Narrow erect leaves, typically 30–50 × 2–4(–5.2) cm.",
+      "Leaf teeth about 2–6 mm, mostly spaced 2–4 cm apart; terminal spine 1.5–4.5 cm.",
+      "Flowering axis largely spike-like, about 2–3.5 m in the existing FNA-based review."
+    ],
+    "leaves": "Rigid narrow leaves in a basal rosette; inspect edge teeth and terminal spine with scale.",
+    "inflorescence": "Tall largely spicate flowering axis; habit and axis are visible in the USDA photograph, but individual flowers are not resolved.",
+    "lookalike_separators": "A. americana has much broader leaves and a branched panicle. A. univittata has undulate/crenate, less detachable leaf margins and teeth mostly 1–2 cm apart; overlaps require close leaf-edge and flowering evidence. Hybridization is documented in FNA; avoid size-only identification."
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Texas-native at state level (Chihuahuan Desert); >=3 project target counties not certified. Preserve UNRESOLVED.",
+    "native_range_sources": [
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60474750-2"
+    ]
+  },
+  "county_occurrences_target_zone": [],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-14",
+    "review_basis": "Existing Master Plant Pool scientific review; exact accepted-name verification repeated 2026-10-14",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "images": [
+    {
+      "file": "images/01-texas-habit-flowering-axis.jpg",
+      "role": "Texas USDA habit view: basal narrow-leaved rosettes and a tall largely spike-like flowering axis",
+      "creator": "Clarence A. Rechenthin @ USDA-NRCS PLANTS Database",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Agave_lechuguilla_habitus.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-738800291-basal-rosette.jpg",
+      "role": "Lechuguilla: basal rosette of narrow, stiff, sharply pointed leaves on rocky dry ground; margin teeth require magnification",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/738800291",
+      "observation_url": "https://www.inaturalist.org/observations/402444476",
+      "observation_id": 402444476,
+      "photo_id": 738800291,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/738800291/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-738801625-fruiting-stalk.jpg",
+      "role": "Lechuguilla: tall inflorescence stalk with numerous green developing fruit and dried floral remnants; reproductive structure, not leaf-level detail",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/738801625",
+      "observation_url": "https://www.inaturalist.org/observations/402445099",
+      "observation_id": 402445099,
+      "photo_id": 738801625,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/738801625/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "diagnostic_photo_plan": [
+    "Leaf profile and marginal teeth with scale",
+    "Terminal spine macro",
+    "Close-up of flowering axis and individual flowers",
+    "Matched A. univittata leaf-edge comparison"
+  ],
+  "photo_provenance": {
+    "title": "File:Agave lechuguilla habitus.jpg",
+    "direct_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Agave_lechuguilla_habitus.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Agave_lechuguilla_habitus.jpg",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA",
+    "creator": "Clarence A. Rechenthin @ USDA-NRCS PLANTS Database",
+    "source_description": "Lechuguilla. Plant and habitus. Location: West of Van Horn, TX, USA.",
+    "index": 1,
+    "source_platform": "Wikimedia Commons",
+    "visual_verification": "Visible basal rosettes and tall unbranched-looking flowering axis west of Van Horn, Texas. Older low-resolution photograph; leaf tooth measurements and flower anatomy cannot be read from it.",
+    "verified_at": "2026-10-14",
+    "changes": "Width-limited thumbnail where original exceeds 960 px; pipeline JPEG optimization; no overlays.",
+    "study_use": "yes",
+    "public_reuse": "yes; preserve attribution and applicable ShareAlike"
+  },
+  "source_pool_review": {
+    "scientific_name": "Agave lechuguilla",
+    "taxonomy_review": "Reviewed 2026-10-09 — accepted Agave lechuguilla Torr. (POWO/WCVP); Texas native at STATE level (Chihuahuan Desert), target-zone three-county status UNRESOLVED. Preserve learner approval, no native PASS. Historic Agave univittata var. tamaulipasana belongs under A. lechuguilla in POWO; do not merge accepted A. univittata species. Sources: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60474750-2 ; https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101309",
+    "curation_status_before_install": "Taxonomy reviewed — approved_pending_curation; range UNRESOLVED; not canonical",
+    "diagnostic_notes": "LOOK HERE FIRST: narrow erect 30–50 × 2–4(-5.2) cm rigid leaves with teeth 2–6 mm mostly 2–4 cm apart, apical spine 1.5–4.5 cm; flowering axis largely spike-like (2–3.5 m) vs branched A. americana panicle. Similar A. univittata has undulate/crenate, less detachable leaf margins and teeth mostly 1–2 cm apart; overlap demands flowers/leaf-edge close-up. FNA notes hybridization with other agaves; don't use size alone. PHOTO ROLES: leaf cross-profile + margins with scale, spine, full flowering axis, paired A. univittata edge.",
+    "accepted_name_note": "Accepted Agave lechuguilla Torr.; synonyms include Agave poselgeri Salm-Dyck and Agave univittata var. tamaulipasana (A.Berger) Jacobson. A. univittata is a separate accepted species."
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60474750-2",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101309"
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful."
+}

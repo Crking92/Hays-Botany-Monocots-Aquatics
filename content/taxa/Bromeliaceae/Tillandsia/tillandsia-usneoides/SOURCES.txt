@@ -1,0 +1,9 @@
+Master Plant Pool preflight source rows: 1179.
+Name source: https://powo.science.kew.org/results?q=Tillandsia%20usneoides
+Individual photo from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Tillandsia_usneoides.JPG
+Image direct download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Tillandsia%20usneoides.JPG
+Creator: Kalathalan
+License: CC BY-SA 3.0
+Role: Provisional hanging Spanish-moss growth habit; individual leaves and small flowers require magnified photos.
+Explicit caution: This is an epiphytic bromeliad rather than a true moss or a parasite; source may be geographically outside project area.
+No BONAP county nativity decision. Provisional visual species identity; exact diagnostic organ verification pending.

@@ -1,0 +1,63 @@
+{
+  "id": "nelumbo-lutea",
+  "family": "Nelumbonaceae",
+  "genus": "Nelumbo",
+  "species": "lutea",
+  "scientific_name": "Nelumbo lutea",
+  "common_name": "American lotus",
+  "look_here_first": "Large circular leaves on stout stalks, large pale-yellow many-petaled flowers and flat-topped showerhead-shaped seed receptacles.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_047": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Nelumbo%20lutea",
+  "images": [
+    {
+      "file": "images/inat-418868804.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Craig K. Hunt, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/418868804",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review047-87c287c3d90f19a.jpg",
+      "role": "Mature dry dark seed receptacle of American lotus with seeds/holes, handheld for scale; original fresh-green receptacle preserved; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Actual archived source photos visually screened and chosen for distinct botanical parts. Exact identification provisional.",
+      "creator": "natgrace18",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6179180960",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623361544/original.jpg",
+      "source_determination": "Nelumbo lutea",
+      "source_observation_id": "6179180960",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/nelumbo-lutea/gbif-61cfc846a06743.jpg",
+      "archive_image_sha256": "3fcba19d47c877130737748dfddf00a78be0198162800997212ad2ca7a6a560a",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

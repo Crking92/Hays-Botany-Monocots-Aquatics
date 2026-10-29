@@ -1,0 +1,23 @@
+Androstephium coeruleum (Scheele) Greene — Blue funnel-lily
+Learner admission: approved derived Master Plant Pool row 69. Range: UNRESOLVED for target counties; exclude confirmed-native metrics pending BONAP/NAPA audit.
+Identity: Androstephium caeruleum is an orthographic variant; do not create a duplicate card. Historic combinations: Milla coerulea, Brodiaea coerulea.
+
+Morphology (primary): Flora of North America vol. 26, J. Chris Pires and J. L. Reveal, reproduced at NEON Biorepository:
+https://biorepo.neonscience.org/portal/taxa/index.php?clid=8683&taxauthid=1&taxon=3165
+Local supplementary description: Texas Wildbuds, Travis County observation:
+https://www.texaswildbuds.com/androstephium-coeruleum.html
+FNA measures: leaves 10-30(-35) x 0.15-0.3 cm; scape 1-2(-3.5) dm; umbel 2-6(-9) flowers; perianth 1.5-2.5(-3) cm; anthers 2-4 mm; capsule 1-1.5 cm; seeds 7-9 mm. Staminal crown is genus-level floral clue; verify its structure in macro before annotating.
+
+Photo source: Wikimedia Commons https://commons.wikimedia.org/wiki/File:BlueFunnelLily_plant.png
+Creator: Vanderveck (own photograph, 2006-06-22), license CC BY-SA 3.0 Unported. Direct original: https://upload.wikimedia.org/wikipedia/commons/e/e7/BlueFunnelLily_plant.png
+Photo portrays exact A. coeruleum flowering inflorescence with six spreading tepals; do NOT claim the filament crown is resolved in this view.
+Study use: yes. Public reuse: yes subject to attribution, link to CC BY-SA 3.0 license and share-alike requirements for adaptations; keep attribution in installed gallery. If image is resized, preserve author/license and note any modifications. No user/Joey media used.
+
+Diagnostic Photo Polish handoff: (1) flower side profile and fused tepal tube with scale, (2) true throat macro resolving filament-built crown/anthers, (3) basal leaf insertion and leafless scape, (4) mature 3-angled capsule and flat black seeds, (5) matched local Allium drummondii/Nothoscordum bivalve flower comparison. All arrows annotation_pending until actual targets verified. Current staged image is external_reference/install_pending, not installed_verified.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Androstephium coeruleum (Scheele) Greene
+https://www.gbif.org/occurrence/5087620923
+Cody Stricker | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Joined stamen filaments forming crown inside six-tepal flower throat
+No anatomy arrows; no scientific or native-range changes.

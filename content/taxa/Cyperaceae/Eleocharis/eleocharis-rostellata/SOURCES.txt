@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:307079-1
+Source research-grade observation: https://www.inaturalist.org/observations/325336876
+Photo: https://www.inaturalist.org/photos/589023950
+Attribution: (c) Spencer Kimble, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Eleocharis rostellata
+Creator: Eric Knight; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4009662615
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eleocharis-rostellata/gbif-001af0463c0e79.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Eleocharis rostellata
+Creator: Eric Knight; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4009662615
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/eleocharis-rostellata/gbif-5b88416f5124da.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

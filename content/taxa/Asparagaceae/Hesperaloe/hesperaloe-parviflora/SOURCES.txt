@@ -1,0 +1,27 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Hesperaloe%20parviflora
+Source research-grade observation: https://www.inaturalist.org/observations/1525523
+Photo: https://www.inaturalist.org/photos/1890618
+Attribution: (c) Diana-Terry Hibbitts, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Hesperaloe parviflora
+Creator: Cody Stricker; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5168211359
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/hesperaloe-parviflora/gbif-a334af663f44bf.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Hesperaloe parviflora
+Creator: matheus olmedo; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110401863
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/hesperaloe-parviflora/plantnet-via-gbif-12287dcb482630.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Hesperaloe parviflora
+Creator: Charles De Gaulle; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109484146
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/hesperaloe-parviflora/plantnet-via-gbif-5ce6f52f321950.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

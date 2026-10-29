@@ -1,0 +1,25 @@
+Existing approved Master Plant Pool scientific review, retained verbatim in species.json source_pool_review.
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60474750-2
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101309
+
+Exact photo source: https://commons.wikimedia.org/wiki/File:Agave_lechuguilla_habitus.jpg
+Creator: Clarence A. Rechenthin @ USDA-NRCS PLANTS Database
+License: Public domain (https://commons.wikimedia.org/wiki/Template:PD-USGov-USDA)
+Source description: Lechuguilla. Plant and habitus. Location: West of Van Horn, TX, USA.
+Visual verification: Visible basal rosettes and tall unbranched-looking flowering axis west of Van Horn, Texas. Older low-resolution photograph; leaf tooth measurements and flower anatomy cannot be read from it.
+Download: https://upload.wikimedia.org/wikipedia/commons/2/2b/Agave_lechuguilla_habitus.jpg
+Changes: bounded thumbnail where applicable, JPEG optimization; no anatomical arrows or overlays.
+Reuse: attribution and applicable ShareAlike preserved; public-domain USDA photograph identified as such.
+
+Remaining photo roles:
+- Leaf profile and marginal teeth with scale
+- Terminal spine macro
+- Close-up of flowering axis and individual flowers
+- Matched A. univittata leaf-edge comparison
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 738800291 https://www.inaturalist.org/photos/738800291 | 402444476 | images/glass-root-garden-738800291-basal-rosette.jpg
+- 738801625 https://www.inaturalist.org/photos/738801625 | 402445099 | images/glass-root-garden-738801625-fruiting-stalk.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

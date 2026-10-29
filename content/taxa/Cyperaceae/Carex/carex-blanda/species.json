@@ -1,0 +1,90 @@
+{
+  "id": "carex-blanda",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "species": "blanda",
+  "scientific_name": "Carex blanda",
+  "authority": "Dewey",
+  "common_name": "Eastern woodland sedge / common wood sedge",
+  "look_here_first": "Woodland Carex with relatively broad, flat green leaves and a loose set of separate spikes: one terminal staminate spike above several pistillate spikes.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays County is present in the repaired Master Plant Pool local-native source. Broader county reconciliation intentionally deferred under the provisional-first learning workflow.",
+    "range_guardrail": "Installed for visual learning now; native metrics remain excluded until county-level review is completed."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Cyperaceae/Carex: grasslike perennial sedges with sheathing leaves; Carex fruits are enclosed in a perigynium, a key structure for species-level identification.",
+    "best_field_traits": [
+      "densely tufted perennial sedge",
+      "flat leaves, often noticeably broader than cedar sedge",
+      "terminal staminate spike",
+      "usually 3–4 pistillate lateral spikes",
+      "green to yellow-green perigynia",
+      "dry to mesic woodland habitat"
+    ],
+    "comparison_training": "Compared with C. planostachys, C. blanda usually has broader flatter leaves and taller looser foliage. Compared with C. edwardsiana, it lacks the strongly purple-red culm bases and Central Texas canyon-endemic pattern."
+  },
+  "curation_status": {
+    "version": "1.0-b104-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/carex-blanda-provisional-face.png",
+      "role": "Botanical illustration / whole sedge diagnostic form",
+      "creator": "Britton & Brown (1913) / USDA-NRCS PLANTS Database",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_blanda_drawing_1.png",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6179114553-0f52bc06c.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Terminal male spike vs separate female spikes; perigynia and beaks",
+      "creator": "sonoresmore",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6179114553",
+      "gbif_occurrence_id": "6179114553",
+      "source_determination": "Carex blanda Dewey",
+      "accepted_target": "Carex blanda",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623747847/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

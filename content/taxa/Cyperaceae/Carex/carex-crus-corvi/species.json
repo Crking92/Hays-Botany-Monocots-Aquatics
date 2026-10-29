@@ -1,0 +1,90 @@
+{
+  "id": "carex-crus-corvi",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "species": "crus-corvi",
+  "scientific_name": "Carex crus-corvi",
+  "authority": "Shuttlew. ex Kunze",
+  "common_name": "Ravenfoot sedge",
+  "look_here_first": "Tall wetland sedge with broad glaucous leaves and a dense cylindrical inflorescence with long-beaked perigynia.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays County is present in the repaired Master Plant Pool local-native source.",
+    "range_guardrail": "Installed for learning now; native metrics excluded until later county reconciliation."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Carex sedges have sheathing leaves and perigynia enclosing the fruits.",
+    "best_field_traits": [
+      "robust wetland perennial",
+      "broad glaucous leaves",
+      "dense cylindrical many-branched inflorescence",
+      "large strongly veined perigynia",
+      "long toothed beaks",
+      "seasonally wet bottomland habitat"
+    ],
+    "comparison_training": "Much denser and wetter-site than C. blanda, C. edwardsiana, or C. planostachys."
+  },
+  "curation_status": {
+    "version": "1.0-b104-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/carex-crus-corvi-provisional-face.jpg",
+      "role": "Whole plant / fruiting sedge recognizable face",
+      "creator": "Robert H. Mohlenbrock / USDA SCS",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_crus-corvi_NRCS-01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6178681778-12de0da41.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Long-beaked perigynia on fruiting spikes; ligule and leaf collar",
+      "creator": "Piotr",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6178681778",
+      "gbif_occurrence_id": "6178681778",
+      "source_determination": "Carex crus-corvi Shuttlew. ex Kunze",
+      "accepted_target": "Carex crus-corvi",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622655979/original.jpg",
+      "image_dimensions": [
+        1016,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,9 @@
+Master Pool Phase3 preflight; source rows 412.
+Accepted-name reference https://powo.science.kew.org/results?q=Eleocharis%20palustris
+Species-specific photograph: https://commons.wikimedia.org/wiki/File:Eleocharis_palustris_closeup.jpg
+Download exact original (Commons redirect, width-constrained by existing curation installer): https://commons.wikimedia.org/wiki/Special:Redirect/file/Eleocharis%20palustris%20closeup.jpg
+Creator Matt Lavin
+Photo license CC BY-SA 2.0
+Visible photo role Provisional inflorescence detail: one cylindrical terminal spikelet; achene and mature basal structures not shown.
+Photo/review caveat Close-up of common-spikerush single cylindrical terminal spikelet, Montana. Species-level differentiation in the palustris complex remains a later diagnostic task.
+No BONAP county nativity label assigned by this batch; image locality does not prove native distribution. Preserve any independent nativity HOLDs.

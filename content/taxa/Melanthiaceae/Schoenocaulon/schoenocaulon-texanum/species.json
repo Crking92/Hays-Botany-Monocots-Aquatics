@@ -1,0 +1,53 @@
+{
+  "id": "schoenocaulon-texanum",
+  "family": "Melanthiaceae",
+  "genus": "Schoenocaulon",
+  "species": "texanum",
+  "scientific_name": "Schoenocaulon texanum",
+  "common_name": "Texas feather-shank",
+  "look_here_first": "Basal narrow leaves and upright spike of inconspicuous flowers; inspect inflorescence and flower parts.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-260230513.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/260230513",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-260230536.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/260230536",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-260230550.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/260230550",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

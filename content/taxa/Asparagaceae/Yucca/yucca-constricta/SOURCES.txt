@@ -1,0 +1,47 @@
+# Deep Review sources — Yucca constricta
+Reviewed: 2026-10-02
+Batch: deep-review-batch-008-yucca-b004
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Yucca constricta Buckley
+- Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A543668-1
+- NPSOT / BONAP reference: https://www.npsot.org/posts/native-plant/yucca-constricta/
+
+## Strict project-range evidence
+- Hays — UT PRC Purola natural flora: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+- Travis — Balcones Canyonlands Preserve plant list: https://www.traviscountytx.gov/images/tnr/Docs/Plants.pdf
+- Val Verde — Laughlin AFB INRMP observed plant list, Del Rio/Val Verde County: https://www.denix.osd.mil/inrmp/denix-files/sites/98/2024/02/Current-LAFB-INRMP_-Signed-4Oct17.pdf
+Decision: PASS
+
+## Morphology
+- Flora of North America: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102059
+Key: narrow mostly straight filiferous leaves; long naked scape; dry capsule deeply constricted near middle.
+
+## Photo candidates
+- NPSOT credited photographs: https://www.npsot.org/posts/native-plant/yucca-constricta/
+- UT Wildflowers of Texas: https://w3.biosci.utexas.edu/prc/wildflowers/flower/yucca-constricta
+
+APPROVAL
+User explicitly approved B004 on 2026-10-02.
+PHOTO STATUS
+Diagnostic Wikimedia/NPSOT/UT photo sources recorded; exact creator/license/direct downloadable file remains pending, so no guessed asset is created.
+
+
+JOEY SANTORE SPECIES CONTEXT
+Texas Observer field report:
+https://www.texasobserver.org/abbotts-billion-dollar-barrier/
+Record: j011-005
+The article reports Joey Santore pointing out Yucca constricta during the documented South Texas field visit.
+Guardrail: this is a field-documentation lead, not an exact Joey species photo. No generic Yucca image is promoted as Y. constricta.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/615486659; observation 338442364.
+Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:15:01.880299+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/357350297
+https://www.inaturalist.org/observations/202345369
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

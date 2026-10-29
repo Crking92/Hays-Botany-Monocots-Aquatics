@@ -1,0 +1,154 @@
+{
+  "rank": "family",
+  "name": "Nelumbonaceae",
+  "common_name": "Lotus family",
+  "lineage_context": {
+    "order": "Proteales",
+    "batch": "Aquatic early-angiosperm comparison",
+    "close_project_families": [
+      "Nymphaeaceae",
+      "Ceratophyllaceae"
+    ],
+    "teaching_goal": "Teach American lotus as convergent in aquatic habit with water lilies but structurally distinct: centrally peltate leaves, emergent flowers, numerous stamens, and separate carpels embedded in an enlarged flat-topped receptacle that becomes the unmistakable showerhead fruit."
+  },
+  "project_scope": {
+    "selection_mode": "Nelumbo lutea one-species family module",
+    "note": "Nelumbo lutea is accepted by current Kew and its native range includes Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look at the center of a leaf. The petiole attaches to the middle of the blade, making the leaf truly peltate. Then inspect the flower center for the broad flat-topped receptacle with separate pistils sunk into pits.",
+    "vegetative": "Perennial rhizomatous aquatic herb with conspicuous air spaces. Leaves arise directly from the rhizome on long petioles; blades are large, round and centrally peltate, floating or more often held above water.",
+    "reproductive": "Large solitary bisexual flowers held above the water. Tepals and stamens are numerous. Pistils are numerous and separate, each embedded individually in the expanded flat top of a turbinate receptacle.",
+    "fruit": "Each carpel matures into a hard nutlike one-seeded fruit loose in its own cavity of the enlarged receptacle, producing the familiar showerhead/seedpod structure.",
+    "field_tip": "Round centrally peltate leaf + emergent flower + showerhead receptacle = Nelumbonaceae/Nelumbo."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_027",
+    "teaching_order": "peltate leaf → water-shedding surface → emergent flower → receptacle + separate pistils → mature showerhead fruit → water-lily comparison → phylogeny surprise",
+    "intro": "Lotus looks like a water-lily from across a pond, but one glance at the leaf center or fruit tells you it is a completely different family—and even a different major lineage.",
+    "steps": [
+      {
+        "title": "1 · Find the petiole in the middle",
+        "photo_role": "leaf top/underside",
+        "look_for": "Petiole attaches centrally on the blade rather than at a basal notch.",
+        "why_it_matters": "This is the fastest visual split from Nymphaeaceae.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Watch water bead and roll",
+        "photo_role": "lotus leaf surface",
+        "look_for": "Water droplets bead strongly on the waxy leaf surface.",
+        "why_it_matters": "Memorable surface behavior reinforces the lotus leaf identity, though it is not the sole family character.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Find the receptacle inside the flower",
+        "photo_role": "flower center macro",
+        "look_for": "A broad, flattened, cone/turbine-shaped yellow receptacle with many separate stigmas/pistils embedded in pits.",
+        "why_it_matters": "This is the structure that later becomes the showerhead fruit.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Follow each pit into a separate fruit",
+        "photo_role": "maturing seedhead sequence",
+        "look_for": "Each pit contains one independent nutlike fruit rather than all carpels fusing into one ovary.",
+        "why_it_matters": "Makes the distinctive fruit architecture botanically understandable.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "5 · Compare leaves with Nymphaeaceae",
+        "photo_role": "lotus vs water-lily leaf",
+        "look_for": "Lotus = peltate central attachment and often emergent bowl-shaped blade; water-lily = petiole enters at basal sinus/notch.",
+        "why_it_matters": "Prevents habitat-based misidentification.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "6 · The phylogeny surprise",
+        "photo_role": "simple lineage card",
+        "look_for": "Nelumbo is in Proteales, not Nymphaeales. Similar pond habit is convergence, not close relationship.",
+        "why_it_matters": "Turns a common visual confusion into an evolutionary learning moment.",
+        "status": "lineage_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Nelumbonaceae vs Nymphaeaceae",
+        "rule": "Lotus has centrally peltate leaves and separate carpels embedded in a showerhead receptacle. Water-lilies attach the petiole at a basal sinus and lack the lotus receptacle."
+      },
+      {
+        "title": "Nelumbonaceae vs Ceratophyllaceae",
+        "rule": "Lotus is rooted in sediment with huge emergent/floating peltate leaves and showy flowers. Ceratophyllum is rootless, completely submerged and has tiny naked flowers."
+      }
+    ],
+    "caveat": "The dry lotus 'pod' is an enlarged receptacle holding separate fruits, not one capsule. Also, lotus and water-lilies are not close relatives despite their shared aquatic habit."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Nelumbo",
+        "taxa_count": 1,
+        "fast_cue": "centrally peltate round leaf + emergent many-stamen flower + showerhead receptacle",
+        "role": "American lotus door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Nelumbo lutea"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Nelumbo lutea",
+      "current_name": "Nelumbo lutea",
+      "note": "Accepted by current Kew; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "central peltate leaf attachment",
+      "annotation_goal": "label petiole entering center of blade"
+    },
+    {
+      "priority": 1,
+      "structure": "flower receptacle",
+      "annotation_goal": "label expanded receptacle and individually embedded pistils"
+    },
+    {
+      "priority": 1,
+      "structure": "mature showerhead fruit",
+      "annotation_goal": "label individual nutlike fruits in separate cavities"
+    },
+    {
+      "priority": 1,
+      "structure": "Nelumbo vs Nymphaeaceae leaf",
+      "annotation_goal": "central peltate versus basal sinus"
+    },
+    {
+      "priority": 2,
+      "structure": "Proteales lineage card",
+      "annotation_goal": "show aquatic convergence rather than close relationship"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Nelumbo lutea",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:605419-1"
+    },
+    {
+      "source": "FNA — Nelumbonaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10608"
+    },
+    {
+      "source": "FNA — Nelumbo lutea",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500796"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct Nelumbonaceae target frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-027",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_peltate_receptacle_fruit_lineage_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

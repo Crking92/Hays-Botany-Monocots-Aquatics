@@ -1,0 +1,116 @@
+{
+  "id": "cabomba-caroliniana",
+  "entry_type": "species",
+  "family": "Cabombaceae",
+  "genus": "Cabomba",
+  "species": "caroliniana",
+  "scientific_name": "Cabomba caroliniana",
+  "authority": "A.Gray",
+  "common_name": "Carolina fanwort / fanwort",
+  "synonyms": [
+    "Cabomba pulcherrima (R.M.Harper) Fassett",
+    "Cabomba caroliniana var. pulcherrima R.M.Harper"
+  ],
+  "taxonomic_note": "Accepted by ITIS and Flora of North America; Texas is within the native range.",
+  "look_here_first": "Ignore the flower at first and look underwater: submerged leaves are opposite and fan-shaped, split into many fine segments. When flowering, a small white-to-purplish 3-merous flower rises at the surface.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — peer-reviewed San Marcos River aquatic-plant survey lists Cabomba caroliniana as native. Travis — City of Austin Watershed Protection identifies fanwort as a native aquatic plant in Lady Bird Lake/Barton Springs system. Comal — Edwards Aquifer Habitat Conservation Plan / City of New Braunfels restoration program treats Cabomba caroliniana as native aquatic vegetation in the Comal/Landa Lake system.",
+    "range_guardrail": "Exact locality/county sources were used; no county inferred from statewide range."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rooted submerged perennial with slender branched stems",
+      "submerged leaves opposite",
+      "submerged leaf blades fan-shaped and repeatedly dichotomously divided into fine segments",
+      "small floating leaves may appear near flowering shoots",
+      "solitary axillary flowers at or above the water surface",
+      "flowers 3-merous: three sepals and three petals",
+      "petals with yellow nectar-bearing auricles"
+    ],
+    "habit": "Rooted perennial submerged aquatic with much-branched slender stems.",
+    "leaf_morphology": "Strongly heterophyllous: the common submerged leaves are opposite, fan-shaped and finely divided; small linear floating leaves may be produced near flowering.",
+    "flower": "Solitary axillary 3-merous flower, generally white to purplish with yellow nectar-bearing auricles.",
+    "fruit": "Small fruits with one to three seeds.",
+    "joey_field_note": "Joey's San Marcos River frame gives a close flower view; combine it with the unmistakable opposite fan-shaped submerged foliage for identification."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Limnophila sessiliflora",
+      "other finely divided submerged aquatics"
+    ],
+    "key_distinctions": "Cabomba has opposite fan-shaped submerged leaves; Limnophila has finely divided leaves arranged in whorls. Cabomba also produces a distinctive small 3-merous surface flower."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:28:07.7",
+      "record_id": "jvid-Hr3nBxvgCv4-018",
+      "role": "source-labeled flower close-up / reproductive center",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Cabombaceae",
+    "Cabomba",
+    "Fanwort",
+    "San Marcos River",
+    "Aquatic",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-joey-smr",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_status": "private_study_gallery_installed_diagnostic_gaps_remain",
+    "photo_updated_at": "2026-10-04"
+  },
+  "photo_note": "Saved San Marcos River frame installed locally for private study. Image role and limitations are stated in the gallery caption; diagnostic close-up gaps remain.",
+  "images": [
+    {
+      "file": "images/cabomba-caroliniana_flower-source-label_00-28-07.7.jpg",
+      "role": "Source-labeled flower close-up showing pale perianth and yellow central structures",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-inat-submerged-fan-leaves.jpg",
+      "role": "Submerged finely divided fan-shaped leaves and stem-node context",
+      "creator": "Ryan (ryman56)",
+      "license": "CC0 / no rights reserved",
+      "source_page": "https://www.inaturalist.org/photos/477349924",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-inat-guide-submerged-shoot.jpg",
+      "role": "Broader submerged shoot showing repeated fan-shaped leaf architecture",
+      "creator": "Show ryu",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://www.inaturalist.org/guide_taxa/793569",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Submerged fan-shaped leaves with node attachment; floating leaf comparison."
+  ]
+}

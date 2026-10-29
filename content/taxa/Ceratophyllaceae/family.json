@@ -1,0 +1,170 @@
+{
+  "rank": "family",
+  "name": "Ceratophyllaceae",
+  "common_name": "Coontail / hornwort family",
+  "lineage_context": {
+    "order": "Ceratophyllales",
+    "batch": "Aquatic early-angiosperm comparison",
+    "close_project_families": [
+      "Nymphaeaceae",
+      "Nelumbonaceae"
+    ],
+    "teaching_goal": "Teach Ceratophyllum as a highly reduced rootless submerged angiosperm: whorled forked denticulate leaves, no roots, tiny unisexual perianthless underwater flowers, and a one-seeded achene with persistent style/spines."
+  },
+  "project_scope": {
+    "selection_mode": "Ceratophyllum demersum one-species family module",
+    "note": "Ceratophyllum demersum is accepted by current Kew, cosmopolitan, and native-range treatment includes Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Pull up a shoot and look for roots—there are none. Stems float/suspend in the water and bear crowded whorls of stiff leaves repeatedly forked into narrow toothed segments.",
+    "vegetative": "Fully submerged perennial aquatic herbs without true roots or rhizomes. Branched stems are free-floating or anchored loosely by buried branches. Leaves are sessile, in whorls, and fork into linear filiform segments with small teeth.",
+    "reproductive": "Flowers are tiny, submerged, unisexual and perianthless. Male and female flowers occur on the same plant. Male flowers bear multiple stamens; female flowers have one simple pistil with a one-locular, one-ovule ovary.",
+    "fruit": "A one-seeded indehiscent achene/nutlike fruit with the persistent style forming a terminal spine; basal spines or tubercles may also be present.",
+    "field_tip": "Rootless submerged stem + whorled forked toothed leaves + tiny naked underwater flowers = Ceratophyllaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_027",
+    "teaching_order": "rootless whole shoot → leaf whorl → dichotomous fork + denticles → tiny naked male/female flowers → spiny achene → water-lily/lotus comparison → 'hornwort' name caution",
+    "intro": "Coontail is an angiosperm stripped down for life underwater: no roots, no petals, no sepals, and almost invisible flowers—yet it still makes a one-seeded fruit.",
+    "steps": [
+      {
+        "title": "1 · Prove the plant is rootless",
+        "photo_role": "whole pulled shoot",
+        "look_for": "No true roots at the base; stems remain suspended or loosely anchored by buried branches.",
+        "why_it_matters": "This immediately separates Ceratophyllum from rooted water-lilies and lotus.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Read one leaf whorl",
+        "photo_role": "node macro",
+        "look_for": "Several sessile leaves radiating around a stem node.",
+        "why_it_matters": "The whorled architecture produces the characteristic coontail silhouette.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Follow the forks and teeth",
+        "photo_role": "leaf macro",
+        "look_for": "Leaf blades fork dichotomously into narrow segments whose margins carry conspicuous denticles.",
+        "why_it_matters": "Leaf-forking order and denticles are important Ceratophyllum species characters.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Find the flowers you can barely see",
+        "photo_role": "male/female flower macro or diagram",
+        "look_for": "Tiny submerged unisexual flowers with no sepals or petals; male flowers mostly stamens, female flowers essentially one pistil.",
+        "why_it_matters": "Shows how drastically aquatic angiosperm flowers can be reduced.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "5 · Find the terminal fruit spine",
+        "photo_role": "achene macro",
+        "look_for": "One-seeded achene with persistent style forming a terminal spine; C. demersum often also has two basal spines/tubercles.",
+        "why_it_matters": "Confirms it is a fruiting flowering plant, not a moss or alga.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "6 · Compare with the other pond families",
+        "photo_role": "three-family body-plan card",
+        "look_for": "Ceratophyllum rootless/submerged; Nymphaeaceae rooted with broad floating leaves; Nelumbo rooted with peltate floating/emergent leaves.",
+        "why_it_matters": "Habitat stays constant while architecture changes completely.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "7 · 'Hornwort' name caution",
+        "photo_role": "name-confusion card",
+        "look_for": "Ceratophyllum is an aquatic flowering plant; bryophyte hornworts are a completely different land-plant lineage.",
+        "why_it_matters": "Prevents a common-name collision from becoming a taxonomy error.",
+        "status": "terminology_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ceratophyllaceae vs Nymphaeaceae",
+        "rule": "Ceratophyllum is rootless and submerged with whorled forked leaves and naked flowers; water-lilies are rooted rhizomatous aquatics with broad floating/emergent leaves and showy many-parted flowers."
+      },
+      {
+        "title": "Ceratophyllaceae vs Nelumbonaceae",
+        "rule": "Ceratophyllum lacks roots and broad leaves entirely; lotus is a large rooted rhizomatous plant with peltate leaves and an emergent showy flower."
+      },
+      {
+        "title": "Ceratophyllum vs bryophyte hornworts",
+        "rule": "Ceratophyllum is a vascular flowering plant making flowers, fruits and seeds. Bryophyte hornworts are nonvascular plants with a completely different life cycle."
+      }
+    ],
+    "caveat": "Do not identify coontail only from a bushy underwater silhouette. Confirm whorled forked leaves with denticles; many submerged aquatics can appear superficially feathery."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Ceratophyllum",
+        "taxa_count": 1,
+        "fast_cue": "rootless submerged shoot + whorled dichotomously forked denticulate leaves + tiny naked flowers",
+        "role": "coontail door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Ceratophyllum demersum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ceratophyllum demersum",
+      "current_name": "Ceratophyllum demersum",
+      "note": "Accepted by current Kew; cosmopolitan native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "rootless whole shoot",
+      "annotation_goal": "label floating stem and absence of roots/rhizome"
+    },
+    {
+      "priority": 1,
+      "structure": "leaf whorl + dichotomous forks",
+      "annotation_goal": "label node, whorl, fork order and denticles"
+    },
+    {
+      "priority": 1,
+      "structure": "male vs female naked flower",
+      "annotation_goal": "show absence of perianth and separate reproductive organs"
+    },
+    {
+      "priority": 1,
+      "structure": "spiny achene",
+      "annotation_goal": "label fruit body, persistent style/terminal spine and basal spines"
+    },
+    {
+      "priority": 2,
+      "structure": "three aquatic family body plans",
+      "annotation_goal": "Ceratophyllum vs Nymphaeaceae vs Nelumbo"
+    },
+    {
+      "priority": 2,
+      "structure": "hornwort name caution",
+      "annotation_goal": "aquatic angiosperm versus bryophyte hornwort"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Ceratophyllum demersum",
+      "url": "https://powo.science.kew.org/taxon/30006047-2"
+    },
+    {
+      "source": "FNA — Ceratophyllaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10178"
+    },
+    {
+      "source": "FNA — Ceratophyllum demersum",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200007091"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing checked first; no direct Ceratophyllaceae target frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-027",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_rootless_whorled_leaves_naked_flowers_fruit_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

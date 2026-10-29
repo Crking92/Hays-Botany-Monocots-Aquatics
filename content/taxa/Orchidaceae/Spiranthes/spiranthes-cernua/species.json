@@ -1,0 +1,37 @@
+{
+  "id": "spiranthes-cernua",
+  "family": "Orchidaceae",
+  "genus": "Spiranthes",
+  "species": "cernua",
+  "scientific_name": "Spiranthes cernua",
+  "common_name": "Nodding ladies'-tresses",
+  "look_here_first": "Look for a slim upright stalk densely lined with many small white orchids; inspect spiral rows, nodding lip shape, labellum, and bracts—other Spiranthes species can appear similar.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Spiranthes%20cernua",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Spiranthes cernua is a species complex requiring expert floral review; Texas photo from Angelina County is not Hays confirmation.",
+  "images": [
+    {
+      "file": "images/commons-spiranthes-cernua.jpg",
+      "role": "Provisional white-flowered orchid inflorescence, Texas source. Detailed labellum morphology not confirmed.",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spiranthes_cernua.jpg",
+      "study_use": "Private noncommercial botanical learner",
+      "public_reuse": "Attribution and source license must be retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

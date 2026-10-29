@@ -1,0 +1,164 @@
+{
+  "rank": "family",
+  "name": "Hydrocharitaceae",
+  "common_name": "Tape-grass / frog-bit family",
+  "lineage_context": {
+    "order": "Alismatales",
+    "batch": "Alismatales",
+    "close_project_families": [
+      "Alismataceae",
+      "Potamogetonaceae",
+      "Araceae"
+    ],
+    "teaching_goal": "Use Vallisneria americana to teach a submerged basal-ribbon aquatic with inferior ovary and highly specialized water-surface pollination."
+  },
+  "project_scope": {
+    "selection_mode": "Vallisneria americana one-genus project module",
+    "note": "The project pool has one Hydrocharitaceae concept. Family recognition is built around Vallisneria's strap-leaf rosette, dioecious flowers and surface-pollination mechanics. Distribution disagreements between modern Kew and FNA are left for species-range reconciliation."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start underwater: Vallisneria grows as a rooted stoloniferous rosette of long strap-like leaves with no elongate leafy stem. Then look for reproductive structures at the water surface.",
+    "vegetative": "Submerged perennial with basal linear ribbon-like leaves. In Vallisneria the blade shows rows of large air spaces beside the midvein, often creating a three-zoned appearance.",
+    "reproductive": "Hydrocharitaceae generally has epigynous flowers with an inferior ovary and flowers subtended by a spathe. Vallisneria is dioecious: tiny male flowers detach and float to the surface, while female flowers are raised to the surface on a long slender peduncle.",
+    "fruit": "Elongate cylindrical fruit developing from the inferior ovary; after fertilization the female peduncle coils helically and retracts the developing fruit underwater.",
+    "field_tip": "Basal submerged ribbon leaves + no leafy stem + floating free male flowers + female flower on a long coiling peduncle is the Vallisneria package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_012",
+    "teaching_order": "submerged rosette → leaf lacunae → male/female surface pollination → inferior ovary → coiling peduncle → comparison anchors",
+    "intro": "Vallisneria is an ideal visual aquatic lesson because the plant looks simple until reproduction starts: male flowers break loose and float, while a female flower rides a long stalk to the surface and is reeled back underwater after fertilization.",
+    "steps": [
+      {
+        "title": "1 · Start with the underwater ribbon rosette",
+        "photo_role": "submerged whole plant",
+        "look_for": "Long basal linear leaves arising from a short rooted axis and spreading from stolons, without an elongate leafy stem.",
+        "why_it_matters": "Separates Vallisneria from stem-forming pondweeds before flowering.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Look for the three-zone leaf anatomy",
+        "photo_role": "backlit leaf / cross-section",
+        "look_for": "Rows of lacunae on each side of the midvein producing a lighter central zone flanked by darker zones.",
+        "why_it_matters": "A high-value FNA vegetative character for Vallisneria.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Male flowers break free",
+        "photo_role": "male spathe-to-floating-flower sequence",
+        "look_for": "Many tiny staminate flower buds enclosed underwater, then individual male flowers released to float at the surface.",
+        "why_it_matters": "One half of the family's memorable surface-pollination mechanism.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "4 · Female flower rides to the surface",
+        "photo_role": "female flower on long peduncle",
+        "look_for": "A solitary pistillate flower held at the water surface by a very long slender peduncle.",
+        "why_it_matters": "Makes the separate male/female strategy visually obvious.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Confirm the inferior ovary and coiling peduncle",
+        "photo_role": "flower side view + post-pollination sequence",
+        "look_for": "Long inferior ovary below the flower; after fertilization the peduncle coils helically and draws the developing fruit underwater.",
+        "why_it_matters": "Links family-level inferior-ovary anatomy to a unique field behavior.",
+        "status": "macro_sequence_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Hydrocharitaceae vs Alismataceae",
+        "rule": "Both can form basal aquatic rosettes. Sagittaria/Alismataceae usually sends an emergent flower stalk with conspicuous 3-petaled flowers and many achenes; Vallisneria stays ribbon-leaved underwater and uses free-floating male flowers plus a female surface flower on a long coiling peduncle."
+      },
+      {
+        "title": "Hydrocharitaceae vs Potamogetonaceae",
+        "rule": "Potamogeton has elongate leafy stems, axillary stipules/prophylls and an emergent dense flower spike. Vallisneria has a basal ribbon rosette, no leafy elongate stem, dioecious flowers and an inferior ovary."
+      },
+      {
+        "title": "Hydrocharitaceae vs aquatic Araceae",
+        "rule": "Pistia and duckweed Araceae float at the surface and are recognized by rosette/frond plus spathe-spadix lineage characters; Vallisneria is rooted and submerged with strap leaves and specialized surface pollination."
+      }
+    ],
+    "caveat": "Do not settle Texas/Hays nativity from the family module. FNA includes Texas for Vallisneria americana, while the current Kew distribution listing is narrower; species-range reconciliation should handle that conflict explicitly."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Vallisneria",
+        "taxa_count": 1,
+        "fast_cue": "submerged basal strap leaves + free-floating male flowers + female surface flower on long coiling peduncle",
+        "role": "tape-grass door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Vallisneria americana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Vallisneria americana",
+      "current_name": "Vallisneria americana",
+      "note": "Accepted current species. FNA and current Kew differ in displayed distribution treatment; leave Texas/Hays range resolution to the species workflow."
+    },
+    {
+      "historical_name": "Vallisneria spiralis var. americana",
+      "current_name": "Vallisneria americana",
+      "note": "Current Kew treats the varietal name as a synonym of V. americana."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "male-flower release sequence",
+      "annotation_goal": "submerged male spathe → detached floating flower"
+    },
+    {
+      "priority": 1,
+      "structure": "female flower + long peduncle",
+      "annotation_goal": "label flower at surface and rooted plant below"
+    },
+    {
+      "priority": 1,
+      "structure": "coiled post-pollination peduncle",
+      "annotation_goal": "show helicoidal retraction after fertilization"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary",
+      "annotation_goal": "label ovary below perianth"
+    },
+    {
+      "priority": 2,
+      "structure": "three-zoned leaf/lacunae",
+      "annotation_goal": "label midvein and lateral air-space bands"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Hydrocharitaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10426"
+    },
+    {
+      "source": "Flora of North America — Vallisneria",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=134329"
+    },
+    {
+      "source": "Flora of North America — Vallisneria americana",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000447"
+    },
+    {
+      "source": "Kew POWO — Vallisneria americana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:431972-1"
+    },
+    {
+      "source": "Kew POWO — Vallisneria genus morphology",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30023196-2/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-012",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_pollination_leaf_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "lemna-minor",
+  "family": "Araceae",
+  "genus": "Lemna",
+  "species": "minor",
+  "scientific_name": "Lemna minor",
+  "common_name": "Common duckweed",
+  "look_here_first": "Look for tiny free-floating green flattened fronds with one simple root each; compare with multi-rooted Spirodela and rootless Wolffia.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Lemna%20minor",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/commons-lemna-minor-plants.jpg",
+      "role": "Provisional recognition: floating duckweed fronds from above; roots not visible in this image",
+      "creator": "Kostka Martin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lemna_minor_plants.jpg",
+      "study_use": "Educational visual learner",
+      "public_reuse": "Public-domain/CC0; credit retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

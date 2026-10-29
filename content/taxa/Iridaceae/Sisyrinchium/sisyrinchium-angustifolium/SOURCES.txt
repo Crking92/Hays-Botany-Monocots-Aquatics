@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1084.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Sisyrinchium%20angustifolium
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Sisyrinchium_angustifolium_2_close_up_flower%2C_Narrow-leaf-blue-eyed-grass%2C_Howard_County%2C_MD%2C_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Sisyrinchium%20angustifolium%202%20close%20up%20flower%2C%20Narrow-leaf-blue-eyed-grass%2C%20Howard%20County%2C%20MD%2C%20Helen%20Lowe%20Metzman%202017-07-25-21.06%20(38700443594).jpg
+Photo creator: Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab
+Image-level license: Public domain (USGS)
+Image role (provisional): Provisional blue-eyed-grass flower macro with six tepals and yellow center; stem, spathe and fruit not in view.
+Caution: Source Maryland, taxonomic concepts of Sisyrinchium in Central Texas require future species comparison, no native-by-county label inferred.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

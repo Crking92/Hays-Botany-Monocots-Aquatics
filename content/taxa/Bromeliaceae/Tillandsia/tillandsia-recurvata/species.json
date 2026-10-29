@@ -1,0 +1,37 @@
+{
+  "id": "tillandsia-recurvata",
+  "family": "Bromeliaceae",
+  "genus": "Tillandsia",
+  "species": "recurvata",
+  "scientific_name": "Tillandsia recurvata",
+  "common_name": "Ball moss",
+  "look_here_first": "Recognize compact round clusters of narrow gray-green, recurved straplike leaves perched on branches or wires; examine individual leaf scales and small flowers when present.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Tillandsia%20recurvata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Epiphyte is not a parasitic plant. Growing on a tree branch does not by itself show the tree is unhealthy.",
+  "images": [
+    {
+      "file": "images/commons-tillandsia-recurvata-kohlnf.jpg",
+      "role": "Provisional epiphytic round-clump habit; flowers and leaf scales not diagnostic in this image.",
+      "creator": "Kohlnf",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tillandsia_recurvata.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, link to CC license, and ShareAlike terms apply to adapted image"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

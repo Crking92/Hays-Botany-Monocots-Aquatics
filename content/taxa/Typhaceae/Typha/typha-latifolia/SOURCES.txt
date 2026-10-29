@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1214.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Typha%20latifolia
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Typha_latifolia_(3821083444).jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Typha%20latifolia%20(3821083444).jpg
+Photo creator: Matt Lavin
+Image-level license: CC BY-SA 2.0
+Image role (provisional): Provisional flowering spike showing male segment above adjacent female segment; leaf widths and hybrid characters later.
+Caution: Broadleaf versus southern cattail ID requires multiple characters; source photograph is Montana.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

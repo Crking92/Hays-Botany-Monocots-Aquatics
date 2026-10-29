@@ -1,0 +1,213 @@
+{
+  "rank": "family",
+  "name": "Nartheciaceae",
+  "common_name": "Bog-asphodel / colic-root family",
+  "lineage_context": {
+    "order": "Dioscoreales",
+    "batch": "Remaining monocot comparison",
+    "close_project_families": [
+      "Melanthiaceae",
+      "Smilacaceae",
+      "Arecaceae"
+    ],
+    "teaching_goal": "Teach project Aletris as a basal-rosette monocot with a leafless scape, rough-textured 6-tepaled flowers in a raceme, 6 included stamens, a half-inferior 3-locular ovary and beaked capsule; explicitly reconcile older FNA broad-Liliaceae placement with current Nartheciaceae/Dioscoreales."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Current Kew/APG: Nartheciaceae in Dioscoreales.",
+    "historical_note": "Flora of North America Vol. 26 describes Aletris under a broad Liliaceae treatment. Use that morphology but not that older family placement."
+  },
+  "project_scope": {
+    "selection_mode": "Aletris aurea one-species family module",
+    "note": "Aletris aurea is accepted by current Kew and its native range extends through the southeastern U.S. to Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at ground level: a dense basal rosette of narrow leaves sends up a mostly leafless flowering scape. Then inspect the rough, mealy-looking 6-part flowers in the raceme.",
+    "vegetative": "Perennial rhizomatous/scapose herb with dense basal rosette of narrow leathery leaves.",
+    "reproductive": "Flowers in a raceme, each with 6 tepals united basally into a campanulate/tubular perianth whose outside surface is rough or mealy. Six stamens are included and adnate to the perianth. Ovary is half-inferior and 3-locular; style branches near the apex.",
+    "fruit": "Dry beaked 3-locular capsule.",
+    "field_tip": "Basal narrow-leaf rosette + leafless scape + rough 6-tepaled raceme + half-inferior ovary/beaked capsule = project Nartheciaceae/Aletris."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_028",
+    "teaching_order": "basal rosette → scape/raceme → rough perianth → 6 stamens → half-inferior ovary → beaked capsule → Aletris aurea yellow flower → Joey Schoenocaulon comparison → taxonomy card",
+    "intro": "Aletris can resemble other spike-flowered monocots from a distance, so the learner needs two scales: whole-plant rosette/scape architecture and a close flower showing the rough perianth and half-inferior ovary.",
+    "steps": [
+      {
+        "title": "1 · Separate rosette from scape",
+        "photo_role": "whole plant",
+        "look_for": "Dense basal rosette of narrow leaves and a mostly leafless upright flower stalk.",
+        "why_it_matters": "Establishes the basic Aletris body plan.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Touch the 'mealy' flower visually",
+        "photo_role": "flower macro",
+        "look_for": "Campanulate yellow/golden flower whose outer perianth surface appears rough, grainy or farinose rather than smooth.",
+        "why_it_matters": "The rough perianth is a classic Aletris clue.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Count six tepals and six stamens",
+        "photo_role": "opened flower macro",
+        "look_for": "Six tepals united basally and six included stamens attached to the perianth.",
+        "why_it_matters": "Confirms monocot floral architecture.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Show the half-inferior ovary",
+        "photo_role": "flower cutaway/diagram",
+        "look_for": "Perianth tissue adnate to the lower part of a 3-locular ovary, leaving the upper ovary exposed.",
+        "why_it_matters": "A useful structural character that is otherwise easy to miss.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Follow it to the beaked capsule",
+        "photo_role": "mature fruit",
+        "look_for": "Dry 3-locular capsule narrowing into a beak.",
+        "why_it_matters": "Gives a post-flowering confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Aletris aurea door",
+        "photo_role": "flower close-up",
+        "look_for": "Golden-yellow campanulate flowers about twice or less as long as broad, with erect lobes.",
+        "why_it_matters": "FNA separates A. aurea from yellow A. lutea by its shorter broader campanulate perianth.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Compare with Joey's Schoenocaulon",
+        "photo_role": "saved Joey whole-plant + inflorescence frames",
+        "look_for": "Both can present basal leaves plus an elongated flowering axis, but Schoenocaulon/Melanthiaceae shows a different open spike and flower/anther architecture; Aletris forms rough tubular/campanulate 6-tepaled flowers in a raceme.",
+        "why_it_matters": "Uses authoritative local monocot footage to prevent spike-form overgeneralization.",
+        "status": "private_study_anchor_available"
+      },
+      {
+        "title": "8 · Fix the family placement",
+        "photo_role": "taxonomy card",
+        "look_for": "Older FNA broad Liliaceae treatment → current Nartheciaceae, order Dioscoreales.",
+        "why_it_matters": "Prevents older morphology references from corrupting the current family backbone.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Nartheciaceae/Aletris vs Melanthiaceae/Schoenocaulon",
+        "rule": "Aletris has a basal rosette and rough tubular/campanulate 6-tepaled flowers with a half-inferior ovary; Schoenocaulon has a different elongated spike and exposed flower/anther architecture. Use Joey's exact frames for the habit-level comparison."
+      },
+      {
+        "title": "Nartheciaceae vs Smilacaceae",
+        "rule": "Aletris is a nonclimbing basal-rosette herb with a scape and capsule; Smilax is a tendrilled vine with broad reticulate leaves, separate-sex umbels and berries."
+      }
+    ],
+    "caveat": "Do not copy FNA's older broad Liliaceae placement into the project taxonomy. Its Aletris morphology is useful, but the current backbone here follows Kew/APG: Nartheciaceae in Dioscoreales."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Aletris",
+        "taxa_count": 1,
+        "fast_cue": "basal rosette + leafless scape + rough 6-tepaled raceme + beaked capsule",
+        "role": "golden colic-root door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Aletris aurea"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Aletris aurea",
+      "current_name": "Aletris aurea",
+      "note": "Accepted by current Kew; native range extends to Texas."
+    },
+    {
+      "older_family": "Liliaceae (broad FNA treatment)",
+      "current_family": "Nartheciaceae",
+      "note": "Current Kew/APG placement is Nartheciaceae, order Dioscoreales."
+    }
+  ],
+  "private_visual_anchors": [
+    {
+      "source": "Joey Santore private-study video frame",
+      "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+      "record_id": "D1qCiiaMJ_I-25",
+      "filename": "schoenocaulon-texanum_habit-source-label_21-05.0.jpg",
+      "timestamp": "21:05.0",
+      "timestamp_seconds": 1265,
+      "taxon": "Schoenocaulon texanum",
+      "family": "Melanthiaceae",
+      "teaching_role": "whole-plant habit / basal leaves / flowering spike",
+      "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+    },
+    {
+      "source": "Joey Santore private-study video frame",
+      "source_video": "research-drafts/joey-santore/video-D1qCiiaMJ_I-edwards-plateau-botany-montezuma-cypress.json",
+      "record_id": "D1qCiiaMJ_I-26",
+      "filename": "schoenocaulon-texanum_inflorescence-anthers_21-40.0.jpg",
+      "timestamp": "21:40.0",
+      "timestamp_seconds": 1300,
+      "taxon": "Schoenocaulon texanum",
+      "family": "Melanthiaceae",
+      "teaching_role": "flowering spike / individual flowers / anthers",
+      "use_policy": "preferred private-study comparison anchor; preserve Joey/video credit and public-reuse restriction"
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "rough/farinose perianth",
+      "annotation_goal": "macro texture comparison"
+    },
+    {
+      "priority": 1,
+      "structure": "half-inferior ovary",
+      "annotation_goal": "cutaway showing adnate lower perianth and 3 locules"
+    },
+    {
+      "priority": 1,
+      "structure": "Aletris vs Joey Schoenocaulon habit",
+      "annotation_goal": "basal rosette + raceme versus Melanthiaceae spike"
+    },
+    {
+      "priority": 1,
+      "structure": "Aletris vs Joey Schoenocaulon flower",
+      "annotation_goal": "rough tubular/campanulate perianth versus exposed spike-flower architecture"
+    },
+    {
+      "priority": 2,
+      "structure": "beaked 3-locular capsule",
+      "annotation_goal": "label beak and locules"
+    },
+    {
+      "priority": 2,
+      "structure": "Liliaceae → Nartheciaceae taxonomy card",
+      "annotation_goal": "older FNA placement versus current Kew/APG"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Nartheciaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326442-2"
+    },
+    {
+      "source": "POWO — Aletris",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:19439-1"
+    },
+    {
+      "source": "POWO — Aletris aurea",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:429522-1"
+    },
+    {
+      "source": "FNA — Aletris morphology (older broad Liliaceae placement)",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=100995"
+    }
+  ],
+  "joey_media_note": "Direct Aletris footage is absent, but Joey frames D1qCiiaMJ_I-25 and -26 (Schoenocaulon texanum, Melanthiaceae) are preferred private-study comparison anchors.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-028",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_joey_melanthiaceae_anchor_perianth_ovary_taxonomy_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

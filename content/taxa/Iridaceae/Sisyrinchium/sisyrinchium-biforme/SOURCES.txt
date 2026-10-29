@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Sisyrinchium%20biforme
+Source research-grade observation: https://www.inaturalist.org/observations/263568326
+Photo: https://www.inaturalist.org/photos/474027584
+Attribution: (c) Turner Brockman, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Sisyrinchium biforme
+Creator: Reid Hardin; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/3456630928
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/sisyrinchium-biforme/gbif-177c231ab7a3e8.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Sisyrinchium biforme
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/3465905648
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/sisyrinchium-biforme/gbif-0593034c522751.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

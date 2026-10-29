@@ -1,0 +1,44 @@
+# Deep Review sources — Yucca treculiana
+Reviewed: 2026-10-02
+Batch: deep-review-batch-008-yucca-b004
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted current spelling: Yucca treculiana Carrière
+Source-pool spelling: Yucca treculeana
+- Kew/POWO: https://powo.science.kew.org/taxon/543799-1
+- NPSOT uses widespread older spelling: https://www.npsot.org/posts/native-plant/yucca-treculeana/
+Taxonomic note: retain treculeana in synonyms/provenance, but use treculiana canonically. Current Kew separately accepts Yucca torreyi.
+
+## Strict project-range evidence
+- Bexar — 2025 TCEQ Edwards Aquifer site assessment records Yucca treculeana/treculiana on a Bexar County project site.
+- Travis — Balcones Canyonlands Preserve plant list includes Trecul yucca under the older spelling Yucca treculeana.
+- Burnet — field documentation at Double Eagle Ranch, Burnet County, records several wild communities of Y. treculeana/treculiana.
+Decision: PASS
+
+## Morphology / separation from Y. torreyi
+- Illustrated Flora key: https://fwbg.org/wp-content/uploads/2021/04/SBM_26-pp309-1151.pdf
+- FNA older broad treatment: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242102078
+- NPSOT: https://www.npsot.org/posts/native-plant/yucca-treculeana/
+Traditional key: mostly non-filiferous, non-inrolled leaf tips + stouter ovary 7–12 mm; large fleshy indehiscent fruit. Older FNA lumping means leaf-only identification should be treated cautiously.
+
+## Photo candidates
+- NPSOT credited Paul Montgomery photographs: https://www.npsot.org/posts/native-plant/yucca-treculeana/
+- Burnet County wild field documentation: https://www.traviswardhorticulture.com/botanicalblog/doubleeagleranch
+
+APPROVAL
+User explicitly approved B004 on 2026-10-02.
+PHOTO STATUS
+Exact reusable image metadata recorded in image-sources.csv.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:44:22.091178+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/258891187
+https://www.inaturalist.org/observations/150172397
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:27:38.122462+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/630926281
+https://www.inaturalist.org/observations/346146076
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

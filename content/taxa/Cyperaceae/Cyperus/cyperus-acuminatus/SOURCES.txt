@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Cyperus%20acuminatus
+Source research-grade observation: https://www.inaturalist.org/observations/3629509
+Photo: https://www.inaturalist.org/photos/4193036
+Attribution: (c) Corey Lange, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

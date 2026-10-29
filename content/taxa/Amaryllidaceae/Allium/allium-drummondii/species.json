@@ -1,0 +1,124 @@
+{
+  "id": "allium-drummondii",
+  "entry_type": "species",
+  "family": "Amaryllidaceae",
+  "genus": "Allium",
+  "species": "drummondii",
+  "scientific_name": "Allium drummondii",
+  "authority": "Regel",
+  "common_name": "Drummond's onion",
+  "synonyms": [
+    "Allium helleri",
+    "Allium nuttallii",
+    "Allium reticulatum var. nuttallii"
+  ],
+  "look_here_first": "Inspect the intact papery spathe: normally 2–3 bracts, about one vein each. The umbel usually bears 10–25 flowers; bulbils are rare.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 35; 2026-10-07 taxonomy/diagnostic review",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas native at state level; three target-zone counties not yet verified."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "leaves": "Basal linear leaves 10–30 cm long, 1–3(–5) mm wide.",
+    "spathe": "Usually 2–3 papery bracts, about one-veined (FNA).",
+    "umbel": "Mostly 10–25 flowers on 5–20 mm pedicels; bulbils rare.",
+    "flowers": "Six spreading tepals; campanulate to star-like flowers about 6–9 mm."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Allium canadense",
+      "Nothoscordum bivalve"
+    ],
+    "key_distinctions": "A. canadense usually has 3–4 more strongly multiveined spathe bracts, and may carry bulbils, but some varieties flower without bulbils. Nothoscordum lacks strong onion odor. Do not key by color or absence of bulbils alone."
+  },
+  "diagnostic_image_plan": [
+    {
+      "role": "spathe macro",
+      "target": "show bract number and veins"
+    },
+    {
+      "role": "umbel",
+      "target": "show flowers and pedicels"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/allium-drummondii-flowers.jpg",
+      "role": "Flowering umbel",
+      "creator": "abbamouse",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Allium_Drummondii.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-261412299.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/261412299",
+      "observation_url": "https://www.inaturalist.org/observations/151500268",
+      "observation_id": "151500268",
+      "photo_id": "261412299",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/261412299/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-261412337.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/261412337",
+      "observation_url": "https://www.inaturalist.org/observations/151500268",
+      "observation_id": "151500268",
+      "photo_id": "261412337",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/261412337/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

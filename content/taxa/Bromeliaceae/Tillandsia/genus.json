@@ -1,0 +1,121 @@
+{
+  "rank": "genus",
+  "name": "Tillandsia",
+  "family": "Bromeliaceae",
+  "common_group": "air plants",
+  "project_scope": {
+    "selection_mode": "Two-species genus lesson from live Master Plant Pool plus existing Bromeliaceae family module",
+    "included_source_pool_taxa": ["Tillandsia recurvata", "Tillandsia usneoides"],
+    "admission_note": "Both taxa are live source-pool members. This lesson does not install taxa or change taxonomy/range decisions."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Start with the gray-silver leaf surface and epiphytic habit, then zoom in for the dense peltate absorptive trichomes. Confirm Tillandsia with entire leaf margins and the bromeliad 3-sepal + 3-petal flower plan; capsules release seeds with a basal white plumose appendage.",
+    "vegetative": "Epiphytic bromeliads with simple entire leaves densely covered by absorptive peltate scales; roots function mainly for attachment in these atmospheric species.",
+    "reproductive": "Bisexual flowers with the bromeliad 3+3 perianth plan; superior ovary in the project Tillandsia doorway; fruit a capsule with plumose-comose seeds."
+  },
+  "species_comparison_matrix": [
+    {
+      "taxon": "Tillandsia recurvata",
+      "common_name": "ballmoss",
+      "look_first": "Whole-plant architecture before flower color",
+      "habit": "Compact, tufted to ball-like clumps attached to branches, wires, or other supports; shoots are short rather than forming long hanging chains.",
+      "leaf": "Short, narrow, strongly recurved gray-scaled leaves create the characteristic compact clump.",
+      "best_separator": "A discrete compact ball/tuft with short recurved leaves points strongly toward T. recurvata in this two-species project set.",
+      "caution": "Do not infer parasitism from its position on a host tree."
+    },
+    {
+      "taxon": "Tillandsia usneoides",
+      "common_name": "Spanish moss",
+      "look_first": "Whole-plant architecture before flower color",
+      "habit": "Long pendent festoons made of repeatedly branching, slender hanging stems rather than compact balls.",
+      "leaf": "Very narrow gray-scaled leaves occur along the elongate hanging shoots.",
+      "best_separator": "Long draping chains/festoons rather than discrete ball-like tufts separate T. usneoides quickly from T. recurvata.",
+      "caution": "A small broken fragment can lose the obvious festoon silhouette; use stem architecture and repeated elongate branching rather than one leaf."
+    }
+  ],
+  "decision_sequence": [
+    "Confirm an epiphytic gray-scaled bromeliad rather than lichen, moss, or a parasitic mistletoe.",
+    "Find the peltate absorptive scales and entire narrow leaves; flowers/capsules can confirm the Tillandsia doorway.",
+    "Compact discrete tuft or ball with short recurved leaves → T. recurvata.",
+    "Long pendent repeatedly branching festoon → T. usneoides.",
+    "If only a tiny fragment is present, avoid forcing species from color or one leaf; obtain a wider architecture view."
+  ],
+  "overlap_and_cautions": [
+    "Both species are gray-silver because of dense absorptive trichomes, so color is not a species separator.",
+    "Both are epiphytes and may share host trees; host identity is not diagnostic.",
+    "Neither is a tree parasite in the mistletoe sense; they use supports while absorbing water and nutrients primarily from the atmosphere.",
+    "Fragmentary material can erase the strongest architecture character."
+  ],
+  "realistic_lookalikes": [
+    {
+      "lookalike": "Phoradendron spp. (mistletoes)",
+      "separate_by": "Mistletoes are green woody hemiparasitic plants connected physiologically to host branches; project Tillandsia are gray-scaled nonwoody epiphytes with peltate absorptive trichomes."
+    },
+    {
+      "lookalike": "lichens and true mosses on bark",
+      "separate_by": "Tillandsia has discrete vascular leaves and stems and eventually bromeliad flowers/capsules; lichens lack leaves/stems and moss leaves are tiny nonvascular structures without bromeliad trichomes."
+    },
+    {
+      "lookalike": "Hechtia texensis",
+      "separate_by": "Hechtia is a terrestrial/lithophytic spinose rosette with separate male/female plants; project Tillandsia are epiphytic, entire-margined, and bisexual-flowered."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "same-scale habit comparison",
+      "target": "T. recurvata vs T. usneoides",
+      "labels": ["compact ball/tuft", "short recurved leaves", "long pendent festoon", "elongate branching stem"],
+      "purpose": "Teach the fastest and strongest field split."
+    },
+    {
+      "priority": 1,
+      "role": "leaf-surface macro",
+      "target": "representative Tillandsia",
+      "labels": ["peltate absorptive trichomes", "leaf surface"],
+      "purpose": "Make the genus/family recognition character visible instead of teaching only silhouette."
+    },
+    {
+      "priority": 2,
+      "role": "branch attachment context",
+      "target": "both species",
+      "labels": ["host branch", "epiphyte attachment", "Tillandsia shoot"],
+      "purpose": "Teach epiphyte versus parasite and preserve the species architecture context."
+    },
+    {
+      "priority": 2,
+      "role": "flower and capsule confirmation",
+      "target": "both species when available",
+      "labels": ["3 sepals", "3 petals", "capsule", "plumose seed appendage"],
+      "purpose": "Connect field habit to reproductive genus confirmation."
+    },
+    {
+      "priority": 2,
+      "role": "fragment caution card",
+      "target": "small detached material",
+      "labels": ["architecture missing", "do not ID from gray color alone"],
+      "purpose": "Prevent overconfident species calls when the best character is absent."
+    }
+  ],
+  "media_routing": {
+    "existing_project_media": "Reuse exact project/user/Joey Tillandsia material when it clearly shows whole-plant architecture or trichome detail.",
+    "acquisition_owner": "Diagnostic Photo Polish",
+    "instruction": "Highest-value acquisition is one same-scale ballmoss-versus-Spanish-moss architecture card plus a true trichome macro; generic host-tree glamour shots are secondary."
+  },
+  "diagnostic_review_handoffs": [
+    "If fragmentary material cannot be separated by shoot architecture, Taxonomy + Diagnostic Review should verify finer floral/vegetative characters rather than this lane performing an exhaustive review.",
+    "Species taxonomy/range certification and canonical installation remain outside this genus lesson lane."
+  ],
+  "sources": [
+    {"source": "Existing project Bromeliaceae family module", "path": "content/taxa/Bromeliaceae/family.json", "supports": "Tillandsia recognition, two-species silhouette comparison, trichome and reproductive teaching"},
+    {"source": "Flora of North America — Tillandsia", "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=133014", "supports": "genus morphology"},
+    {"source": "Flora of North America — Tillandsia usneoides", "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000404", "supports": "Spanish-moss morphology"}
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-builder",
+    "last_reviewed": "2026-10-06",
+    "structural_lesson": "complete",
+    "visual_lock": "diagnostic architecture/trichome comparison pending",
+    "species_installation": "independent"
+  }
+}

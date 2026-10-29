@@ -1,0 +1,12 @@
+PHOTO FAST-FILL 025 — Carex blanda
+Date: 2026-10-05
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept compatible media.
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:54:54.855311+00:00
+Carex blanda Dewey
+https://www.gbif.org/occurrence/6179114553
+sonoresmore | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Terminal male spike vs separate female spikes; perigynia and beaks
+No anatomy arrows; no scientific or native-range changes.

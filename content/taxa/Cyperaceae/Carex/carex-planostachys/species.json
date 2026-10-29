@@ -1,0 +1,90 @@
+{
+  "id": "carex-planostachys",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "species": "planostachys",
+  "scientific_name": "Carex planostachys",
+  "authority": "Kunze",
+  "common_name": "Cedar sedge",
+  "look_here_first": "Low fine-textured woodland sedge with narrow V-shaped leaves and small separate spikes, especially common on calcareous soils beneath juniper and oak.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays County is present in the repaired Master Plant Pool and the user has two wild iNaturalist observations.",
+    "range_guardrail": "Installed for learning now; native metrics excluded until later county reconciliation."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Carex sedges have sheathing leaves and perigynia enclosing the fruits.",
+    "best_field_traits": [
+      "loosely tufted perennial",
+      "culms usually under 30 cm",
+      "very narrow leaves",
+      "young blades V-shaped in cross section",
+      "revolute scabrous margins",
+      "dry to mesic calcareous woodland"
+    ],
+    "comparison_training": "Lower and finer-textured than C. edwardsiana; much smaller and drier-site than C. emoryi or C. crus-corvi."
+  },
+  "curation_status": {
+    "version": "1.0-b104-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/carex-planostachys-provisional-face.jpg",
+      "role": "Whole clump / recognizable face",
+      "creator": "Cleveland Powell",
+      "license": "CC BY",
+      "source_page": "https://www.thepollinatorpatchgarden.com/plants/cedar-sedge",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938054003-17a601203.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Small separate spikes and V-shaped basal leaves; compare spikelet scales",
+      "creator": "Jerry Morrisey",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938054003",
+      "gbif_occurrence_id": "5938054003",
+      "source_determination": "Carex planostachys Kunze",
+      "accepted_target": "Carex planostachys",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604554468/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

@@ -1,0 +1,193 @@
+{
+  "rank": "genus",
+  "family": "Cyperaceae",
+  "name": "Schoenoplectus",
+  "project_scope": {
+    "source_pool_species": [
+      "Schoenoplectus californicus",
+      "Schoenoplectus tabernaemontani"
+    ],
+    "canonical_species_ids": [
+      "schoenoplectus-tabernaemontani"
+    ],
+    "installer_dependency": "S. californicus not canonical; installer owns species."
+  },
+  "look_here_first": "At the junction where the flowering branches leave the apparent stem, identify the erect continuation bract. Then cut a mid-height culm and compare its section. Finally dissect a fully ripe spikelet: count and examine the bristles around a single achene with a 10× lens. A triangular stem alone is not a species diagnosis.",
+  "shared_genus_traits": [
+    "Rhizomatous colonial emergent sedges with basal sheaths and often reduced leaf blades.",
+    "Many tiny flowers under individual scales, gathered in spikelets; each mature flower produces a single achene.",
+    "The erect lowermost inflorescence bract looks like a continuation of the culm, making the branched head appear lateral."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Mid-culm cross section",
+      "californicus": "Bluntly 3-angled, sometimes almost rounded lower down",
+      "tabernaemontani": "Cylindrical/round, spongy",
+      "caution": "Section the same stem height; shape alone overlaps."
+    },
+    {
+      "character": "Perianth around mature achene",
+      "californicus": "Usually 2–4 broad, fringed structures (confirm under scope)",
+      "tabernaemontani": "Usually 6 slender bristles with backward-pointing barbs",
+      "caution": "Count multiple ripe flowers; immature bristles break."
+    },
+    {
+      "character": "Culm height / diameter",
+      "californicus": "Measure actual specimen; local source range needs keyed verification",
+      "tabernaemontani": "0.5–3 m tall; 2–10 mm thick (FNA)",
+      "caution": "Height varies with water depth and growing conditions."
+    },
+    {
+      "character": "Spikelet size",
+      "californicus": "Matched measured source needed",
+      "tabernaemontani": "3–17 × 2.5–4 mm (FNA)",
+      "caution": "Measure intact ripe spikelets, not whole inflorescence."
+    },
+    {
+      "character": "Mature achene",
+      "californicus": "Compare perianth and achene outline; exact measurements pending",
+      "tabernaemontani": "1.5–2.8 × 1.2–1.7 mm, plano-convex (FNA)",
+      "caution": "One-seeded achene, not a multi-seeded capsule; immature fruit misleads."
+    },
+    {
+      "character": "Basal sheath front",
+      "californicus": "Often coarsely pinnate-fibrillose",
+      "tabernaemontani": "Membranous, sometimes pinnate-fibrillose",
+      "caution": "Overlaps strongly; use with reproductive anatomy."
+    }
+  ],
+  "overlap_cautions": [
+    "Do not use the triangular-versus-round culm shortcut alone: californicus can be bluntly angled and nearly round toward its base.",
+    "Sheath fronts overlap; check multiple stems and mature reproductive structures.",
+    "Use a ripe achene plus attached perianth, not loose fragments or a blurry whole-head photograph.",
+    "S. californicus is a source-pool comparison only until the installer confirms a canonical species; no range status is inferred."
+  ],
+  "local_source_pool_lookalikes": [
+    {
+      "taxon": "Typha",
+      "separate": "Dense cylindrical male and female spike zones, not a sedge spikelet panicle."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Paired culm cross-sections with scale",
+    "Dissected mature achenes with labeled bristles",
+    "Matched basal sheaths and whole panicles"
+  ],
+  "handoff": "Diagnostic Photo Polish owns images; Approved Taxa Installer owns S. californicus.",
+  "sources": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242357954",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Schoenoplectus%20californicus.html",
+    "https://www.worldfloraonline.org/taxon/wfo-0000528404",
+    "https://gobotany.nativeplanttrust.org/species/schoenoplectus/tabernaemontani/"
+  ],
+  "curation_status": {
+    "status": "provisional_visual_incomplete",
+    "last_reviewed": "2026-10-16",
+    "new_images_installed": 0
+  },
+  "comparison_cards": [
+    {
+      "title": "Round softstem versus bluntly angled bulrush",
+      "taxon_ids": [
+        "schoenoplectus-tabernaemontani"
+      ],
+      "comparison_taxon": "Schoenoplectus californicus (noncanonical source-pool)",
+      "look_here_first": "Cut both culms at the same middle height; compare angle and spongy interior.",
+      "caution": "Stem geometry changes along the culm; not decisive alone.",
+      "photo_roles": [
+        "matched mid-culm sections with ruler",
+        "full flowering stems"
+      ],
+      "annotation_status": "pending"
+    },
+    {
+      "title": "Bristles versus fringed perianth",
+      "taxon_ids": [
+        "schoenoplectus-tabernaemontani"
+      ],
+      "comparison_taxon": "Schoenoplectus californicus (noncanonical source-pool)",
+      "look_here_first": "Dissect multiple ripe achenes and count the surrounding structures under 10–20×.",
+      "caution": "Usually six backward-barbed slender bristles in tabernaemontani versus typically 2–4 broader fringed members in californicus; check actual material.",
+      "photo_roles": [
+        "paired mature achene/perianth dissections",
+        "10–20× bristle closeups"
+      ],
+      "annotation_status": "pending"
+    },
+    {
+      "title": "Bulrush versus cattail or other sedges",
+      "taxon_ids": [
+        "schoenoplectus-tabernaemontani"
+      ],
+      "comparison_taxon": "Typha / Cyperus / Eleocharis",
+      "look_here_first": "Find the individual spikelets and the continuation bract.",
+      "caution": "Typha has dense cylindrical spike zones; Eleocharis often has a single terminal spikelet; Cyperus has different conspicuous bracts and inflorescence architecture.",
+      "photo_roles": [
+        "matched inflorescence-bract junctions"
+      ],
+      "annotation_status": "pending"
+    }
+  ],
+  "genus_diagnostics": {
+    "look_here_first": "Continuation bract → mid-culm section → ripe spikelet scale → achene with perianth.",
+    "anatomy_photo_roles": [
+      {
+        "term": "continuation bract",
+        "plain": "A bract pointing upward like the stem keeps going",
+        "where_to_look": "At the base of the spreading inflorescence branches",
+        "why": "Explains the apparently side-mounted head",
+        "photo_role": "flowering culm and junction macro",
+        "status": "needs_verified_photo",
+        "annotation_status": "pending"
+      },
+      {
+        "term": "culm cross section",
+        "plain": "Shape of the stem when cut straight across",
+        "where_to_look": "Same middle height on both species; show ruler",
+        "why": "Round versus bluntly three-angled is a useful first clue, not a final ID",
+        "photo_role": "matched fresh mid-culm slices",
+        "status": "needs_photo",
+        "annotation_status": "pending"
+      },
+      {
+        "term": "spikelet scale and achene",
+        "plain": "A small scale shelters a tiny flower; the hard one-seeded fruit is an achene",
+        "where_to_look": "Dissect a fully ripe spikelet under 10–20×",
+        "why": "Distinguishes sedge anatomy and provides mature species characters",
+        "photo_role": "scale lifted to expose mature achene",
+        "status": "needs_photo",
+        "annotation_status": "pending"
+      },
+      {
+        "term": "perianth bristles",
+        "plain": "Tiny structures attached around the base of an achene",
+        "where_to_look": "At the base of several ripe achenes",
+        "why": "Count slender backward-barbed bristles versus broader fringed structures",
+        "photo_role": "matched perianth dissections with 1-mm scale",
+        "status": "needs_photo",
+        "annotation_status": "pending"
+      }
+    ]
+  },
+  "photo_rights_status": {
+    "installed_species": "schoenoplectus-tabernaemontani",
+    "source_gallery": "Species record has one installed Joey Santore video frame (private study only; public reuse not cleared) and one external Commons CC BY-SA 3.0 habit reference. These are different rights and installation states.",
+    "noncanonical_comparison": "S. californicus has no canonical species card here; do not mislabel S. tabernaemontani imagery as californicus.",
+    "diagnostic_verification": "No verified cross-section, ripe perianth or achene photograph or arrow coordinates added by this run.",
+    "source_candidate_note": "Joey statewide and Glass Root inventories and permanent candidate library are candidate leads only, not installed media."
+  },
+  "targeted_handoffs": [
+    {
+      "lane": "Diagnostic Photo Fast-Fill / manual photo enrichment",
+      "request": "Acquire exact-species, same-scale fresh mid-culm sections and ripe achene/perianth macros; check image-level rights, anatomical visibility and annotation coordinates."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "request": "S. californicus remains noncanonical; installer owns any eventual approved learner card. No genus lesson should create one."
+    },
+    {
+      "lane": "Taxonomy Name Fast-Pass",
+      "request": "Confirm current accepted concept and key characters of S. californicus before using numeric strict species key."
+    }
+  ]
+}

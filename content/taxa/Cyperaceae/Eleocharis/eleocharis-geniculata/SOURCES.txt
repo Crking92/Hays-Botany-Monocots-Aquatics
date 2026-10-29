@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1029981-2
+Source research-grade observation: https://www.inaturalist.org/observations/111732510
+Photo: https://www.inaturalist.org/photos/188653953
+Attribution: (c) Steve Maldonado Silvestrini, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Eleocharis geniculata
+Creator: sonu kumar; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110297275
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/eleocharis-geniculata/plantnet-via-gbif-001306d4d5fb1b.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Eleocharis geniculata
+Creator: Guillaume Martin; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110505678
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/eleocharis-geniculata/plantnet-via-gbif-99cb23c22535bf.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,12 @@
+
+FIRST LICENSED PHOTOGRAPH 2026-10-14
+Sam Kieschnick; CC BY; https://creativecommons.org/licenses/by/4.0/
+https://www.inaturalist.org/photos/665166477 | https://www.inaturalist.org/observations/364368199
+EXIF removed and JPEG normalized; no anatomy overlays. Preserve attribution and applicable ShareAlike.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:37:03.298890+00:00
+Carex tetrastachya Scheele
+https://www.gbif.org/occurrence/6185299514
+IDClaire | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Large silvery-white winged perigynium and 2–4 separate rounded spikes
+No anatomy arrows; no scientific or native-range changes.

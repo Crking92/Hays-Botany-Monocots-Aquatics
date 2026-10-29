@@ -1,0 +1,37 @@
+{
+  "id": "rhynchospora-colorata",
+  "family": "Cyperaceae",
+  "genus": "Rhynchospora",
+  "species": "colorata",
+  "scientific_name": "Rhynchospora colorata",
+  "common_name": "Whitetop sedge",
+  "look_here_first": "Look for a wetland sedge whose terminal flower clusters are surrounded by conspicuous white-tipped leaflike bracts; confirm triangular stems, compact spikelets and mature beaked achenes.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Rhynchospora%20colorata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "USDA wetland field-office plant-photo reference, not confirmation of Hays County occurrence.",
+  "images": [
+    {
+      "file": "images/commons-rhynchospora-colorata.jpg",
+      "role": "Provisional whitetop flowering head identification; achene details and stem cross section missing.",
+      "creator": "Robert H. Mohlenbrock / USDA NRCS",
+      "license": "Public domain (US federal government)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhynchospora_colorata_NRCS-002.jpg",
+      "study_use": "Private and noncommercial botanical learner",
+      "public_reuse": "Public domain or CC0; author credit preserved"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "rank": "family",
+  "name": "Bromeliaceae",
+  "common_name": "Bromeliad / pineapple family",
+  "lineage_context": {
+    "order": "Poales",
+    "batch": "Poales",
+    "close_project_families": [
+      "Poaceae",
+      "Cyperaceae",
+      "Juncaceae"
+    ],
+    "teaching_goal": "Use absorptive peltate trichomes plus a 3+3 flower plan to connect epiphytic Tillandsia with terrestrial spinose Hechtia, then separate the two project genera by leaf margin, habit, flower sexuality, and seed architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Project module across Tillandsia recurvata, Tillandsia usneoides, and Hechtia texensis",
+    "note": "The project pool contains two epiphytic Tillandsia species and one terrestrial/lithophytic Hechtia. All three names remain accepted under current Kew."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the leaf surface: Bromeliaceae nearly always bears specialized peltate trichomes/scales that absorb water. Then inspect the flower for two whorls of 3 perianth parts and 6 stamens.",
+    "vegetative": "Perennial herbs that may be epiphytic, terrestrial, or lithophytic. Leaves are simple and often arranged in rosettes or reduced stem systems; margins may be entire or spinose. Peltate absorptive trichomes are a major family character.",
+    "reproductive": "Flowers usually have 3 sepals + 3 petals and 6 stamens. Ovary position varies across the family. Inflorescences often have conspicuous bracts.",
+    "fruit": "Capsule or berry depending on lineage. Project Tillandsia makes capsules with plumose seed appendages; project Hechtia makes capsules with narrowly winged to nearly wingless seeds lacking plumose appendages.",
+    "field_tip": "Do not memorize bromeliads as 'pineapple-shaped.' The transferable family door is peltate water-absorbing trichomes + 3 sepals + 3 petals + 6 stamens."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_013",
+    "teaching_order": "peltate trichome → 3+3 flower → Tillandsia epiphyte door → Hechtia terrestrial door → Tillandsia species silhouettes → grass/sedge/rush contrast",
+    "intro": "This family is a great visual reminder that Poales is much bigger than grasses. A gray air plant hanging from an oak and a spiny false-agave rosette share the same bromeliad flower plan and absorptive leaf-scale technology.",
+    "steps": [
+      {
+        "title": "1 · Zoom into a bromeliad trichome",
+        "photo_role": "leaf-surface macro / diagram",
+        "look_for": "Shieldlike peltate scales covering the leaf surface, often dense enough to make Tillandsia look gray or silver.",
+        "why_it_matters": "These scales absorb water and help explain how epiphytic bromeliads can live without rooting in soil.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Count the flower in threes",
+        "photo_role": "flower anatomy",
+        "look_for": "3 sepals + 3 petals + 6 stamens.",
+        "why_it_matters": "Connects wildly different project growth forms through one reproductive plan.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Tillandsia door: entire margins + epiphytic habit",
+        "photo_role": "air-plant habit + capsule/seed",
+        "look_for": "Usually epiphytic gray-scaled plant with entire leaf margins; bisexual flowers, superior ovary, capsule, and seeds with a basal white plumose appendage.",
+        "why_it_matters": "Separates the project Tillandsia lineage from spinose terrestrial Hechtia.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Hechtia door: spiny terrestrial rosette",
+        "photo_role": "Hechtia texensis rosette + male/female flower comparison",
+        "look_for": "Terrestrial or rock-growing rosette with pungent spinose leaf margins; male and female flowers occur on different plants.",
+        "why_it_matters": "Hechtia looks superficially agave-like, but its bromeliad reproductive structure and family trichomes put it in Bromeliaceae.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Ballmoss vs Spanish moss",
+        "photo_role": "Tillandsia recurvata vs T. usneoides silhouette",
+        "look_for": "T. recurvata forms compact ball-like clumps with short recurved leaves; T. usneoides forms long pendent festoons with very narrow gray-scaled leaves.",
+        "why_it_matters": "A whole-plant silhouette separates the two Hays-project Tillandsia species quickly.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "6 · False agave is not an agave",
+        "photo_role": "Hechtia vs Agave card",
+        "look_for": "Hechtia has spinose bromeliad leaves plus separate male/female plants and small 3+3 flowers; Agave belongs to Asparagaceae and has a different reproductive architecture.",
+        "why_it_matters": "Prevents a very plausible rosette-based misidentification.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Bromeliaceae vs Poaceae",
+        "rule": "Bromeliaceae has simple often rosette-forming leaves with absorptive peltate scales and ordinary 3+3 flowers; Poaceae has jointed culms, sheath/collar/ligule architecture and spikelets built from glumes, lemma and palea."
+      },
+      {
+        "title": "Bromeliaceae vs Cyperaceae/Juncaceae",
+        "rule": "Bromeliaceae flowers retain conspicuous 3+3 perianth architecture and specialized absorptive leaf scales. Sedges reduce flowers into scale-subtended spikelets with nutlets; rushes have 6 tepals but lack the bromeliad rosette/trichome/seed package."
+      },
+      {
+        "title": "Tillandsia vs Hechtia",
+        "rule": "Project Tillandsia: epiphytic, entire leaf margins, bisexual flowers, plumose seed appendages. Hechtia: terrestrial/lithophytic, spinose margins, functionally unisexual flowers on separate plants, seeds without plumose appendages."
+      }
+    ],
+    "caveat": "Ovary position varies across Bromeliaceae, so do not make superior or inferior ovary a universal family rule. Also do not call Tillandsia parasitic: it uses the host mainly as support."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Tillandsia",
+        "taxa_count": 2,
+        "fast_cue": "gray-scaled epiphyte + entire margins + bisexual 3+3 flower + plumose-seeded capsule",
+        "role": "air-plant door"
+      },
+      {
+        "genus": "Hechtia",
+        "taxa_count": 1,
+        "fast_cue": "spinose terrestrial/lithophytic rosette + separate male/female plants + capsule",
+        "role": "false-agave door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Tillandsia recurvata",
+    "Tillandsia usneoides",
+    "Hechtia texensis"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Tillandsia recurvata",
+      "current_name": "Tillandsia recurvata",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Tillandsia usneoides",
+      "current_name": "Tillandsia usneoides",
+      "note": "Accepted; native range includes Texas."
+    },
+    {
+      "source_name": "Hechtia texensis",
+      "current_name": "Hechtia texensis",
+      "note": "Accepted; native range is southwestern Texas to northeastern Mexico. Strict Hays-area range treatment remains a species-workflow question."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "peltate absorptive trichome",
+      "annotation_goal": "show shieldlike scale on leaf surface and water-uptake role"
+    },
+    {
+      "priority": 1,
+      "structure": "Tillandsia recurvata vs T. usneoides habit",
+      "annotation_goal": "ball-like clump versus long pendent festoon"
+    },
+    {
+      "priority": 1,
+      "structure": "Hechtia texensis rosette",
+      "annotation_goal": "label spinose leaf margins and terrestrial/lithophytic habit"
+    },
+    {
+      "priority": 1,
+      "structure": "Hechtia male vs female flowers",
+      "annotation_goal": "separate staminate and pistillate inflorescences"
+    },
+    {
+      "priority": 2,
+      "structure": "Tillandsia capsule + plumose seed",
+      "annotation_goal": "label capsule and basal seed coma"
+    },
+    {
+      "priority": 2,
+      "structure": "Hechtia vs Agave",
+      "annotation_goal": "false-agave rosette comparison with reproductive tie-breakers"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Bromeliaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10123"
+    },
+    {
+      "source": "Flora of North America — Tillandsia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=133014"
+    },
+    {
+      "source": "Flora of North America — Tillandsia usneoides",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000404"
+    },
+    {
+      "source": "Flora of North America — Hechtia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=114797"
+    },
+    {
+      "source": "Flora of North America — Hechtia texensis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000080"
+    },
+    {
+      "source": "POWO — Tillandsia recurvata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1194855-2"
+    },
+    {
+      "source": "POWO — Tillandsia usneoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1169665-2"
+    },
+    {
+      "source": "POWO — Hechtia texensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:123183-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-013",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_trichome_tillandsia_hechtia_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,9 @@
+Master Plant Pool Phase3 accepted working name Pistia stratiotes; source rows 894
+Taxonomy source query https://powo.science.kew.org/results?q=Pistia%20stratiotes
+Exact Commons source photograph https://commons.wikimedia.org/wiki/File:Pistia_stratiotes.JPG
+Original photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Pistia%20stratiotes.JPG
+Creator yelod
+Individual image-level CC/PD license Public domain (author released)
+Provisional photo role Provisional floating lettuce-like rosettes viewed from above
+Caution Problematic invasive aquatic plant in Texas. Identification/management comparison only, not a restoration recommendation.
+No Hays County or user target-zone nativity asserted from image. Photo licensing checked at original Commons file pages.

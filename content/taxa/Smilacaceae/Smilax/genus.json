@@ -1,0 +1,170 @@
+{
+  "rank": "genus",
+  "name": "Smilax",
+  "family": "Smilacaceae",
+  "common_name": "greenbrier / catbrier",
+  "project_scope": {
+    "selection_mode": "Genus comparison lesson from durable Smilacaceae family roadmap",
+    "included_source_pool_taxa": [
+      "Smilax bona-nox",
+      "Smilax tamnoides"
+    ],
+    "admission_note": "Both source-pool concepts are already reconciled as accepted names in the family module. This genus lesson does not install or promote species."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "At a leafy node, find the paired tendrils associated with the petiole, then hold the leaf to the light: several strong longitudinal/arcuate veins are connected by a visible net of smaller cross-veins.",
+    "vegetative": "Perennial rhizomatous climbing vines or shrubs, often prickly; leaves alternate, usually leathery, prominently 3-5-veined with reticulate cross-veins; tendrils arise from the petiole region.",
+    "reproductive": "Plants usually dioecious; small greenish flowers are grouped in umbels and have 6 tepals.",
+    "fruit": "Round berries, commonly black at maturity in the two project species, with 1-3 seeds.",
+    "genus_confirmation": "Prickly climbing vine + petiolar tendrils + broad 3-5-veined reticulate leaf + small 6-tepaled umbels + berries is the project Smilax package."
+  },
+  "species_comparison_matrix": [
+    {
+      "taxon": "Smilax bona-nox",
+      "look_first": "Leaf texture/margin plus prickle form",
+      "leaf": "Thicker leaves; often lobed or hastate but highly variable; broad cartilaginous marginal band.",
+      "stem_armature": "Often stout, flattened, dark-tipped prickles.",
+      "best_separator": "Use several leaves plus the cartilaginous margin and stout flattened prickles; do not rely on lobing alone.",
+      "caution": "Leaf shape can vary dramatically on one plant."
+    },
+    {
+      "taxon": "Smilax tamnoides",
+      "look_first": "Lower-stem bristles/prickles plus basal leaf margin",
+      "leaf": "Thinner, mostly unlobed leaves; basal margins minutely serrulate.",
+      "stem_armature": "Conspicuous unequal, flexible dark bristles/prickles on lower stems.",
+      "best_separator": "Flexible unequal bristles plus basal serrulation are the strongest project tie-breakers.",
+      "caution": "A single unlobed leaf is not enough; pair margin and stem-armature characters."
+    }
+  ],
+  "decision_sequence": [
+    "Confirm Smilax first: petiolar tendrils + 3-5 strong veins with reticulate cross-veins.",
+    "Inspect multiple mature leaves rather than one leaf shape.",
+    "Thick leaf with broad cartilaginous margin, often lobed/hastate + stout flattened prickles → S. bona-nox door.",
+    "Thinner mostly unlobed leaf with basal minute serrulation + flexible unequal dark bristles on lower stems → S. tamnoides door.",
+    "If armature and leaf-margin characters disagree or are not visible, leave the species unresolved until reproductive/vegetative details can be photographed."
+  ],
+  "overlap_and_cautions": [
+    "Both species can be prickly climbing vines with black berries; fruit color alone does not separate them.",
+    "S. bona-nox leaf shape is extremely variable, including variation on one plant.",
+    "Do not use 'lobed = bona-nox' as a one-character rule.",
+    "Tendrils and reticulate venation are genus-recognition characters, not species separators."
+  ],
+  "realistic_lookalikes": [
+    {
+      "lookalike": "ordinary broad-leaved dicot vines",
+      "separate_by": "Smilax combines petiolar tendrils with a monocot 6-tepal flower plan and the characteristic strong-vein + cross-vein leaf architecture."
+    },
+    {
+      "lookalike": "other prickly vines",
+      "separate_by": "Confirm tendril origin, leaf venation and umbels rather than using prickles alone."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "same-scale mature leaf comparison",
+      "target": "S. bona-nox vs S. tamnoides",
+      "labels": [
+        "leaf thickness",
+        "lobing/hastate variation",
+        "cartilaginous margin",
+        "basal serrulation"
+      ],
+      "purpose": "Teach the margin/texture distinction without overfitting to leaf outline."
+    },
+    {
+      "priority": 1,
+      "role": "lower-stem armature macro",
+      "target": "both species",
+      "labels": [
+        "stout flattened prickle",
+        "flexible unequal bristles"
+      ],
+      "purpose": "Show the strongest stem-armature separator."
+    },
+    {
+      "priority": 1,
+      "role": "node macro",
+      "target": "representative Smilax",
+      "labels": [
+        "petiole",
+        "paired tendril",
+        "stem"
+      ],
+      "purpose": "Lock the genus-recognition doorway."
+    },
+    {
+      "priority": 1,
+      "role": "backlit leaf",
+      "target": "representative Smilax",
+      "labels": [
+        "3-5 strong veins",
+        "reticulate cross-veins"
+      ],
+      "purpose": "Show why Smilax is a broad-leaved monocot that can fool learners."
+    },
+    {
+      "priority": 2,
+      "role": "male/female umbel comparison",
+      "target": "both species when available",
+      "labels": [
+        "6 tepals",
+        "staminate flower",
+        "pistillate flower"
+      ],
+      "purpose": "Reproductive genus confirmation."
+    },
+    {
+      "priority": 2,
+      "role": "fruiting umbel",
+      "target": "both species",
+      "labels": [
+        "berry cluster"
+      ],
+      "purpose": "Late-season genus confirmation; not a stand-alone species separator."
+    }
+  ],
+  "media_routing": {
+    "joey_media": "Saved Joey routing was already checked by the family module; no direct Smilacaceae target frame is currently indexed.",
+    "acquisition_owner": "photo-polish worker",
+    "instruction": "Prefer real project/user/Texas material that clearly shows the exact margin and prickle characters; do not substitute generic greenbrier glamour shots for diagnostic macros."
+  },
+  "diagnostic_review_handoffs": [
+    "If a future source-pool Smilax has intermediate or conflicting prickle/margin characters, send the exact specimen/observation to Genus Diagnostic Review rather than forcing it into either species.",
+    "Species-level county nativity and installation remain outside this genus lesson lane."
+  ],
+  "sources": [
+    {
+      "source": "Flora of North America — Smilacaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10827",
+      "supports": "genus/family architecture and reproductive context"
+    },
+    {
+      "source": "Flora of North America — Smilax bona-nox",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101927",
+      "supports": "leaf margin/shape and prickle comparison"
+    },
+    {
+      "source": "Flora of North America — Smilax tamnoides",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101943",
+      "supports": "basal serrulation and flexible unequal bristles"
+    },
+    {
+      "source": "POWO — Smilax bona-nox",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541314-1",
+      "supports": "accepted taxon concept already reconciled in family module"
+    },
+    {
+      "source": "POWO — Smilax tamnoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:541894-1",
+      "supports": "accepted taxon concept already reconciled in family module"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-builder",
+    "last_reviewed": "2026-10-07",
+    "structural_lesson": "complete",
+    "visual_lock": "diagnostic macros pending",
+    "species_installation": "independent"
+  }
+}

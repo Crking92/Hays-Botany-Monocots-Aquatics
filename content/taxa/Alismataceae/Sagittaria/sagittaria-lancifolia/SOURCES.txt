@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 1011.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Sagittaria%20lancifolia
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Sagittaria_lancifolia_(flowers).jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Sagittaria%20lancifolia%20(flowers).jpg
+Photo creator: Hans Hillewaert
+Image-level license: CC BY-SA 4.0
+Image role (provisional): Provisional three-petal flowers and emergent habit; fruits and full leaf variation still need close-ups.
+Caution: Source Florida Everglades; not Hays County occurrence evidence.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

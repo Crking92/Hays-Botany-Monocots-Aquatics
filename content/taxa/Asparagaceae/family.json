@@ -1,0 +1,274 @@
+{
+  "rank": "family",
+  "name": "Asparagaceae",
+  "common_name": "Asparagus family · local Yucca focus",
+  "project_scope": {
+    "selection_mode": "modern broad family with local Yucca visual anchor",
+    "note": "Modern broad family: the current Master Plant Pool contains eight genera; the installed canonical species are Yucca anchors only. Yucca rosettes are not a universal Asparagaceae family trait."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: sort eight Master Pool genera into (1) rosettes Yucca/Agave/Hesperaloe/Manfreda, (2) grasslike tufts Nolina/Dasylirion, or (3) spring bulbs Camassia/Androstephium. Then check leaf edge, tepal/stamen architecture, ovary position and fruit. Yucca rosettes are NOT universal to Asparagaceae.",
+    "broad_family": "Modern Asparagaceae is morphologically broad; reproductive characters commonly include 6 tepals, 6 stamens and a 3-locular ovary, but ovary position and fruit type vary.",
+    "local_yucca": "Stiff fibrous leaves in rosettes or on trunks; large terminal flower panicles; 6 fleshy tepals; 6 stamens; 3-carpellate fruit.",
+    "field_tip": "Yucca has true leaves and no cactus areoles. Use leaf texture/armature plus flower/fruit for species.",
+    "yucca_anchor_look_here_first": "For local Yucca, start with rosette/trunk architecture and the true fibrous leaves. Inspect terminal spine/margin fibers, then the terminal panicle with 3+3 tepals and the fruit.",
+    "look_here_first_sequence": [
+      {
+        "formal": "leaf architecture and storage organ",
+        "plain": "spiky rosette, grasslike tuft, or seasonal bulb",
+        "why": "eight-genus routing; not a universal family character"
+      },
+      {
+        "formal": "perianth and androecium",
+        "plain": "often six petal-like tepals and six stamens; check whether stamens join",
+        "why": "distinguishes many monocot look-alikes, but six alone is not decisive"
+      },
+      {
+        "formal": "ovary insertion",
+        "plain": "does the seed chamber sit above or below the flower attachment?",
+        "why": "Yucca/Hesperaloe superior vs Agave/Manfreda inferior in FNA agave-lineage key"
+      },
+      {
+        "formal": "capsule locules, dehiscence and leaf armature",
+        "plain": "count seed compartments and inspect margins, threads, teeth and areoles",
+        "why": "Nolina/Dasylirion and Yucca/Agave/cactus tie-breakers"
+      }
+    ],
+    "shared_morphology_and_exceptions": "Modern Asparagaceae includes rosettes, grasslike tufts and spring bulbs in the local pool. Flowers commonly have 3+3 tepals and six stamens, but ovary position, leaf armature, fruit type and floral form vary. Do not generalize Yucca spines, white pendent flowers, or yucca-moth pollination to the family.",
+    "genus_routing": [
+      {
+        "genus": "Yucca",
+        "look": "fibrous sword leaves; large six-tepal flowers; superior ovary; dry or fleshy fruit"
+      },
+      {
+        "genus": "Agave",
+        "look": "succulent toothed leaf rosettes; inferior ovary; tall flowering stalk"
+      },
+      {
+        "genus": "Hesperaloe",
+        "look": "arching narrow rosette leaves, tubular flowers, superior ovary"
+      },
+      {
+        "genus": "Manfreda",
+        "look": "seasonal softer-leaved agave-like herb; inferior ovary in FNA historical concept; taxonomy alias handoff"
+      },
+      {
+        "genus": "Nolina",
+        "look": "grasslike tuft; minute often unisexual flowers; three-locular capsule"
+      },
+      {
+        "genus": "Dasylirion",
+        "look": "dense narrow leaves with hooked marginal teeth; minute flowers; one-locular indehiscent fruit in FNA key"
+      },
+      {
+        "genus": "Androstephium",
+        "look": "spring bulb; funnel flowers; united staminal crown"
+      },
+      {
+        "genus": "Camassia",
+        "look": "spring bulb; raceme of starry flowers; free stamens and 3-celled capsule"
+      }
+    ]
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → diagnostic structure → reproductive confirmation → tie-breaker",
+    "intro": "The local lesson is really 'how to read Yucca' while remembering that Yucca is only one form inside broad Asparagaceae.",
+    "steps": [
+      {
+        "title": "1 · Read the rosette",
+        "photo_role": "whole-plant architecture",
+        "anchor_species_id": "yucca-rupicola",
+        "look_for": "Basal/terminal cluster of true fibrous leaves.",
+        "why_it_matters": "Separates Yucca from superficially spiny cacti and begins the species comparison.",
+        "status": "locked_existing_species_anchor"
+      },
+      {
+        "title": "2 · Inspect the leaf",
+        "photo_role": "leaf width / twist / margin",
+        "anchor_species_id": "yucca-rupicola",
+        "look_for": "Leaf stiffness, twist, color, marginal threads and terminal spine.",
+        "why_it_matters": "Vegetative Yucca ID often starts here.",
+        "status": "locked_existing_species_anchor"
+      },
+      {
+        "title": "3 · Compare a narrow-leaved species",
+        "photo_role": "leaf architecture comparison",
+        "anchor_species_id": "yucca-constricta",
+        "look_for": "Narrower flexible leaves and different margin/fiber pattern.",
+        "why_it_matters": "Builds a useful local Yucca contrast before flowering.",
+        "status": "locked_existing_species_anchor"
+      },
+      {
+        "title": "4 · Add trunked architecture",
+        "photo_role": "trunk / rosette",
+        "anchor_species_id": "yucca-treculiana",
+        "look_for": "Arborescent/trunked habit with stout rosettes and strongly armed leaves.",
+        "why_it_matters": "Shows how much vegetative architecture varies within local Yucca.",
+        "status": "locked_existing_species_anchor"
+      },
+      {
+        "title": "5 · Confirm the flower/fruit",
+        "photo_role": "3+3 tepals and fruit",
+        "anchor_species_id": "yucca-torreyi",
+        "look_for": "Large terminal panicle, six tepals and 3-carpellate fruit.",
+        "why_it_matters": "Reproductive characters confirm the local genus/family placement.",
+        "status": "species_anchor_photo_polish_pending"
+      },
+      {
+        "title": "6 · Route the eight genera by plant architecture",
+        "photo_role": "matched rosette / grasslike tuft / bulb triptych",
+        "look_for": "Separate Yucca/Agave/Hesperaloe/Manfreda from Nolina/Dasylirion and Camassia/Androstephium before naming a genus.",
+        "why_it_matters": "Yucca anchors alone do not cover the family.",
+        "status": "matched_photos_pending",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "7 · Compare superior and inferior ovaries",
+        "photo_role": "matched longitudinal Yucca and Agave flower sections",
+        "look_for": "Locate the seed-bearing chamber relative to tepal and stamen attachment. Yucca/Hesperaloe superior, Agave/Manfreda inferior in the FNA agave-lineage key.",
+        "why_it_matters": "Leaf similarity can conceal major reproductive differences.",
+        "status": "section_or_diagram_pending",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "8 · Read tiny flowers and spring bulbs",
+        "photo_role": "Nolina/Dasylirion fruit sections and Camassia/Androstephium flower centers",
+        "look_for": "Nolina three-locular versus Dasylirion one-locular fruit; Camassia free stamens versus Androstephium staminal crown.",
+        "why_it_matters": "These four genera are easily missed by a Yucca-only lesson.",
+        "status": "matched_macros_pending",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Yucca vs Cactaceae",
+        "rule": "Yucca has true fibrous leaves in a rosette and lacks areoles. Cacti have specialized areoles and highly modified/reduced leaves."
+      },
+      {
+        "title": "Asparagaceae vs Iridaceae",
+        "rule": "Both can have six showy tepals, but local Iridaceae commonly have three stamens while Camassia and other Asparagaceae examples commonly have six. Verify an open flower."
+      },
+      {
+        "title": "Asparagaceae vs Amaryllidaceae",
+        "rule": "Spathe-bracted umbels and inferior ovaries often suggest amaryllids, but Allium has a superior ovary; combine characters rather than relying on one."
+      },
+      {
+        "title": "Nolina/Dasylirion vs Poaceae/Cyperaceae",
+        "rule": "These grasslike Asparagaceae have tiny tepaled flowers and capsules, not grass spikelets or sedge achenes; check a fertile stem."
+      }
+    ],
+    "caveat": "Do not generalize Yucca's rosette/spines to all modern Asparagaceae. This is a local eight-genus routing guide, not a universal family key. FNA Agavoideae characters should not be imposed on all Asparagaceae.",
+    "family_confusion_polish": {
+      "version": "2026-10-15-eight-genus-routing",
+      "scope": "16 Master Plant Pool source rows, eight genera; only six Yucca species installed",
+      "representative_species": [
+        {
+          "species_id": "yucca-rupicola",
+          "status": "canonical_installed",
+          "role": "Yucca genus anchor, not entire family"
+        },
+        {
+          "species_id": "yucca-torreyi",
+          "status": "canonical_installed",
+          "role": "Yucca genus anchor, not entire family"
+        },
+        {
+          "species_id": "yucca-constricta",
+          "status": "canonical_installed",
+          "role": "Yucca genus anchor, not entire family"
+        },
+        {
+          "species_id": "yucca-arkansana",
+          "status": "canonical_installed",
+          "role": "Yucca genus anchor, not entire family"
+        }
+      ],
+      "diagnostic_photo_needs": [
+        {
+          "formal": "leaf margin / terminal spine / cactus areole",
+          "plain": "frayed yucca edge vs agave tooth vs cactus spine cushion",
+          "exact_roles": [
+            "Yucca rupicola margin macro",
+            "Agave lechuguilla tooth and terminal spine",
+            "Opuntia areole"
+          ],
+          "annotation_status": "annotation_pending",
+          "status": "needs_matched_photos"
+        },
+        {
+          "formal": "superior vs inferior ovary",
+          "plain": "seed chamber above or below flower-part attachment",
+          "exact_roles": [
+            "Yucca rupicola flower longitudinal section",
+            "Agave lechuguilla flower longitudinal section"
+          ],
+          "annotation_status": "annotation_pending",
+          "status": "needs_sections_or_diagrams"
+        },
+        {
+          "formal": "fruit locules and dehiscence",
+          "plain": "number of seed chambers and splitting pattern",
+          "exact_roles": [
+            "Nolina texana three-locular capsule section",
+            "Dasylirion texanum one-locular fruit section"
+          ],
+          "annotation_status": "annotation_pending",
+          "status": "needs_matched_macro"
+        },
+        {
+          "formal": "stamen connation",
+          "plain": "joined stamen crown vs six free stamens",
+          "exact_roles": [
+            "Androstephium coeruleum flower center",
+            "Camassia scilloides flower center"
+          ],
+          "annotation_status": "annotation_pending",
+          "status": "needs_flower_center_macro"
+        }
+      ],
+      "existing_media_teaching_references": [
+        {
+          "species_id": "yucca-rupicola",
+          "installed_path": "content/taxa/Asparagaceae/Yucca/yucca-rupicola/images/glass-root-garden-623378710-rosette.jpg",
+          "source_page": "https://www.inaturalist.org/photos/623378710",
+          "creator": "Glass Root Garden",
+          "license": "CC BY 4.0 (owner grant in species.json)",
+          "public_reuse": "yes per species.json",
+          "diagnostic_role": "rosette with twisting leaves",
+          "visible_structure": "rosette and twisting leaf blades; marginal denticles unresolved",
+          "caption": "Twisting Yucca rupicola leaves; do not infer fine leaf-margin teeth.",
+          "annotation_target": "twisted leaf blade after pixel check",
+          "annotation_status": "annotation_pending",
+          "verification": "prior species.json review; no new pixel inspection"
+        },
+        {
+          "species_id": "yucca-torreyi",
+          "installed_path": "content/taxa/Asparagaceae/Yucca/yucca-torreyi/images/01-habit.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Yucca_torreyi_1.jpg",
+          "creator": "Stan Shebs",
+          "license": "CC BY-SA 2.5",
+          "public_reuse": "yes with share-alike and credit per species.json",
+          "diagnostic_role": "tree-form Yucca",
+          "visible_structure": "tree habit and leaf crown per existing species.json; flower anatomy not verified",
+          "caption": "Tree-form Yucca torreyi, an architecture clue rather than a universal family trait.",
+          "annotation_target": "trunk and crown after pixel check",
+          "annotation_status": "annotation_pending",
+          "verification": "existing metadata/prior tracker review; no new pixel inspection"
+        }
+      ],
+      "taxonomy_handoff": "Manfreda maculosa source-pool name requires accepted-name concept reconciliation by Taxonomy + Diagnostic Review; do not silently rename or install a duplicate.",
+      "media_handoff": "Diagnostic Photo Polish owns four matched structural sets above and broken Yucca constricta reference repair. No new images or verified arrows in this family pass.",
+      "sources": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10019",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=135226",
+        "https://mdc.mo.gov/discover-nature/field-guide/wild-hyacinth"
+      ]
+    }
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "first_pass_complete"
+  }
+}

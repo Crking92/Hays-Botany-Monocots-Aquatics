@@ -1,0 +1,91 @@
+{
+  "id": "carex-emoryi",
+  "entry_type": "provisional_species",
+  "family": "Cyperaceae",
+  "genus": "Carex",
+  "species": "emoryi",
+  "scientific_name": "Carex emoryi",
+  "authority": "Dewey",
+  "common_name": "Emory sedge",
+  "look_here_first": "Tall rhizomatous streambank sedge with several long pistillate spikes below 2–3 terminal staminate spikes.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays County is present in the repaired Master Plant Pool local-native source. Broader county reconciliation intentionally deferred under the provisional-first learning workflow.",
+    "range_guardrail": "Installed for visual learning now; native metrics remain excluded until county-level review is completed."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Cyperaceae/Carex: grasslike perennial sedges with sheathing leaves; Carex fruits are enclosed in a perigynium, a key structure for species-level identification.",
+    "best_field_traits": [
+      "rhizomatous rather than tightly tufted",
+      "culms about 30–115 cm",
+      "leaf blades about 3–6 mm wide",
+      "3–5 elongated pistillate spikes",
+      "2–3 terminal staminate spikes",
+      "finely veined flattened perigynia",
+      "streambanks, ditches and seeps"
+    ],
+    "comparison_training": "C. emoryi is the tall spreading wet-site species in this set. It differs from ravenfoot sedge by having distinct elongated separate spikes instead of one dense many-branched cylindrical head."
+  },
+  "curation_status": {
+    "version": "1.0-b104-provisional",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/carex-emoryi-provisional-face.jpg",
+      "role": "Leaf sheath / ligule and sedge habit recognizable reference",
+      "creator": "cassi saari",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Carex_emoryi_ligule.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6188026840-67dd559da.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Terminal staminate spikes and lower pistillate spikes; sheath/ligule detail",
+      "creator": "sonoresmore",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6188026840",
+      "gbif_occurrence_id": "6188026840",
+      "source_determination": "Carex emoryi Dewey",
+      "accepted_target": "Carex emoryi",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633211672/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

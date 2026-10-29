@@ -1,0 +1,3 @@
+Cyperus rotundus L.. Source-pool approved; scientific four-taxon review: reports/cyperus-taxonomy-diagnostic-review-2026-10-10.md. POWO lists Cyperus rotundus as introduced in Texas; retain in learner for weed lookalike recognition only, exclude from native-only calculations.
+FNA genus https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=109010
+Exactly identified Commons photographs: https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_inflor.jpg (Mike, CC BY-SA 3.0); https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_tuber01.jpg (Rickjpelleg, CC BY 2.5); https://commons.wikimedia.org/wiki/File:Cyperus_rotundus_spikelet_DC2.jpg (Macleay Grass Man, CC BY 2.0). Photos do not show all microscopic species-separating structures; see diagnostic_image_needs.

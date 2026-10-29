@@ -1,0 +1,108 @@
+{
+  "rank": "genus",
+  "family": "Typhaceae",
+  "name": "Typha",
+  "project_scope": {
+    "source_pool_species": [
+      "Typha domingensis",
+      "Typha latifolia"
+    ],
+    "status": "not canonical; installer dependency"
+  },
+  "look_here_first": "Confirm the upper staminate and lower pistillate spike zones. On an intact flowering stem, measure the naked gap; then check the inner sheath and first 1–10 cm of the leaf blade for glands. Confirm bracteoles and stigma shape under magnification when characters conflict.",
+  "shared_genus_traits": [
+    "Rhizomatous marsh herbs with long linear leaves.",
+    "Upper staminate and lower pistillate cylindrical spike zones."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Male-female spike gap",
+      "domingensis": "Usually 1–8 cm, occasionally absent.",
+      "latifolia": "Usually contiguous, but some clones can show a gap up to 4 cm (rarely 8 cm)."
+    },
+    {
+      "character": "Leaf width",
+      "domingensis": "Fresh widest blades usually 6–18 mm (FNA); ranges overlap.",
+      "latifolia": "Fresh widest blades usually 10–23 mm, occasionally to 29 mm (FNA); ranges overlap."
+    },
+    {
+      "character": "Pistillate bracteoles",
+      "domingensis": "Present",
+      "latifolia": "Absent"
+    },
+    {
+      "character": "Female spike thickness at maturity",
+      "domingensis": "Usually 15–25 mm",
+      "latifolia": "Usually 24–36 mm",
+      "caution": "Overlap at 24–25 mm; measure mature spikes."
+    }
+  ],
+  "cautions": [
+    "Hybridization, spike damage and leaf plasticity make any single character unreliable.",
+    "Technical bracteole/gland confirmation belongs to diagnostic review.",
+    "FNA documents naked-axis gaps even in some T. latifolia clones; a visible gap is suggestive, not proof of T. domingensis."
+  ],
+  "lookalikes": [
+    "Schoenoplectus: branched sedge spikelets, not two vertically separated cattail spike zones."
+  ],
+  "diagnostic_photo_checklist": [
+    "Matched intact flowering stalks with centimeter ruler and male/female arrows",
+    "Matched mature leaf widths",
+    "Sheath mucilage gland macros",
+    "Dissected female flowers showing bracteoles",
+    "Paired pistillate flower dissections at 20–30× showing bracteoles and stigma shape with scale"
+  ],
+  "handoff": "Approved Taxa Installer owns species; Diagnostic Photo Polish owns photos.",
+  "sources": [
+    "content/taxa/Typhaceae/family.json",
+    "Master Plant Pool"
+  ],
+  "curation_status": {
+    "status": "provisional",
+    "last_reviewed": "2026-10-10"
+  },
+  "field_tip": "Inspect intact spike gap, proximal sheath glands, and pistillate bracteoles together; do not force hybrid-like plants to species.",
+  "field_identification_sequence": [
+    "Confirm the upper staminate and lower pistillate zones on one intact flowering stem.",
+    "Measure the bare interval between them: often 1–8 cm in T. domingensis, generally contiguous in T. latifolia. Damage or old male spikes can mislead.",
+    "Measure several fully expanded leaf blades and inspect the proximal blade and sheath for mucilage glands; use as corroboration, not a single-character diagnosis.",
+    "Dissect mature pistillate flowers at 20–30x: bracteoles present in T. domingensis, absent in T. latifolia.",
+    "For intermediate gap/width or suspected hybrids, retain Typha sp. and request reproductive diagnostic review."
+  ],
+  "diagnostic_photo_plan": [
+    {
+      "character": "staminate-pistillate gap",
+      "photo": "Fresh intact inflorescences of both species with centimeter scale and two arrows identifying zones"
+    },
+    {
+      "character": "mucilage gland position",
+      "photo": "Matched inner sheath and first 10 cm of leaf blade, backlit macro and labeled glands"
+    },
+    {
+      "character": "pistillate bracteoles",
+      "photo": "Dissected female flowers of both species at matched 20–30x with bracteole arrows and scale"
+    },
+    {
+      "character": "leaf blade width",
+      "photo": "Several mature leaves per species measured at same distance from sheath"
+    },
+    {
+      "character": "hybrid caution",
+      "photo": "Intermediate intact spike plus paired flower dissection; label uncertain rather than assigning species"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "name": "Flora of North America Typha key",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=134063"
+    },
+    {
+      "name": "Flora of North America Typha domingensis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=222000445"
+    },
+    {
+      "name": "Flora of North America Typha latifolia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220013917"
+    }
+  ]
+}

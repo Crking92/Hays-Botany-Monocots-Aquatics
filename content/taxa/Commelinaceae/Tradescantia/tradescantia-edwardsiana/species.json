@@ -1,0 +1,88 @@
+{
+  "id": "tradescantia-edwardsiana",
+  "entry_type": "species",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "species": "edwardsiana",
+  "scientific_name": "Tradescantia edwardsiana",
+  "authority": "Tharp",
+  "common_name": "Plateau spiderwort",
+  "look_here_first": "Robust broad-leaved spiderwort, usually taller and wider-leaved than granite spiderwort.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Exact records from Travis, Kerr, and Bexar counties.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "robust perennial",
+      "usually 40 to 80 cm tall",
+      "midstem leaves commonly 2 to 5 cm wide",
+      "leaves broadest above the base",
+      "stems commonly glabrous or nearly so",
+      "blue to violet three-petaled flowers"
+    ],
+    "comparison_training": "Taller and broader-leaved than T. pedicellata; generally more robust and less consistently hairy than T. hirsutiflora."
+  },
+  "curation_status": {
+    "version": "1.0-b092",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/tradescantia-edwardsiana-provisional-face.jpg",
+      "role": "Flowering plant / recognizable face",
+      "creator": "Eric Knight",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tradescantia_edwardsiana.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5067995163-213c2192e.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Broad leaf shape and stem/inflorescence attachment; hairs at pedicels and sepals",
+      "creator": "Albion R. Hodgdon Herbarium, University of New Hampshire",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5067995163",
+      "gbif_occurrence_id": "5067995163",
+      "source_determination": "Tradescantia edwardsiana Tharp",
+      "accepted_target": "Tradescantia edwardsiana",
+      "media_source_url": "https://media01.symbiota.org/media/cnh/UniversityofNewHampshire_NHA/NHA-523/NHA-523290.jpg",
+      "image_dimensions": [
+        957,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

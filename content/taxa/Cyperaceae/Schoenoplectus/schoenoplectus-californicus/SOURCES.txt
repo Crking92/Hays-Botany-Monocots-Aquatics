@@ -1,0 +1,9 @@
+Approved source-pool Phase3 name Schoenoplectus californicus source rows 1044.
+Name reference: https://powo.science.kew.org/results?q=Schoenoplectus%20californicus
+Exact Commons file page: https://commons.wikimedia.org/wiki/File:Schoenoplectus_californicus.jpg
+Original photo/direct Commons file redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Schoenoplectus%20californicus.jpg
+Photo creator Andrés González
+License CC BY-SA 4.0
+Visual role Provisional emergent bulrush growth/inflorescence recognition; mature nutlets and stem cross-section missing.
+Caution Exact species image may be geographically outside Texas; preserve separate local range assessment.
+Do not assert Hays County, west/north counties or BONAP target-range nativity from out-of-area photos.

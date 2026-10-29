@@ -1,0 +1,13 @@
+Allium canadense L. — approved Master Plant Pool row 34; reviewed 2026-10-07.
+POWO: https://powo.science.kew.org/taxon/527759-1
+FNA: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101341
+Range: UNRESOLVED for target zone; Texas-native at state level, not a three-county PASS.
+Photo: Eric Hunt, CC BY-SA 4.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Allium_canadense_var_canadense.jpg
+Photo is identified to var. canadense; do not assign this variety to the species-only source-pool row. Missing spathe-venation macro.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Allium canadense L.
+https://www.gbif.org/occurrence/6178851994
+Sam Kieschnick | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Intact umbel spathe with bracts and veins; flowers compared with aerial bulbils
+No anatomy arrows; no scientific or native-range changes.

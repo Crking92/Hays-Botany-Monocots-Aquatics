@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/sabal-minor/sabal-minor-kenraiz.jpg",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sabal_minor_kz02.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "494c7d21a425f267d8383efc266b68f9e2abcec6",
+      "role": "provisional_habit_fan_leaves_inflorescence_not_hastula",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "54244ff27b70cb203412c65f7d4320b90e5e72629747baaf4dc1f296468c4b2e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

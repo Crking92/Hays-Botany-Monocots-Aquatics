@@ -10,8 +10,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/smilax-bona-nox/smilax-bona-nox-abair-stem-350770693.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Smilax_bona-nox_350770693.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "2a89f56f7bf304677c6394b74304116d0eb19eb7",
+      "role": "stem prickles and coiling structures",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/smilax-bona-nox/smilax-bona-nox-wickeddancer-leaves.jpg",
+      "creator": "Wicked dancer1",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Smilax_bona-nox_leaves.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "658f5f6c78853ff537c01f72b5101d35c6d7108b",
+      "role": "variable leaf shapes and basal veins",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ed25e0222f2db03c33d477f70a4a39546fd64712b8873e57f2eeee274846ed20",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

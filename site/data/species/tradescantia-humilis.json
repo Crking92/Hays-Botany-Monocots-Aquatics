@@ -35,8 +35,22 @@
     "names": [],
     "differences": "T. gigantea is taller and more robust with lower stems nearly glabrous. T. occidentalis is taller and grassier, with narrow leaves and especially conspicuous glandular stem/peduncle hairs. T. humilis stays low and bushy with hairy blades."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/tradescantia-humilis/tradescantia-humilis-provisional-face.jpg",
+      "creator": "HavannaMabel",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spiderwort_Flower-MG.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "d293bbd72052ad9f550ba62614a9abe699799396",
+      "role": "Flower close-up / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4f2aac98e079cbbc235f9156adb1ed416535700b2b4178df12685bc017aee586",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

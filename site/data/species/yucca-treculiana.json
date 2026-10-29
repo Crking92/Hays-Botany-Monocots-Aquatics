@@ -35,8 +35,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/yucca-treculiana/01-wild-habitat.jpg",
+      "creator": "William L. Farr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spanish_Dagger_(Yucca_treculeana),_Laguna_Atascosa_National_Wildlife_Refuge,_Cameron_County,_Texas,_USA_(12_April_2016).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "7092c7067cc8c6f48b4745aece6e85ac5b0ae104",
+      "role": "Wild tree yucca habit in Texas grassland",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1bb639999a54415d9c3ec57b77355824c8a9da78bc40b2d1aa981320babda2fa",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

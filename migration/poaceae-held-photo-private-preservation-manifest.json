@@ -1,0 +1,1013 @@
+{
+  "summary": {
+    "status": "POACEAE_ALL_CURRENT_HELD_ORIGINALS_EXACTLY_ARCHIVED_PRIVATE_NOT_PUBLIC",
+    "source_repository": "Crking92/Hays-County-Botany",
+    "public_poaceae_repository": "Crking92/Hays-Botany-Poaceae",
+    "private_archive_repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+    "original_source_snapshot": "d5812999ea32d03b873110db1a526e20ac6ea730",
+    "held_source_photo_files_archived_privately": 58,
+    "original_github_blob_hashes_matching": 58,
+    "photo_bytes_preserved": 18749993,
+    "original_poaceae_source_files_total": 1402,
+    "source_record_dispositions_untouched": true,
+    "public_poaceae_repository_modified": false,
+    "original_hub_modified": false,
+    "site_display_approved": false,
+    "public_pages_deployed": false,
+    "author_license_changes": false,
+    "private_storage_location": "migration/poaceae-rights-held-originals/",
+    "note": "A private asset preservation archive, not a change to family classification, owner permissions, source licenses, or live Poaceae routes."
+  },
+  "images": [
+    {
+      "source_path": "content/taxa/Poaceae/Aristida/aristida-oligantha/images/inat-734051180-aristida-oligantha-long-awns.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Aristida/aristida-oligantha/images/inat-734051180-aristida-oligantha-long-awns.jpg",
+      "git_blob_sha": "b53bfdaf7935bf560127b2791d185a24093c7bcd",
+      "bytes": 166307,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "aristida-oligantha",
+        "source_file": "images/inat-734051180-aristida-oligantha-long-awns.jpg",
+        "resolved_path": "content/taxa/Poaceae/Aristida/aristida-oligantha/images/inat-734051180-aristida-oligantha-long-awns.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "sonoresmore (iNaturalist account; individual photographer unverified)",
+        "license": "CC0 according to staged photo-level metadata; live confirmation pending",
+        "source_page": "https://www.inaturalist.org/photos/734051180"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-07901f92dade302c.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-07901f92dade302c.jpg",
+      "git_blob_sha": "e31fe66cdf57ddd06b938852df33b4135c8df94c",
+      "bytes": 132289,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-barbinodis",
+        "source_file": "images/joey-review019-07901f92dade302c.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-07901f92dade302c.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/508062198"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-1a83d06e5a9fda6b.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-1a83d06e5a9fda6b.jpg",
+      "git_blob_sha": "5b9d162c260ea20dcb6b7a977daeaefe24e81b80",
+      "bytes": 133263,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-barbinodis",
+        "source_file": "images/joey-review019-1a83d06e5a9fda6b.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-1a83d06e5a9fda6b.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/336225880"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-643cdf7ab28545a5.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-643cdf7ab28545a5.jpg",
+      "git_blob_sha": "aede2cb7745e127ead601c2da2874a67c329ccc4",
+      "bytes": 122316,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-barbinodis",
+        "source_file": "images/joey-review019-643cdf7ab28545a5.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-barbinodis/images/joey-review019-643cdf7ab28545a5.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/336225859"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/01-habit-silvery-panicles.jpeg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/01-habit-silvery-panicles.jpeg",
+      "git_blob_sha": "b059ecb37daaa37fe442c173e88cdaa99a2b68c9",
+      "bytes": 446235,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-torreyana",
+        "source_file": "images/01-habit-silvery-panicles.jpeg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/01-habit-silvery-panicles.jpeg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Don Young",
+        "license": "site copyright / reuse not verified",
+        "source_page": "https://www.tandyhills.org/notes/an-october-to-remember"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/01-spikelet-awn-detail.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/01-spikelet-awn-detail.jpg",
+      "git_blob_sha": "841d71eb9f8115770445fcf956126b8a61f9bc19",
+      "bytes": 274613,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/02-habit.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/02-habit.jpg",
+      "git_blob_sha": "cee35e5224ba43ab9ce66e652efa979471995099",
+      "bytes": 565166,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/02-inflorescence-detail.jpeg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/02-inflorescence-detail.jpeg",
+      "git_blob_sha": "1927b2fa5764ba61a3a442d641066212a3c271ec",
+      "bytes": 161046,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-torreyana",
+        "source_file": "images/02-inflorescence-detail.jpeg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/02-inflorescence-detail.jpeg",
+        "decision": "explicit_reuse_hold",
+        "creator": "isabelvleer",
+        "license": "All rights reserved — confirmed exact photo ID 443784118",
+        "source_page": "https://www.inaturalist.org/observations/248379064"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/03-seedhead-rames.jpeg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/03-seedhead-rames.jpeg",
+      "git_blob_sha": "1f45e257234a5e3c23fc7f67dab2d4cc28546beb",
+      "bytes": 94034,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-torreyana",
+        "source_file": "images/03-seedhead-rames.jpeg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/03-seedhead-rames.jpeg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Mary Hogan",
+        "license": "CC BY-NC (exact license code verified; version not rechecked)",
+        "source_page": "https://www.inaturalist.org/observations/250145594"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/03-silver-inflorescence.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/03-silver-inflorescence.jpg",
+      "git_blob_sha": "232a8a276ef64ba1c14c25e38425bcb295b990f6",
+      "bytes": 752821,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/04-stem-leaf-inflorescence.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/04-stem-leaf-inflorescence.jpg",
+      "git_blob_sha": "a2371cb04867ac3abe148dcf4887d13a173d1f17",
+      "bytes": 119046,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-denver-gardens-vouchered-roots-cc0-20261027.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-denver-gardens-vouchered-roots-cc0-20261027.jpg",
+      "git_blob_sha": "b6905c05e4e1f4db49000f3e0d64bc55d50fdacd",
+      "bytes": 702119,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-torreyana",
+        "source_file": "images/silver-denver-gardens-vouchered-roots-cc0-20261027.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-denver-gardens-vouchered-roots-cc0-20261027.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Denver Botanic Gardens, Kathryn Kalmbach Herbarium (KHD)",
+        "license": "CC0 1.0 (individual GBIF media; no copyright restrictions)",
+        "source_page": "https://www.gbif.org/occurrence/2242356292"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-smithsonian-nm-vouchered-roots-cc0-20261027.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-smithsonian-nm-vouchered-roots-cc0-20261027.jpg",
+      "git_blob_sha": "35d606caa7f961ce7aae1a8e5170c9a9ec16e71c",
+      "bytes": 392279,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bothriochloa-torreyana",
+        "source_file": "images/silver-smithsonian-nm-vouchered-roots-cc0-20261027.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bothriochloa/bothriochloa-torreyana/images/silver-smithsonian-nm-vouchered-roots-cc0-20261027.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Ingrid P. Lin / Smithsonian National Museum of Natural History",
+        "license": "CC0 1.0 (individual GBIF media; no copyright restrictions)",
+        "source_page": "https://www.gbif.org/occurrence/4976689107"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/01-habit.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/01-habit.jpg",
+      "git_blob_sha": "366f3f8fe4a5b065b2cc9b63c4f40d3ed906892d",
+      "bytes": 559077,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/02-inflorescence-architecture.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/02-inflorescence-architecture.jpg",
+      "git_blob_sha": "872e85c80f59192afb102c0075fe4f78254f0ce0",
+      "bytes": 487047,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/03-lateral-spike-detail.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/03-lateral-spike-detail.jpg",
+      "git_blob_sha": "175aa5dcfc976fbd7d8e6a3451aab051212ddf8e",
+      "bytes": 309866,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/04-flowering-spikelets.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/04-flowering-spikelets.jpg",
+      "git_blob_sha": "ea67aa42690dfb80f927f3fc3b62b8584f40106d",
+      "bytes": 121083,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/04-inflorescence-architecture.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/04-inflorescence-architecture.jpg",
+      "git_blob_sha": "ea67aa42690dfb80f927f3fc3b62b8584f40106d",
+      "bytes": 121083,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-curtipendula",
+        "source_file": "images/04-inflorescence-architecture.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/04-inflorescence-architecture.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Tallgrass Prairie Center",
+        "license": "license not verified",
+        "source_page": "https://tallgrassprairiecenter.org/native-seed-production-manual/species-production-guides/warm-season-grasses/sideoats-grama"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/05-leaf-collar.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/05-leaf-collar.jpg",
+      "git_blob_sha": "db7aeba70c4b7822cb676e99513af8b57a5e7c01",
+      "bytes": 91967,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/commons-archive-e1d23e10d6bf922c.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/commons-archive-e1d23e10d6bf922c.jpg",
+      "git_blob_sha": "f60e3c82681e76bfaf87c1b7abda872beb497533",
+      "bytes": 196286,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-curtipendula",
+        "source_file": "images/commons-archive-e1d23e10d6bf922c.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-curtipendula/images/commons-archive-e1d23e10d6bf922c.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Matt Lavin",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bouteloua_curtipendula_(4087879908).jpg"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/glass-root-498683355-first-photo.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/glass-root-498683355-first-photo.jpg",
+      "git_blob_sha": "5f6713fcbbe355050e1bd2934c34cd36238ed12b",
+      "bytes": 311983,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-rigidiseta",
+        "source_file": "images/glass-root-498683355-first-photo.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/glass-root-498683355-first-photo.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Glass Root Garden",
+        "license": "Owner-authorized private study",
+        "source_page": "https://www.inaturalist.org/photos/498683355"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-field-habit.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-field-habit.jpg",
+      "git_blob_sha": "fe66c9e2fd88ace5ac0801abdf4bc915d6df4f43",
+      "bytes": 376586,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-rigidiseta",
+        "source_file": "images/larry-allain-usgs-texas-grama-field-habit.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-field-habit.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Larry Allain / U.S. Geological Survey",
+        "license": "US Public Domain (USGS employee-authored)",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/3292"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-1.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-1.jpg",
+      "git_blob_sha": "658d550e28a1ea4a9f418e0e3a6d241e20ebad01",
+      "bytes": 504476,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-rigidiseta",
+        "source_file": "images/larry-allain-usgs-texas-grama-flower-head-1.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-1.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Larry Allain / U.S. Geological Survey",
+        "license": "US Public Domain (USGS employee-authored)",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/3292"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-2.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-2.jpg",
+      "git_blob_sha": "7baa05de0aba1e0672a9a43f532523e14a359ed7",
+      "bytes": 381410,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-rigidiseta",
+        "source_file": "images/larry-allain-usgs-texas-grama-flower-head-2.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-rigidiseta/images/larry-allain-usgs-texas-grama-flower-head-2.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Larry Allain / U.S. Geological Survey",
+        "license": "US Public Domain (USGS employee-authored)",
+        "source_page": "https://warcapps.usgs.gov/PlantID/Species/Details/3292"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-2b4a0b031779ba0e.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-2b4a0b031779ba0e.jpg",
+      "git_blob_sha": "c5c2950228c8244784ee82a4605fbd9cacea1789",
+      "bytes": 158115,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-trifida",
+        "source_file": "images/joey-review031-2b4a0b031779ba0e.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-2b4a0b031779ba0e.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/434838179"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-545169d1d815b914.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-545169d1d815b914.jpg",
+      "git_blob_sha": "cbc67e554b8017ee3b0b517d17895ca62980343d",
+      "bytes": 102329,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-trifida",
+        "source_file": "images/joey-review031-545169d1d815b914.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-545169d1d815b914.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/340408474"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-debc53d15cc8abf3.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-debc53d15cc8abf3.jpg",
+      "git_blob_sha": "fc4c5b34aea0cbf2761e3e1da7a2848694db4d20",
+      "bytes": 201937,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "bouteloua-trifida",
+        "source_file": "images/joey-review031-debc53d15cc8abf3.jpg",
+        "resolved_path": "content/taxa/Poaceae/Bouteloua/bouteloua-trifida/images/joey-review031-debc53d15cc8abf3.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/434838307"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-cupule-sterile-lemma.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-cupule-sterile-lemma.jpg",
+      "git_blob_sha": "2729583d99d43b3f7cf71f891e5205ae3fe3cea1",
+      "bytes": 155035,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "cenchrus-spinifex",
+        "source_file": "images/usda-cenchrus-spinifex-cupule-sterile-lemma.jpg",
+        "resolved_path": "content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-cupule-sterile-lemma.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Deena S. Walters and Christina Southwick, USDA APHIS PPQ CPHST",
+        "license": "Public domain — U.S. federal photographic work (author source-specific)",
+        "source_page": "https://idtools.org/id/weed-tool/key/GrapeGrassKey/Media/Html/fact_sheets/Cen-inc.html"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-labelled-cupule-and-spikelet.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-labelled-cupule-and-spikelet.jpg",
+      "git_blob_sha": "769ebd3c880c81ae3cc2e2334fa0c99524c5660e",
+      "bytes": 149970,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "cenchrus-spinifex",
+        "source_file": "images/usda-cenchrus-spinifex-labelled-cupule-and-spikelet.jpg",
+        "resolved_path": "content/taxa/Poaceae/Cenchrus/cenchrus-spinifex/images/usda-cenchrus-spinifex-labelled-cupule-and-spikelet.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Deena S. Walters and Christina Southwick, USDA APHIS PPQ CPHST",
+        "license": "Public domain — U.S. federal photographic work (author source-specific)",
+        "source_page": "https://idtools.org/id/weed-tool/key/GrapeGrassKey/Media/Html/fact_sheets/Cen-inc.html"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Digitaria/digitaria-ciliaris/images/comparison-only-digitaria-sanguinalis-spikelet-bracts-stefan.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Digitaria/digitaria-ciliaris/images/comparison-only-digitaria-sanguinalis-spikelet-bracts-stefan.jpg",
+      "git_blob_sha": "b311e085856eb7a48a8730cc23ab5afce8f054cc",
+      "bytes": 524047,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-6427cea3dfc2c3fb.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-6427cea3dfc2c3fb.jpg",
+      "git_blob_sha": "0c6e99fb7dcf2cf7858d648d1a6be07ee1fed065",
+      "bytes": 315928,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "eragrostis-intermedia",
+        "source_file": "images/joey-review019-6427cea3dfc2c3fb.jpg",
+        "resolved_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-6427cea3dfc2c3fb.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/602173941"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-9b2acdc3f4dc45bc.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-9b2acdc3f4dc45bc.jpg",
+      "git_blob_sha": "a3879df5bbf65064c4cac85d65d7dfbf2ac66e8a",
+      "bytes": 156376,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "eragrostis-intermedia",
+        "source_file": "images/joey-review019-9b2acdc3f4dc45bc.jpg",
+        "resolved_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-9b2acdc3f4dc45bc.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/602173932"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-fb3301474d930704.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-fb3301474d930704.jpg",
+      "git_blob_sha": "e25621d609b4ae376c0763f3144fcfc6caa6a344",
+      "bytes": 173038,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "eragrostis-intermedia",
+        "source_file": "images/joey-review019-fb3301474d930704.jpg",
+        "resolved_path": "content/taxa/Poaceae/Eragrostis/eragrostis-intermedia/images/joey-review019-fb3301474d930704.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/602173952"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Eragrostis/eragrostis-spectabilis/images/usgs-biml-eragrostis-spectabilis-real-flower-macro-9615071149.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Eragrostis/eragrostis-spectabilis/images/usgs-biml-eragrostis-spectabilis-real-flower-macro-9615071149.jpg",
+      "git_blob_sha": "ea711a7986455a977692823c6444c3e896173ffb",
+      "bytes": 743364,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "eragrostis-spectabilis",
+        "source_file": "images/usgs-biml-eragrostis-spectabilis-real-flower-macro-9615071149.jpg",
+        "resolved_path": "content/taxa/Poaceae/Eragrostis/eragrostis-spectabilis/images/usgs-biml-eragrostis-spectabilis-real-flower-macro-9615071149.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "USGS Bee Inventory and Monitoring Lab",
+        "license": "United States public domain — USGS photograph (Commons also lists CC BY 2.0)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Purple_love_grass,_MD,_PG_County_2013-08-20-17.02.10_ZS_PMax_(9615071149).jpg"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Erioneuron/erioneuron-pilosum/images/inat-643234607.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Erioneuron/erioneuron-pilosum/images/inat-643234607.jpg",
+      "git_blob_sha": "73d3a8d5a2f203fbb058ce05eb17bfcfa684f0d5",
+      "bytes": 288549,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "erioneuron-pilosum",
+        "source_file": "images/inat-643234607.jpg",
+        "resolved_path": "content/taxa/Poaceae/Erioneuron/erioneuron-pilosum/images/inat-643234607.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Calvin King",
+        "license": "All rights reserved — owner-authorized private study",
+        "source_page": "https://www.inaturalist.org/photos/643234607"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Festuca/festuca-versuta/images/us-national-herbarium-festuca-versuta-1906.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Festuca/festuca-versuta/images/us-national-herbarium-festuca-versuta-1906.jpg",
+      "git_blob_sha": "06ac583694df421b79cde56e0e37e76bed945f9a",
+      "bytes": 513634,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "festuca-versuta",
+        "source_file": "images/us-national-herbarium-festuca-versuta-1906.jpg",
+        "resolved_path": "content/taxa/Poaceae/Festuca/festuca-versuta/images/us-national-herbarium-festuca-versuta-1906.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Contributions from the United States National Herbarium (1906); digitized by Internet Archive",
+        "license": "No restrictions",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AContributions_from_the_U.S._National_Herbarium_%281906%29_%2820660168056%29.jpg"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Hilaria/hilaria-belangeri/images/john-kava-curlymesquite-hairy-node-educational.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Hilaria/hilaria-belangeri/images/john-kava-curlymesquite-hairy-node-educational.jpg",
+      "git_blob_sha": "de5776082297c444b1161f97f52acbbba26289e6",
+      "bytes": 37509,
+      "source_rights_decision": [
+        "site_specific_permission_review"
+      ],
+      "source_credit_record": {
+        "species": "hilaria-belangeri",
+        "source_file": "images/john-kava-curlymesquite-hairy-node-educational.jpg",
+        "resolved_path": "content/taxa/Poaceae/Hilaria/hilaria-belangeri/images/john-kava-curlymesquite-hairy-node-educational.jpg",
+        "decision": "site_specific_permission_review",
+        "creator": "John Kava",
+        "license": "© John Kava — educational-use permission with credit (NOT Creative Commons)",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/hilaria-belangeri"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Hilaria/hilaria-mutica/images/inat-340873014.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Hilaria/hilaria-mutica/images/inat-340873014.jpg",
+      "git_blob_sha": "9f2582515a4b4f3137ec9463165c34eecbf9b480",
+      "bytes": 217141,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "hilaria-mutica",
+        "source_file": "images/inat-340873014.jpg",
+        "resolved_path": "content/taxa/Poaceae/Hilaria/hilaria-mutica/images/inat-340873014.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "(c) FERNANDO QUIROZ, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/340873014"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/leersia-oryzoides_habit-source-label_00-41-04.1.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Leersia/leersia-oryzoides/images/leersia-oryzoides_habit-source-label_00-41-04.1.jpg",
+      "git_blob_sha": "031c6c195f94007c84f1ecd2d569dcfdd3191116",
+      "bytes": 902069,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "leersia-oryzoides",
+        "source_file": "images/leersia-oryzoides_habit-source-label_00-41-04.1.jpg",
+        "resolved_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/leersia-oryzoides_habit-source-label_00-41-04.1.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-flattened-spikelet-4375.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-flattened-spikelet-4375.jpg",
+      "git_blob_sha": "2344263dde70036928aea29c020723d70c61a12d",
+      "bytes": 49481,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "leersia-oryzoides",
+        "source_file": "images/romain-neron-iriis-flattened-spikelet-4375.jpg",
+        "resolved_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-flattened-spikelet-4375.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Romain Néron / Laboratoire d'expertise et de diagnostic en phytoprotection - MAPAQ",
+        "license": "IRIIS noncommercial educational unchanged-use permission (not CC)",
+        "source_page": "https://www.iriisphytoprotection.qc.ca/fr/node/27288"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-rooted-base-4383.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-rooted-base-4383.jpg",
+      "git_blob_sha": "0c5d171ca2368601b9f5fe5b7d7aca75c3a5417d",
+      "bytes": 371473,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "leersia-oryzoides",
+        "source_file": "images/romain-neron-iriis-rooted-base-4383.jpg",
+        "resolved_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/romain-neron-iriis-rooted-base-4383.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Romain Néron / Laboratoire d'expertise et de diagnostic en phytoprotection - MAPAQ",
+        "license": "IRIIS noncommercial educational unchanged-use permission (not CC)",
+        "source_page": "https://www.iriisphytoprotection.qc.ca/fr/node/27296"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/vincent-coulombe-iriis-caryopsis-4388.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Leersia/leersia-oryzoides/images/vincent-coulombe-iriis-caryopsis-4388.jpg",
+      "git_blob_sha": "3af4fc0a55c5d5334f1437731f7e6270ed4d56e9",
+      "bytes": 665846,
+      "source_rights_decision": [
+        "missing_general_reuse_license"
+      ],
+      "source_credit_record": {
+        "species": "leersia-oryzoides",
+        "source_file": "images/vincent-coulombe-iriis-caryopsis-4388.jpg",
+        "resolved_path": "content/taxa/Poaceae/Leersia/leersia-oryzoides/images/vincent-coulombe-iriis-caryopsis-4388.jpg",
+        "decision": "missing_general_reuse_license",
+        "creator": "Vincent Coulombe / Laboratoire d'expertise et de diagnostic en phytoprotection - MAPAQ",
+        "license": "IRIIS noncommercial educational unchanged-use permission (not CC)",
+        "source_page": "https://www.iriisphytoprotection.qc.ca/fr/node/27301"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Phalaris/anatomy-reference-images/phalaris-arundinacea-stefan-spikelet-sl13.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Phalaris/anatomy-reference-images/phalaris-arundinacea-stefan-spikelet-sl13.jpg",
+      "git_blob_sha": "150439e3329ddfc086b5f153b5dce5985b294fb4",
+      "bytes": 862711,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/01-habit.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/01-habit.jpg",
+      "git_blob_sha": "c016c880c54bc3ebad8d19ec152080c74f9819cb",
+      "bytes": 638720,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/02-inflorescence.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/02-inflorescence.jpg",
+      "git_blob_sha": "bc42a5932239a7320c4dd19e597867cc2a996b2c",
+      "bytes": 223093,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/03-inflorescence.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/03-inflorescence.jpg",
+      "git_blob_sha": "0dc95320ff527c768baa164bbf7b57a5c038d427",
+      "bytes": 94025,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "schizachyrium-scoparium",
+        "source_file": "images/03-inflorescence.jpg",
+        "resolved_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/03-inflorescence.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Paul Marcum",
+        "license": "license not verified",
+        "source_page": "https://blogs.illinois.edu/view/7362/803371"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/03-sheath-leaf-junction.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/03-sheath-leaf-junction.jpg",
+      "git_blob_sha": "3c9475e7e2226830a6a9d3f6f617b24c8ef6bf83",
+      "bytes": 34326,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/04-ligule-sheath-node.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/04-ligule-sheath-node.jpg",
+      "git_blob_sha": "4ba79f68ceefc3c4cb9d81e8442abf81384723b7",
+      "bytes": 54992,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "schizachyrium-scoparium",
+        "source_file": "images/04-ligule-sheath-node.jpg",
+        "resolved_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/04-ligule-sheath-node.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "K. Chayka / Peter M. Dziuk",
+        "license": "license not verified",
+        "source_page": "https://www.minnesotawildflowers.info/grass-sedge-rush/little-bluestem"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/04-seed-head.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/04-seed-head.jpg",
+      "git_blob_sha": "58bffceb3a559f86fbf56974109378a03a7a9c44",
+      "bytes": 100413,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/05-fall-habit.webp",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Schizachyrium/schizachyrium-scoparium/images/05-fall-habit.webp",
+      "git_blob_sha": "17af5539fb17cc565a45bef330826a068924ad0f",
+      "bytes": 1337604,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-53b16c420ca0b063.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-53b16c420ca0b063.jpg",
+      "git_blob_sha": "7f38e28443c7f654965605a5878339678a0680ba",
+      "bytes": 391499,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "sorghastrum-nutans",
+        "source_file": "images/joey-review034-53b16c420ca0b063.jpg",
+        "resolved_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-53b16c420ca0b063.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/729822607"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-6962287ebd323dc4.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-6962287ebd323dc4.jpg",
+      "git_blob_sha": "1baccadee0d77b48c92d0d676093e1fc54f34505",
+      "bytes": 152827,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "sorghastrum-nutans",
+        "source_file": "images/joey-review034-6962287ebd323dc4.jpg",
+        "resolved_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/joey-review034-6962287ebd323dc4.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/729815208"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/sorghastrum-nutans_inflorescence-anthers-source-label_03-04.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/sorghastrum-nutans_inflorescence-anthers-source-label_03-04.jpg",
+      "git_blob_sha": "7104e94ee596ba41adcc3906ea3042c0aa9f3f5f",
+      "bytes": 187045,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "sorghastrum-nutans",
+        "source_file": "images/sorghastrum-nutans_inflorescence-anthers-source-label_03-04.jpg",
+        "resolved_path": "content/taxa/Poaceae/Sorghastrum/sorghastrum-nutans/images/sorghastrum-nutans_inflorescence-anthers-source-label_03-04.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Sorghum/sorghum-halepense/images/inat-154485533.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Sorghum/sorghum-halepense/images/inat-154485533.jpg",
+      "git_blob_sha": "090738fcfe91723eb7991bf9a5bf23965e30507b",
+      "bytes": 104020,
+      "source_rights_decision": [],
+      "source_credit_record": null,
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-field-flowering-with-hand-by-nc.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-field-flowering-with-hand-by-nc.jpg",
+      "git_blob_sha": "17776b6ea11ec5d9a12867ecafadbb014e12995c",
+      "bytes": 522605,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "urochloa-reptans",
+        "source_file": "images/francois-rousseau-reptans-field-flowering-with-hand-by-nc.jpg",
+        "resolved_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-field-flowering-with-hand-by-nc.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "François Rousseu",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/180095076"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-mature-ovoid-spikelets-by-nc.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-mature-ovoid-spikelets-by-nc.jpg",
+      "git_blob_sha": "3b841153eead1d3fee6150eba157f00a4f4080af",
+      "bytes": 384466,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "urochloa-reptans",
+        "source_file": "images/francois-rousseau-reptans-mature-ovoid-spikelets-by-nc.jpg",
+        "resolved_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-mature-ovoid-spikelets-by-nc.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "François Rousseu",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/181982648"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-single-raceme-attached-spikelets-by-nc.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-single-raceme-attached-spikelets-by-nc.jpg",
+      "git_blob_sha": "2832b3011ee1a35c0fe11b5bac60b36a672666ab",
+      "bytes": 313217,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "urochloa-reptans",
+        "source_file": "images/francois-rousseau-reptans-single-raceme-attached-spikelets-by-nc.jpg",
+        "resolved_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/francois-rousseau-reptans-single-raceme-attached-spikelets-by-nc.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "François Rousseu",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/181982682"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    },
+    {
+      "source_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/inat-153445745.jpg",
+      "private_archived_path": "migration/poaceae-rights-held-originals/content/taxa/Poaceae/Urochloa/urochloa-reptans/images/inat-153445745.jpg",
+      "git_blob_sha": "07ca398da2eb1d9f393b39b0a0701382dba563c8",
+      "bytes": 100191,
+      "source_rights_decision": [
+        "explicit_reuse_hold"
+      ],
+      "source_credit_record": {
+        "species": "urochloa-reptans",
+        "source_file": "images/inat-153445745.jpg",
+        "resolved_path": "content/taxa/Poaceae/Urochloa/urochloa-reptans/images/inat-153445745.jpg",
+        "decision": "explicit_reuse_hold",
+        "creator": "(c) Wen-Hsiang Cheng, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/photos/153445745"
+      },
+      "nonpublic_quarantine_only": true,
+      "public_reuse_verified": false
+    }
+  ]
+}

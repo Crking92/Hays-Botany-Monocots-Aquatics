@@ -1,0 +1,19 @@
+{
+  "status": "POACEAE_ALL_CURRENT_HELD_ORIGINALS_EXACTLY_ARCHIVED_PRIVATE_NOT_PUBLIC",
+  "source_repository": "Crking92/Hays-County-Botany",
+  "public_poaceae_repository": "Crking92/Hays-Botany-Poaceae",
+  "private_archive_repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "original_source_snapshot": "d5812999ea32d03b873110db1a526e20ac6ea730",
+  "held_source_photo_files_archived_privately": 58,
+  "original_github_blob_hashes_matching": 58,
+  "photo_bytes_preserved": 18749993,
+  "original_poaceae_source_files_total": 1402,
+  "source_record_dispositions_untouched": true,
+  "public_poaceae_repository_modified": false,
+  "original_hub_modified": false,
+  "site_display_approved": false,
+  "public_pages_deployed": false,
+  "author_license_changes": false,
+  "private_storage_location": "migration/poaceae-rights-held-originals/",
+  "note": "A private asset preservation archive, not a change to family classification, owner permissions, source licenses, or live Poaceae routes."
+}

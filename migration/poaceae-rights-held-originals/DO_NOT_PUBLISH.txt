@@ -1,0 +1,5 @@
+EXACT POACEAE ORIGINAL PHOTO QUARANTINE. PRIVATE ONLY. NOT PUBLIC-DISPLAY PERMISSION.
+This holding archive preserves the final source files that were not included in
+the public Poaceae repository, under their original credits and rights restrictions.
+No botanical family ownership is transferred to Monocots-Aquatics; the folder is
+strictly private migration storage. See sibling Poaceae hold manifest for SHAs.

@@ -1,0 +1,58 @@
+{
+  "id": "sagittaria-platyphylla",
+  "family": "Alismataceae",
+  "genus": "Sagittaria",
+  "scientific_name": "Sagittaria platyphylla",
+  "common_name": "Delta arrowhead",
+  "look_here_first": "Look at leaf form and the flower stalk together: emergent leaves are usually ovate to linear-ovate rather than arrow-lobed, while submerged leaves can be narrow bladeless-looking phyllodes. On the inflorescence, female flowers are below the male flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "aquatic perennial with corms and stolons"
+    },
+    {
+      "label": "Identification",
+      "text": "basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "strong aquatic heterophylly: narrow submerged phyllodes vs broader emergent blades"
+    },
+    {
+      "label": "Identification",
+      "text": "emersed raceme with 3–9 whorls"
+    },
+    {
+      "label": "Identification",
+      "text": "3 white petals"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate flowers below staminate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "rough spherical fruiting heads of many beaked achenes"
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Submerged leaves may be sessile flattened phyllodes; emergent leaves have long triangular petioles and linear-ovate to ovate blades."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Emergent raceme with several whorls; pistillate flowers occupy lower positions and staminate flowers upper positions."
+    },
+    {
+      "label": "Fruit",
+      "text": "Spherical heads of numerous small beaked achenes."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f63270fc4fd0ebc56f3517d49fa827ac5fdfabfe5980906a21765e410ee0c1a7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

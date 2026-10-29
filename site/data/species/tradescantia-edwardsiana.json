@@ -1,0 +1,42 @@
+{
+  "id": "tradescantia-edwardsiana",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "scientific_name": "Tradescantia edwardsiana",
+  "common_name": "Plateau spiderwort",
+  "look_here_first": "Robust broad-leaved spiderwort, usually taller and wider-leaved than granite spiderwort.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "robust perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 40 to 80 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "midstem leaves commonly 2 to 5 cm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves broadest above the base"
+    },
+    {
+      "label": "Identification",
+      "text": "stems commonly glabrous or nearly so"
+    },
+    {
+      "label": "Identification",
+      "text": "blue to violet three-petaled flowers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Taller and broader-leaved than T. pedicellata; generally more robust and less consistently hairy than T. hirsutiflora."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "475e4f9612e9872c7c3aa39cbe6ee60a4e1034cb4f7281d99852b9088347d7ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

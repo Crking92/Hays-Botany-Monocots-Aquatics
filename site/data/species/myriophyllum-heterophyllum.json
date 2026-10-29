@@ -1,0 +1,42 @@
+{
+  "id": "myriophyllum-heterophyllum",
+  "family": "Haloragaceae",
+  "genus": "Myriophyllum",
+  "scientific_name": "Myriophyllum heterophyllum",
+  "common_name": "Variable-leaf watermilfoil",
+  "look_here_first": "Bushy submerged watermilfoil with feather-like whorled leaves and emergent flowering shoots that transition to broader serrate bracts.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "submerged aquatic perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "finely divided feather-like leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "submerged leaves usually whorled"
+    },
+    {
+      "label": "Identification",
+      "text": "emergent flowering spike"
+    },
+    {
+      "label": "Identification",
+      "text": "upper bracts broaden and become serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit deeply four-lobed"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e743b968709c7ae4d4aa49e87e9279cb6a4fd359858aeac269e415ec45ff07ba",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

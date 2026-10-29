@@ -1,0 +1,17 @@
+{
+  "id": "nolina-texana",
+  "family": "Asparagaceae",
+  "genus": "Nolina",
+  "scientific_name": "Nolina texana",
+  "common_name": "Texas Sacahuiste",
+  "look_here_first": "Recognize the tuft of long narrow tough leaves; inspect leaf margins, flowering panicle and mature fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "63ee5661be18403f021cd5cab40d95210cb68c766f1563a8bcef92e26997f644",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

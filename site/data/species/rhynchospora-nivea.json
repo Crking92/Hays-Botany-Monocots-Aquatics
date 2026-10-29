@@ -1,0 +1,17 @@
+{
+  "id": "rhynchospora-nivea",
+  "family": "Cyperaceae",
+  "genus": "Rhynchospora",
+  "scientific_name": "Rhynchospora nivea",
+  "common_name": "White beaksedge",
+  "look_here_first": "Look for bright white bractlike blades around clusters of tiny sedge spikelets, then inspect the beaked fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8c31d52d59fdcf34d1c2375707c145087d6f7a4e62aa25c4f62e19272998a9d6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

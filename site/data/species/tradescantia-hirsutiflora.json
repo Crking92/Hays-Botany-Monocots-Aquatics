@@ -1,0 +1,42 @@
+{
+  "id": "tradescantia-hirsutiflora",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "scientific_name": "Tradescantia hirsutiflora",
+  "common_name": "Hairyflower spiderwort",
+  "look_here_first": "Hairy spiderwort with narrow leaves and stems, hairy floral bracts and sepals, and notably slender fibrous roots rather than thickened tuberous roots.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "upright perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear-lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and leaves usually pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "hairy green floral bracts and sepals"
+    },
+    {
+      "label": "Identification",
+      "text": "blue-violet three-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "slender fibrous roots"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7d6645283daa45f1efedd0e8b4dc36b22f9db6a84aa14b47aba3e52ed72e1aee",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

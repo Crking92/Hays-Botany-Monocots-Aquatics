@@ -1,0 +1,17 @@
+{
+  "id": "schoenoplectus-californicus",
+  "family": "Cyperaceae",
+  "genus": "Schoenoplectus",
+  "scientific_name": "Schoenoplectus californicus",
+  "common_name": "California bulrush",
+  "look_here_first": "Look for tall upright leafless-looking triangular or rounded wetland culms with lateral-appearing spikelet clusters beneath a long bract; examine mature nutlets and stem cross-section.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4d9c4d14b7231a60f519868a932e63ed2c40f229da778e5cb00fef4222e63dbb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

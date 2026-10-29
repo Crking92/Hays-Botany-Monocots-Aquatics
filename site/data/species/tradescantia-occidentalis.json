@@ -1,0 +1,42 @@
+{
+  "id": "tradescantia-occidentalis",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "scientific_name": "Tradescantia occidentalis",
+  "common_name": "Prairie Spiderwort / Western Spiderwort",
+  "look_here_first": "Start with the narrow leaves and the stem hairs. Prairie spiderwort has narrow linear to strap-shaped leaves and conspicuous long-stalked glandular hairs on the internodes and peduncles. In the Williamson treatment the blades are about 6–17 mm wide, giving the plant a noticeably grassier look than giant spiderwort.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial, several-stemmed at base"
+    },
+    {
+      "label": "Identification",
+      "text": "ascending to suberect, about 15–65 cm in the Williamson treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "internodes and peduncles conspicuously long-stalked glandular-hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow strap-shaped to linear leaves, about 6–17 mm wide locally"
+    },
+    {
+      "label": "Identification",
+      "text": "two conspicuous unequal leaflike bracts subtend the terminal paired cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "sepals conspicuously glandular-hairy"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "T. gigantea is broader and more robust with a nearly glabrous lower stem. T. humilis is shorter, bushier and hairy across the vegetative plant. T. ohiensis is much more glabrous/glaucous in the upper stem and sepals; T. occidentalis has conspicuous glandular pubescence."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4537357d873367fef15d789e62913a5b212c5ada84223abf77f613fb44afbe90",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "saururus-cernuus",
+  "family": "Saururaceae",
+  "genus": "Saururus",
+  "scientific_name": "Saururus cernuus",
+  "common_name": "Lizard's-tail",
+  "look_here_first": "Look along shady wet streambanks for heart-shaped, alternate leaves and slender drooping spikes of tiny whitish flowers; inspect the entire flowering spike rather than expecting large petals.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2aea5f6e69c1775e19cd637244dc663892fbe3358fca54692f4e88fd8974b73f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

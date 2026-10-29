@@ -1,0 +1,17 @@
+{
+  "id": "nuphar-advena",
+  "family": "Nymphaeaceae",
+  "genus": "Nuphar",
+  "scientific_name": "Nuphar advena",
+  "common_name": "Yellow pond-lily",
+  "look_here_first": "Inspect large floating leaves with deeply notched bases, emergent yellow flowers and distinctive seed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b3bad029bf92ebc2b8f2525ef4e93d71c180fc106b99cdd7abff5bd226d4cc1f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

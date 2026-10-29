@@ -1,0 +1,17 @@
+{
+  "id": "sagittaria-graminea",
+  "family": "Alismataceae",
+  "genus": "Sagittaria",
+  "scientific_name": "Sagittaria graminea",
+  "common_name": "Grassleaf arrowhead",
+  "look_here_first": "Inspect the narrow submerged or emergent leaves and three-petaled flowers on upright racemes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "df19e35831dda72c10cc70c7f77d5d9ca79c48cbd8766c8d7a93a10e16ac0444",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

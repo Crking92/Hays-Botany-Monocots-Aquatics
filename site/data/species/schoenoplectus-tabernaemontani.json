@@ -1,0 +1,42 @@
+{
+  "id": "schoenoplectus-tabernaemontani",
+  "family": "Cyperaceae",
+  "genus": "Schoenoplectus",
+  "scientific_name": "Schoenoplectus tabernaemontani",
+  "common_name": "Softstem bulrush",
+  "look_here_first": "Tall colonial bulrush with soft round culms and a lateral-looking cluster of drooping spikelets beneath a short continuation bract.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous colonial sedge"
+    },
+    {
+      "label": "Identification",
+      "text": "tall soft mostly round culms"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves reduced to basal sheaths"
+    },
+    {
+      "label": "Identification",
+      "text": "lateral-appearing inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "many drooping spikelets"
+    },
+    {
+      "label": "Identification",
+      "text": "short continuation bract"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d0b846e91898b4b348f340eed2e6b7697da4164386d75712dc49f109cdb788b3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

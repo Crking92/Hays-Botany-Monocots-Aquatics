@@ -1,0 +1,17 @@
+{
+  "id": "nymphaea-odorata",
+  "family": "Nymphaeaceae",
+  "genus": "Nymphaea",
+  "scientific_name": "Nymphaea odorata",
+  "common_name": "American white water-lily",
+  "look_here_first": "Look for rounded floating pads with a deep notch and solitary white many-petaled fragrant flowers; examine leaf venation and flower parts against similar aquatic species.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a7867cec53a682a5fee0cd252a7dd8a975f43d90b5792f9f984d13107c191501",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

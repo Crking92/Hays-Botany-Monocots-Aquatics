@@ -1,0 +1,38 @@
+{
+  "id": "sabal-minor",
+  "family": "Arecaceae",
+  "genus": "Sabal",
+  "scientific_name": "Sabal minor",
+  "common_name": "Dwarf palmetto",
+  "look_here_first": "LOOK HERE FIRST: Look for low, fan-shaped, pleated leaves arising near the ground with smooth unarmed petioles, then check the branching flower or fruit stalks rising through and often above the crown.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Low fan palm with mostly subterranean trunk, commonly forming a short ground-level crown."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Costapalmate fan leaves with many deeply divided, narrow segments; petioles lack marginal spines."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Large branching panicles bearing numerous small pale flowers, sometimes extending beyond leaves."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Small round dark fruits on branching stalks; close-up needed for confident fruit-stage comparisons."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Usually lacks a tall exposed trunk; leaf bases clustered low."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "54244ff27b70cb203412c65f7d4320b90e5e72629747baaf4dc1f296468c4b2e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

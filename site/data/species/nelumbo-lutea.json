@@ -1,0 +1,17 @@
+{
+  "id": "nelumbo-lutea",
+  "family": "Nelumbonaceae",
+  "genus": "Nelumbo",
+  "scientific_name": "Nelumbo lutea",
+  "common_name": "American lotus",
+  "look_here_first": "Large circular leaves on stout stalks, large pale-yellow many-petaled flowers and flat-topped showerhead-shaped seed receptacles.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "80afea07e69ab21bf52a406bc52cea70a95253894ce718b023512624d41c6da1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "smilax-tamnoides",
+  "family": "Smilacaceae",
+  "genus": "Smilax",
+  "scientific_name": "Smilax tamnoides",
+  "common_name": "Bristly greenbrier",
+  "look_here_first": "Climbing woody vine with tendrils arising near leaf stalks; inspect bristly or prickly stems, broad leaves and berries in umbels.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c81f0ea7127306bea52b67d129485cfa67c8acda035061e32ad2138d393bb942",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

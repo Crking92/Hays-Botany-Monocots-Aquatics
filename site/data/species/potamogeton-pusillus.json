@@ -1,0 +1,17 @@
+{
+  "id": "potamogeton-pusillus",
+  "family": "Potamogetonaceae",
+  "genus": "Potamogeton",
+  "scientific_name": "Potamogeton pusillus",
+  "common_name": "Small pondweed",
+  "look_here_first": "Check the narrow submerged linear leaves, veins, stem nodes and small flower spikes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c926decdc4c893620c3bd01de755e1e69d7020c90d291378155397dfdc62ee89",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

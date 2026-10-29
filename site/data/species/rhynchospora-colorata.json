@@ -1,0 +1,17 @@
+{
+  "id": "rhynchospora-colorata",
+  "family": "Cyperaceae",
+  "genus": "Rhynchospora",
+  "scientific_name": "Rhynchospora colorata",
+  "common_name": "Whitetop sedge",
+  "look_here_first": "Look for a wetland sedge whose terminal flower clusters are surrounded by conspicuous white-tipped leaflike bracts; confirm triangular stems, compact spikelets and mature beaked achenes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d20b89e287bd99adc750c186935c81896a23ea71f0831308384d605714a14f2b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

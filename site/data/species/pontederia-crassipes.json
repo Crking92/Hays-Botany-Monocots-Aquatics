@@ -1,0 +1,17 @@
+{
+  "id": "pontederia-crassipes",
+  "family": "Pontederiaceae",
+  "genus": "Pontederia",
+  "scientific_name": "Pontederia crassipes",
+  "common_name": "Water hyacinth",
+  "look_here_first": "Look for inflated spongy leaf stalks, glossy rounded leaves and purple-blue flower spikes; this is a non-native aquatic comparison.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7397d322138018fef8d28fbf18b87595dd3039d768df3946d54b60fe1c1dbbf4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

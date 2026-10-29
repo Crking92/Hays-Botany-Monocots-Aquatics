@@ -1,0 +1,42 @@
+{
+  "id": "tradescantia-humilis",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "scientific_name": "Tradescantia humilis",
+  "common_name": "Texas Spiderwort",
+  "look_here_first": "Start at the base of the plant. Texas spiderwort is low, many-stemmed and bushy at ground level, with clearly hairy vegetative shoots; toward the inflorescence the hairs become strongly glandular. That compact, fuzzy architecture separates it quickly from the taller giant and prairie spiderworts.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial, many-stemmed at ground level"
+    },
+    {
+      "label": "Identification",
+      "text": "compact ascending/spreading shoots, under 20 cm in the Williamson treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "aboveground internodes short-pilose to pilose"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades pilose with hairs reaching several millimeters"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence and pedicels conspicuously stalked-glandular hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal condensed cyme, usually 1–2 flowers open per day"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "T. gigantea is taller and more robust with lower stems nearly glabrous. T. occidentalis is taller and grassier, with narrow leaves and especially conspicuous glandular stem/peduncle hairs. T. humilis stays low and bushy with hairy blades."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4f2aac98e079cbbc235f9156adb1ed416535700b2b4178df12685bc017aee586",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pistia-stratiotes",
+  "family": "Araceae",
+  "genus": "Pistia",
+  "scientific_name": "Pistia stratiotes",
+  "common_name": "Water lettuce (invasive aquatic)",
+  "look_here_first": "Recognize floating rosettes of thick ribbed, velvety light green leaves with submerged dangling fibrous roots; compare duckweeds and water hyacinth.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a2d778d2e2779edacf3d6c9e63bfd0b8939185e32065749e904c57ab9908b6c5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

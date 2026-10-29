@@ -1,0 +1,17 @@
+{
+  "id": "spirodela-polyrhiza",
+  "family": "Araceae",
+  "genus": "Spirodela",
+  "scientific_name": "Spirodela polyrhiza",
+  "common_name": "Greater duckweed",
+  "look_here_first": "Look for floating oval flattened fronds larger than most Lemna, each bearing several roots; examine reddish purple undersides and compare one-root Lemna species.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4408b0cb292a5665694e239c45ba81201653ba394315bfa3cc32a97c440f2705",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

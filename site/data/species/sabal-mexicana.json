@@ -1,0 +1,17 @@
+{
+  "id": "sabal-mexicana",
+  "family": "Arecaceae",
+  "genus": "Sabal",
+  "scientific_name": "Sabal mexicana",
+  "common_name": "Texas palmetto",
+  "look_here_first": "Inspect costapalmate leaves, petiole margins, drooping panicles and small round fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b8716c33aff6e09cc75f665f884a2d4272401d16622a415b57cd2536ed438c73",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

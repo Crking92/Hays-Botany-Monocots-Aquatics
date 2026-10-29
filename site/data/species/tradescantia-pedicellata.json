@@ -1,0 +1,46 @@
+{
+  "id": "tradescantia-pedicellata",
+  "family": "Commelinaceae",
+  "genus": "Tradescantia",
+  "scientific_name": "Tradescantia pedicellata",
+  "common_name": "Granite spiderwort / Edwards Plateau spiderwort",
+  "look_here_first": "Think small granite spiderwort: a short narrow-leaved perennial on Llano-Uplift granitic soils, with unusually long flower pedicels and sparse glandular hairs on stems, pedicels, and sepals.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small clump-forming perennial usually 10–40 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear to lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf surfaces nearly glabrous to sparsely hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "elongate flower pedicels"
+    },
+    {
+      "label": "Identification",
+      "text": "pedicels and sepals sparsely to moderately glandular-pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "fascicle of distally thickened tuberous roots"
+    },
+    {
+      "label": "Identification",
+      "text": "strong association with granite, gneiss, and derived sandy-gravelly soils"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Habitat plus stature is powerful: T. pedicellata is the small narrow-leaved granite specialist; T. edwardsiana is taller and broad-leaved; T. hirsutiflora has slender fibrous roots and favors sandy eastern-Texas habitats."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f513ff34b6b5aa928f79dd46bd3577ac0db656e8b8f6f9316a39b3aa7631c832",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

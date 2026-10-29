@@ -1,0 +1,17 @@
+{
+  "id": "potamogeton-nodosus",
+  "family": "Potamogetonaceae",
+  "genus": "Potamogeton",
+  "scientific_name": "Potamogeton nodosus",
+  "common_name": "Longleaf pondweed",
+  "look_here_first": "Look for submerged stems and floating elongated oval leaves borne on long petioles; inspect submerged leaf arrangement and emergent flower spikes to separate pondweeds.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fdfbab5bb28d343c02d811c8574a03740553f1fe70822f8215f3c8c0cf7c4207",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

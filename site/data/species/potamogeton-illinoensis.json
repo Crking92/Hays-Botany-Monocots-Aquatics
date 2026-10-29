@@ -1,0 +1,66 @@
+{
+  "id": "potamogeton-illinoensis",
+  "family": "Potamogetonaceae",
+  "genus": "Potamogeton",
+  "scientific_name": "Potamogeton illinoensis",
+  "common_name": "Illinois pondweed",
+  "look_here_first": "Look for a broad-leaved submerged pondweed with alternate two-ranked leaves and a persistent axillary stipule/prophyll, then confirm the emergent many-flowered spike.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "submerged rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate distichous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent open-sheath stipule/prophyll in the leaf axil"
+    },
+    {
+      "label": "Identification",
+      "text": "thin lanceolate to narrowly rectangular leaf blades with strong parallel venation and cross-bridges"
+    },
+    {
+      "label": "Identification",
+      "text": "mostly emergent many-flowered spike on a long peduncle"
+    },
+    {
+      "label": "Identification",
+      "text": "four green sepal-like floral segments and four stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "3–4 pistils in a tight whorl"
+    },
+    {
+      "label": "Habit",
+      "text": "Flexible submerged shoots arise from horizontal rhizomes; adventitious roots occur at nodes."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Leaves are alternate and two-ranked, petiolate, with a conspicuous persistent axillary prophyll/stipule; blades are thin, lanceolate to narrowly rectangular and strongly veined."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal or axillary emergent spike on a long peduncle; flowers sessile and densely arranged."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small one-seeded drupelet-like fruits, usually four in a whorl."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's San Marcos River frame shows the submerged growth form and broad pondweed leaves in local river context."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "38e78d5dfc43565ba9f7becaab39c50e6c3e710c5488efdbc49f2a6804214b2d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

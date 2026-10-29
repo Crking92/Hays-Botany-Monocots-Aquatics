@@ -1,0 +1,58 @@
+{
+  "id": "tinantia-anomala",
+  "family": "Commelinaceae",
+  "genus": "Tinantia",
+  "scientific_name": "Tinantia anomala",
+  "common_name": "False dayflower / widow's-tears",
+  "look_here_first": "Look below the whole flower cluster: Tinantia anomala has an exposed, one-sided cyme above an open, mostly flat leaflike bract. The green sepals around individual buds are not a fused spathe pocket. Then check Joey's macro for purple-and-yellow filament beards: six fertile stamens, five filaments bearded. Commelina erecta instead has a folded spathe pocket and smooth filaments.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual, tufted to several-stemmed herb, commonly up to about 60–80 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "stems cylindrical rather than strongly flattened, often pinkish-purple near exposed nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate and sheathing"
+    },
+    {
+      "label": "Identification",
+      "text": "basal/lower leaves narrower and often petiolate; upper cauline leaves broader and sessile"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf bases often rounded to cordate-clasping around the stem"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal one-sided cyme with several flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "large subtending bract is leaflike and mostly flat/open rather than forming a closed fused spathe pocket"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers about 2–2.7 cm across with two broad blue-to-lavender petals and a much smaller white lower petal"
+    },
+    {
+      "label": "Identification",
+      "text": "six stamens are fertile and heteromorphic; several filaments have conspicuous violet/yellow-tipped beadlike hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent boat-shaped sepals conceal the developing capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Commelina erecta: Commelina erecta has the unmistakable folded/fused green spathe pocket enclosing buds and fruit. Tinantia instead has an open leaflike bract subtending an exposed terminal cyme; its upper leaves also more strongly clasp the stem. Tradescantia spp.: Tradescantia spiderworts usually have three comparably showy petals. Tinantia has two large blue/lavender petals plus one much smaller white petal, and its one-sided cyme/bract architecture differs. Commelina benghalensis: Tropical spiderwort/dayflower is an invasive Commelina with a true spathe and often reddish hairs on leaf sheaths. Tinantia lacks that Commelina spathe pocket and carries its flowers on an open terminal cyme."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c5945a07c703859fd7917aa1ff0931f148f98fa52f7117f3a7292f4b89ad4a0c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,28 +1,25 @@
-# Hays Botany — Monocots Aquatics
+# Hays Botany — Monocots & Aquatics
 
-**Original source-file migration PASS in private staging — NOT a live learner or authoritative source.**
+**Existing-source migration: COMPLETE. Public family learner: ACTIVE (existing rights-filtered subset). Botanical/photo enrichment: DEFERRED.**
 
-This future collection belongs to the [Hays County Botany Visual Learner](https://github.com/Crking92/Hays-County-Botany). It will hold the assigned families' species records, teaching data, verified diagnostic photographs, and an independent family-group learner when its migration and release checks pass.
+[Open the Monocots & Aquatics Visual Learner](https://crking92.github.io/Hays-Botany-Monocots-Aquatics/site/) · [Original read-only hub](https://crking92.github.io/Hays-County-Botany/) · [Active family routing registry](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json)
 
-- Proposed repository: `Crking92/Hays-Botany-Monocots-Aquatics`
-- Assigned families (26): Alismataceae, Amaryllidaceae, Araceae, Arecaceae, Asparagaceae, Bromeliaceae, Cabombaceae, Cannaceae, Ceratophyllaceae, Commelinaceae, Cyperaceae, Haloragaceae, Hydrocharitaceae, Iridaceae, Juncaceae, Marantaceae, Melanthiaceae, Nartheciaceae, Nelumbonaceae, Nymphaeaceae, Orchidaceae, Pontederiaceae, Potamogetonaceae, Saururaceae, Smilacaceae, Typhaceae
-- Installed species in the original hub at planning baseline: **113**
-- Planning target: around 150 species per repository; soft limit, with actual image bytes and site size checked separately
-- Canonical species owner during staging: **Crking92/Hays-County-Botany**
-- State: **SOURCE_FILES_COPIED_PRIVATE; NO PUBLICATION OR DATA OWNERSHIP**
-- Architecture: independent collection websites connected through the hub (Option B)
+This collection contains **113 original species lessons in 26 assigned families**. The original historic source was transferred to branch [`staging/original-source-transfer`](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/tree/staging/original-source-transfer); new botanical edits for these assigned families route to that branch, **not** the old hub. Staging is not automatically merged with the public site.
 
-## Existing source-file transfer — completed October 28, 2026
+## Source-preservation verification — October 30, 2026
 
-All 113 original species and **587 existing source files** have been checked against their source Git blob IDs in the private [staging/original-source-transfer](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/tree/staging/original-source-transfer) branch: **382 scientific/credit text files** stay at their content paths, while **205 original media files** are retained in a separate private, non-displayed quarantine.
+- **587/587** original source files are present at the manifest destinations with identical Git blob hashes: **382 scientific/credit text files + 205 original photo files**.
+- **0 missing source files, 0 byte mismatches** in the staging transfer audit.
+- Existing public `main/site` contains **113 species lesson JSON files and 35 hosted photos across 23 species**. Approved gallery photos are exactly attributed individually and reference their archived original Git blob.
+- The source-photo release report records **176 image references held** from the public gallery because their individual photo provenance, license, permission, or original location is insufficiently verified. These records do not mean the source transfer failed.
+- The repo is **PUBLIC**, including staged Git history and historic photo holds. A rights-filtered Pages build does **not** make held photo bytes in public Git history private. Do not add more restricted/unverified media or treat archival preservation as publication clearance.
+- GitHub Pages successfully deployed the current photo-backed main build on October 29, 2026 (run [40910176003](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/actions/runs/40910176003)).
+- Obsolete text-only workflow failures are protective: that script intentionally rejects overwriting a photo-backed learner. Do **not** bypass/re-run the obsolete text-only publishing workflow.
 
-[Read the transfer verification report](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/blob/staging/original-source-transfer/migration/original-source-transfer-summary.json).
+[Original source transfer manifest](https://github.com/Crking92/Hays-Botany-Monocots-Aquatics/blob/staging/original-source-transfer/migration/original-source-transfer-manifest.json) · [Existing public gallery summary](site/photo-source-migration-report.json) · [Migration closeout checkpoint](migration/MONOCOTS_AQUATICS_TRANSFER_QA_20261030.md)
 
-This work preserves existing data and photos; it does **not** source new photos, clear media for publication, publish Pages, merge the staging branch into main, change the central learner, or change botanical authority.
+## Website checks and next scope
 
-## Safety and next steps
-Do not import restricted/unknown-rights photo files, enable Pages, repoint existing learner links, rewrite botanical records, or restart automations. Initial commits establish only collection metadata, an empty index, and read-only validation. A separate verified source and rights handoff is required before a collection becomes authoritative.
+`python3 scripts/verify_existing_site.py` verifies every existing public species lesson, photo link, per-image source credit and byte-exact source-blob hash. The separate [GitHub Action](.github/workflows/verify-existing-site-gallery.yml) also checks published Pages bytes when it runs.
 
-See [family routing draft](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_FAMILY_ROUTING_DRAFT_20261028.json) and [migration stages](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_IMPLEMENTATION_STAGES_DRAFT_20261028.md).
-
-_Starter repository — October 28, 2026._
+Keep the original hub read-only, do not restart legacy automations, and do not gather new imagery/species/anatomy for this migration phase. New rights decisions, botanical improvements and additional photo publishing belong to later enrichment work. Repository visibility, raw-source history, publication rights, and hub cutover are separate decisions.

@@ -1,7 +1,7 @@
 name: Auto-publish new rights-approved Monocots & Aquatics photos to the family learner
 on:
   push:
-    branches: [staging/monocots-aquatics-metadata]
+    branches: [staging/original-source-transfer]
     paths:
       - 'photo-intake/approved/**'
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout approved family source branch
         uses: actions/checkout@v4
         with:
-          ref: staging/monocots-aquatics-metadata
+          ref: staging/original-source-transfer
           fetch-depth: 0
       - name: Create isolated current public website worktree
         run: |

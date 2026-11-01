@@ -31,6 +31,81 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Smilax_bona-nox_leaves.jpg",
       "study_use": "private_educational",
       "public_reuse": "cc_by_sa_4.0_attribution"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Emily",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342325995",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "73401859c31ee72e7d6f2368355e59b10f41de0bfdeb900e4bc75cfc8e05fcfc",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623366819/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-73401859c31ee72e7d6f.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Mike Quinn, San Marcos",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341745774",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "43c76dffbf70a5eb216ab0bd8b10764e477d38d2dffb6cb7e9813c2edca4ff41",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197664/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-43c76dffbf70a5eb216a.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Avery Huff",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341040107",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "ea2a7adef2fdfad29859f2d31cc06742f794eb4ead1b725ce711a39fc6ba6ba5",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620748381/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-ea2a7adef2fdfad29859.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "weird_bug",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341271695",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "848b7e595b0dbaf76c5f3103acf83590fd13ced5d79ca8589f05abaa685572e3",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621220109/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-848b7e595b0dbaf76c5f.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Loth_Cat2026",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/345910973",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "351e759f5ef892f7ae358c3517e71087ea654d17d9f1353a4cbc6b57542b202a",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630466141/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-351e759f5ef892f7ae35.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "diagnostic_image_needs": [
@@ -53,5 +128,15 @@
     "filled_at": "2026-10-19",
     "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
   },
-  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Smilacaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }

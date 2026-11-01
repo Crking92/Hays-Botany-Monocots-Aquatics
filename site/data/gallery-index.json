@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 23,
-  "photo_count": 36,
+  "photo_count": 37,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -258,7 +258,7 @@
       "first_src": null
     },
     "cyperus-rotundus": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/cyperus-rotundus/01-purple-nutsedge-inflorescence.jpg"
     },
     "cyperus-strigosus": {

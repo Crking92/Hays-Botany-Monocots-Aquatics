@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 23,
-  "photo_count": 35,
+  "photo_count": 36,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -242,7 +242,7 @@
       "first_src": null
     },
     "cyperus-esculentus": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/cyperus-esculentus/01-yellow-nutsedge-inflorescence.jpg"
     },
     "cyperus-ochraceus": {

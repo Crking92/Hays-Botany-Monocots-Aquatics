@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 23,
-  "photo_count": 37,
+  "photo_count": 38,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -82,7 +82,7 @@
       "first_src": "media/agave-americana/01-cultivated-toothed-leaves.jpg"
     },
     "agave-lechuguilla": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/agave-lechuguilla/01-texas-habit-flowering-axis.jpg"
     },
     "androstephium-coeruleum": {

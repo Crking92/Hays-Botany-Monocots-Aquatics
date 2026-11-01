@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Phase 1 install: keep old species data/images; verify exact original hash. Source-reported CC BY-NC 4.0, retain photographer and observation attribution, site release not verified.",
+  "family": "Smilacaceae",
+  "target_repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Smilacaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Smilax bona-nox",
+      "species_id": "smilax-bona-nox",
+      "photos": [
+        {
+          "source_zip": "Smilacaceae.zip",
+          "zip_entry": "Smilacaceae/Smilax_bona-nox/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Emily",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342325995",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623366819/original.jpg",
+          "sha256": "73401859c31ee72e7d6f2368355e59b10f41de0bfdeb900e4bc75cfc8e05fcfc",
+          "bytes": 4339807,
+          "gbif_id": 6178890150,
+          "dimensions": "1536x2048",
+          "photo_category": "Unknown"
+        },
+        {
+          "source_zip": "Smilacaceae.zip",
+          "zip_entry": "Smilacaceae/Smilax_bona-nox/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341745774",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197664/original.jpg",
+          "sha256": "43c76dffbf70a5eb216ab0bd8b10764e477d38d2dffb6cb7e9813c2edca4ff41",
+          "bytes": 3145613,
+          "gbif_id": 6179208724,
+          "dimensions": "1152x2048",
+          "photo_category": "Unknown"
+        },
+        {
+          "source_zip": "Smilacaceae.zip",
+          "zip_entry": "Smilacaceae/Smilax_bona-nox/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Avery Huff",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341040107",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620748381/original.jpg",
+          "sha256": "ea2a7adef2fdfad29859f2d31cc06742f794eb4ead1b725ce711a39fc6ba6ba5",
+          "bytes": 2648351,
+          "gbif_id": 6179365666,
+          "dimensions": "1536x2048",
+          "photo_category": "Unknown"
+        },
+        {
+          "source_zip": "Smilacaceae.zip",
+          "zip_entry": "Smilacaceae/Smilax_bona-nox/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "weird_bug",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341271695",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621220109/original.jpg",
+          "sha256": "848b7e595b0dbaf76c5f3103acf83590fd13ced5d79ca8589f05abaa685572e3",
+          "bytes": 1551969,
+          "gbif_id": 6179398407,
+          "dimensions": "2048x1536",
+          "photo_category": "Unknown"
+        },
+        {
+          "source_zip": "Smilacaceae.zip",
+          "zip_entry": "Smilacaceae/Smilax_bona-nox/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Loth_Cat2026",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345910973",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630466141/original.jpg",
+          "sha256": "351e759f5ef892f7ae358c3517e71087ea654d17d9f1353a4cbc6b57542b202a",
+          "bytes": 2778208,
+          "gbif_id": 6185432659,
+          "dimensions": "1152x2048",
+          "photo_category": "Unknown"
+        }
+      ]
+    }
+  ]
+}

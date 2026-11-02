@@ -1,0 +1,27 @@
+{
+  "repo": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "source_photos_historically_held": 2,
+  "candidates": [
+    {
+      "species_id": "typha-domingensis",
+      "gbif_id": 4403307511,
+      "sha256": "4289ce6105499a0c84e2db7f6c25384f284f1460ac38f870c9536ca77dd07fca",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp63340370365214806799.att.JPG",
+      "license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "role": "Herbarium specimen with narrow cattail blades and long slender spikes",
+      "original_zip": "Typhaceae-2026-11-02.zip"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "gbif_id": 6490988311,
+      "sha256": "e960298ecacae5021666cb5bf2b5a5c533ce44530330b354f28c91e9bd79075e",
+      "source_url": "https://intermountainbiota.org/media/intermt/WS/00416/WS070663.JPG",
+      "license": "CC BY-NC 4.0",
+      "creator": "Washington State University Marion Ownbey Herbarium (WS-WS)",
+      "role": "Pressed cattail specimen showing flowering spike, basal leaves and collected stems",
+      "original_zip": "Typhaceae-2026-11-02.zip"
+    }
+  ],
+  "review": "Contact sheet of original ZIP photos visually checked Nov 2 2026 for basic specimen plausibility; rights not yet approved, live GBIF occurrence media, license and exact original SHA must match before publication."
+}

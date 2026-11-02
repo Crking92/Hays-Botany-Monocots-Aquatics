@@ -23,15 +23,20 @@ jobs:
           python3 - <<'PY'
           import json,time,urllib.request
           from pathlib import Path
-          expected=json.loads(Path("site/data/gallery-index.json").read_text())
-          url="https://crking92.github.io/Hays-Botany-Monocots-Aquatics/site/data/gallery-index.json"
+          root=Path("site/data")
+          expected={p:(root/p).read_bytes() for p in ("gallery-index.json","collection-meta.json","collection-index.json")}
+          base="https://crking92.github.io/Hays-Botany-Monocots-Aquatics/site/data/"
           for attempt in range(30):
               try:
-                  request=urllib.request.Request(url+"?check="+str(attempt),headers={"User-Agent":"HaysBotanyPagesGalleryAudit/1.0"})
-                  with urllib.request.urlopen(request,timeout=20) as response:
-                      actual=json.load(response)
-                  if actual.get("photo_count")==expected.get("photo_count") and actual.get("photo_species")==expected.get("photo_species"):
-                      print("LIVE_GALLERY_COUNTS_MATCH",actual["photo_count"],actual["photo_species"])
+                  matched=True
+                  for name,bytes_expected in expected.items():
+                      request=urllib.request.Request(base+name+"?check="+str(attempt),headers={"User-Agent":"HaysBotanyPagesGalleryAudit/1.0"})
+                      with urllib.request.urlopen(request,timeout=20) as response:
+                          if response.read()!=bytes_expected:
+                              matched=False
+                              break
+                  if matched:
+                      print("LIVE_GALLERY_AND_SITE_METADATA_MATCH")
                       break
               except Exception as exc:
                   print("Pages gallery update not yet confirmed",repr(exc))

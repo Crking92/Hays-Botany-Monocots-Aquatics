@@ -28,5 +28,9 @@
     "Smilacaceae",
     "Typhaceae"
   ],
-  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
+  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "Hays Botany educational noncommercial gallery. All photos retain their original photographer and license. CC BY-NC photographs may not be commercially reused; if the site becomes commercial, remove or relicense restricted images."
+  }
 }

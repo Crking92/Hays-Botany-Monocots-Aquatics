@@ -13,7 +13,7 @@ from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
-ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: US)?)", re.I)
+ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: US)?)", re.I)
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
@@ -73,16 +73,23 @@ def local_audit():
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
             require(bool(ALLOWED.fullmatch(photo["license"])),
                     sid + ": unknown/non-public photo license: " + photo["license"])
-            require(not photo.get("private_rights_review_only") and not photo.get("noncommercial_only"),
-                    sid + ": public gallery points to held/private image")
+            require(not photo.get("private_rights_review_only"),
+                    sid + ": public gallery links to a private-review image")
+            nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+            require(photo.get("noncommercial_only") is nc,
+                    sid + ": noncommercial restriction does not match the individual photo license")
+            if nc:
+                require(meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True,
+                        sid + ": CC BY-NC media requires confirmed noncommercial family site")
             require(photo["source_page"].startswith("https://") and photo["license_url"].startswith("https://"),
                     sid + ": missing exact source/license URL")
     actual = {p.relative_to(SITE).as_posix() for p in (SITE / "media").rglob("*") if p.is_file()}
     require(actual == refs, "orphan media files or untracked photo references")
     require(gallery.get("photo_count") == count and gallery.get("photo_species") == featured,
             "photo totals do not agree with actual linked files")
-    require(migration.get("photos_copied_and_eligible") == count
-            and migration.get("species_with_photos") == featured, "migration report disagrees with gallery")
+    require(count >= migration.get("photos_copied_and_eligible",0)
+            and featured >= migration.get("species_with_photos",0),
+            "Gallery photo/species counts fell below initial migration baseline")
     require(migration.get("restricted_media_copied") == 0
             and migration.get("new_external_images") == 0, "photo migration gate unexpectedly changed")
     return ids, sorted(refs), {"species": len(ids), "families": len(meta["family_assignments"]),

@@ -30,7 +30,10 @@ for row in idx["entries"]:
         src=p["src"]
         assert src.startswith("media/"+sid+"/") and ".." not in src
         assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://creativecommons.org/")
-        assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
+        assert p["private_rights_review_only"] is False
+        is_nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        assert p["noncommercial_only"] is is_nc
+        if is_nc:assert m["photo_license_policy"]["noncommercial_educational_use"] is True
         path=SITE/src
         assert path.is_file() and path.stat().st_size>500,src
         content=path.read_bytes()
@@ -38,8 +41,10 @@ for row in idx["entries"]:
         assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p["source_blob_sha"],src
         approved.add(path.resolve())
         total+=1
-assert total==g["photo_count"]==report["photos_copied_and_eligible"]
-assert species==g["photo_species"]==report["species_with_photos"]
+assert total==g["photo_count"],"Gallery count differs from site cards"
+assert total>=report["photos_copied_and_eligible"],"Unexpected drop below original photo migration"
+assert species==g["photo_species"],"Photographed species differs from site cards"
+assert species>=report["species_with_photos"],"Unexpected drop below original migrated coverage"
 assert len(approved)==total
 actual={f.resolve() for f in (SITE/"media").rglob("*") if f.is_file()}
 assert approved==actual,"Public media folder has images not covered by explicit approved gallery"

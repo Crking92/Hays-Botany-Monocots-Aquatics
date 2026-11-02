@@ -11,12 +11,33 @@ permissions: {contents: read}
 jobs:
   audit-existing:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
       - name: Check all 113 species and every archived-source photo hash
         run: python3 scripts/verify_existing_site.py
+      - name: Wait for public website gallery index to reflect the current repository
+        run: |
+          python3 - <<'PY'
+          import json,time,urllib.request
+          from pathlib import Path
+          expected=json.loads(Path("site/data/gallery-index.json").read_text())
+          url="https://crking92.github.io/Hays-Botany-Monocots-Aquatics/site/data/gallery-index.json"
+          for attempt in range(30):
+              try:
+                  request=urllib.request.Request(url+"?check="+str(attempt),headers={"User-Agent":"HaysBotanyPagesGalleryAudit/1.0"})
+                  with urllib.request.urlopen(request,timeout=20) as response:
+                      actual=json.load(response)
+                  if actual.get("photo_count")==expected.get("photo_count") and actual.get("photo_species")==expected.get("photo_species"):
+                      print("LIVE_GALLERY_COUNTS_MATCH",actual["photo_count"],actual["photo_species"])
+                      break
+              except Exception as exc:
+                  print("Pages gallery update not yet confirmed",repr(exc))
+              time.sleep(10)
+          else:
+              raise SystemExit("Public gallery did not reach expected photo counts")
+          PY
       - name: Confirm live Pages serves every species JSON and every published photograph
         run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Monocots-Aquatics/site/

@@ -1,0 +1,23 @@
+{
+  "original_held": 2,
+  "approved_for_install": 2,
+  "published": 2,
+  "held": 0,
+  "checked_at": "2026-11-02T20:59:36.223017+00:00",
+  "records": [
+    {
+      "species_id": "typha-domingensis",
+      "gbif_id": 4403307511,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY 4.0",
+      "sha256": "4289ce6105499a0c84e2db7f6c25384f284f1460ac38f870c9536ca77dd07fca"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "gbif_id": 6490988311,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY-NC 4.0",
+      "sha256": "e960298ecacae5021666cb5bf2b5a5c533ce44530330b354f28c91e9bd79075e"
+    }
+  ]
+}

@@ -981,8 +981,8 @@
       "genus": "Saururus",
       "scientific_name": "Saururus cernuus",
       "common_name": "Lizard's-tail",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "smilax-bona-nox",
@@ -999,8 +999,8 @@
       "genus": "Smilax",
       "scientific_name": "Smilax tamnoides",
       "common_name": "Bristly greenbrier",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "typha-domingensis",

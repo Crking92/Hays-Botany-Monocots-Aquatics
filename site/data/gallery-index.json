@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 25,
-  "photo_count": 46,
+  "photo_species": 27,
+  "photo_count": 56,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -438,16 +438,16 @@
       "first_src": null
     },
     "saururus-cernuus": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/saururus-cernuus/inat-478158583.jpeg"
     },
     "smilax-bona-nox": {
       "count": 2,
       "first_src": "media/smilax-bona-nox/smilax-bona-nox-abair-stem-350770693.jpg"
     },
     "smilax-tamnoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/smilax-tamnoides/inat-244660913.jpeg"
     },
     "typha-domingensis": {
       "count": 3,

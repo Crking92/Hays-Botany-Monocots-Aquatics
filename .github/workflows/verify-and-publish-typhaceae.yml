@@ -1,0 +1,62 @@
+name: Verify and publish photo-first Typhaceae images
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/typhaceae-2026-11-02.json'
+      - 'scripts/verify_typhaceae_original_media.py'
+      - '.github/workflows/verify-and-publish-typhaceae.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: monocots-aquatics-photo-release
+  cancel-in-progress: false
+jobs:
+  publish-typhaceae:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Prepare original image checks
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify individual iNaturalist media licenses, taxon and exact ZIP hash
+        run: python3 scripts/verify_typhaceae_original_media.py
+      - name: Validate and install only the verified originals with credits
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/typhaceae-verified" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/typhaceae-verified" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/build_collection_preview.py
+      - name: Commit new public gallery photos and license records
+        id: publish
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            echo "No new photos qualified; see source audit artifact"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish verified Typhaceae general cattail photographs with creator credits"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Trigger GitHub Pages build for automated photo publication
+        if: steps.publish.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: typhaceae-source-rights-and-hash-checks
+          path: ${{ runner.temp }}/typhaceae-original-source-review.json
+          if-no-files-found: warn
+          retention-days: 30

@@ -1,0 +1,102 @@
+{
+  "family": "Typhaceae",
+  "batch": "Typhaceae.zip 2026-11-02",
+  "source_zip_sha256": "46d1974d9d06733177496e96ddb92b67136e2561ffaa6558c1065dfc864fe6b8",
+  "saved_original": "ChatGPT Library /Hays-Botany-Photo-ZIPs/Typhaceae-2026-11-02.zip",
+  "original_images": 10,
+  "sha256_checks_passed": 10,
+  "recorded_license": "CC BY-NC 4.0 for eight iNaturalist originals",
+  "visual_review": "Basic plant appearance reviewed as cattails; complete diagnostic species certainty and anatomy labels deferred",
+  "held_herbarium": [
+    {
+      "species_id": "typha-domingensis",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp63340370365214806799.att.JPG",
+      "photographer": "University of Texas at Austin",
+      "license_from_zip": "CC BY 4.0",
+      "sha256": "4289ce6105499a0c84e2db7f6c25384f284f1460ac38f870c9536ca77dd07fca",
+      "reason": "Individual media publication license and exact source evidence not confirmed"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "source_url": "https://intermountainbiota.org/portal/collections/individual/index.php?occid=34881082",
+      "photographer": "Washington State University Marion Ownbey Herbarium",
+      "license_from_zip": "CC BY-NC 4.0",
+      "sha256": "e960298ecacae5021666cb5bf2b5a5c533ce44530330b354f28c91e9bd79075e",
+      "reason": "Individual herbarium media source-rights check pending"
+    }
+  ],
+  "photos": [
+    {
+      "species_id": "typha-domingensis",
+      "photo_id": 646815749,
+      "observation_id": 354581330,
+      "sha256": "dd3415dc67279b09888397246ed88b1e56ec37c3805e84c1e06be740c8805cd4",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646815749/original.jpg",
+      "photographer": "Martha",
+      "caption": "Clump of straplike leaves and submerged basal shoots"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "photo_id": 646792895,
+      "observation_id": 354568006,
+      "sha256": "e087a8cb0b0a5b75bf4b3ea09ee9aa4a6ad53838f4d7a2a19b9687706760cdf1",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646792895/original.jpg",
+      "photographer": "Russell Sanders",
+      "caption": "Waterside stand of tall cattail leaves"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "photo_id": 714558579,
+      "observation_id": 390059069,
+      "sha256": "a0312540cc5392c70b5ae2fd583ac9954ee9b36c9657279e30a28cb3c2c47e08",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714558579/original.jpg",
+      "photographer": "Michael Knox",
+      "caption": "Mature brown cattail spike among foliage"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "photo_id": 73802833,
+      "observation_id": 46532505,
+      "sha256": "44966ea4af39165ec3a8c4e994fc5685846c876745f6416e6780f30901f43f2a",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73802833/original.jpeg",
+      "photographer": "Minnette Marr",
+      "caption": "Broadleaf cattail stand in wetland habitat"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "photo_id": 37433236,
+      "observation_id": 24208899,
+      "sha256": "322635b75ff9f4a96b9fc3caef20fbe7b8ccd5a2df2d113383047ad41d420fa6",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37433236/original.jpeg",
+      "photographer": "Curtis Eckerman",
+      "caption": "Waterside cattail leaves and habitat"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "photo_id": 411656649,
+      "observation_id": 231753382,
+      "sha256": "b31ca9fb1ac07b6ab8a5a1cb5a2cd0dd48f19275841afcef97a7c32546a46342",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411656649/original.jpeg",
+      "photographer": "Grace Millsap",
+      "caption": "Close view of broad cattail leaf blade in hand"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "photo_id": 1330295,
+      "observation_id": 1061070,
+      "sha256": "e68c57c5330218fea9bb3bfdfd447b56bd6f2dbf7e11274ce8bc8aab236adc6a",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1330295/original.JPG",
+      "photographer": "Larry Swift",
+      "caption": "Old cattail spike and upright leaves"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "photo_id": 492412974,
+      "observation_id": 273838814,
+      "sha256": "6bb6a1e2f768ed96adf2ec2d3ccafdb7d9d584c1965017899fd9306f83a76bb2",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492412974/original.jpg",
+      "photographer": "anthonyjpersyn",
+      "caption": "Wetland clump of cattail leaves and fruiting spikes"
+    }
+  ]
+}

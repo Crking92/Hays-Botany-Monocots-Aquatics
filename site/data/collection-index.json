@@ -1008,8 +1008,8 @@
       "genus": "Typha",
       "scientific_name": "Typha domingensis",
       "common_name": "Southern cattail",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "typha-latifolia",
@@ -1017,8 +1017,8 @@
       "genus": "Typha",
       "scientific_name": "Typha latifolia",
       "common_name": "Broadleaf cattail",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]
 }

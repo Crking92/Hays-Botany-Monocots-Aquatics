@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 23,
-  "photo_count": 38,
+  "photo_species": 25,
+  "photo_count": 46,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -450,12 +450,12 @@
       "first_src": null
     },
     "typha-domingensis": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/typha-domingensis/inat-646792895.jpg"
     },
     "typha-latifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/typha-latifolia/inat-1330295.jpg"
     }
   }
 }

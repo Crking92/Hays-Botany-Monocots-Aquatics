@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 104,
-  "photo_count": 259,
+  "photo_species": 105,
+  "photo_count": 295,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -314,35 +314,35 @@
       "first_src": "media/schoenoplectus-tabernaemontani/archived-9453cb0dfa306aeb.jpg"
     },
     "myriophyllum-aquaticum": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/myriophyllum-aquaticum/archived-305ac6954c949fa0.jpg"
     },
     "myriophyllum-heterophyllum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/myriophyllum-heterophyllum/inat-1041460.jpg"
     },
     "vallisneria-americana": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/vallisneria-americana/archived-026e752d96fe7a0a.jpg"
     },
     "nemastylis-geminiflora": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/nemastylis-geminiflora/archived-c23d9a7b0b7dfc41.jpg"
     },
     "sisyrinchium-angustifolium": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/sisyrinchium-angustifolium/archived-478eedaee2209b64.jpg"
     },
     "sisyrinchium-biforme": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/sisyrinchium-biforme/archived-7dc415c7d5393600.jpg"
     },
     "sisyrinchium-ensigerum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sisyrinchium-ensigerum/archived-26c578dc6e3caf4e.jpg"
     },
     "sisyrinchium-langloisii": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/sisyrinchium-langloisii/archived-bbb8c84bc249baaa.jpg"
     },
     "juncus-dichotomus": {
@@ -354,11 +354,11 @@
       "first_src": "media/juncus-filipendulus/archived-b87c853141c3c6bf.jpg"
     },
     "juncus-texanus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/juncus-texanus/archived-f5d903b281231182.jpg"
     },
     "luzula-bulbosa": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/luzula-bulbosa/archived-d6ebd6c39419ca4d.jpg"
     },
     "thalia-geniculata": {

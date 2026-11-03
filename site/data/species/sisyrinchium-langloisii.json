@@ -67,6 +67,25 @@
       "source_review_evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/cd2879874899b79d74b9f495569d4db822b48c2d of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author susan mathis and media license field susan mathis (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob d257f7bb8c118eb3fb884102eb6749a219c727e7; same-image fingerprint distance 2",
       "taxon_review_evidence": "Current Pl@ntNet contributor identification Sisyrinchium langloisii matches the original image's botanical scientific name Sisyrinchium langloisii; same pixel source verified, specialist diagnostic morphology deferred.",
       "sha256": "53f38cc7b4b7f186eb1cf029073bfdcaf0998a937cdd4f9cc195e5108367cb5e"
+    },
+    {
+      "src": "media/sisyrinchium-langloisii/inat-62575518.jpeg",
+      "creator": "(c) Minnette Marr, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/62575518",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f1263436db1b35776dc19fa32d3bb627d48dc172",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
+      "source_review_evidence": "Live iNaturalist observation 39440535, photo 62575518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium langloisii maps to indexed species sisyrinchium-langloisii; specialist morphology and BONAP range deferred.",
+      "sha256": "9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

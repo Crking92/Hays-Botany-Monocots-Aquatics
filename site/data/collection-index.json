@@ -702,7 +702,7 @@
       "genus": "Myriophyllum",
       "scientific_name": "Myriophyllum aquaticum",
       "common_name": "Parrot feather",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,8 +711,8 @@
       "genus": "Myriophyllum",
       "scientific_name": "Myriophyllum heterophyllum",
       "common_name": "Variable-leaf watermilfoil",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vallisneria-americana",
@@ -720,7 +720,7 @@
       "genus": "Vallisneria",
       "scientific_name": "Vallisneria americana",
       "common_name": "Wild celery",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,7 +729,7 @@
       "genus": "Nemastylis",
       "scientific_name": "Nemastylis geminiflora",
       "common_name": "Prairie celestial",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -738,7 +738,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium angustifolium",
       "common_name": "Narrowleaf blue-eyed grass",
-      "photo_count": 1,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium biforme",
       "common_name": "Blue-eyed grass",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,7 +756,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium ensigerum",
       "common_name": "Swordleaf blue-eyed grass",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -765,7 +765,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium langloisii",
       "common_name": "Blue-eyed grass",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Juncus",
       "scientific_name": "Juncus texanus",
       "common_name": "Texas rush",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -801,7 +801,7 @@
       "genus": "Luzula",
       "scientific_name": "Luzula bulbosa",
       "common_name": "Luzula bulbosa",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

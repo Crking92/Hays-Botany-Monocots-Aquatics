@@ -1,0 +1,94 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:16:53.575071+00:00",
+  "candidate_pool": 7,
+  "selected": 7,
+  "published": 7,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "camassia-scilloides",
+      "original_path": "content/taxa/Asparagaceae/Camassia/camassia-scilloides/images/library-review043-ea654bcbd463831.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "CherieFairy / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109865506",
+      "src": "media/camassia-scilloides/plantnet-archive-c20015804641be71.jpg",
+      "sha256": "c20015804641be719fc899ac825d877f9c13a736132c88f33e45a4fdb8939738",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/5719b2e0ff687153a32de965912f4304890038f5 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author CherieFairy and media license field CherieFairy (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob f363a868d97b186e649e1c8dd264a93107da769e; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "cyperus-ochraceus",
+      "original_path": "content/taxa/Cyperaceae/Cyperus/cyperus-ochraceus/images/diagnostic004-plantnet-5109507665-spikelets.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Trap Hers / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109507665",
+      "src": "media/cyperus-ochraceus/plantnet-archive-130d435f29ae750b.jpg",
+      "sha256": "130d435f29ae750b9bb8b684f0eb9f521ca40a64602915ccee7424c19a954219",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/51e9f37a587266cdfdb6db58d0becbe4d5eea6c1 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Trap Hers and media license field Trap Hers (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 9d0dadb210b74fde505886ea75ee1ddb79f1a19c; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "eleocharis-geniculata",
+      "original_path": "content/taxa/Cyperaceae/Eleocharis/eleocharis-geniculata/images/library-review036-cd902d93d5de7b5.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "sonu kumar / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110297275",
+      "src": "media/eleocharis-geniculata/plantnet-archive-b5ae26c62366aece.jpg",
+      "sha256": "b5ae26c62366aece1c4662c062250feb8e8fcf1fd6c32b4b766972bbf1281f1f",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/f343f5c20ce33f33e6b572e10a9be8de0d159f86 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author sonu kumar and media license field sonu kumar (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 410085ef4063242c0c3a480e7cfd70838433323c; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "eleocharis-geniculata",
+      "original_path": "content/taxa/Cyperaceae/Eleocharis/eleocharis-geniculata/images/library-review036-ff5c029b4d6a8b2.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Guillaume Martin / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110505678",
+      "src": "media/eleocharis-geniculata/plantnet-archive-faa88ddf15bb5f17.jpg",
+      "sha256": "faa88ddf15bb5f171c07cb6923b32c81c317f50da30102b726e284355f2aa3c5",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/b0950955ca67797640ae8d3dcfdb2789b9a597db of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Guillaume Martin and media license field Guillaume Martin (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 016d50b3bf0e806145d4c2c9ec2e0b3677c8d5d4; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "hesperaloe-parviflora",
+      "original_path": "content/taxa/Asparagaceae/Hesperaloe/hesperaloe-parviflora/images/library-review052-100f112fc5705df.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "matheus olmedo / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110401863",
+      "src": "media/hesperaloe-parviflora/plantnet-archive-08baf396589592eb.jpg",
+      "sha256": "08baf396589592eb4a33ffb6737793aae38b1799a851ab3289883f377a21a021",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/475fd5a3531af76d162917c1895c9e82a3599ae7 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author matheus olmedo and media license field matheus olmedo (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 0489ba6117cde50be2f70de58a7cd7062c8881e2; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "hesperaloe-parviflora",
+      "original_path": "content/taxa/Asparagaceae/Hesperaloe/hesperaloe-parviflora/images/library-review052-acb1d94d9a5acd0.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Charles De Gaulle / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109484146",
+      "src": "media/hesperaloe-parviflora/plantnet-archive-f5f0fadaf4049efe.jpg",
+      "sha256": "f5f0fadaf4049efe878c143a806c588934d235d761a631dfe6693ed327daa72d",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/2de642dae7ac613824335ff093eb674914b906be of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Charles De Gaulle and media license field Charles De Gaulle (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 51abce7eefd762773cde55559e8ea874a4d6533d; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "sisyrinchium-langloisii",
+      "original_path": "content/taxa/Iridaceae/Sisyrinchium/sisyrinchium-langloisii/images/library-review041-1ed7fa04e9c6a20.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "susan mathis / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109902126",
+      "src": "media/sisyrinchium-langloisii/plantnet-archive-53f38cc7b4b7f186.jpg",
+      "sha256": "53f38cc7b4b7f186eb1cf029073bfdcaf0998a937cdd4f9cc195e5108367cb5e",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/cd2879874899b79d74b9f495569d4db822b48c2d of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author susan mathis and media license field susan mathis (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob d257f7bb8c118eb3fb884102eb6749a219c727e7; same-image fingerprint distance 2"
+    }
+  ],
+  "cumulative_published": 7,
+  "held_by_reason": {}
+}

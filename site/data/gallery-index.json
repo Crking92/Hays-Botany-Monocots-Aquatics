@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 89,
-  "photo_count": 195,
+  "photo_count": 202,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -90,7 +90,7 @@
       "first_src": "media/androstephium-coeruleum/androstephium-coeruleum-flowering-umbel-vanderveck.png"
     },
     "camassia-scilloides": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/camassia-scilloides/archived-22f05e693f283efa.jpg"
     },
     "dasylirion-texanum": {
@@ -98,7 +98,7 @@
       "first_src": "media/dasylirion-texanum/archived-6932adb861a226d4.jpg"
     },
     "hesperaloe-parviflora": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/hesperaloe-parviflora/archived-5d552272e7f59daf.jpg"
     },
     "manfreda-maculosa": {
@@ -246,7 +246,7 @@
       "first_src": "media/cyperus-esculentus/01-yellow-nutsedge-inflorescence.jpg"
     },
     "cyperus-ochraceus": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cyperus-ochraceus/archived-ca807f01c8961ee5.jpg"
     },
     "cyperus-odoratus": {
@@ -270,7 +270,7 @@
       "first_src": "media/eleocharis-atropurpurea/archived-4d826f8be85cce28.jpg"
     },
     "eleocharis-geniculata": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/eleocharis-geniculata/archived-2d9d18e93cd39e28.jpg"
     },
     "eleocharis-montevidensis": {
@@ -342,7 +342,7 @@
       "first_src": "media/sisyrinchium-ensigerum/archived-26c578dc6e3caf4e.jpg"
     },
     "sisyrinchium-langloisii": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/sisyrinchium-langloisii/archived-bbb8c84bc249baaa.jpg"
     },
     "juncus-dichotomus": {

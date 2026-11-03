@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 101,
-  "photo_count": 254,
+  "photo_species": 103,
+  "photo_count": 256,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -58,8 +58,8 @@
       "first_src": "media/lemna-minor/archived-6a9ef23e8822bd57.jpg"
     },
     "pistia-stratiotes": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pistia-stratiotes/archived-01d4df04a0845341.jpg"
     },
     "spirodela-polyrhiza": {
       "count": 0,
@@ -330,8 +330,8 @@
       "first_src": "media/nemastylis-geminiflora/archived-c23d9a7b0b7dfc41.jpg"
     },
     "sisyrinchium-angustifolium": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sisyrinchium-angustifolium/archived-478eedaee2209b64.jpg"
     },
     "sisyrinchium-biforme": {
       "count": 3,

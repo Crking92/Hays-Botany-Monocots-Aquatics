@@ -1,0 +1,61 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PUBLIC_DOMAIN_2026-11-03",
+  "checked_at": "2026-11-03T19:41:40.021893+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 186,
+    "already_public_identical_bytes": 16,
+    "not_an_individual_public_domain_claim": 1
+  },
+  "new_installed": 2,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "pistia-stratiotes",
+      "family": "Araceae",
+      "filename": "commons-pistia-stratiotes.jpg",
+      "original_path": "content/taxa/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "archive_path": "migration/private-original-photo-holds/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "git_blob_sha": "ed932b17476302d472e7f76f0d6e238d446bfca6",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "yelod",
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pistia_stratiotes.JPG",
+      "taxon": "Pistia stratiotes",
+      "src": "media/pistia-stratiotes/archived-01d4df04a0845341.jpg",
+      "sha256": "01d4df04a0845341ef641d740fa6c83c938c0445b8a33f62b9a93de6156af982"
+    },
+    {
+      "species_id": "sisyrinchium-angustifolium",
+      "family": "Iridaceae",
+      "filename": "commons-sisyrinchium-angustifolium.jpg",
+      "original_path": "content/taxa/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "archive_path": "migration/private-original-photo-holds/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "git_blob_sha": "6b43c890e16430c9f2091d926ec3246271478559",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sisyrinchium_angustifolium_2_close_up_flower%2C_Narrow-leaf-blue-eyed-grass%2C_Howard_County%2C_MD%2C_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg",
+      "taxon": "Sisyrinchium angustifolium",
+      "src": "media/sisyrinchium-angustifolium/archived-478eedaee2209b64.jpg",
+      "sha256": "478eedaee2209b6425c785bc21b1db53b03273a11d85de5cef0a53694ab9031a"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 0
+}

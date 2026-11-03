@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sisyrinchium-angustifolium/archived-478eedaee2209b64.jpg",
+      "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sisyrinchium_angustifolium_2_close_up_flower%2C_Narrow-leaf-blue-eyed-grass%2C_Howard_County%2C_MD%2C_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "6b43c890e16430c9f2091d926ec3246271478559",
+      "role": "Provisional blue-eyed-grass flower macro with six tepals and yellow center; stem, spathe and fruit not in view.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Sisyrinchium_angustifolium_2_close_up_flower,_Narrow-leaf-blue-eyed-grass,_Howard_County,_MD,_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg; original individual photographer Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest 6b43c890e16430c9f2091d926ec3246271478559; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 6b43c890e16430c9f2091d926ec3246271478559; exact image source https://commons.wikimedia.org/wiki/File:Sisyrinchium_angustifolium_2_close_up_flower%2C_Narrow-leaf-blue-eyed-grass%2C_Howard_County%2C_MD%2C_Helen_Lowe_Metzman_2017-07-25-21.06_(38700443594).jpg",
+      "taxon_review_evidence": "Original species record Sisyrinchium angustifolium linked to an original image and matching current commons photo of source taxon Sisyrinchium angustifolium. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "478eedaee2209b6425c785bc21b1db53b03273a11d85de5cef0a53694ab9031a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b888df590f6dca4cdba270cf16bf725e6e8def9d667f2f7207f2d21c348b1964",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

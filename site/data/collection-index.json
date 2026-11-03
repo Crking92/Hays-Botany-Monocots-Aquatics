@@ -126,8 +126,8 @@
       "genus": "Pistia",
       "scientific_name": "Pistia stratiotes",
       "common_name": "Water lettuce (invasive aquatic)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "spirodela-polyrhiza",
@@ -738,8 +738,8 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium angustifolium",
       "common_name": "Narrowleaf blue-eyed grass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sisyrinchium-biforme",

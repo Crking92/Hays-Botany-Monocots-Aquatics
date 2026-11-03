@@ -2,12 +2,12 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 94,
-  "photo_count": 237,
+  "photo_species": 95,
+  "photo_count": 238,
   "entries": {
     "aquarius-cordifolius": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/aquarius-cordifolius/archived-faeafeb6fed8c32e.jpg"
     },
     "echinodorus-berteroi": {
       "count": 1,

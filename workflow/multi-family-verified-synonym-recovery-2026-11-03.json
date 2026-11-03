@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_VERIFIED_SYNONYM_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:48:07.634022+00:00",
+  "source_files": 205,
+  "selection_window": 25,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_verified_synonym_hold": 204
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "aquarius-cordifolius",
+      "family": "Alismataceae",
+      "filename": "inat-154847402.jpg",
+      "original_path": "content/taxa/Alismataceae/Aquarius/aquarius-cordifolius/images/inat-154847402.jpg",
+      "archive_path": "migration/private-original-photo-holds/Alismataceae/Aquarius/aquarius-cordifolius/images/inat-154847402.jpg",
+      "git_blob_sha": "4e2e621539eeb4b7b69e263aea555188d29c34d3",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Matt Tomlinson",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/154847402",
+      "taxon": "Echinodorus cordifolius",
+      "src": "media/aquarius-cordifolius/archived-faeafeb6fed8c32e.jpg",
+      "sha256": "faeafeb6fed8c32ef065521c33fed5d6af566055ef2b979485981630a268d14f"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

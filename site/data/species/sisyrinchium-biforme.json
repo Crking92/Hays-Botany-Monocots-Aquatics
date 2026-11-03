@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sisyrinchium-biforme/archived-7dc415c7d5393600.jpg",
+      "creator": "Turner Brockman",
+      "source_page": "https://www.inaturalist.org/photos/474027584",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "739c3e6b06805ef861c2fb3e79d9cc5975a38184",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 263568326 photo 474027584 individual CC code cc-by-sa; photographer (c) Turner Brockman, some rights reserved (CC BY-SA); image dHash difference 0; archived source SHA 739c3e6b06805ef861c2fb3e79d9cc5975a38184; exact image source https://www.inaturalist.org/photos/474027584",
+      "taxon_review_evidence": "Original species record Sisyrinchium biforme linked to an original image and matching current inat photo of source taxon Sisyrinchium biforme. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7dc415c7d539360087481d9c74760a2a2e303dd4d8a9004cd8b8ce8b689d05d6"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9fff42a2473b4f62fe68f04958ddf809f78f7fc939be4ecae65f308ee23a690b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

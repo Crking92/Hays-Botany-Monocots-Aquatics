@@ -39,8 +39,28 @@
     "names": [],
     "differences": "Compared with Y. pallida, Y. arkansana has greener, narrower leaves with obvious curly marginal fibers and a simpler, less-branched inflorescence. Y. pallida is more strongly glaucous blue-green and has yellowish margins without persistent white fibers."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/yucca-arkansana/archived-66aa2409bd269940.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99231423",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b6915d0efee392aaab6b16e634eeafd18ef7e46f",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 61971982 photo 99231423 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b6915d0efee392aaab6b16e634eeafd18ef7e46f; exact image source https://www.inaturalist.org/photos/99231423",
+      "taxon_review_evidence": "Original species record Yucca arkansana linked to an original image and matching current inat photo of source taxon Yucca arkansana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "66aa2409bd269940a922e8c90a13872b667d0b1fc7599419c91047ec34676b6a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "542d5e461d5ca3a13b4ea45773ddd350730fa79b4589eeb7073fb2b8cb2758ca",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

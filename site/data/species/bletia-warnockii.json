@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/bletia-warnockii/archived-9c8cf9a7506256d6.jpg",
+      "creator": "Aidan Campos",
+      "source_page": "https://www.inaturalist.org/photos/144826596",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "804b2a79ff090484b0d4c5af5f5e92065034d2a1",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 87815532 photo 144826596 individual CC code cc-by-nc; photographer (c) Aidan Campos, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 804b2a79ff090484b0d4c5af5f5e92065034d2a1; exact image source https://www.inaturalist.org/photos/144826596",
+      "taxon_review_evidence": "Original species record Bletia warnockii linked to an original image and matching current inat photo of source taxon Bletia warnockii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "9c8cf9a7506256d645c68120ba218b72a2075417e9c68e460525ddf2aa40acd4"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "37fc4a5322756dfedc6fbcad143a13554a2f7f4647200b743f1ddcb616415eeb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

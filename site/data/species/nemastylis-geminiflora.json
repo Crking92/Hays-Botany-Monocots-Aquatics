@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/nemastylis-geminiflora/archived-c23d9a7b0b7dfc41.jpg",
+      "creator": "Robert Langellier",
+      "source_page": "https://www.inaturalist.org/photos/271294465",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b450b0ed3191b2f533d834063069093f97a0e322",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 156869130 photo 271294465 individual CC code cc-by-nc; photographer (c) Robert Langellier, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b450b0ed3191b2f533d834063069093f97a0e322; exact image source https://www.inaturalist.org/photos/271294465",
+      "taxon_review_evidence": "Original species record Nemastylis geminiflora linked to an original image and matching current inat photo of source taxon Nemastylis geminiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "c23d9a7b0b7dfc4108f3a1354f47a5ef86428c63740c165c34dc97625ca9c3dc"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2ac3b9552d9c9179688162f95780c5fc5db1d8522d5085e012ce00b4b47043f9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

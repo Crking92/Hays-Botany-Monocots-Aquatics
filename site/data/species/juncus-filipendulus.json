@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/juncus-filipendulus/archived-b87c853141c3c6bf.jpg",
+      "creator": "ThePrairiePreacher",
+      "source_page": "https://www.inaturalist.org/photos/39482181",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7c6077a62eea4b38efbbb3f743bd27fcb75743e0",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 25486863 photo 39482181 individual CC code cc-by-nc; photographer (c) ThePrairiePreacher, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 7c6077a62eea4b38efbbb3f743bd27fcb75743e0; exact image source https://www.inaturalist.org/photos/39482181",
+      "taxon_review_evidence": "Original species record Juncus filipendulus linked to an original image and matching current inat photo of source taxon Juncus filipendulus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b87c853141c3c6bfbbfee7cc22d76d7c6cc2d8b605da7a671abf024836c039ea"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1096cb1440f233470ab5b3934fdc75077bdb110936732554a4917b8dff6f3277",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

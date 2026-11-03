@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/luzula-bulbosa/archived-d6ebd6c39419ca4d.jpg",
+      "creator": "Joe",
+      "source_page": "https://www.inaturalist.org/photos/359344006",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fab34bf881a6ab76c9b718ec7dd1bec92d95ff5e",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 203390449 photo 359344006 individual CC code cc-by-nc; photographer (c) Joe, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA fab34bf881a6ab76c9b718ec7dd1bec92d95ff5e; exact image source https://www.inaturalist.org/photos/359344006",
+      "taxon_review_evidence": "Original species record Luzula bulbosa linked to an original image and matching current inat photo of source taxon Luzula bulbosa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d6ebd6c39419ca4d2594e038469fb0ea51c8a5e6aab87e2f6dec50dbd3d9e8d1"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4d661e34f7c72423a626d186c9011a31b0be032bc9969211d99e2f26a320e87c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/fimbristylis-vahlii/archived-55ed3d26c2797f80.jpg",
+      "creator": "abelkinser",
+      "source_page": "https://www.inaturalist.org/photos/226621698",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "bf0bd35520963b6a25ea7ad688f4f79a3a96a18c",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 133076147 photo 226621698 individual CC code cc-by-nc; photographer (c) abelkinser, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA bf0bd35520963b6a25ea7ad688f4f79a3a96a18c; exact image source https://www.inaturalist.org/photos/226621698",
+      "taxon_review_evidence": "Original species record Fimbristylis vahlii linked to an original image and matching current inat photo of source taxon Fimbristylis vahlii. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "55ed3d26c2797f804fe09dcdd304684effdb13bdd24b7c5a2447840e1f59fa4d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ad09ab2eae73bd4911a566ffb9e489f27676f17584aaf1c30c734c1e9d6756d9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

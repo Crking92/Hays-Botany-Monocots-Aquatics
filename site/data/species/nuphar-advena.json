@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/nuphar-advena/archived-3915650d074782f5.jpg",
+      "creator": "Mike Lipinski",
+      "source_page": "https://www.inaturalist.org/photos/583094987",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "77d20944e9885202ed8650e6e726af05c342794b",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 322337382 photo 583094987 individual CC code cc-by-nc; photographer (c) Mike Lipinski, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 77d20944e9885202ed8650e6e726af05c342794b; exact image source https://www.inaturalist.org/photos/583094987",
+      "taxon_review_evidence": "Original species record Nuphar advena linked to an original image and matching current inat photo of source taxon Nuphar advena. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "3915650d074782f56c46ae68ceb1aa71251f6c3d18940e66fa3e44ba83fde221"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b3bad029bf92ebc2b8f2525ef4e93d71c180fc106b99cdd7abff5bd226d4cc1f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

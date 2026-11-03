@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345696605, photo 630020335, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: addcc0ba521a0d5e7e54bc4d916fc12968479cd0b14c0ed8b3b3e0d8fc56743c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pontederia crassipes maps to indexed species pontederia-crassipes; specialist morphology and BONAP range deferred.",
       "sha256": "addcc0ba521a0d5e7e54bc4d916fc12968479cd0b14c0ed8b3b3e0d8fc56743c"
+    },
+    {
+      "src": "media/pontederia-crassipes/archived-43004b67e41f84aa.jpg",
+      "creator": "Miguel A. Casado",
+      "source_page": "https://www.inaturalist.org/photos/179861997",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d0c101d7833b6b5361ff34eae326e740a7604283",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 106994655 photo 179861997 individual CC code cc-by-nc; photographer (c) Miguel A. Casado, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA d0c101d7833b6b5361ff34eae326e740a7604283; exact image source https://www.inaturalist.org/photos/179861997",
+      "taxon_review_evidence": "Original species record Pontederia crassipes linked to an original image and matching current inat photo of source taxon Pontederia crassipes. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "43004b67e41f84aa74b242bb27b6bbdfe53057baf52a599fdc04c7b08b50502d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -18,8 +18,8 @@
       "genus": "Echinodorus",
       "scientific_name": "Echinodorus berteroi",
       "common_name": "Upright burhead",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sagittaria-graminea",
@@ -27,8 +27,8 @@
       "genus": "Sagittaria",
       "scientific_name": "Sagittaria graminea",
       "common_name": "Grassleaf arrowhead",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sagittaria-lancifolia",
@@ -63,7 +63,7 @@
       "genus": "Allium",
       "scientific_name": "Allium drummondii",
       "common_name": "Drummond's onion",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -72,8 +72,8 @@
       "genus": "Nothoscordum",
       "scientific_name": "Nothoscordum bivalve",
       "common_name": "crowpoison",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "zephyranthes-chlorosolen",
@@ -99,8 +99,8 @@
       "genus": "Amorphophallus",
       "scientific_name": "Amorphophallus titanum",
       "common_name": "Titan arum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "arisaema-dracontium",
@@ -108,8 +108,8 @@
       "genus": "Arisaema",
       "scientific_name": "Arisaema dracontium",
       "common_name": "Green dragon",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lemna-minor",
@@ -144,8 +144,8 @@
       "genus": "Wolffia",
       "scientific_name": "Wolffia columbiana",
       "common_name": "Columbian watermeal",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sabal-mexicana",
@@ -198,8 +198,8 @@
       "genus": "Camassia",
       "scientific_name": "Camassia scilloides",
       "common_name": "Wild hyacinth",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "dasylirion-texanum",
@@ -207,8 +207,8 @@
       "genus": "Dasylirion",
       "scientific_name": "Dasylirion texanum",
       "common_name": "Texas sotol",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hesperaloe-parviflora",
@@ -216,8 +216,8 @@
       "genus": "Hesperaloe",
       "scientific_name": "Hesperaloe parviflora",
       "common_name": "Red yucca",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "manfreda-maculosa",
@@ -225,8 +225,8 @@
       "genus": "Manfreda",
       "scientific_name": "Manfreda maculosa",
       "common_name": "Spotted manfreda",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nolina-lindheimeriana",
@@ -243,8 +243,8 @@
       "genus": "Nolina",
       "scientific_name": "Nolina texana",
       "common_name": "Texas Sacahuiste",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "yucca-arkansana",
@@ -252,8 +252,8 @@
       "genus": "Yucca",
       "scientific_name": "Yucca arkansana",
       "common_name": "Arkansas yucca / softleaf yucca",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "yucca-constricta",
@@ -261,8 +261,8 @@
       "genus": "Yucca",
       "scientific_name": "Yucca constricta",
       "common_name": "Buckley's Yucca",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "yucca-pallida",
@@ -270,8 +270,8 @@
       "genus": "Yucca",
       "scientific_name": "Yucca pallida",
       "common_name": "Pale-leaf yucca",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "yucca-rupicola",
@@ -288,7 +288,7 @@
       "genus": "Yucca",
       "scientific_name": "Yucca torreyi",
       "common_name": "Torrey's Yucca",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Yucca",
       "scientific_name": "Yucca treculiana",
       "common_name": "Trecul's Yucca / Spanish Dagger",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -306,8 +306,8 @@
       "genus": "Hechtia",
       "scientific_name": "Hechtia texensis",
       "common_name": "Texas hechtia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tillandsia-recurvata",
@@ -351,8 +351,8 @@
       "genus": "Ceratophyllum",
       "scientific_name": "Ceratophyllum demersum",
       "common_name": "Coontail",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "commelina-erecta",
@@ -423,8 +423,8 @@
       "genus": "Tradescantia",
       "scientific_name": "Tradescantia pedicellata",
       "common_name": "Granite spiderwort / Edwards Plateau spiderwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-blanda",
@@ -504,8 +504,8 @@
       "genus": "Carex",
       "scientific_name": "Carex tetrastachya",
       "common_name": "Britton's sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-texensis",
@@ -522,8 +522,8 @@
       "genus": "Cladium",
       "scientific_name": "Cladium mariscus subsp. jamaicense",
       "common_name": "Jamaica sawgrass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cyperus-acuminatus",
@@ -531,8 +531,8 @@
       "genus": "Cyperus",
       "scientific_name": "Cyperus acuminatus",
       "common_name": "Taper-tip flatsedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cyperus-esculentus",
@@ -549,8 +549,8 @@
       "genus": "Cyperus",
       "scientific_name": "Cyperus ochraceus",
       "common_name": "Ochraceous flatsedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cyperus-odoratus",
@@ -567,8 +567,8 @@
       "genus": "Cyperus",
       "scientific_name": "Cyperus retroflexus",
       "common_name": "Oneflower Flatsedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cyperus-rotundus",
@@ -594,8 +594,8 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis atropurpurea",
       "common_name": "Purple spikerush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eleocharis-geniculata",
@@ -603,8 +603,8 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis geniculata",
       "common_name": "Canada spikesedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eleocharis-montevidensis",
@@ -612,8 +612,8 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis montevidensis",
       "common_name": "Sand spikerush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eleocharis-palustris",
@@ -630,8 +630,8 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis rostellata",
       "common_name": "Beaked spikerush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fimbristylis-puberula",
@@ -639,8 +639,8 @@
       "genus": "Fimbristylis",
       "scientific_name": "Fimbristylis puberula",
       "common_name": "Hairy fimbry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fimbristylis-vahlii",
@@ -648,8 +648,8 @@
       "genus": "Fimbristylis",
       "scientific_name": "Fimbristylis vahlii",
       "common_name": "Vahl's fimbry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "fuirena-simplex",
@@ -657,8 +657,8 @@
       "genus": "Fuirena",
       "scientific_name": "Fuirena simplex",
       "common_name": "Fuirena sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhynchospora-colorata",
@@ -675,8 +675,8 @@
       "genus": "Rhynchospora",
       "scientific_name": "Rhynchospora nivea",
       "common_name": "White beaksedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "schoenoplectus-californicus",
@@ -702,8 +702,8 @@
       "genus": "Myriophyllum",
       "scientific_name": "Myriophyllum aquaticum",
       "common_name": "Parrot feather",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "myriophyllum-heterophyllum",
@@ -720,8 +720,8 @@
       "genus": "Vallisneria",
       "scientific_name": "Vallisneria americana",
       "common_name": "Wild celery",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nemastylis-geminiflora",
@@ -729,8 +729,8 @@
       "genus": "Nemastylis",
       "scientific_name": "Nemastylis geminiflora",
       "common_name": "Prairie celestial",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sisyrinchium-angustifolium",
@@ -747,8 +747,8 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium biforme",
       "common_name": "Blue-eyed grass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sisyrinchium-ensigerum",
@@ -765,8 +765,8 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium langloisii",
       "common_name": "Blue-eyed grass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "juncus-dichotomus",
@@ -774,8 +774,8 @@
       "genus": "Juncus",
       "scientific_name": "Juncus dichotomus",
       "common_name": "Forked rush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "juncus-filipendulus",
@@ -783,8 +783,8 @@
       "genus": "Juncus",
       "scientific_name": "Juncus filipendulus",
       "common_name": "Juncus filipendulus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "juncus-texanus",
@@ -792,8 +792,8 @@
       "genus": "Juncus",
       "scientific_name": "Juncus texanus",
       "common_name": "Texas rush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "luzula-bulbosa",
@@ -801,8 +801,8 @@
       "genus": "Luzula",
       "scientific_name": "Luzula bulbosa",
       "common_name": "Luzula bulbosa",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "thalia-geniculata",
@@ -846,8 +846,8 @@
       "genus": "Nelumbo",
       "scientific_name": "Nelumbo lutea",
       "common_name": "American lotus",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nuphar-advena",
@@ -855,8 +855,8 @@
       "genus": "Nuphar",
       "scientific_name": "Nuphar advena",
       "common_name": "Yellow pond-lily",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nymphaea-odorata",
@@ -873,8 +873,8 @@
       "genus": "Bletia",
       "scientific_name": "Bletia nitida",
       "common_name": "Glass Mountain coralroot / shining hexalectris",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bletia-warnockii",
@@ -882,8 +882,8 @@
       "genus": "Bletia",
       "scientific_name": "Bletia warnockii",
       "common_name": "Warnock's orchid",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "corallorhiza-wisteriana",
@@ -891,8 +891,8 @@
       "genus": "Corallorhiza",
       "scientific_name": "Corallorhiza wisteriana",
       "common_name": "Spring coralroot",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "epipactis-gigantea",
@@ -936,7 +936,7 @@
       "genus": "Pontederia",
       "scientific_name": "Pontederia crassipes",
       "common_name": "Water hyacinth",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -963,8 +963,8 @@
       "genus": "Potamogeton",
       "scientific_name": "Potamogeton pusillus",
       "common_name": "Small pondweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "zannichellia-palustris",
@@ -999,7 +999,7 @@
       "genus": "Smilax",
       "scientific_name": "Smilax tamnoides",
       "common_name": "Bristly greenbrier",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

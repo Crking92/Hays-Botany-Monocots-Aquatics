@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/nelumbo-lutea/archived-57c751df41aceca4.jpg",
+      "creator": "Craig K. Hunt",
+      "source_page": "https://www.inaturalist.org/photos/418868804",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f3b5e929746b3de564f5787fcc4cf9af1ec3dddb",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 235517628 photo 418868804 individual CC code cc-by-nc; photographer (c) Craig K. Hunt, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA f3b5e929746b3de564f5787fcc4cf9af1ec3dddb; exact image source https://www.inaturalist.org/photos/418868804",
+      "taxon_review_evidence": "Original species record Nelumbo lutea linked to an original image and matching current inat photo of source taxon Nelumbo lutea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "57c751df41aceca4a7603469533d573c8362589312cb37552ec167a2681d07ef"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "80afea07e69ab21bf52a406bc52cea70a95253894ce718b023512624d41c6da1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

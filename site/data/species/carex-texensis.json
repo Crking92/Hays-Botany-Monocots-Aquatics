@@ -56,6 +56,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/carex-texensis/archived-f7c765a44e2cf724.jpg",
+      "creator": "Chuck Sexton",
+      "source_page": "https://www.inaturalist.org/photos/483090656",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0900ce748da0229917cb9489f6f729dd6e5d53be",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5134161609 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/483090656/original.jpg; image-level license https://creativecommons.org/licenses/by-nc/4.0/; creator Chuck Sexton; dHash distance 0; archived source SHA 0900ce748da0229917cb9489f6f729dd6e5d53be; exact image source https://www.inaturalist.org/photos/483090656",
+      "taxon_review_evidence": "Original species record Carex texensis linked to an original image and matching current gbif photo of source taxon Carex texensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "f7c765a44e2cf7248296d8ea8310d0489943e9debb51de57d3a92eef1dd16790"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

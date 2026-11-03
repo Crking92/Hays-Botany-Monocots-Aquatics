@@ -48,6 +48,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/tradescantia-hirsutiflora/archived-b7408c49aaa0cdb1.jpg",
+      "creator": "Senna Bryce Robeson",
+      "source_page": "https://www.inaturalist.org/photos/608500847",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "54cc0edd5105cb5f3089bf3c055946be87e99354",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6131040439 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/608500847/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Senna Bryce Robeson; dHash distance 0; archived source SHA 54cc0edd5105cb5f3089bf3c055946be87e99354; exact image source https://www.inaturalist.org/photos/608500847",
+      "taxon_review_evidence": "Original species record Tradescantia hirsutiflora linked to an original image and matching current gbif photo of source taxon Tradescantia hirsutiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b7408c49aaa0cdb1bba16dbf82156b2b6ca0f9207baeb2f4877eeb9ee9a5148f"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

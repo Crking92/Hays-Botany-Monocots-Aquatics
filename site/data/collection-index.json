@@ -54,7 +54,7 @@
       "genus": "Allium",
       "scientific_name": "Allium canadense",
       "common_name": "Meadow garlic",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -81,8 +81,8 @@
       "genus": "Zephyranthes",
       "scientific_name": "Zephyranthes chlorosolen",
       "common_name": "Rain lily",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "zephyranthes-drummondii",
@@ -171,7 +171,7 @@
       "genus": "Agave",
       "scientific_name": "Agave americana",
       "common_name": "Century plant / American agave",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -189,7 +189,7 @@
       "genus": "Androstephium",
       "scientific_name": "Androstephium coeruleum",
       "common_name": "Blue funnel-lily",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -198,7 +198,7 @@
       "genus": "Camassia",
       "scientific_name": "Camassia scilloides",
       "common_name": "Wild hyacinth",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -216,7 +216,7 @@
       "genus": "Hesperaloe",
       "scientific_name": "Hesperaloe parviflora",
       "common_name": "Red yucca",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Yucca",
       "scientific_name": "Yucca treculiana",
       "common_name": "Trecul's Yucca / Spanish Dagger",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -387,8 +387,8 @@
       "genus": "Tradescantia",
       "scientific_name": "Tradescantia gigantea",
       "common_name": "Giant Spiderwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tradescantia-hirsutiflora",
@@ -396,7 +396,7 @@
       "genus": "Tradescantia",
       "scientific_name": "Tradescantia hirsutiflora",
       "common_name": "Hairyflower spiderwort",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -405,7 +405,7 @@
       "genus": "Tradescantia",
       "scientific_name": "Tradescantia humilis",
       "common_name": "Texas Spiderwort",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -414,8 +414,8 @@
       "genus": "Tradescantia",
       "scientific_name": "Tradescantia occidentalis",
       "common_name": "Prairie Spiderwort / Western Spiderwort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tradescantia-pedicellata",
@@ -432,7 +432,7 @@
       "genus": "Carex",
       "scientific_name": "Carex blanda",
       "common_name": "Eastern woodland sedge / common wood sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -441,7 +441,7 @@
       "genus": "Carex",
       "scientific_name": "Carex cherokeensis",
       "common_name": "Cherokee sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -450,7 +450,7 @@
       "genus": "Carex",
       "scientific_name": "Carex crus-corvi",
       "common_name": "Ravenfoot sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -459,8 +459,8 @@
       "genus": "Carex",
       "scientific_name": "Carex edwardsiana",
       "common_name": "Edwards Plateau sedge / canyon sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-emoryi",
@@ -468,7 +468,7 @@
       "genus": "Carex",
       "scientific_name": "Carex emoryi",
       "common_name": "Emory sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -477,8 +477,8 @@
       "genus": "Carex",
       "scientific_name": "Carex microdonta",
       "common_name": "Littletooth sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-perdentata",
@@ -486,8 +486,8 @@
       "genus": "Carex",
       "scientific_name": "Carex perdentata",
       "common_name": "Texas meadow sedge / sand sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-planostachys",
@@ -495,8 +495,8 @@
       "genus": "Carex",
       "scientific_name": "Carex planostachys",
       "common_name": "Cedar sedge",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carex-tetrastachya",
@@ -504,7 +504,7 @@
       "genus": "Carex",
       "scientific_name": "Carex tetrastachya",
       "common_name": "Britton's sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -513,7 +513,7 @@
       "genus": "Carex",
       "scientific_name": "Carex texensis",
       "common_name": "Texas sedge",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis montevidensis",
       "common_name": "Sand spikerush",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,7 +630,7 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis rostellata",
       "common_name": "Beaked spikerush",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -693,8 +693,8 @@
       "genus": "Schoenoplectus",
       "scientific_name": "Schoenoplectus tabernaemontani",
       "common_name": "Softstem bulrush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "myriophyllum-aquaticum",
@@ -702,7 +702,7 @@
       "genus": "Myriophyllum",
       "scientific_name": "Myriophyllum aquaticum",
       "common_name": "Parrot feather",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,7 +729,7 @@
       "genus": "Nemastylis",
       "scientific_name": "Nemastylis geminiflora",
       "common_name": "Prairie celestial",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium biforme",
       "common_name": "Blue-eyed grass",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,8 +756,8 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium ensigerum",
       "common_name": "Swordleaf blue-eyed grass",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sisyrinchium-langloisii",
@@ -765,7 +765,7 @@
       "genus": "Sisyrinchium",
       "scientific_name": "Sisyrinchium langloisii",
       "common_name": "Blue-eyed grass",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -846,7 +846,7 @@
       "genus": "Nelumbo",
       "scientific_name": "Nelumbo lutea",
       "common_name": "American lotus",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,7 +891,7 @@
       "genus": "Corallorhiza",
       "scientific_name": "Corallorhiza wisteriana",
       "common_name": "Spring coralroot",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -945,7 +945,7 @@
       "genus": "Potamogeton",
       "scientific_name": "Potamogeton illinoensis",
       "common_name": "Illinois pondweed",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -972,7 +972,7 @@
       "genus": "Zannichellia",
       "scientific_name": "Zannichellia palustris",
       "common_name": "Horned pondweed",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -999,7 +999,7 @@
       "genus": "Smilax",
       "scientific_name": "Smilax tamnoides",
       "common_name": "Bristly greenbrier",
-      "photo_count": 6,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

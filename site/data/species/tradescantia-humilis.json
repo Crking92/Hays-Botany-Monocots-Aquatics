@@ -48,6 +48,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/tradescantia-humilis/archived-6ebd6ed775bcde83.jpg",
+      "creator": "mattmsa",
+      "source_page": "https://www.inaturalist.org/photos/32303519",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "aed28395ce88e3497fb7572791cfbeaeb78c6b8d",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 2013692333 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/32303519/original.jpeg; image-level license https://creativecommons.org/licenses/by/4.0/; creator mattmsa; dHash distance 0; archived source SHA aed28395ce88e3497fb7572791cfbeaeb78c6b8d; exact image source https://www.inaturalist.org/photos/32303519",
+      "taxon_review_evidence": "Original species record Tradescantia humilis linked to an original image and matching current gbif photo of source taxon Tradescantia humilis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6ebd6ed775bcde83e9bf872e0bc3ae2317686bfccd64f5235d5cabfadc141472"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -116,6 +116,25 @@
       "source_review_evidence": "Live iNaturalist observation 317898316, photo 574486080, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02b40dbc11d49ec27756f36e36b2eaa9abe14023168214c45165b153290a0e3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Potamogeton illinoensis maps to indexed species potamogeton-illinoensis; specialist morphology and BONAP range deferred.",
       "sha256": "02b40dbc11d49ec27756f36e36b2eaa9abe14023168214c45165b153290a0e3d"
+    },
+    {
+      "src": "media/potamogeton-illinoensis/archived-e5058da61d698563.jpg",
+      "creator": "Alan Weakley",
+      "source_page": "https://www.inaturalist.org/photos/365897284",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "e87eee35c2392e97032d5f2b24994969b8a0f028",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6130470229 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/365897284/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Alan Weakley; dHash distance 0; archived source SHA e87eee35c2392e97032d5f2b24994969b8a0f028; exact image source https://www.inaturalist.org/photos/365897284",
+      "taxon_review_evidence": "Original species record Potamogeton illinoensis linked to an original image and matching current gbif photo of source taxon Potamogeton illinoensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "e5058da61d698563ce98ce6b4c5acb3805a9808e3a2434eb5df25e9a9e5fca24"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

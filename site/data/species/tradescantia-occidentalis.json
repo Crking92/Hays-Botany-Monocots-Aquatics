@@ -35,8 +35,47 @@
     "names": [],
     "differences": "T. gigantea is broader and more robust with a nearly glabrous lower stem. T. humilis is shorter, bushier and hairy across the vegetative plant. T. ohiensis is much more glabrous/glaucous in the upper stem and sepals; T. occidentalis has conspicuous glandular pubescence."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tradescantia-occidentalis/archived-03939df2e807fe52.jpg",
+      "creator": "CH Hemphill",
+      "source_page": "https://www.inaturalist.org/photos/637084158",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "2c149aede4f2c52522345c16216813105e6b0b76",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6195285365 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/637084158/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator CH Hemphill; dHash distance 0; archived source SHA 2c149aede4f2c52522345c16216813105e6b0b76; exact image source https://www.inaturalist.org/photos/637084158",
+      "taxon_review_evidence": "Original species record Tradescantia occidentalis linked to an original image and matching current gbif photo of source taxon Tradescantia occidentalis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "03939df2e807fe52926013b8e7b85eb9115e7c924997e930a8c52d4945e94e39"
+    },
+    {
+      "src": "media/tradescantia-occidentalis/archived-731b278788ba1cdd.jpg",
+      "creator": "mbyhower",
+      "source_page": "https://www.inaturalist.org/photos/634375198",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "10bb04dd3b44ced228294752059ee3c58ed66087",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6188135843 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/634375198/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator mbyhower; dHash distance 1; archived source SHA 10bb04dd3b44ced228294752059ee3c58ed66087; exact image source https://www.inaturalist.org/photos/634375198",
+      "taxon_review_evidence": "Original species record Tradescantia occidentalis linked to an original image and matching current gbif photo of source taxon Tradescantia occidentalis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "731b278788ba1cdd787e202963c3813b2f10ee03abe4922b3bc95d1ade88a235"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4537357d873367fef15d789e62913a5b212c5ada84223abf77f613fb44afbe90",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

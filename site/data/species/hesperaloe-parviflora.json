@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 1525523 photo 1890618 individual CC code cc-by-nc; photographer (c) Diana-Terry Hibbitts, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1c158a16409f2ac1e45dd8e9ba597775194dd759; exact image source https://www.inaturalist.org/photos/1890618",
       "taxon_review_evidence": "Original species record Hesperaloe parviflora linked to an original image and matching current inat photo of source taxon Hesperaloe parviflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "5d552272e7f59dafcb09801be425181aaa19b49ce4654d65924fdbe6e8c81492"
+    },
+    {
+      "src": "media/hesperaloe-parviflora/archived-7299c3277d7e999f.jpg",
+      "creator": "Cody Stricker",
+      "source_page": "https://www.inaturalist.org/photos/505433655",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "8d602d52b8d7aeb0ed5af8993d4d675c5680b64f",
+      "role": "Recognize · arching narrow-leaved clump in habitat; source scientific-name determination provisional, anatomical expertise pending",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5168211359 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/505433655/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Cody Stricker; dHash distance 0; archived source SHA 8d602d52b8d7aeb0ed5af8993d4d675c5680b64f; exact image source https://www.inaturalist.org/photos/505433655",
+      "taxon_review_evidence": "Original species record Hesperaloe parviflora linked to an original image and matching current gbif photo of source taxon Hesperaloe parviflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7299c3277d7e999ff57cbb28016862a78ecf515636f2f9bde543d3c40b9639c4"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

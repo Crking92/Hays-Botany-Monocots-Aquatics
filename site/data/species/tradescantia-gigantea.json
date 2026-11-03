@@ -35,8 +35,28 @@
     "names": [],
     "differences": "T. humilis is low, many-stemmed and conspicuously hairy. T. occidentalis is narrower-leaved and has obvious long-stalked glandular hairs on the internodes. T. gigantea is the taller robust plant with relatively smooth lower stems."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tradescantia-gigantea/archived-65ffe933b00f455d.jpg",
+      "creator": "cindyvigil4",
+      "source_page": "https://www.inaturalist.org/photos/614778071",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "bbc7f8c1a26fbb4e0416f77549e7901b12b34f5f",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6163269479 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/614778071/original.jpg; image-level license https://creativecommons.org/licenses/by-nc/4.0/; creator cindyvigil4; dHash distance 0; archived source SHA bbc7f8c1a26fbb4e0416f77549e7901b12b34f5f; exact image source https://www.inaturalist.org/photos/614778071",
+      "taxon_review_evidence": "Original species record Tradescantia gigantea linked to an original image and matching current gbif photo of source taxon Tradescantia gigantea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "65ffe933b00f455d37796476ff436782331e3cc8462990a789f6193b1b0aff33"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "879ee1c2e1442ff361837f944d487df1fa420c90efe250e9079ccfdd36a8ab34",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

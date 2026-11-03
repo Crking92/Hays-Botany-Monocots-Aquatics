@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sisyrinchium-ensigerum/archived-26c578dc6e3caf4e.jpg",
+      "creator": "Joshua Ebright",
+      "source_page": "https://www.inaturalist.org/photos/612786754",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "2c982d7e9f61c91b717a16abb002feac28d5d199",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6133030363 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/612786754/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Joshua Ebright; dHash distance 0; archived source SHA 2c982d7e9f61c91b717a16abb002feac28d5d199; exact image source https://www.inaturalist.org/photos/612786754",
+      "taxon_review_evidence": "Original species record Sisyrinchium ensigerum linked to an original image and matching current gbif photo of source taxon Sisyrinchium ensigerum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "26c578dc6e3caf4e86515787261dcdaae5c7fc999fb0866488364ff5874c4b39"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ad3b3be48a66b6d8f5d98261b6f45090e7f56a606b0afacdd08d6b33ef8f1ba0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

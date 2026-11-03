@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 78,
-  "photo_count": 134,
+  "photo_species": 87,
+  "photo_count": 174,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -26,7 +26,7 @@
       "first_src": null
     },
     "allium-canadense": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/allium-canadense/allium-canadense-umbel.jpg"
     },
     "allium-drummondii": {
@@ -38,8 +38,8 @@
       "first_src": "media/nothoscordum-bivalve/archived-0799b8b8f889b9fd.jpeg"
     },
     "zephyranthes-chlorosolen": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/zephyranthes-chlorosolen/archived-2397c1d7a79c2e26.jpg"
     },
     "zephyranthes-drummondii": {
       "count": 0,
@@ -78,7 +78,7 @@
       "first_src": "media/sabal-minor/sabal-minor-kenraiz.jpg"
     },
     "agave-americana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/agave-americana/01-cultivated-toothed-leaves.jpg"
     },
     "agave-lechuguilla": {
@@ -86,11 +86,11 @@
       "first_src": "media/agave-lechuguilla/01-texas-habit-flowering-axis.jpg"
     },
     "androstephium-coeruleum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/androstephium-coeruleum/androstephium-coeruleum-flowering-umbel-vanderveck.png"
     },
     "camassia-scilloides": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/camassia-scilloides/archived-22f05e693f283efa.jpg"
     },
     "dasylirion-texanum": {
@@ -98,7 +98,7 @@
       "first_src": "media/dasylirion-texanum/archived-6932adb861a226d4.jpg"
     },
     "hesperaloe-parviflora": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/hesperaloe-parviflora/archived-5d552272e7f59daf.jpg"
     },
     "manfreda-maculosa": {
@@ -134,7 +134,7 @@
       "first_src": "media/yucca-torreyi/01-habit.jpg"
     },
     "yucca-treculiana": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/yucca-treculiana/01-wild-habitat.jpg"
     },
     "hechtia-texensis": {
@@ -174,63 +174,63 @@
       "first_src": "media/tradescantia-edwardsiana/tradescantia-edwardsiana-provisional-face.jpg"
     },
     "tradescantia-gigantea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tradescantia-gigantea/archived-65ffe933b00f455d.jpg"
     },
     "tradescantia-hirsutiflora": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tradescantia-hirsutiflora/tradescantia-hirsutiflora-provisional-face.jpg"
     },
     "tradescantia-humilis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tradescantia-humilis/tradescantia-humilis-provisional-face.jpg"
     },
     "tradescantia-occidentalis": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/tradescantia-occidentalis/archived-03939df2e807fe52.jpg"
     },
     "tradescantia-pedicellata": {
       "count": 1,
       "first_src": "media/tradescantia-pedicellata/archived-073208d99ca0bed3.jpg"
     },
     "carex-blanda": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-blanda/carex-blanda-provisional-face.png"
     },
     "carex-cherokeensis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-cherokeensis/carex-cherokeensis-provisional-face.jpg"
     },
     "carex-crus-corvi": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-crus-corvi/carex-crus-corvi-provisional-face.jpg"
     },
     "carex-edwardsiana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/carex-edwardsiana/archived-a9e81891d55bff53.jpg"
     },
     "carex-emoryi": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-emoryi/carex-emoryi-provisional-face.jpg"
     },
     "carex-microdonta": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/carex-microdonta/archived-2c6ccf2afaf46bab.jpg"
     },
     "carex-perdentata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/carex-perdentata/archived-6a73571d1ea256ea.jpg"
     },
     "carex-planostachys": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/carex-planostachys/archived-de7dd087b418c741.jpg"
     },
     "carex-tetrastachya": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-tetrastachya/archived-308618797f794f37.jpg"
     },
     "carex-texensis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/carex-texensis/carex-texensis-provisional-face.jpg"
     },
     "cladium-mariscus-subsp-jamaicense": {
@@ -274,7 +274,7 @@
       "first_src": "media/eleocharis-geniculata/archived-2d9d18e93cd39e28.jpg"
     },
     "eleocharis-montevidensis": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/eleocharis-montevidensis/archived-90aa70fc477a48aa.jpg"
     },
     "eleocharis-palustris": {
@@ -282,7 +282,7 @@
       "first_src": null
     },
     "eleocharis-rostellata": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/eleocharis-rostellata/archived-485a9ff1e1be73b3.jpg"
     },
     "fimbristylis-puberula": {
@@ -310,11 +310,11 @@
       "first_src": null
     },
     "schoenoplectus-tabernaemontani": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/schoenoplectus-tabernaemontani/archived-9453cb0dfa306aeb.jpg"
     },
     "myriophyllum-aquaticum": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/myriophyllum-aquaticum/archived-305ac6954c949fa0.jpg"
     },
     "myriophyllum-heterophyllum": {
@@ -326,7 +326,7 @@
       "first_src": "media/vallisneria-americana/archived-026e752d96fe7a0a.jpg"
     },
     "nemastylis-geminiflora": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/nemastylis-geminiflora/archived-c23d9a7b0b7dfc41.jpg"
     },
     "sisyrinchium-angustifolium": {
@@ -334,15 +334,15 @@
       "first_src": null
     },
     "sisyrinchium-biforme": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/sisyrinchium-biforme/archived-7dc415c7d5393600.jpg"
     },
     "sisyrinchium-ensigerum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sisyrinchium-ensigerum/archived-26c578dc6e3caf4e.jpg"
     },
     "sisyrinchium-langloisii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/sisyrinchium-langloisii/archived-bbb8c84bc249baaa.jpg"
     },
     "juncus-dichotomus": {
@@ -378,7 +378,7 @@
       "first_src": null
     },
     "nelumbo-lutea": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/nelumbo-lutea/archived-57c751df41aceca4.jpg"
     },
     "nuphar-advena": {
@@ -398,7 +398,7 @@
       "first_src": "media/bletia-warnockii/archived-9c8cf9a7506256d6.jpg"
     },
     "corallorhiza-wisteriana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/corallorhiza-wisteriana/archived-eaf6306b25fbe926.jpg"
     },
     "epipactis-gigantea": {
@@ -422,7 +422,7 @@
       "first_src": "media/pontederia-crassipes/inat-482251339.jpg"
     },
     "potamogeton-illinoensis": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/potamogeton-illinoensis/inat-264851186.jpg"
     },
     "potamogeton-nodosus": {
@@ -434,7 +434,7 @@
       "first_src": "media/potamogeton-pusillus/archived-4f0bde15ff0f167b.jpg"
     },
     "zannichellia-palustris": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/zannichellia-palustris/inat-356646170.jpg"
     },
     "saururus-cernuus": {
@@ -446,7 +446,7 @@
       "first_src": "media/smilax-bona-nox/smilax-bona-nox-abair-stem-350770693.jpg"
     },
     "smilax-tamnoides": {
-      "count": 6,
+      "count": 8,
       "first_src": "media/smilax-tamnoides/inat-244660913.jpeg"
     },
     "typha-domingensis": {

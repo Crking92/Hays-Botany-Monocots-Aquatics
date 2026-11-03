@@ -1,0 +1,52 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:37:28.049300+00:00",
+  "source_files": 205,
+  "historical_cc0_deed_holds": 2,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 203
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "aletris-aurea",
+      "family": "Nartheciaceae",
+      "filename": "commons-aletris-aurea-patrick-alexander.jpg",
+      "original_path": "content/taxa/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "git_blob_sha": "d9a49130be34b494d4f13e9b3e654d1e897623a9",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "lemna-minor",
+      "family": "Araceae",
+      "filename": "commons-lemna-minor-plants.jpg",
+      "original_path": "content/taxa/Araceae/Lemna/lemna-minor/images/commons-lemna-minor-plants.jpg",
+      "archive_path": "migration/private-original-photo-holds/Araceae/Lemna/lemna-minor/images/commons-lemna-minor-plants.jpg",
+      "git_blob_sha": "403e203a2a0f6f39cb87280efcb35e5127441217",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 2
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}

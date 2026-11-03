@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tillandsia-usneoides/archived-2f9347c4b012e1e2.jpg",
+      "creator": "Kalathalan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tillandsia_usneoides.JPG",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "e00d8668cf7decbb7d11865147f55419e0e68487",
+      "role": "Provisional hanging Spanish-moss growth habit; individual leaves and small flowers require magnified photos.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 3.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/a/a9/Tillandsia_usneoides.JPG; image fingerprint distance 1; archived source SHA e00d8668cf7decbb7d11865147f55419e0e68487; exact image source https://commons.wikimedia.org/wiki/File:Tillandsia_usneoides.JPG",
+      "taxon_review_evidence": "Original species record Tillandsia usneoides linked to an original image and matching current commons photo of source taxon Tillandsia usneoides. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2f9347c4b012e1e2ffa89e71023943fd0dfa8ac59e964991d5d8432aa2f982c3"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f5e85bbe3825a43523fe8e5002ecd96b3538eaebdc63af86faee11afe57c8a39",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

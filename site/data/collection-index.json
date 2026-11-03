@@ -324,8 +324,8 @@
       "genus": "Tillandsia",
       "scientific_name": "Tillandsia usneoides",
       "common_name": "Spanish moss",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cabomba-caroliniana",
@@ -621,8 +621,8 @@
       "genus": "Eleocharis",
       "scientific_name": "Eleocharis palustris",
       "common_name": "Common spikerush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "eleocharis-rostellata",

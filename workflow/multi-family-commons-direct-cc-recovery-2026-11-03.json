@@ -1,0 +1,60 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:36:27.863081+00:00",
+  "source_files": 205,
+  "historical_cc0_deed_holds": 2,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 203
+  },
+  "new_installed": 2,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "eleocharis-palustris",
+      "family": "Cyperaceae",
+      "filename": "commons-eleocharis-palustris-matt-lavin.jpg",
+      "original_path": "content/taxa/Cyperaceae/Eleocharis/eleocharis-palustris/images/commons-eleocharis-palustris-matt-lavin.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Eleocharis/eleocharis-palustris/images/commons-eleocharis-palustris-matt-lavin.jpg",
+      "git_blob_sha": "b0708e506a93cf4def56e7ad08bdb8981061122f",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eleocharis_palustris_closeup.jpg",
+      "taxon": "Eleocharis palustris",
+      "src": "media/eleocharis-palustris/archived-5ed29aae2ca3e179.jpg",
+      "sha256": "5ed29aae2ca3e179793bc76ecf080b3cde66ab9266b72695a881664b663b2409"
+    },
+    {
+      "species_id": "tillandsia-usneoides",
+      "family": "Bromeliaceae",
+      "filename": "commons-tillandsia-usneoides-kalathalan.jpg",
+      "original_path": "content/taxa/Bromeliaceae/Tillandsia/tillandsia-usneoides/images/commons-tillandsia-usneoides-kalathalan.jpg",
+      "archive_path": "migration/private-original-photo-holds/Bromeliaceae/Tillandsia/tillandsia-usneoides/images/commons-tillandsia-usneoides-kalathalan.jpg",
+      "git_blob_sha": "e00d8668cf7decbb7d11865147f55419e0e68487",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Kalathalan",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tillandsia_usneoides.JPG",
+      "taxon": "Tillandsia usneoides",
+      "src": "media/tillandsia-usneoides/archived-2f9347c4b012e1e2.jpg",
+      "sha256": "2f9347c4b012e1e2ffa89e71023943fd0dfa8ac59e964991d5d8432aa2f982c3"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 0
+}

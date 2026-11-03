@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 96,
-  "photo_count": 239,
+  "photo_species": 98,
+  "photo_count": 241,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -146,8 +146,8 @@
       "first_src": null
     },
     "tillandsia-usneoides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tillandsia-usneoides/archived-2f9347c4b012e1e2.jpg"
     },
     "cabomba-caroliniana": {
       "count": 0,
@@ -278,8 +278,8 @@
       "first_src": "media/eleocharis-montevidensis/archived-90aa70fc477a48aa.jpg"
     },
     "eleocharis-palustris": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/eleocharis-palustris/archived-5ed29aae2ca3e179.jpg"
     },
     "eleocharis-rostellata": {
       "count": 3,

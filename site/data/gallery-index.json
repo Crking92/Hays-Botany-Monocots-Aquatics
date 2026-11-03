@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 87,
-  "photo_count": 174,
+  "photo_species": 89,
+  "photo_count": 194,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -390,24 +390,24 @@
       "first_src": null
     },
     "bletia-nitida": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/bletia-nitida/archived-01d6dfc3eecacc20.jpg"
     },
     "bletia-warnockii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/bletia-warnockii/archived-9c8cf9a7506256d6.jpg"
     },
     "corallorhiza-wisteriana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/corallorhiza-wisteriana/archived-eaf6306b25fbe926.jpg"
     },
     "epipactis-gigantea": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/epipactis-gigantea/inat-486156538.jpg"
     },
     "spiranthes-cernua": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/spiranthes-cernua/inat-335614798.jpg"
     },
     "heteranthera-dubia": {
       "count": 5,

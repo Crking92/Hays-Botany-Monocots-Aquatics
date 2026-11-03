@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 87815532 photo 144826596 individual CC code cc-by-nc; photographer (c) Aidan Campos, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 804b2a79ff090484b0d4c5af5f5e92065034d2a1; exact image source https://www.inaturalist.org/photos/144826596",
       "taxon_review_evidence": "Original species record Bletia warnockii linked to an original image and matching current inat photo of source taxon Bletia warnockii. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "9c8cf9a7506256d645c68120ba218b72a2075417e9c68e460525ddf2aa40acd4"
+    },
+    {
+      "src": "media/bletia-warnockii/inat-235584591.jpg",
+      "creator": "(c) mlarocque1962, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/235584591",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "c4f96eb2a1a46aa4e3cb1d512bf6d47b1010cfe4",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 137892732, photo 235584591, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ce26f6cf022a1152047582f284f6b50ef1bcbf2732bebbe92d3052df49ba4ab. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Bletia warnockii maps to indexed species bletia-warnockii; specialist morphology and BONAP range deferred.",
+      "sha256": "3ce26f6cf022a1152047582f284f6b50ef1bcbf2732bebbe92d3052df49ba4ab"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

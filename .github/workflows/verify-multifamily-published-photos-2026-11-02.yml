@@ -1,4 +1,5 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
+# 2026-11-03 Ginkgoaceae–Krameriaceae: confirm 36 newly installed aquatic/iris/rush originals and their credited public image bytes.
 # 2026-11-03 audit public gallery after Marantaceae–Oleaceae photo-source-verified release, image bytes, credits, and exact live images.
 # 2026-11-03 verify published Orchidaceae photos including final archived-credit Spiranthes image against live Pages bytes.
 on:

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 103,
-  "photo_count": 256,
+  "photo_species": 104,
+  "photo_count": 259,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -162,12 +162,12 @@
       "first_src": "media/ceratophyllum-demersum/archived-7d6249a360c50ebc.jpg"
     },
     "commelina-erecta": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/commelina-erecta/01-flower.jpg"
     },
     "tinantia-anomala": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/tinantia-anomala/archived-6c9ca0c441d99a7c.jpg"
     },
     "tradescantia-edwardsiana": {
       "count": 1,

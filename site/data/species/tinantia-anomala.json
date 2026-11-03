@@ -51,8 +51,47 @@
     "names": [],
     "differences": "Commelina erecta: Commelina erecta has the unmistakable folded/fused green spathe pocket enclosing buds and fruit. Tinantia instead has an open leaflike bract subtending an exposed terminal cyme; its upper leaves also more strongly clasp the stem. Tradescantia spp.: Tradescantia spiderworts usually have three comparably showy petals. Tinantia has two large blue/lavender petals plus one much smaller white petal, and its one-sided cyme/bract architecture differs. Commelina benghalensis: Tropical spiderwort/dayflower is an invasive Commelina with a true spathe and often reddish hairs on leaf sheaths. Tinantia lacks that Commelina spathe pocket and carries its flowers on an open terminal cyme."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tinantia-anomala/archived-6c9ca0c441d99a7c.jpg",
+      "creator": "River Wilder",
+      "source_page": "https://www.inaturalist.org/photos/381655280",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "cbb98de14c2b687c1a43b5f467e428ecb3beb51b",
+      "role": "Side view — exposed cyme above an open leaflike bract",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 215840218 photo 381655280 individual CC code cc-by-nc; photographer (c) River Wilder, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA cbb98de14c2b687c1a43b5f467e428ecb3beb51b; exact image source https://www.inaturalist.org/photos/381655280",
+      "taxon_review_evidence": "Original species record Tinantia anomala linked to an original image and matching current inat photo of source taxon Tinantia anomala. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6c9ca0c441d99a7ca75a088865543dd15268ab3317421422e7b4e5e4744d3f13"
+    },
+    {
+      "src": "media/tinantia-anomala/archived-b1916a9af3c41fd0.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/357260447",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "3d7096a1ef67e421b9ddc7aba610160e0fb4d696",
+      "role": "Joey macro — purple-and-yellow beards on stamen filaments",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 202298891 photo 357260447 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 3d7096a1ef67e421b9ddc7aba610160e0fb4d696; exact image source https://www.inaturalist.org/photos/357260447",
+      "taxon_review_evidence": "Original species record Tinantia anomala linked to an original image and matching current inat photo of source taxon Tinantia anomala. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "b1916a9af3c41fd04ede8df52b7d4549a776350d47c291991c0990c49d90857a"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c5945a07c703859fd7917aa1ff0931f148f98fa52f7117f3a7292f4b89ad4a0c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

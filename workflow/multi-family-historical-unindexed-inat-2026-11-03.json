@@ -1,0 +1,91 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_UNINDEXED_INAT_2026-11-03",
+  "checked_at": "2026-11-03T20:39:03.756948+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 4,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "inat": 4
+  },
+  "skipped_or_previously_published": {
+    "prior_source_review_not_overridden": 125,
+    "no_matching_per_image_csv_row": 18,
+    "already_public_identical_bytes": 35,
+    "still_lacks_observation_and_photo_specific_ids": 23
+  },
+  "new_installed": 3,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "commelina-erecta",
+      "family": "Commelinaceae",
+      "filename": "04-calvin-local-flowering.jpg",
+      "original_path": "content/taxa/Commelinaceae/Commelina/commelina-erecta/images/04-calvin-local-flowering.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Commelina/commelina-erecta/images/04-calvin-local-flowering.jpg",
+      "git_blob_sha": "03d8517032c1692561962dfedf008a0f53a58047",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Photo-specific current iNaturalist license unsupported: None"
+    },
+    {
+      "species_id": "commelina-erecta",
+      "family": "Commelinaceae",
+      "filename": "05-smooth-filaments-macro.jpg",
+      "original_path": "content/taxa/Commelinaceae/Commelina/commelina-erecta/images/05-smooth-filaments-macro.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Commelina/commelina-erecta/images/05-smooth-filaments-macro.jpg",
+      "git_blob_sha": "b07897183c8f4c488f0d49dfd56ccdb68fcc8ff2",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/23706098",
+      "taxon": "Commelina erecta",
+      "src": "media/commelina-erecta/archived-7eb2a300570a39d9.jpg",
+      "sha256": "7eb2a300570a39d98f83eb5dc3e546941bb4af8ddd09e35930b046242b270e2c"
+    },
+    {
+      "species_id": "tinantia-anomala",
+      "family": "Commelinaceae",
+      "filename": "03-joey-bearded-filaments-macro.jpg",
+      "original_path": "content/taxa/Commelinaceae/Tinantia/tinantia-anomala/images/03-joey-bearded-filaments-macro.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Tinantia/tinantia-anomala/images/03-joey-bearded-filaments-macro.jpg",
+      "git_blob_sha": "3d7096a1ef67e421b9ddc7aba610160e0fb4d696",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/357260447",
+      "taxon": "Tinantia anomala",
+      "src": "media/tinantia-anomala/archived-b1916a9af3c41fd0.jpg",
+      "sha256": "b1916a9af3c41fd04ede8df52b7d4549a776350d47c291991c0990c49d90857a"
+    },
+    {
+      "species_id": "tinantia-anomala",
+      "family": "Commelinaceae",
+      "filename": "04-open-bract-cyme.jpg",
+      "original_path": "content/taxa/Commelinaceae/Tinantia/tinantia-anomala/images/04-open-bract-cyme.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Tinantia/tinantia-anomala/images/04-open-bract-cyme.jpg",
+      "git_blob_sha": "cbb98de14c2b687c1a43b5f467e428ecb3beb51b",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "River Wilder",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/381655280",
+      "taxon": "Tinantia anomala",
+      "src": "media/tinantia-anomala/archived-6c9ca0c441d99a7c.jpg",
+      "sha256": "6c9ca0c441d99a7ca75a088865543dd15268ab3317421422e7b4e5e4744d3f13"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Photo-specific current iNaturalist license unsupported: None": 1
+  },
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 1
+}

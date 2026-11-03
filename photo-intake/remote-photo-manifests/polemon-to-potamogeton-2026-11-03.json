@@ -1,0 +1,159 @@
+{
+  "batch_id": "polemoniaceae-through-potamogetonaceae-2026-11-03",
+  "zip_sha256": "6e73645df01103db7ca2bf63d197261bb0d8a6d0ddce7ba35c04c216b8b14ef8",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Polemoniaceae-through-Potamogetonaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 165,
+  "family_set": [
+    "Pontederiaceae",
+    "Potamogetonaceae"
+  ],
+  "species": [
+    "heteranthera-dubia",
+    "pontederia-cordata",
+    "pontederia-crassipes",
+    "potamogeton-illinoensis",
+    "potamogeton-nodosus",
+    "zannichellia-palustris"
+  ],
+  "records_base64": "ACd/svUVo7e14Cr3XGDskamK0Rs8SW5f+lW+tBV5bIm1rctXdtHJmfIAAB5WkAcQ4m7AASB/nsrVDbiEAi3f3wWeh2ncjK1gFwKDsAfUtaVkj48AABAiAZUJVFOhC3OjHBy+KC4iP5HIfEvlXxViEulrDtNINnbfndvypYQAABCpPC8Jo21P9LBOH6hzKemwNQKsuyqic2Y7jcss/bKaKxhFSUNGImYBACEMOVYSUng1FbNj6oJxnbWoeHMOkDCJZgrSQvylbb1G7PnPF6opZeAAASXOGdYUu2/89/mxDkyUZNXhY6JVTycbfjN9TeZGIlCeRMlEi4niHtwAASX7sWMU0oqJgenqQielsA/MkEXWPfvSy9Rw0T5qFEG59JoYaAy4cD4AASXqaxkUybhh2TTuS/6YzVhs4WDVSyvMQ67fJGsd6pN7msjSVNk2G5QAASbOW+0VRzroK9Fc/LihAipKQ2HH8RnqnQE7v3ufiXhkW5DJJLHJyn4AASbOWvUVRzpshjnGgBY04q+iJApaB7aSZF2+kP6cwO/XU0ofYnLPT8kAAiUdSm8UYkBiDyFkM5wp9L+8hEyT8b87YrWrBxL2L3m0J+dhLbR6rnkAAiVXyB4Uf1NYO8Ja1HU87oEcuMduhlNai2wvEXUzXcR8c5eTiQ98z/wAAiWNWO8UmuldrdzAulIaDV5+VLxNkW/BKWhHnNCxTA7Ys7Pg2PxWdDwAAhy+kksP/XrWP/utiDSyWBufJC/VucMwfraCWeZHbJZBlY3Eemwj47cAAhzSyd8P/ayigjkM2QHZ8yPmH8CjzHTcvC+dEwXS1BJhmKSyOD7qc8MAAw/JTvIJI/T1pUg6a3c4GSFkIMUPIo728wsYmGAtKAnPzMYieBXg7IoAAyI99kAS8r5MArQNvBHUnsJ3VvNuNrLqqavhQCMWghTEUWWxUykKDj0AAxqOKjQO20ynLbuPAzhuDT+oPaQWc+46uZ2BIsWN/vnBE8jfWo8BQW8BBCav8o8VNuwDGVClNDCq454al4UXuJTx7rOHuglqEgAyM28sSZr0wfEABAwGBe0HHPXwQug64J1++BYN5K5k5+x99sd9d0qvQ5rqfmBSi2ZTd1MABAwGIJAHHQRpivhQn+62s2IC81zIbk76snkESZXUQ+yjz4fIjwdUB5kABAIprpoBZYdKPTDp/uqwbbHon7uZxhmv6f3lPXPD3gre7r3nzAKKECMABRwDzk8Pl7vhlJYYlukAL2q/NsvrDsugT0IyLsKDeDfddvJoIxIxhPgBBRVB/RoMCg0Le3DRpjcJbQ4NQZnEXtQK4DiaB4dAcDwYR/PWPb0DUcAA",
+  "held_offline_media": [
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-illinoensis",
+      "filename": "Potamogetonaceae/Potamogeton_illinoensis/photos/photo_1_a20775c16dc7b3ea.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807383819,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp6198336193280312109.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "a20775c16dc7b3ea09bde6a81a02c9b5a1e30caa2b8a669b47858582cde81c17"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-illinoensis",
+      "filename": "Potamogetonaceae/Potamogeton_illinoensis/photos/photo_4_126c534df8fe0ab4.jpg",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "gbif_id": 1891268284,
+      "source": "https://cdn.plantatlas.org/img/specimens/USF/100903.jpg",
+      "ph": "University of South Florida Herbarium (USF)",
+      "sha": "126c534df8fe0ab46a82a28af47b6802bb7a687f42ff1779105b958c5e231b55"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-nodosus",
+      "filename": "Potamogetonaceae/Potamogeton_nodosus/photos/photo_4_130a5490c9888907.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 4110149501,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616832032777008771781.att.JPG",
+      "ph": "The University of Texas at Austin",
+      "sha": "130a5490c988890782321b1950080ee36a7705672298a241d418bb83d8092ecd"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-pusillus",
+      "filename": "Potamogetonaceae/Potamogeton_pusillus/photos/photo_0_9cef25ed749d57fa.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807340345,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp66753394547909793720.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "9cef25ed749d57fa1c9fbe786c90b3d727458d6b9af1a9e509eff72173e2408e"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-pusillus",
+      "filename": "Potamogetonaceae/Potamogeton_pusillus/photos/photo_1_00a0e1b8f8929575.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807547582,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp63873347894033184763.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "00a0e1b8f89295756b8d68ed32d38782471667aab5817aafcd7b0343eb50a7d7"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-pusillus",
+      "filename": "Potamogetonaceae/Potamogeton_pusillus/photos/photo_2_8801e69e6daccc14.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807415953,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp64596508328934354027.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "8801e69e6daccc14ac131810b23de260e3a1b11e49f5e9d1aca2f1c7a7371e28"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-pusillus",
+      "filename": "Potamogetonaceae/Potamogeton_pusillus/photos/photo_3_2bce265a40279694.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807612530,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp68410809841952805057.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "2bce265a40279694d7256015bd7d9334c7b8596cc81e75c4e4872ff94fafe654"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "potamogeton-pusillus",
+      "filename": "Potamogetonaceae/Potamogeton_pusillus/photos/photo_4_a6836a1ccb40fbcd.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807216257,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp64311636462456816179.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "a6836a1ccb40fbcd6f0319a471fc9664f51071fd9d6bd409a811ed34baefb4f0"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "zannichellia-palustris",
+      "filename": "Potamogetonaceae/Zannichellia_palustris/photos/photo_0_37ff938bd2fd6668.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807200044,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp62891418508342377815.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "37ff938bd2fd666898b76bbbec55c98ecb6d55e1828b2e48368eb04b6abf539c"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "zannichellia-palustris",
+      "filename": "Potamogetonaceae/Zannichellia_palustris/photos/photo_1_177347fedc60c32c.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807466644,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp68541283983525423452.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "177347fedc60c32cdc0931cb679f30739d1117835394158d5f6c181dec028332"
+    },
+    {
+      "family": "Potamogetonaceae",
+      "species_id": "zannichellia-palustris",
+      "filename": "Potamogetonaceae/Zannichellia_palustris/photos/photo_2_dba80050b7a6ee03.jpg",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "gbif_id": 2807570305,
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65674014730347601994.att.jpg",
+      "ph": "The University of Texas at Austin",
+      "sha": "dba80050b7a6ee03895542aba1b45efdb4e8bd7e5d1edb50ee3303ea9c22c276"
+    }
+  ],
+  "source_metadata_credits": {
+    "36286106": "nwhillsatx",
+    "201721325": "mutemanifesto",
+    "201728144": "mutemanifesto",
+    "264851186": "darwinning21",
+    "270664085": "marleemcdaniel",
+    "279526447": "slipfoot",
+    "356646170": "Brand R",
+    "445524532": "🌱 Aaron Lincoln 🌱",
+    "470011471": "Joseph Aubert",
+    "482251339": "erh103",
+    "483576287": "erh103",
+    "508989447": "scbiob",
+    "554449238": "Aidan Campos",
+    "574486080": "Saunders Drukker",
+    "622676591": "adanortega_12",
+    "626509854": "Nik",
+    "630020335": "W Rao",
+    "634264022": "Dani Ray",
+    "636119833": "pag165",
+    "637251939": "TJ Bolen",
+    "649065103": "milosmith",
+    "651057909": "milosmith",
+    "651058157": "milosmith",
+    "662680309": "Piper Lou"
+  },
+  "source_metadata_license_was_candidate_only": true,
+  "intake_note": "Physical ZIP image SHA256 verified; contact sheet visually examined at general organism level; verify current exact iNaturalist photo license and original image hash before public release. Specialist anatomy and strict local BONAP range review deferred."
+}

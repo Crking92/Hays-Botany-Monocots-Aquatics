@@ -1,0 +1,75 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_COMMONS_LICENSE_LOCALE_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T18:46:38.523736+00:00",
+  "source_files": 205,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 4,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "commons": 4
+  },
+  "skipped_or_previously_published": {
+    "outside_new_locale_retry_or_previously_checked": 200,
+    "already_public_identical_bytes": 1
+  },
+  "new_installed": 0,
+  "held_checked": 4,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "aletris-aurea",
+      "family": "Nartheciaceae",
+      "filename": "commons-aletris-aurea-patrick-alexander.jpg",
+      "original_path": "content/taxa/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "git_blob_sha": "d9a49130be34b494d4f13e9b3e654d1e897623a9",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "pistia-stratiotes",
+      "family": "Araceae",
+      "filename": "commons-pistia-stratiotes.jpg",
+      "original_path": "content/taxa/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "archive_path": "migration/private-original-photo-holds/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "git_blob_sha": "ed932b17476302d472e7f76f0d6e238d446bfca6",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    },
+    {
+      "species_id": "rhynchospora-colorata",
+      "family": "Cyperaceae",
+      "filename": "commons-rhynchospora-colorata.jpg",
+      "original_path": "content/taxa/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "git_blob_sha": "c729fc394a6bab029f61c8055e6962a44275ed81",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    },
+    {
+      "species_id": "sisyrinchium-angustifolium",
+      "family": "Iridaceae",
+      "filename": "commons-sisyrinchium-angustifolium.jpg",
+      "original_path": "content/taxa/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "archive_path": "migration/private-original-photo-holds/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "git_blob_sha": "6b43c890e16430c9f2091d926ec3246271478559",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Wikimedia current image license URL unsupported "
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 1,
+    "Wikimedia current image license URL unsupported ": 3
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 4
+}

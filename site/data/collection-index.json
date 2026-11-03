@@ -918,8 +918,8 @@
       "genus": "Heteranthera",
       "scientific_name": "Heteranthera dubia",
       "common_name": "Water stargrass / grassleaf mudplantain",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pontederia-cordata",
@@ -927,8 +927,8 @@
       "genus": "Pontederia",
       "scientific_name": "Pontederia cordata",
       "common_name": "Pickerelweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pontederia-crassipes",
@@ -936,8 +936,8 @@
       "genus": "Pontederia",
       "scientific_name": "Pontederia crassipes",
       "common_name": "Water hyacinth",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "potamogeton-illinoensis",
@@ -945,8 +945,8 @@
       "genus": "Potamogeton",
       "scientific_name": "Potamogeton illinoensis",
       "common_name": "Illinois pondweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "potamogeton-nodosus",
@@ -954,8 +954,8 @@
       "genus": "Potamogeton",
       "scientific_name": "Potamogeton nodosus",
       "common_name": "Longleaf pondweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "potamogeton-pusillus",
@@ -972,8 +972,8 @@
       "genus": "Zannichellia",
       "scientific_name": "Zannichellia palustris",
       "common_name": "Horned pondweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "saururus-cernuus",

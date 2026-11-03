@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/zannichellia-palustris/inat-356646170.jpg",
+      "creator": "(c) Brand R, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/356646170",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "d815fca587cca2eb5b1f440d08a1c660cd9c9e8f",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 201985291, photo 356646170, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Zannichellia palustris maps to indexed species zannichellia-palustris; specialist morphology and BONAP range deferred.",
+      "sha256": "7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0"
+    },
+    {
+      "src": "media/zannichellia-palustris/inat-470011471.jpeg",
+      "creator": "(c) Joseph Aubert, some rights reserved (CC BY)",
+      "source_page": "https://www.inaturalist.org/photos/470011471",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "9a3ef251bd4b5bab3e3d4c16f68b7e635482cc08",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
+      "source_review_evidence": "Live iNaturalist observation 261602273, photo 470011471, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Zannichellia palustris maps to indexed species zannichellia-palustris; specialist morphology and BONAP range deferred.",
+      "sha256": "94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c00d4f3743d523757fcdde2eb5eed601f13797236bfee467a9b1cad1bcf8d788",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

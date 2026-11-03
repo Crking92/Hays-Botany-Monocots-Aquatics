@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 27,
-  "photo_count": 58,
+  "photo_species": 33,
+  "photo_count": 82,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -410,32 +410,32 @@
       "first_src": null
     },
     "heteranthera-dubia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/heteranthera-dubia/inat-270664085.jpg"
     },
     "pontederia-cordata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pontederia-cordata/inat-634264022.jpg"
     },
     "pontederia-crassipes": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pontederia-crassipes/inat-482251339.jpg"
     },
     "potamogeton-illinoensis": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/potamogeton-illinoensis/inat-264851186.jpg"
     },
     "potamogeton-nodosus": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/potamogeton-nodosus/inat-201721325.jpg"
     },
     "potamogeton-pusillus": {
       "count": 0,
       "first_src": null
     },
     "zannichellia-palustris": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/zannichellia-palustris/inat-356646170.jpg"
     },
     "saururus-cernuus": {
       "count": 5,

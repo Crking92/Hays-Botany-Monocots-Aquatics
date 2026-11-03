@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 42609459, photo 67660545, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43698c55f40c3fcd5b219979d20016b5ea5109b156119fbb4dc1de8e920663fe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Nymphaea odorata maps to indexed species nymphaea-odorata; specialist morphology and BONAP range deferred.",
       "sha256": "43698c55f40c3fcd5b219979d20016b5ea5109b156119fbb4dc1de8e920663fe"
+    },
+    {
+      "src": "media/nymphaea-odorata/archived-510b82d67cc32915.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nymphaea_odorata_11zz.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "842ea7501fcd35d6a77f0330fa4bf1025586cd27",
+      "role": "Provisional water-lily white flower and floating pad recognition view",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Nymphaea_odorata_11zz.jpg; original individual photographer David J. Stang; archived specific reuse license CC BY-SA 4.0; preserved photo byte SHA checked against original transfer manifest 842ea7501fcd35d6a77f0330fa4bf1025586cd27; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 842ea7501fcd35d6a77f0330fa4bf1025586cd27; exact image source https://commons.wikimedia.org/wiki/File:Nymphaea_odorata_11zz.jpg",
+      "taxon_review_evidence": "Original species record Nymphaea odorata linked to an original image and matching current commons photo of source taxon Nymphaea odorata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "510b82d67cc32915177c420f50939570bb393e75bde38fd6ede49d8878b3d93a"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

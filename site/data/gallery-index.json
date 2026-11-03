@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 98,
-  "photo_count": 241,
+  "photo_species": 101,
+  "photo_count": 254,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -18,8 +18,8 @@
       "first_src": "media/sagittaria-graminea/archived-50b8a5d3e77fe8bb.jpg"
     },
     "sagittaria-lancifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sagittaria-lancifolia/archived-5a83890131babc0e.jpg"
     },
     "sagittaria-platyphylla": {
       "count": 0,
@@ -142,8 +142,8 @@
       "first_src": "media/hechtia-texensis/archived-babf7f56062110d0.jpg"
     },
     "tillandsia-recurvata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tillandsia-recurvata/archived-8418afcc6b940430.jpg"
     },
     "tillandsia-usneoides": {
       "count": 1,
@@ -306,8 +306,8 @@
       "first_src": "media/rhynchospora-nivea/archived-1a0ecfbfcc70ac31.jpg"
     },
     "schoenoplectus-californicus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/schoenoplectus-californicus/archived-6921cfab4042876f.jpg"
     },
     "schoenoplectus-tabernaemontani": {
       "count": 1,
@@ -362,7 +362,7 @@
       "first_src": "media/luzula-bulbosa/archived-d6ebd6c39419ca4d.jpg"
     },
     "thalia-geniculata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/thalia-geniculata/inat-670944164.jpg"
     },
     "schoenocaulon-texanum": {
@@ -370,11 +370,11 @@
       "first_src": "media/schoenocaulon-texanum/inat-644307812.jpg"
     },
     "toxicoscordion-nuttallii": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/toxicoscordion-nuttallii/inat-355294977.jpeg"
     },
     "aletris-aurea": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/aletris-aurea/inat-515036236.jpg"
     },
     "nelumbo-lutea": {
@@ -386,7 +386,7 @@
       "first_src": "media/nuphar-advena/archived-3915650d074782f5.jpg"
     },
     "nymphaea-odorata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/nymphaea-odorata/inat-16147303.png"
     },
     "bletia-nitida": {
@@ -406,7 +406,7 @@
       "first_src": "media/epipactis-gigantea/inat-486156538.jpg"
     },
     "spiranthes-cernua": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/spiranthes-cernua/inat-335614798.jpg"
     },
     "heteranthera-dubia": {
@@ -414,7 +414,7 @@
       "first_src": "media/heteranthera-dubia/inat-270664085.jpg"
     },
     "pontederia-cordata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pontederia-cordata/inat-634264022.jpg"
     },
     "pontederia-crassipes": {
@@ -426,7 +426,7 @@
       "first_src": "media/potamogeton-illinoensis/inat-264851186.jpg"
     },
     "potamogeton-nodosus": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/potamogeton-nodosus/inat-201721325.jpg"
     },
     "potamogeton-pusillus": {
@@ -438,7 +438,7 @@
       "first_src": "media/zannichellia-palustris/inat-356646170.jpg"
     },
     "saururus-cernuus": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/saururus-cernuus/inat-478158583.jpeg"
     },
     "smilax-bona-nox": {
@@ -450,11 +450,11 @@
       "first_src": "media/smilax-tamnoides/inat-244660913.jpeg"
     },
     "typha-domingensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/typha-domingensis/inat-646792895.jpg"
     },
     "typha-latifolia": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/typha-latifolia/inat-1330295.jpg"
     }
   }

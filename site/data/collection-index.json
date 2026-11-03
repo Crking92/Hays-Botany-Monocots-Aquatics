@@ -36,8 +36,8 @@
       "genus": "Sagittaria",
       "scientific_name": "Sagittaria lancifolia",
       "common_name": "Bulltongue arrowhead",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sagittaria-platyphylla",
@@ -315,8 +315,8 @@
       "genus": "Tillandsia",
       "scientific_name": "Tillandsia recurvata",
       "common_name": "Ball moss",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tillandsia-usneoides",
@@ -684,8 +684,8 @@
       "genus": "Schoenoplectus",
       "scientific_name": "Schoenoplectus californicus",
       "common_name": "California bulrush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "schoenoplectus-tabernaemontani",
@@ -810,7 +810,7 @@
       "genus": "Thalia",
       "scientific_name": "Thalia geniculata",
       "common_name": "Alligator flag",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -828,7 +828,7 @@
       "genus": "Toxicoscordion",
       "scientific_name": "Toxicoscordion nuttallii",
       "common_name": "Nuttall's death camas",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -837,7 +837,7 @@
       "genus": "Aletris",
       "scientific_name": "Aletris aurea",
       "common_name": "Golden colicroot",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -864,7 +864,7 @@
       "genus": "Nymphaea",
       "scientific_name": "Nymphaea odorata",
       "common_name": "American white water-lily",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -909,7 +909,7 @@
       "genus": "Spiranthes",
       "scientific_name": "Spiranthes cernua",
       "common_name": "Nodding ladies'-tresses",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -927,7 +927,7 @@
       "genus": "Pontederia",
       "scientific_name": "Pontederia cordata",
       "common_name": "Pickerelweed",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -954,7 +954,7 @@
       "genus": "Potamogeton",
       "scientific_name": "Potamogeton nodosus",
       "common_name": "Longleaf pondweed",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -981,7 +981,7 @@
       "genus": "Saururus",
       "scientific_name": "Saururus cernuus",
       "common_name": "Lizard's-tail",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1008,7 +1008,7 @@
       "genus": "Typha",
       "scientific_name": "Typha domingensis",
       "common_name": "Southern cattail",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1017,7 +1017,7 @@
       "genus": "Typha",
       "scientific_name": "Typha latifolia",
       "common_name": "Broadleaf cattail",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]

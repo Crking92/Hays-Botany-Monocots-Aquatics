@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 322815727, photo 584043980, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: ffccdb948094061c8f7a1e87a67602627b60b727d93d084a47a5fa5b02d2d873. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Spiranthes cernua maps to indexed species spiranthes-cernua; specialist morphology and BONAP range deferred.",
       "sha256": "ffccdb948094061c8f7a1e87a67602627b60b727d93d084a47a5fa5b02d2d873"
+    },
+    {
+      "src": "media/spiranthes-cernua/archived-cd8fcdf01d5a0e75.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spiranthes_cernua.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "e1504904f5ba2ca4fcadbebbfbfa1918b68f58d6",
+      "role": "Provisional white-flowered orchid inflorescence, Texas source. Detailed labellum morphology not confirmed.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Spiranthes_cernua.jpg; original individual photographer sonnia hill; archived specific reuse license CC BY 2.0; preserved photo byte SHA checked against original transfer manifest e1504904f5ba2ca4fcadbebbfbfa1918b68f58d6; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA e1504904f5ba2ca4fcadbebbfbfa1918b68f58d6; exact image source https://commons.wikimedia.org/wiki/File:Spiranthes_cernua.jpg",
+      "taxon_review_evidence": "Original species record Spiranthes cernua linked to an original image and matching current commons photo of source taxon Spiranthes cernua. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "cd8fcdf01d5a0e75e44f29ea02454d1c46ac6dd4f3d5ea0522cf2e232443a4ca"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

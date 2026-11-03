@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 376003148, photo 687433666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Thalia geniculata maps to indexed species thalia-geniculata; specialist morphology and BONAP range deferred.",
       "sha256": "48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3"
+    },
+    {
+      "src": "media/thalia-geniculata/archived-927cf6d9cc4029ff.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thalia_geniculata_370188828.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "9db53c65835a41a0ff6cd18fd14f851abca34fb3",
+      "role": "Provisional emergent wetland-plant recognition; flower details and seed characters need later views.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Thalia_geniculata_370188828.jpg; original individual photographer Alex Abair; archived specific reuse license CC BY 4.0; preserved photo byte SHA checked against original transfer manifest 9db53c65835a41a0ff6cd18fd14f851abca34fb3; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 9db53c65835a41a0ff6cd18fd14f851abca34fb3; exact image source https://commons.wikimedia.org/wiki/File:Thalia_geniculata_370188828.jpg",
+      "taxon_review_evidence": "Original species record Thalia geniculata linked to an original image and matching current commons photo of source taxon Thalia geniculata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "927cf6d9cc4029ff3f45834a881d85f8cca0801e347f2c142d71d4cddad97e0f"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

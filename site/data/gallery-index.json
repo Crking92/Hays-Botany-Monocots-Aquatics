@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 89,
-  "photo_count": 202,
+  "photo_species": 94,
+  "photo_count": 237,
   "entries": {
     "aquarius-cordifolius": {
       "count": 0,
@@ -362,32 +362,32 @@
       "first_src": "media/luzula-bulbosa/archived-d6ebd6c39419ca4d.jpg"
     },
     "thalia-geniculata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/thalia-geniculata/inat-670944164.jpg"
     },
     "schoenocaulon-texanum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/schoenocaulon-texanum/inat-644307812.jpg"
     },
     "toxicoscordion-nuttallii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/toxicoscordion-nuttallii/inat-355294977.jpeg"
     },
     "aletris-aurea": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/aletris-aurea/inat-515036236.jpg"
     },
     "nelumbo-lutea": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/nelumbo-lutea/archived-57c751df41aceca4.jpg"
     },
     "nuphar-advena": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/nuphar-advena/archived-3915650d074782f5.jpg"
     },
     "nymphaea-odorata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/nymphaea-odorata/inat-16147303.png"
     },
     "bletia-nitida": {
       "count": 6,

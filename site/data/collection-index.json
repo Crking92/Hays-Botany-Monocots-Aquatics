@@ -810,8 +810,8 @@
       "genus": "Thalia",
       "scientific_name": "Thalia geniculata",
       "common_name": "Alligator flag",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "schoenocaulon-texanum",
@@ -819,8 +819,8 @@
       "genus": "Schoenocaulon",
       "scientific_name": "Schoenocaulon texanum",
       "common_name": "Texas feather-shank",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "toxicoscordion-nuttallii",
@@ -828,8 +828,8 @@
       "genus": "Toxicoscordion",
       "scientific_name": "Toxicoscordion nuttallii",
       "common_name": "Nuttall's death camas",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "aletris-aurea",
@@ -837,8 +837,8 @@
       "genus": "Aletris",
       "scientific_name": "Aletris aurea",
       "common_name": "Golden colicroot",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nelumbo-lutea",
@@ -846,7 +846,7 @@
       "genus": "Nelumbo",
       "scientific_name": "Nelumbo lutea",
       "common_name": "American lotus",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Nuphar",
       "scientific_name": "Nuphar advena",
       "common_name": "Yellow pond-lily",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -864,8 +864,8 @@
       "genus": "Nymphaea",
       "scientific_name": "Nymphaea odorata",
       "common_name": "American white water-lily",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "bletia-nitida",

@@ -1,0 +1,210 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_BULK_COMMONS_2026-11-03",
+  "checked_at": "2026-11-03T19:01:29.611541+00:00",
+  "source_files": 205,
+  "selection_window": 25,
+  "candidate_pool_with_usable_source_identifiers": 16,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 16,
+  "selected_by_lane": {
+    "commons": 16
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 186,
+    "already_public_identical_bytes": 3
+  },
+  "new_installed": 0,
+  "held_checked": 16,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "aletris-aurea",
+      "family": "Nartheciaceae",
+      "filename": "commons-aletris-aurea-patrick-alexander.jpg",
+      "original_path": "content/taxa/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nartheciaceae/Aletris/aletris-aurea/images/commons-aletris-aurea-patrick-alexander.jpg",
+      "git_blob_sha": "d9a49130be34b494d4f13e9b3e654d1e897623a9",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "nymphaea-odorata",
+      "family": "Nymphaeaceae",
+      "filename": "commons-nymphaea-odorata.jpg",
+      "original_path": "content/taxa/Nymphaeaceae/Nymphaea/nymphaea-odorata/images/commons-nymphaea-odorata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Nymphaeaceae/Nymphaea/nymphaea-odorata/images/commons-nymphaea-odorata.jpg",
+      "git_blob_sha": "842ea7501fcd35d6a77f0330fa4bf1025586cd27",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "pistia-stratiotes",
+      "family": "Araceae",
+      "filename": "commons-pistia-stratiotes.jpg",
+      "original_path": "content/taxa/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "archive_path": "migration/private-original-photo-holds/Araceae/Pistia/pistia-stratiotes/images/commons-pistia-stratiotes.jpg",
+      "git_blob_sha": "ed932b17476302d472e7f76f0d6e238d446bfca6",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (AUTHOR RELEASED)"
+    },
+    {
+      "species_id": "pontederia-cordata",
+      "family": "Pontederiaceae",
+      "filename": "commons-pontederia-cordata.jpg",
+      "original_path": "content/taxa/Pontederiaceae/Pontederia/pontederia-cordata/images/commons-pontederia-cordata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Pontederiaceae/Pontederia/pontederia-cordata/images/commons-pontederia-cordata.jpg",
+      "git_blob_sha": "6daaf32cc85bf2747c8daf196fa03a706aac8b1e",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "potamogeton-nodosus",
+      "family": "Potamogetonaceae",
+      "filename": "commons-potamogeton-nodosus.jpg",
+      "original_path": "content/taxa/Potamogetonaceae/Potamogeton/potamogeton-nodosus/images/commons-potamogeton-nodosus.jpg",
+      "archive_path": "migration/private-original-photo-holds/Potamogetonaceae/Potamogeton/potamogeton-nodosus/images/commons-potamogeton-nodosus.jpg",
+      "git_blob_sha": "17e675da852cc43e8e88e54aa0717b2a074064ae",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "rhynchospora-colorata",
+      "family": "Cyperaceae",
+      "filename": "commons-rhynchospora-colorata.jpg",
+      "original_path": "content/taxa/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "git_blob_sha": "c729fc394a6bab029f61c8055e6962a44275ed81",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (US FEDERAL GOVERNMENT)"
+    },
+    {
+      "species_id": "sagittaria-lancifolia",
+      "family": "Alismataceae",
+      "filename": "commons-sagittaria-lancifolia.jpg",
+      "original_path": "content/taxa/Alismataceae/Sagittaria/sagittaria-lancifolia/images/commons-sagittaria-lancifolia.jpg",
+      "archive_path": "migration/private-original-photo-holds/Alismataceae/Sagittaria/sagittaria-lancifolia/images/commons-sagittaria-lancifolia.jpg",
+      "git_blob_sha": "70ac99de241109671f7f46c317cd62f443a3f37c",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "saururus-cernuus",
+      "family": "Saururaceae",
+      "filename": "commons-saururus-cernuus.jpg",
+      "original_path": "content/taxa/Saururaceae/Saururus/saururus-cernuus/images/commons-saururus-cernuus.jpg",
+      "archive_path": "migration/private-original-photo-holds/Saururaceae/Saururus/saururus-cernuus/images/commons-saururus-cernuus.jpg",
+      "git_blob_sha": "e188c763816ec1328b3c25f77187515a4f468e78",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "schoenoplectus-californicus",
+      "family": "Cyperaceae",
+      "filename": "commons-schoenoplectus-californicus.jpg",
+      "original_path": "content/taxa/Cyperaceae/Schoenoplectus/schoenoplectus-californicus/images/commons-schoenoplectus-californicus.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Schoenoplectus/schoenoplectus-californicus/images/commons-schoenoplectus-californicus.jpg",
+      "git_blob_sha": "7b20671ab6f836683cdd5fc58db2d1f3a9e5845f",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "sisyrinchium-angustifolium",
+      "family": "Iridaceae",
+      "filename": "commons-sisyrinchium-angustifolium.jpg",
+      "original_path": "content/taxa/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "archive_path": "migration/private-original-photo-holds/Iridaceae/Sisyrinchium/sisyrinchium-angustifolium/images/commons-sisyrinchium-angustifolium.jpg",
+      "git_blob_sha": "6b43c890e16430c9f2091d926ec3246271478559",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (USGS)"
+    },
+    {
+      "species_id": "spiranthes-cernua",
+      "family": "Orchidaceae",
+      "filename": "commons-spiranthes-cernua.jpg",
+      "original_path": "content/taxa/Orchidaceae/Spiranthes/spiranthes-cernua/images/commons-spiranthes-cernua.jpg",
+      "archive_path": "migration/private-original-photo-holds/Orchidaceae/Spiranthes/spiranthes-cernua/images/commons-spiranthes-cernua.jpg",
+      "git_blob_sha": "e1504904f5ba2ca4fcadbebbfbfa1918b68f58d6",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "thalia-geniculata",
+      "family": "Marantaceae",
+      "filename": "commons-thalia-geniculata.jpg",
+      "original_path": "content/taxa/Marantaceae/Thalia/thalia-geniculata/images/commons-thalia-geniculata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Marantaceae/Thalia/thalia-geniculata/images/commons-thalia-geniculata.jpg",
+      "git_blob_sha": "9db53c65835a41a0ff6cd18fd14f851abca34fb3",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "tillandsia-recurvata",
+      "family": "Bromeliaceae",
+      "filename": "commons-tillandsia-recurvata-kohlnf.jpg",
+      "original_path": "content/taxa/Bromeliaceae/Tillandsia/tillandsia-recurvata/images/commons-tillandsia-recurvata-kohlnf.jpg",
+      "archive_path": "migration/private-original-photo-holds/Bromeliaceae/Tillandsia/tillandsia-recurvata/images/commons-tillandsia-recurvata-kohlnf.jpg",
+      "git_blob_sha": "3f2e95e6341ea82d5186c9978e079a6539d3d5f6",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "toxicoscordion-nuttallii",
+      "family": "Melanthiaceae",
+      "filename": "commons-toxicoscordion-nuttallii.jpg",
+      "original_path": "content/taxa/Melanthiaceae/Toxicoscordion/toxicoscordion-nuttallii/images/commons-toxicoscordion-nuttallii.jpg",
+      "archive_path": "migration/private-original-photo-holds/Melanthiaceae/Toxicoscordion/toxicoscordion-nuttallii/images/commons-toxicoscordion-nuttallii.jpg",
+      "git_blob_sha": "02568e9a50ec80094a6c0bf8f37f0ff4955894d6",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "typha-domingensis",
+      "family": "Typhaceae",
+      "filename": "commons-typha-domingensis.jpg",
+      "original_path": "content/taxa/Typhaceae/Typha/typha-domingensis/images/commons-typha-domingensis.jpg",
+      "archive_path": "migration/private-original-photo-holds/Typhaceae/Typha/typha-domingensis/images/commons-typha-domingensis.jpg",
+      "git_blob_sha": "fb9006702133429f721f5a58c6ffad3d4b765da1",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    },
+    {
+      "species_id": "typha-latifolia",
+      "family": "Typhaceae",
+      "filename": "commons-typha-latifolia.jpg",
+      "original_path": "content/taxa/Typhaceae/Typha/typha-latifolia/images/commons-typha-latifolia.jpg",
+      "archive_path": "migration/private-original-photo-holds/Typhaceae/Typha/typha-latifolia/images/commons-typha-latifolia.jpg",
+      "git_blob_sha": "dab0f0e56217c79cf06d73d4d16305813671ea34",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 2,
+    "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (AUTHOR RELEASED)": 1,
+    "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi": 11,
+    "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (US FEDERAL GOVERNMENT)": 1,
+    "Archived individual license has unsupported or unspecified version: PUBLIC DOMAIN (USGS)": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 16
+}

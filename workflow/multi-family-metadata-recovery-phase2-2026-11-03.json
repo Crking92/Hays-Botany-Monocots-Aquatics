@@ -1,0 +1,23 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "phase": "recover_missing_identifiers_from_original_species_records",
+  "run_time": "2026-11-03T16:04:14.736821+00:00",
+  "source_image_file_records": 205,
+  "selected": 0,
+  "installed": 0,
+  "held_checked": 0,
+  "duplicate_or_previously_published": 0,
+  "previous_batches": [],
+  "skipped": {
+    "previous_phase1_review_record": 33,
+    "already_published_exact_archive_bytes": 127,
+    "not_enough_identifiers_for_verified_inat_or_gbif_source": 45
+  },
+  "records": [],
+  "candidate_pool": 0,
+  "remaining_candidates": 0,
+  "selected_lanes": {},
+  "verified_not_published": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 0
+}

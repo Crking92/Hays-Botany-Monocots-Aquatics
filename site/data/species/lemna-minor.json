@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/lemna-minor/archived-6a9ef23e8822bd57.jpg",
+      "creator": "Kostka Martin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lemna_minor_plants.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "403e203a2a0f6f39cb87280efcb35e5127441217",
+      "role": "Provisional recognition: floating duckweed fronds from above; roots not visible in this image",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/5/58/Lemna_minor_plants.jpg; archived original pixel difference 0; archived source SHA 403e203a2a0f6f39cb87280efcb35e5127441217; exact image source https://commons.wikimedia.org/wiki/File:Lemna_minor_plants.jpg",
+      "taxon_review_evidence": "Original species record Lemna minor linked to an original image and matching current commons photo of source taxon Lemna minor. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6a9ef23e8822bd57477cc8792b905584cf0d980a29223bb2733e75b590abdc4d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "387208a0ca9c4de5542c0d99a86f3251a034535453f6a294b4db85b1de78aa80",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

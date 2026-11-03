@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 95,
-  "photo_count": 238,
+  "photo_species": 96,
+  "photo_count": 239,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -54,8 +54,8 @@
       "first_src": "media/arisaema-dracontium/archived-95ce556c450843fd.jpg"
     },
     "lemna-minor": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/lemna-minor/archived-6a9ef23e8822bd57.jpg"
     },
     "pistia-stratiotes": {
       "count": 0,

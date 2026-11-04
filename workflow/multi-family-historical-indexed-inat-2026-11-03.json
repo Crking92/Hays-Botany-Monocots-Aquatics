@@ -1,0 +1,27 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_INDEXED_INAT_2026-11-03",
+  "checked_at": "2026-11-04T02:50:31.193984+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 0,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 0,
+  "selected_by_lane": {},
+  "skipped_or_previously_published": {
+    "original_historical_review_preserved": 125,
+    "no_matching_per_image_csv_row": 17,
+    "already_public_identical_bytes": 53,
+    "missing_ids_or_valid_cc_author": 10
+  },
+  "new_installed": 0,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 0
+}

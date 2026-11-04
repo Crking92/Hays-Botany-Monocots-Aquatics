@@ -59,8 +59,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/cabomba-caroliniana/archived-cb538bb5834f0aa4.jpg",
+      "creator": "Ryan (ryman56)",
+      "source_page": "https://www.inaturalist.org/photos/477349924",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "b2d0d7e6b368912a427fc6e083aac53225686d08",
+      "role": "Submerged finely divided fan-shaped leaves and stem-node context",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Original observation 265727446 exact photo 477349924, current individual CC0 photo-level rights, matching image fingerprint 0, original archived individual image-sources.csv names creator Ryan (ryman56); current photo attribution supplies only generic no-rights-reserved text; historical creator was retained, not asserted as current online attribution; archived source SHA b2d0d7e6b368912a427fc6e083aac53225686d08; exact image source https://www.inaturalist.org/photos/477349924",
+      "taxon_review_evidence": "Original species record Cabomba caroliniana linked to an original image and matching current inat-cc0 photo of source taxon Cabomba caroliniana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "cb538bb5834f0aa449f1ec5bc85a9948933404d8d014cfebc551748218593e59"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b47b01b655c7c53eb4149b0beff2cf6c9fe511383c1d018ab94064ceaa479d4c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

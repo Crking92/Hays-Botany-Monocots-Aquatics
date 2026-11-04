@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_CC0_2026-11-03",
+  "checked_at": "2026-11-04T00:05:46.734830+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 204
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "cabomba-caroliniana",
+      "family": "Cabombaceae",
+      "filename": "02-inat-submerged-fan-leaves.jpg",
+      "original_path": "content/taxa/Cabombaceae/Cabomba/cabomba-caroliniana/images/02-inat-submerged-fan-leaves.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cabombaceae/Cabomba/cabomba-caroliniana/images/02-inat-submerged-fan-leaves.jpg",
+      "git_blob_sha": "b2d0d7e6b368912a427fc6e083aac53225686d08",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ryan (ryman56)",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/477349924",
+      "taxon": "Cabomba caroliniana",
+      "src": "media/cabomba-caroliniana/archived-cb538bb5834f0aa4.jpg",
+      "sha256": "cb538bb5834f0aa449f1ec5bc85a9948933404d8d014cfebc551748218593e59"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 105,
-  "photo_count": 295,
+  "photo_species": 106,
+  "photo_count": 296,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -150,8 +150,8 @@
       "first_src": "media/tillandsia-usneoides/archived-2f9347c4b012e1e2.jpg"
     },
     "cabomba-caroliniana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/cabomba-caroliniana/archived-cb538bb5834f0aa4.jpg"
     },
     "canna-glauca": {
       "count": 0,

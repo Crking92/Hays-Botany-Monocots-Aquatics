@@ -1,0 +1,77 @@
+name: Verify and publish exact-source Cyperaceae_002 photographs
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-candidates/Cyperaceae_002.tsv'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: cyperaceae-002-photo-first
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Install image-validation dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify original photos and source rights; publish only cleared images
+        run: |
+          python3 scripts/publish_verified_remote_photo_batch.py \
+            --manifest photo-intake/remote-candidates/Cyperaceae_002.tsv \
+            --site-root site \
+            --report "$RUNNER_TEMP/cyperaceae-002-result.json"
+      - name: Check gallery consistency after changes
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, hashlib
+          site=pathlib.Path("site")
+          gallery=json.loads((site/"data/gallery-index.json").read_text())
+          index=json.loads((site/"data/collection-index.json").read_text())
+          assert len(index["entries"])==gallery["species"]
+          assert len(gallery["entries"])==gallery["species"]
+          counts=[]
+          for e in index["entries"]:
+            card=json.loads((site/"data/species"/(e["id"]+".json")).read_text())
+            photos=card["verified_photos"]
+            assert len(photos)==gallery["entries"][e["id"]]["count"]==e["photo_count"]
+            for p in photos:
+              f=site/p["src"]
+              assert f.is_file(),f
+              data=f.read_bytes()
+              sha=hashlib.sha1(b"blob "+str(len(data)).encode()+b"\0"+data).hexdigest()
+              assert p["source_blob_sha"]==sha,f
+              assert p.get("creator") and p.get("license_url") and p.get("source_page")
+            counts.append(len(photos))
+          assert gallery["photo_count"]==sum(counts)
+          assert gallery["photo_species"]==sum(x>0 for x in counts)
+          print("PASS gallery counts, media hashes and credits")
+          PY
+      - name: Save results and publish family gallery
+        id: release
+        run: |
+          mkdir -p photo-intake/remote-results
+          cp "$RUNNER_TEMP/cyperaceae-002-result.json" photo-intake/remote-results/Cyperaceae_002.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/collection-index.json site/data/gallery-index.json site/data/species photo-intake/remote-results/Cyperaceae_002.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish independently verified Cyperaceae batch photographs and source audit"
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Rebuild family Pages
+        if: steps.release.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"

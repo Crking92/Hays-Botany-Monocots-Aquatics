@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 107,
-  "photo_count": 309,
+  "photo_species": 108,
+  "photo_count": 310,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -62,8 +62,8 @@
       "first_src": "media/pistia-stratiotes/archived-01d4df04a0845341.jpg"
     },
     "spirodela-polyrhiza": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/spirodela-polyrhiza/archived-f8b70aa2775a1038.jpg"
     },
     "wolffia-columbiana": {
       "count": 1,

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/spirodela-polyrhiza/archived-f8b70aa2775a1038.jpg",
+      "creator": "bastus917 (영철 이)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spirodela_polyrrhiza.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "172f28f578b28fa9b42b29f30c9bdadd0433a87e",
+      "role": "Provisional floating frond recognition; multiple roots per frond require another close-up",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 2.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/f/f8/Spirodela_polyrrhiza.jpg; image fingerprint distance 0; archived source SHA 172f28f578b28fa9b42b29f30c9bdadd0433a87e; exact image source https://commons.wikimedia.org/wiki/File:Spirodela_polyrrhiza.jpg",
+      "taxon_review_evidence": "Original species record Spirodela polyrhiza linked to an original image and matching current commons photo of source taxon Spirodela polyrhiza. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "f8b70aa2775a103846048144ac4cff1cee781a7df1ca56bc70e6e80ff49fe366"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4408b0cb292a5665694e239c45ba81201653ba394315bfa3cc32a97c440f2705",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

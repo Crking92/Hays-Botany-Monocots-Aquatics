@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 109,
-  "photo_count": 311,
+  "photo_count": 331,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -138,19 +138,19 @@
       "first_src": "media/yucca-treculiana/01-wild-habitat.jpg"
     },
     "hechtia-texensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/hechtia-texensis/archived-babf7f56062110d0.jpg"
     },
     "tillandsia-recurvata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tillandsia-recurvata/archived-8418afcc6b940430.jpg"
     },
     "tillandsia-usneoides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/tillandsia-usneoides/archived-2f9347c4b012e1e2.jpg"
     },
     "cabomba-caroliniana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/cabomba-caroliniana/archived-cb538bb5834f0aa4.jpg"
     },
     "canna-glauca": {

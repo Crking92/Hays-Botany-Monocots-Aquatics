@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 113,
-  "photo_count": 491,
+  "photo_count": 555,
   "entries": {
     "aquarius-cordifolius": {
       "count": 6,
@@ -194,15 +194,15 @@
       "first_src": "media/tradescantia-pedicellata/archived-073208d99ca0bed3.jpg"
     },
     "carex-blanda": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/carex-blanda/carex-blanda-provisional-face.png"
     },
     "carex-cherokeensis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/carex-cherokeensis/carex-cherokeensis-provisional-face.jpg"
     },
     "carex-crus-corvi": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/carex-crus-corvi/carex-crus-corvi-provisional-face.jpg"
     },
     "carex-edwardsiana": {
@@ -210,27 +210,27 @@
       "first_src": "media/carex-edwardsiana/archived-a9e81891d55bff53.jpg"
     },
     "carex-emoryi": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/carex-emoryi/carex-emoryi-provisional-face.jpg"
     },
     "carex-microdonta": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/carex-microdonta/archived-2c6ccf2afaf46bab.jpg"
     },
     "carex-perdentata": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/carex-perdentata/archived-6a73571d1ea256ea.jpg"
     },
     "carex-planostachys": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/carex-planostachys/archived-de7dd087b418c741.jpg"
     },
     "carex-tetrastachya": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/carex-tetrastachya/archived-308618797f794f37.jpg"
     },
     "carex-texensis": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/carex-texensis/carex-texensis-provisional-face.jpg"
     },
     "cladium-mariscus-subsp-jamaicense": {
@@ -238,47 +238,47 @@
       "first_src": "media/cladium-mariscus-subsp-jamaicense/archived-fcd676a7077264f8.jpg"
     },
     "cyperus-acuminatus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cyperus-acuminatus/archived-7140838ca189e06e.jpg"
     },
     "cyperus-esculentus": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/cyperus-esculentus/01-yellow-nutsedge-inflorescence.jpg"
     },
     "cyperus-ochraceus": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/cyperus-ochraceus/archived-ca807f01c8961ee5.jpg"
     },
     "cyperus-odoratus": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/cyperus-odoratus/01-fragrant-flatsedge-habit.jpg"
     },
     "cyperus-retroflexus": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/cyperus-retroflexus/archived-f210d893313ef03a.jpeg"
     },
     "cyperus-rotundus": {
-      "count": 4,
+      "count": 7,
       "first_src": "media/cyperus-rotundus/01-purple-nutsedge-inflorescence.jpg"
     },
     "cyperus-strigosus": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/cyperus-strigosus/01-strawcolored-flatsedge-head.jpg"
     },
     "eleocharis-atropurpurea": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/eleocharis-atropurpurea/archived-4d826f8be85cce28.jpg"
     },
     "eleocharis-geniculata": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/eleocharis-geniculata/archived-2d9d18e93cd39e28.jpg"
     },
     "eleocharis-montevidensis": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/eleocharis-montevidensis/archived-90aa70fc477a48aa.jpg"
     },
     "eleocharis-palustris": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/eleocharis-palustris/archived-5ed29aae2ca3e179.jpg"
     },
     "eleocharis-rostellata": {

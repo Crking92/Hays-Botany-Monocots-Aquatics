@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 113,
-  "photo_count": 555,
+  "photo_count": 560,
   "entries": {
     "aquarius-cordifolius": {
       "count": 6,
@@ -234,7 +234,7 @@
       "first_src": "media/carex-texensis/carex-texensis-provisional-face.jpg"
     },
     "cladium-mariscus-subsp-jamaicense": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/cladium-mariscus-subsp-jamaicense/archived-fcd676a7077264f8.jpg"
     },
     "cyperus-acuminatus": {
@@ -242,7 +242,7 @@
       "first_src": "media/cyperus-acuminatus/archived-7140838ca189e06e.jpg"
     },
     "cyperus-esculentus": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/cyperus-esculentus/01-yellow-nutsedge-inflorescence.jpg"
     },
     "cyperus-ochraceus": {

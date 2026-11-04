@@ -111,6 +111,25 @@
       "source_review_evidence": "Live iNaturalist observation 5871954, photo 7315045, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 56e184e76914ea7159b466f4cd79c5bcba531d6f670d4eb531344f49448013b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus esculentus maps to indexed species cyperus-esculentus; specialist morphology and BONAP range deferred.",
       "sha256": "56e184e76914ea7159b466f4cd79c5bcba531d6f670d4eb531344f49448013b8"
+    },
+    {
+      "src": "media/cyperus-esculentus/inat-651065993.jpg",
+      "creator": "(c) sholekamp, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/651065993",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2ad34d4ab8cc94a45eca27aa5e948e06cadf4de3",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 356993402, photo 651065993, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 924b52f05d7d09bde65e364d60f1fea9ba6f317e7dcdb34b1c4851dcc04c99b4. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus esculentus esculentus maps to indexed species cyperus-esculentus; specialist morphology and BONAP range deferred.",
+      "sha256": "924b52f05d7d09bde65e364d60f1fea9ba6f317e7dcdb34b1c4851dcc04c99b4"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

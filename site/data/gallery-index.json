@@ -2,28 +2,28 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 112,
-  "photo_count": 442,
+  "photo_species": 113,
+  "photo_count": 466,
   "entries": {
     "aquarius-cordifolius": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/aquarius-cordifolius/archived-faeafeb6fed8c32e.jpg"
     },
     "echinodorus-berteroi": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/echinodorus-berteroi/archived-ade0adafa1695254.jpg"
     },
     "sagittaria-graminea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sagittaria-graminea/archived-50b8a5d3e77fe8bb.jpg"
     },
     "sagittaria-lancifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/sagittaria-lancifolia/archived-5a83890131babc0e.jpg"
     },
     "sagittaria-platyphylla": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/sagittaria-platyphylla/inat-355723498.jpg"
     },
     "allium-canadense": {
       "count": 2,

@@ -9,7 +9,7 @@
       "genus": "Aquarius",
       "scientific_name": "Aquarius cordifolius",
       "common_name": "Creeping burhead",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -18,7 +18,7 @@
       "genus": "Echinodorus",
       "scientific_name": "Echinodorus berteroi",
       "common_name": "Upright burhead",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -27,7 +27,7 @@
       "genus": "Sagittaria",
       "scientific_name": "Sagittaria graminea",
       "common_name": "Grassleaf arrowhead",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -36,7 +36,7 @@
       "genus": "Sagittaria",
       "scientific_name": "Sagittaria lancifolia",
       "common_name": "Bulltongue arrowhead",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -45,8 +45,8 @@
       "genus": "Sagittaria",
       "scientific_name": "Sagittaria platyphylla",
       "common_name": "Delta arrowhead",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "allium-canadense",

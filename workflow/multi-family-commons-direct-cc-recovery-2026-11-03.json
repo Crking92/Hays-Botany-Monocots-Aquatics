@@ -1,41 +1,22 @@
 {
   "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:32:18.635418+00:00",
+  "checked_at": "2026-11-04T01:40:39.621978+00:00",
   "source_files": 205,
   "historical_cc0_deed_holds": 4,
   "selection_window": 15,
-  "candidate_pool_with_usable_source_identifiers": 1,
+  "candidate_pool_with_usable_source_identifiers": 0,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 1,
-  "selected_by_lane": {
-    "commons": 1
-  },
+  "selected_candidates": 0,
+  "selected_by_lane": {},
   "skipped_or_previously_published": {
     "not_a_prior_cc0_deed_hold": 201,
-    "previous_cc0_recheck_decision_preserved": 3
+    "previous_cc0_recheck_decision_preserved": 4
   },
-  "new_installed": 1,
+  "new_installed": 0,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
-  "records": [
-    {
-      "species_id": "rhynchospora-colorata",
-      "family": "Cyperaceae",
-      "filename": "commons-rhynchospora-colorata.jpg",
-      "original_path": "content/taxa/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
-      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
-      "git_blob_sha": "c729fc394a6bab029f61c8055e6962a44275ed81",
-      "lane": "commons",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Robert H. Mohlenbrock",
-      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rhynchospora_colorata_NRCS-002.jpg",
-      "taxon": "Rhynchospora colorata",
-      "src": "media/rhynchospora-colorata/archived-2082a0522634471e.jpg",
-      "sha256": "2082a0522634471ef79766c535677491e6ac39d3faac1f3624f558bdb4c0c301"
-    }
-  ],
+  "records": [],
   "previous_batches": [
     {
       "checked_at": "2026-11-03T18:36:27.863081+00:00",
@@ -100,9 +81,33 @@
           "sha256": "f8b70aa2775a103846048144ac4cff1cee781a7df1ca56bc70e6e80ff49fe366"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:32:18.635418+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "rhynchospora-colorata",
+          "family": "Cyperaceae",
+          "filename": "commons-rhynchospora-colorata.jpg",
+          "original_path": "content/taxa/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+          "archive_path": "migration/private-original-photo-holds/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+          "git_blob_sha": "c729fc394a6bab029f61c8055e6962a44275ed81",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Robert H. Mohlenbrock",
+          "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Rhynchospora_colorata_NRCS-002.jpg",
+          "taxon": "Rhynchospora colorata",
+          "src": "media/rhynchospora-colorata/archived-2082a0522634471e.jpg",
+          "sha256": "2082a0522634471ef79766c535677491e6ac39d3faac1f3624f558bdb4c0c301"
+        }
+      ]
     }
   ],
-  "batch_number": 3,
+  "batch_number": 4,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
   "cumulative_installed": 4,

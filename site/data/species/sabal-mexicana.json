@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sabal-mexicana/archived-8ca6ad016b4e98f7.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/254471398",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "f598bf99e1d1b637db44a2a6fb82dd9679e78da6",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 147841843 photo 254471398 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA f598bf99e1d1b637db44a2a6fb82dd9679e78da6; exact image source https://www.inaturalist.org/photos/254471398",
+      "taxon_review_evidence": "Original species record Sabal mexicana linked to an original image and matching current inat photo of source taxon Sabal mexicana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8ca6ad016b4e98f790f4329fa59a1ebc0eae00f8d604e995b76c1b666e24c785"
+    },
+    {
+      "src": "media/sabal-mexicana/archived-eaab370b7dcd35ff.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/254471435",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "267db2ac9b909f0679f90db6e271dc72764d0630",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 147841843 photo 254471435 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 267db2ac9b909f0679f90db6e271dc72764d0630; exact image source https://www.inaturalist.org/photos/254471435",
+      "taxon_review_evidence": "Original species record Sabal mexicana linked to an original image and matching current inat photo of source taxon Sabal mexicana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "eaab370b7dcd35ff3f7371027a602b9a5b3d1e810c2a13606c21fe88faa23778"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b8716c33aff6e09cc75f665f884a2d4272401d16622a415b57cd2536ed438c73",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

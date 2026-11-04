@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 109,
-  "photo_count": 332,
+  "photo_species": 112,
+  "photo_count": 346,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -42,8 +42,8 @@
       "first_src": "media/zephyranthes-chlorosolen/archived-2397c1d7a79c2e26.jpg"
     },
     "zephyranthes-drummondii": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/zephyranthes-drummondii/archived-3a981fdb3c4fee64.jpg"
     },
     "amorphophallus-titanum": {
       "count": 1,
@@ -70,8 +70,8 @@
       "first_src": "media/wolffia-columbiana/archived-149d4f69be18831a.jpg"
     },
     "sabal-mexicana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/sabal-mexicana/archived-8ca6ad016b4e98f7.jpg"
     },
     "sabal-minor": {
       "count": 1,
@@ -106,8 +106,8 @@
       "first_src": "media/manfreda-maculosa/archived-95b9ab226f498555.jpg"
     },
     "nolina-lindheimeriana": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/nolina-lindheimeriana/archived-7005a09768feb6e3.jpg"
     },
     "nolina-texana": {
       "count": 1,
@@ -366,7 +366,7 @@
       "first_src": "media/thalia-geniculata/inat-670944164.jpg"
     },
     "schoenocaulon-texanum": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/schoenocaulon-texanum/inat-644307812.jpg"
     },
     "toxicoscordion-nuttallii": {
@@ -402,7 +402,7 @@
       "first_src": "media/corallorhiza-wisteriana/archived-eaf6306b25fbe926.jpg"
     },
     "epipactis-gigantea": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/epipactis-gigantea/inat-486156538.jpg"
     },
     "spiranthes-cernua": {

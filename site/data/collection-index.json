@@ -90,8 +90,8 @@
       "genus": "Zephyranthes",
       "scientific_name": "Zephyranthes drummondii",
       "common_name": "Drummond's rain-lily",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "amorphophallus-titanum",
@@ -153,8 +153,8 @@
       "genus": "Sabal",
       "scientific_name": "Sabal mexicana",
       "common_name": "Texas palmetto",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sabal-minor",
@@ -234,8 +234,8 @@
       "genus": "Nolina",
       "scientific_name": "Nolina lindheimeriana",
       "common_name": "Lindheimer's nolina",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "nolina-texana",
@@ -819,7 +819,7 @@
       "genus": "Schoenocaulon",
       "scientific_name": "Schoenocaulon texanum",
       "common_name": "Texas feather-shank",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -900,7 +900,7 @@
       "genus": "Epipactis",
       "scientific_name": "Epipactis gigantea",
       "common_name": "Stream orchid",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

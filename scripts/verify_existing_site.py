@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Audit the EXISTING public Monocots-Aquatics learner; never collect or install photos."""
 import argparse
+import ast
 import concurrent.futures
 import hashlib
 import json
@@ -13,7 +14,19 @@ from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
-ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: US)?)", re.I)
+def published_license_labels():
+    """Use the current publisher's exact accepted license labels, not a stale regex."""
+    path = ROOT / "scripts/publish_approved_family_photos.py"
+    module = ast.parse(path.read_text(encoding="utf-8"))
+    for statement in module.body:
+        if isinstance(statement, ast.Assign) and any(
+            isinstance(target, ast.Name) and target.id == "LICENSES"
+            for target in statement.targets
+        ):
+            return frozenset(ast.literal_eval(statement.value))
+    raise RuntimeError("Cannot establish publisher license allowlist")
+
+ALLOWED_LABELS = published_license_labels()
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
@@ -71,11 +84,11 @@ def local_audit():
                     sid + ": published photo differs from its archived Git blob")
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
-            require(bool(ALLOWED.fullmatch(photo["license"])),
+            require(photo["license"] in ALLOWED_LABELS,
                     sid + ": unknown/non-public photo license: " + photo["license"])
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery links to a private-review image")
-            nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+            nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","CC BY-NC-SA 3.0","OWNER PUBLIC DISPLAY PERMISSION"}
             require(photo.get("noncommercial_only") is nc,
                     sid + ": noncommercial restriction does not match the individual photo license")
             if nc:

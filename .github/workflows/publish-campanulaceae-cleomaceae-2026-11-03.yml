@@ -1,0 +1,86 @@
+name: Publish source-verified Campanulaceae–Cleomaceae ZIP general photos
+# 2026-11-03 follow-up: publish three C. melopepo subsp. texana originals after accepted Kew name verification; all earlier cleared source photos deduplicated.
+# Original SHA and individual-photo CC verified; hold ambiguous institutional rights; safe concurrent gallery updates.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-campanulaceae-cleomaceae-2026-11-03.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: family-campanulaceae-cleomaceae-photo-publication-${{ github.repository }}
+  cancel-in-progress: false
+jobs:
+  source-verify-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Install image integrity dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify original ZIP licenses and hashes, then publish source-cleared images
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          publish_one() {
+            local wave="$1" manifest="$2"
+            local cleared="$RUNNER_TEMP/camp-approved-$wave"
+            local report="$RUNNER_TEMP/camp-rights-audit-$wave.json"
+            echo "VERIFYING_BATCH $wave"
+            python3 scripts/publish_verified_campanulaceae_cleomaceae_zip.py --manifest "$manifest" --source-root "$cleared" --report "$report"
+            python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
+            python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+            python3 scripts/verify_automatic_gallery.py --site-root site
+            git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+            if git diff --cached --quiet; then
+              echo "ALREADY_PUBLISHED_OR_ALL_HELD $wave"
+              return
+            fi
+            git diff --cached --check
+            git commit -m "Publish Campanulaceae-Cleomaceae source-cleared originals ($wave)"
+            # Transfer large image objects only once before retries against changing main.
+            local temp_branch="photo-first-camp-${GITHUB_RUN_ID}-$wave"
+            git push origin "HEAD:refs/heads/$temp_branch"
+            local success=0
+            for attempt in $(seq 1 20); do
+              if git push origin HEAD:main; then
+                success=1
+                echo "PHOTO_PUBLICATION_COMMIT_PUSHED $wave"
+                break
+              fi
+              git fetch origin main
+              git reset --hard origin/main
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site --check
+              python3 scripts/publish_approved_family_photos.py --source-root "$cleared" --site-root site
+              python3 scripts/verify_automatic_gallery.py --site-root site
+              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+              if git diff --cached --quiet; then
+                success=1
+                echo "OTHER_WORKFLOW_ALREADY_PUBLISHED $wave"
+                break
+              fi
+              git diff --cached --check
+              git commit -m "Safely reapply source-cleared Campanulaceae-Cleomaceae photos ($wave)"
+            done
+            git push origin --delete "$temp_branch" || true
+            if test "$success" -ne 1; then
+              echo "Safe photo publication did not complete; original manifest retained for retry" >&2
+              exit 1
+            fi
+          }
+          publish_one "a" "photo-intake/remote-photo-manifests/campanulaceae-through-cleomaceae-2026-11-03-a.json"
+      - name: Retain per-photo audit, including holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: campanulaceae-cleomaceae-original-photo-source-audits
+          path: "${{ runner.temp }}/camp-rights-audit-*.json"
+          if-no-files-found: warn
+          retention-days: 30

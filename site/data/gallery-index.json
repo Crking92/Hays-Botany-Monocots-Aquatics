@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 108,
-  "photo_count": 310,
+  "photo_species": 109,
+  "photo_count": 311,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -298,8 +298,8 @@
       "first_src": "media/fuirena-simplex/archived-5e3c74cb365d6f28.jpg"
     },
     "rhynchospora-colorata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rhynchospora-colorata/archived-2082a0522634471e.jpg"
     },
     "rhynchospora-nivea": {
       "count": 1,

@@ -1,9 +1,9 @@
 {
   "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:17:40.792174+00:00",
+  "checked_at": "2026-11-04T01:32:18.635418+00:00",
   "source_files": 205,
-  "historical_cc0_deed_holds": 3,
+  "historical_cc0_deed_holds": 4,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
@@ -12,28 +12,28 @@
     "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 202,
-    "previous_cc0_recheck_decision_preserved": 2
+    "not_a_prior_cc0_deed_hold": 201,
+    "previous_cc0_recheck_decision_preserved": 3
   },
   "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "spirodela-polyrhiza",
-      "family": "Araceae",
-      "filename": "commons-spirodela-polyrhiza.jpg",
-      "original_path": "content/taxa/Araceae/Spirodela/spirodela-polyrhiza/images/commons-spirodela-polyrhiza.jpg",
-      "archive_path": "migration/private-original-photo-holds/Araceae/Spirodela/spirodela-polyrhiza/images/commons-spirodela-polyrhiza.jpg",
-      "git_blob_sha": "172f28f578b28fa9b42b29f30c9bdadd0433a87e",
+      "species_id": "rhynchospora-colorata",
+      "family": "Cyperaceae",
+      "filename": "commons-rhynchospora-colorata.jpg",
+      "original_path": "content/taxa/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Rhynchospora/rhynchospora-colorata/images/commons-rhynchospora-colorata.jpg",
+      "git_blob_sha": "c729fc394a6bab029f61c8055e6962a44275ed81",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "bastus917 (영철 이)",
-      "license": "CC BY-SA 2.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Spirodela_polyrrhiza.jpg",
-      "taxon": "Spirodela polyrhiza",
-      "src": "media/spirodela-polyrhiza/archived-f8b70aa2775a1038.jpg",
-      "sha256": "f8b70aa2775a103846048144ac4cff1cee781a7df1ca56bc70e6e80ff49fe366"
+      "creator": "Robert H. Mohlenbrock",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhynchospora_colorata_NRCS-002.jpg",
+      "taxon": "Rhynchospora colorata",
+      "src": "media/rhynchospora-colorata/archived-2082a0522634471e.jpg",
+      "sha256": "2082a0522634471ef79766c535677491e6ac39d3faac1f3624f558bdb4c0c301"
     }
   ],
   "previous_batches": [
@@ -76,11 +76,35 @@
           "sha256": "2f9347c4b012e1e2ffa89e71023943fd0dfa8ac59e964991d5d8432aa2f982c3"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:17:40.792174+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "spirodela-polyrhiza",
+          "family": "Araceae",
+          "filename": "commons-spirodela-polyrhiza.jpg",
+          "original_path": "content/taxa/Araceae/Spirodela/spirodela-polyrhiza/images/commons-spirodela-polyrhiza.jpg",
+          "archive_path": "migration/private-original-photo-holds/Araceae/Spirodela/spirodela-polyrhiza/images/commons-spirodela-polyrhiza.jpg",
+          "git_blob_sha": "172f28f578b28fa9b42b29f30c9bdadd0433a87e",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "bastus917 (영철 이)",
+          "license": "CC BY-SA 2.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Spirodela_polyrrhiza.jpg",
+          "taxon": "Spirodela polyrhiza",
+          "src": "media/spirodela-polyrhiza/archived-f8b70aa2775a1038.jpg",
+          "sha256": "f8b70aa2775a103846048144ac4cff1cee781a7df1ca56bc70e6e80ff49fe366"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 3,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }

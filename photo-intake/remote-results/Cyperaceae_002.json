@@ -1,0 +1,125 @@
+{
+  "batch": "Cyperaceae_002",
+  "candidates": 19,
+  "already_published": [],
+  "cleared": [
+    {
+      "species": "fimbristylis-vahlii",
+      "filename": "photo_0_c933c5bc7e9f6c0c.jpeg",
+      "photo_page": "https://www.inaturalist.org/photos/313533632",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "fimbristylis-vahlii",
+      "filename": "photo_2_086d0118059d8dfc.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/595963751",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "fuirena-simplex",
+      "filename": "photo_1_7c17b23969667b4b.jpeg",
+      "photo_page": "https://www.inaturalist.org/photos/91708840",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "fuirena-simplex",
+      "filename": "photo_2_34339e31af89bacd.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/20841712",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "fuirena-simplex",
+      "filename": "photo_3_4bf211aa09b5d033.jpeg",
+      "photo_page": "https://www.inaturalist.org/photos/9448154",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-colorata",
+      "filename": "photo_0_b9d2ee248aaa307d.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/637269012",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-colorata",
+      "filename": "photo_1_46ae4aad665487fc.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/637959760",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-colorata",
+      "filename": "photo_2_19e1f6a978b014c4.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/642721707",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-colorata",
+      "filename": "photo_3_f80c425dc28df94a.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/640292345",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-colorata",
+      "filename": "photo_4_4809dcebe163ca0d.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/637175138",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-nivea",
+      "filename": "photo_0_9ce357b18ab9c304.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/633296659",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-nivea",
+      "filename": "photo_1_5782dab7659a9a01.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/634759119",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-nivea",
+      "filename": "photo_2_edbbc648c10304da.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/636866099",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "rhynchospora-nivea",
+      "filename": "photo_3_f387e0e5f66c95ef.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/487349679",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "rhynchospora-nivea",
+      "filename": "photo_4_8f12e4b69b5e0d89.jpeg",
+      "photo_page": "https://www.inaturalist.org/photos/486981252",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-californicus",
+      "filename": "photo_0_527a91da4114eb92.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/366829470",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "schoenoplectus-californicus",
+      "filename": "photo_1_cd0678bad040b021.jpeg",
+      "photo_page": "https://www.inaturalist.org/photos/444924800",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "schoenoplectus-californicus",
+      "filename": "photo_3_b51af77dcdd76b60.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/647622417",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "schoenoplectus-californicus",
+      "filename": "photo_4_81f3eeaa2c2d6265.jpg",
+      "photo_page": "https://www.inaturalist.org/photos/647626878",
+      "license": "CC BY-NC 4.0"
+    }
+  ],
+  "held": [],
+  "installed": 19,
+  "site_photo_count_after": 579,
+  "site_photo_species_after": 113
+}

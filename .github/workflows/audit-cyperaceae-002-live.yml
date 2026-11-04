@@ -16,19 +16,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          fetch-depth: 1
-          filter: blob:none
-          sparse-checkout: |
-            site/data
-            site/media/fimbristylis-vahlii
-            site/media/fuirena-simplex
-            site/media/rhynchospora-colorata
-            site/media/rhynchospora-nivea
-            site/media/schoenoplectus-californicus
+      - name: Fetch only site JSONs and six affected Cyperaceae media folders
+        run: |
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git sparse-checkout init --cone
+          git sparse-checkout set \
+            site/data \
+            site/media/fimbristylis-vahlii \
+            site/media/fuirena-simplex \
+            site/media/rhynchospora-colorata \
+            site/media/rhynchospora-nivea \
+            site/media/schoenoplectus-californicus \
             site/media/schoenoplectus-tabernaemontani
+          git -c protocol.version=2 fetch --filter=blob:none --depth=1 origin "${GITHUB_SHA}"
+          git checkout --detach FETCH_HEAD
       - name: Confirm all source-cleared Cyperaceae_002 photos are linked with credits and real files
         run: |
           python3 - <<'PY'

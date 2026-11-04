@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e06ac99726d236ad2afaeb2b515c18feec05a89d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 26385015, photo 40971109, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: acb49580d0b7d0712714d08187905557e5269d529192e391f21835c8f9947e84. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juncus texanus maps to indexed species juncus-texanus; specialist morphology and BONAP range deferred.",
-      "sha256": "acb49580d0b7d0712714d08187905557e5269d529192e391f21835c8f9947e84"
+      "sha256": "acb49580d0b7d0712714d08187905557e5269d529192e391f21835c8f9947e84",
+      "display_sha256": "d8e2fbea33e142a1f5b922db2e3b17a93ad8251b3bb0ef6782a851c3020d62d5",
+      "display_blob_sha": "a46bc6044d922f18517400b3f36b331c9f9bd370",
+      "display_original_site_sha256": "acb49580d0b7d0712714d08187905557e5269d529192e391f21835c8f9947e84",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juncus-texanus/inat-69893975.jpeg",

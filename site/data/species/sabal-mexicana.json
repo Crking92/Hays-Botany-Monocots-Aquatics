@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb21953341cddf1a7c6fd63ba2513e8640205604",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 276042655, photo 495824400, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 498ba8440948f3caeca38ab76c86318c2a3e8a1e3a06a74e4697561355cfa329. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal mexicana maps to indexed species sabal-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "498ba8440948f3caeca38ab76c86318c2a3e8a1e3a06a74e4697561355cfa329"
+      "sha256": "498ba8440948f3caeca38ab76c86318c2a3e8a1e3a06a74e4697561355cfa329",
+      "display_sha256": "17d8e4161a4fda8eb27d93d9267815ab524a31aa4e32d9e32f66c616bf0a3304",
+      "display_blob_sha": "4e0f94cce2d09d10725d0f910045733f85810230",
+      "display_original_site_sha256": "498ba8440948f3caeca38ab76c86318c2a3e8a1e3a06a74e4697561355cfa329",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-mexicana/inat-626212957.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8497ab5de6a5b1b1ecde1fcc3efd22548dc7b73d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343741260, photo 626212957, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18e8cbc9d65e27623e05618b64433d89370f48fa0869597bef44b05d0af85366. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal mexicana maps to indexed species sabal-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "18e8cbc9d65e27623e05618b64433d89370f48fa0869597bef44b05d0af85366"
+      "sha256": "18e8cbc9d65e27623e05618b64433d89370f48fa0869597bef44b05d0af85366",
+      "display_sha256": "c3f58951c2538148b47d40669940f0ab4a57d0c8ac24266b25e04de5768fa670",
+      "display_blob_sha": "bfff98a664a51cae44e74c90cf01f7be551981cf",
+      "display_original_site_sha256": "18e8cbc9d65e27623e05618b64433d89370f48fa0869597bef44b05d0af85366",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-mexicana/inat-635796803.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "74963bae241964df440e25dd15a13c4a04b61c6e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348603643, photo 635796803, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2cd7431fedc596b55be5f4ad19486f1a6b57bc62c63b3abcbf13375532a02857. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal mexicana maps to indexed species sabal-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "2cd7431fedc596b55be5f4ad19486f1a6b57bc62c63b3abcbf13375532a02857"
+      "sha256": "2cd7431fedc596b55be5f4ad19486f1a6b57bc62c63b3abcbf13375532a02857",
+      "display_sha256": "a1a3092039262563b3dcfe0811dae8d8d94bc1c6c38f44fe496742a134bae7eb",
+      "display_blob_sha": "447dfac1f50785fd8e1d6a64729698a6e3c9e59b",
+      "display_original_site_sha256": "2cd7431fedc596b55be5f4ad19486f1a6b57bc62c63b3abcbf13375532a02857",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-mexicana/inat-649796644.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d3c8c3bd1717ef99d037c81b50ed6879dc578a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356322067, photo 649796644, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5839753fa7c2169b5bc4a69859bd4d8ac663a880282fd5f8c816831d9ca03064. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal mexicana maps to indexed species sabal-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "5839753fa7c2169b5bc4a69859bd4d8ac663a880282fd5f8c816831d9ca03064"
+      "sha256": "5839753fa7c2169b5bc4a69859bd4d8ac663a880282fd5f8c816831d9ca03064",
+      "display_sha256": "ce19ad18d241bf78f9cddafafa30bf62bf6227429ae19192642cbbbe80dda7c7",
+      "display_blob_sha": "69152f5da2cc0a1edad17a16bf125f00531bcb4b",
+      "display_original_site_sha256": "5839753fa7c2169b5bc4a69859bd4d8ac663a880282fd5f8c816831d9ca03064",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-mexicana/inat-656797458.jpg",
@@ -134,7 +154,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa6258bc6298e6e3ea64c8a7bf14370e933abf28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +162,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 359960934, photo 656797458, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ad450ad6b231a6579524e1523c5c17bfd2da282fb1e479c1f51c5e433a0ee00. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal mexicana maps to indexed species sabal-mexicana; specialist morphology and BONAP range deferred.",
-      "sha256": "5ad450ad6b231a6579524e1523c5c17bfd2da282fb1e479c1f51c5e433a0ee00"
+      "sha256": "5ad450ad6b231a6579524e1523c5c17bfd2da282fb1e479c1f51c5e433a0ee00",
+      "display_sha256": "5ccf6a6ca2ddb67b8a75fd79c1803f7685fc99a708d66123529a726dd9114334",
+      "display_blob_sha": "850d5a83a47ad8f6ddf3b38f3d62a939ac9a30a4",
+      "display_original_site_sha256": "5ad450ad6b231a6579524e1523c5c17bfd2da282fb1e479c1f51c5e433a0ee00",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

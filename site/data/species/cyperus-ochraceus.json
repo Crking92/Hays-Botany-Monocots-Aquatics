@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "33c661cc9a1ac87128599e785304399d64cb28c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 210446018, photo 372221162, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dad61d97e71bef5ffd2b3d8d6d0dd6598657ea4b6ef78044cb74ffc1baa15974. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus ochraceus maps to indexed species cyperus-ochraceus; specialist morphology and BONAP range deferred.",
-      "sha256": "dad61d97e71bef5ffd2b3d8d6d0dd6598657ea4b6ef78044cb74ffc1baa15974"
+      "sha256": "dad61d97e71bef5ffd2b3d8d6d0dd6598657ea4b6ef78044cb74ffc1baa15974",
+      "display_sha256": "1b0e247dd10dad6ff70c9416353e48a1ebd678c887ef72906faaf80d23c075ef",
+      "display_blob_sha": "5926f23fa2f1a986b999eb72124b723df838b9fa",
+      "display_original_site_sha256": "dad61d97e71bef5ffd2b3d8d6d0dd6598657ea4b6ef78044cb74ffc1baa15974",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-ochraceus/inat-646799158.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0b08f9435f8f05fa7de3ae67bbf5b5a6fc11feac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354571667, photo 646799158, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02e06093c420d5c05145bd84f1f5c7c53956b38a58d5d2caa198bff2d40aaa0b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus ochraceus maps to indexed species cyperus-ochraceus; specialist morphology and BONAP range deferred.",
-      "sha256": "02e06093c420d5c05145bd84f1f5c7c53956b38a58d5d2caa198bff2d40aaa0b"
+      "sha256": "02e06093c420d5c05145bd84f1f5c7c53956b38a58d5d2caa198bff2d40aaa0b",
+      "display_sha256": "66ea3b8e31733d1f12188b6f1910e216de6220a3304b1a7067fd021c3623d701",
+      "display_blob_sha": "7e21721aac9158ed5894dcd8719c4d98b3055b2d",
+      "display_original_site_sha256": "02e06093c420d5c05145bd84f1f5c7c53956b38a58d5d2caa198bff2d40aaa0b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-ochraceus/inat-646825088.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "11ee3778e471e89d26ae8e403d6f87661634efa6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354586629, photo 646825088, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 996cb0a40b67d9010f356edc0d6f29bd929fa40ca4cf84386a85187f000a9856. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus ochraceus maps to indexed species cyperus-ochraceus; specialist morphology and BONAP range deferred.",
-      "sha256": "996cb0a40b67d9010f356edc0d6f29bd929fa40ca4cf84386a85187f000a9856"
+      "sha256": "996cb0a40b67d9010f356edc0d6f29bd929fa40ca4cf84386a85187f000a9856",
+      "display_sha256": "344a4a8a1414e75bab2f63c8c3844ea5b9f6c0cac958ee7aa605e269cd992824",
+      "display_blob_sha": "8b94e3cc59f0e5c3c9165f40a10683c7de9dc1ed",
+      "display_original_site_sha256": "996cb0a40b67d9010f356edc0d6f29bd929fa40ca4cf84386a85187f000a9856",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

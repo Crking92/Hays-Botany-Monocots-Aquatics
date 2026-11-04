@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db5e10ff1bbf381ac3e3fdde67903ac0fd737b80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 201425469, photo 355565701, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62db81e5cdae546df5346e51a08c4967c101dbc8c723589d82cae654c98f3910. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Androstephium coeruleum maps to indexed species androstephium-coeruleum; specialist morphology and BONAP range deferred.",
-      "sha256": "62db81e5cdae546df5346e51a08c4967c101dbc8c723589d82cae654c98f3910"
+      "sha256": "62db81e5cdae546df5346e51a08c4967c101dbc8c723589d82cae654c98f3910",
+      "display_sha256": "d6983c319f222deeacd902e7e94101c8c4e142308f40a8b83476b9f0168196b4",
+      "display_blob_sha": "f2771e0dab814e0c5e065d9dc1a2cdb102e56ae3",
+      "display_original_site_sha256": "62db81e5cdae546df5346e51a08c4967c101dbc8c723589d82cae654c98f3910",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/androstephium-coeruleum/inat-356414013.jpeg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db7e9efd4db4bbdc7d380a4520ecc35de1c49b4b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 201864284, photo 356414013, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7d65ec80861bc05b0b9c79cbfc70e8ddf5f8cfa64704dd8629339cbf8a3b6c84. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Androstephium coeruleum maps to indexed species androstephium-coeruleum; specialist morphology and BONAP range deferred.",
-      "sha256": "7d65ec80861bc05b0b9c79cbfc70e8ddf5f8cfa64704dd8629339cbf8a3b6c84"
+      "sha256": "7d65ec80861bc05b0b9c79cbfc70e8ddf5f8cfa64704dd8629339cbf8a3b6c84",
+      "display_sha256": "98fa0f187ab77a3b59d7344582d5b28ce51343c64a6260524b0eb98da47bcf90",
+      "display_blob_sha": "f3e3d4d0d8d5e79383e9ebc973f8043503c2a1a4",
+      "display_original_site_sha256": "7d65ec80861bc05b0b9c79cbfc70e8ddf5f8cfa64704dd8629339cbf8a3b6c84",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/androstephium-coeruleum/inat-356918999.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cec378f1a7e3f5e61d77f979c9b6c2e1b0ed0b3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 201373451, photo 356918999, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4dbe18d0c4c822301e84a67c834815407a497542b4324a6d5dced1165bcb592. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Androstephium coeruleum maps to indexed species androstephium-coeruleum; specialist morphology and BONAP range deferred.",
-      "sha256": "d4dbe18d0c4c822301e84a67c834815407a497542b4324a6d5dced1165bcb592"
+      "sha256": "d4dbe18d0c4c822301e84a67c834815407a497542b4324a6d5dced1165bcb592",
+      "display_sha256": "c738007a82d6d397d09c72b3fa2390709038b91fe2d7cffe8a94134d3a64b4bd",
+      "display_blob_sha": "a570280f622a7cd71b56b6306bf6afe9908806dc",
+      "display_original_site_sha256": "d4dbe18d0c4c822301e84a67c834815407a497542b4324a6d5dced1165bcb592",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/androstephium-coeruleum/inat-475324942.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d827fbf92810b3f4b2600fa9978e3598c448d73f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 264694786, photo 475324942, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 40e57a858a9923f535a27adc8a856712777e1ffec8c2984c60b56be72f6ab59e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Androstephium coeruleum maps to indexed species androstephium-coeruleum; specialist morphology and BONAP range deferred.",
-      "sha256": "40e57a858a9923f535a27adc8a856712777e1ffec8c2984c60b56be72f6ab59e"
+      "sha256": "40e57a858a9923f535a27adc8a856712777e1ffec8c2984c60b56be72f6ab59e",
+      "display_sha256": "4a5d7d8ce36ffb609c93a2719da33af86f72a463f4d678229cf139f0bc3bb9d0",
+      "display_blob_sha": "9509641f1b661f3fb19fcec86053210359ce4781",
+      "display_original_site_sha256": "40e57a858a9923f535a27adc8a856712777e1ffec8c2984c60b56be72f6ab59e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/androstephium-coeruleum/inat-475818879.jpeg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4b0d5a211af75aa2d375afcb067d9d923f17cfa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 264948056, photo 475818879, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 842ce83ca4b6e5033788a64b73387ca7c2d764975dc76eb3354dcb582970a8d1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Androstephium coeruleum maps to indexed species androstephium-coeruleum; specialist morphology and BONAP range deferred.",
-      "sha256": "842ce83ca4b6e5033788a64b73387ca7c2d764975dc76eb3354dcb582970a8d1"
+      "sha256": "842ce83ca4b6e5033788a64b73387ca7c2d764975dc76eb3354dcb582970a8d1",
+      "display_sha256": "02aa002c9a30792f2850eaec2bf381d749bd16e496bd8b293d8397e3bfab0f77",
+      "display_blob_sha": "3a264c7664edc83015875cf7ec61ec223759e8f9",
+      "display_original_site_sha256": "842ce83ca4b6e5033788a64b73387ca7c2d764975dc76eb3354dcb582970a8d1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

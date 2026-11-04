@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f1263436db1b35776dc19fa32d3bb627d48dc172",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 39440535, photo 62575518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium langloisii maps to indexed species sisyrinchium-langloisii; specialist morphology and BONAP range deferred.",
-      "sha256": "9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa"
+      "sha256": "9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa",
+      "display_sha256": "28fd0300604702511b11431bbce4defbb2f54625e469c2f512080b5f9deaa016",
+      "display_blob_sha": "fd55b0db683537647b9207fab16ac6a58e8b5467",
+      "display_original_site_sha256": "9025773f70337fbdb5e5b94b94181b1f332b58b00efb53cc8587cb78f417ccaa",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

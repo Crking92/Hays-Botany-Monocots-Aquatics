@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d942ba7b88e2a49ad2a33b345592e0f049ffa576",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/347341965 returned individual photo 633296659 license cc-by-nc, photographer (c) dirtbagbotany, some rights reserved (CC BY-NC), SHA256 9ce357b18ab9c304bd2be079b1c8a7140ce40039a2ee8357e85eab9b0c938d15; original image https://inaturalist-open-data.s3.amazonaws.com/photos/633296659/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora nivea; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "9ce357b18ab9c304bd2be079b1c8a7140ce40039a2ee8357e85eab9b0c938d15"
+      "sha256": "9ce357b18ab9c304bd2be079b1c8a7140ce40039a2ee8357e85eab9b0c938d15",
+      "display_sha256": "f990881b616ca1069fb73a1b6c94b9d95af514bb64e4f26d2143a4cf9327d6f4",
+      "display_blob_sha": "079e03736d4e5955aa1a6b84cd586e545166337c",
+      "display_original_site_sha256": "9ce357b18ab9c304bd2be079b1c8a7140ce40039a2ee8357e85eab9b0c938d15",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-nivea/photo_1_5782dab7659a9a01.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e6e4082bfbb0d7c7d43a5177ecc0eef3ecd458f",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/348077316 returned individual photo 634759119 license cc-by-nc, photographer (c) gsoane, some rights reserved (CC BY-NC), SHA256 5782dab7659a9a01ed28816baedeb8ddd807bbf1c46fe65ed51667c9d9b3a90c; original image https://inaturalist-open-data.s3.amazonaws.com/photos/634759119/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora nivea; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "5782dab7659a9a01ed28816baedeb8ddd807bbf1c46fe65ed51667c9d9b3a90c"
+      "sha256": "5782dab7659a9a01ed28816baedeb8ddd807bbf1c46fe65ed51667c9d9b3a90c",
+      "display_sha256": "f59a27ed843139c6a212a53a498a4631c9fd899ca5a3f39ff31d3326cfd27612",
+      "display_blob_sha": "5a067cefba883ac073d33f7ef8c1dce9eabcf9b8",
+      "display_original_site_sha256": "5782dab7659a9a01ed28816baedeb8ddd807bbf1c46fe65ed51667c9d9b3a90c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-nivea/photo_2_edbbc648c10304da.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9637bb1829043dab586e6563cd9d2b790f8b74a0",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/349144486 returned individual photo 636866099 license cc-by-nc, photographer (c) Saunders Drukker, some rights reserved (CC BY-NC), SHA256 edbbc648c10304da677e3a64e6b8c31affa6acff8f36b25686b95e56fbdc1dc5; original image https://inaturalist-open-data.s3.amazonaws.com/photos/636866099/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora nivea; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "edbbc648c10304da677e3a64e6b8c31affa6acff8f36b25686b95e56fbdc1dc5"
+      "sha256": "edbbc648c10304da677e3a64e6b8c31affa6acff8f36b25686b95e56fbdc1dc5",
+      "display_sha256": "03cb8c03e985902eed30dad1bd8828d9bdc0252b6d9772d3564fbcbd3fe7e2a5",
+      "display_blob_sha": "4bf3e0ddc8c74a30d87eb84e1b90551205733ba9",
+      "display_original_site_sha256": "edbbc648c10304da677e3a64e6b8c31affa6acff8f36b25686b95e56fbdc1dc5",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-nivea/photo_3_f387e0e5f66c95ef.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "aee4f5e1cb7bf07b21767fb7c0efe0bc94df69f0",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/270957909 returned individual photo 487349679 license cc-by, photographer (c) Joseph Aubert, some rights reserved (CC BY), SHA256 f387e0e5f66c95ef8e77c6892f63daf1a0b468a53e745fff6af54f404552f234; original image https://inaturalist-open-data.s3.amazonaws.com/photos/487349679/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora nivea; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "f387e0e5f66c95ef8e77c6892f63daf1a0b468a53e745fff6af54f404552f234"
+      "sha256": "f387e0e5f66c95ef8e77c6892f63daf1a0b468a53e745fff6af54f404552f234",
+      "display_sha256": "b603aa1ec863d1e5e4e4832e93cf7e5f1505a39a8aac7f9f41daeefa652bebdb",
+      "display_blob_sha": "9b7519551ba82fbdf5e56efda07b5c1b5f3cbad6",
+      "display_original_site_sha256": "f387e0e5f66c95ef8e77c6892f63daf1a0b468a53e745fff6af54f404552f234",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-nivea/photo_4_8f12e4b69b5e0d89.jpeg",

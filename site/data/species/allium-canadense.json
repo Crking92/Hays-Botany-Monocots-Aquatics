@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e48d1fed7593561e45f8df8ca5ee8ed950f185ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343571629, photo 625879755, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e334312da97e2c00411285d6eb2a534ea6de20cfe2b129e9970bad78a7bc090d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Allium canadense maps to indexed species allium-canadense (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e334312da97e2c00411285d6eb2a534ea6de20cfe2b129e9970bad78a7bc090d"
+      "sha256": "e334312da97e2c00411285d6eb2a534ea6de20cfe2b129e9970bad78a7bc090d",
+      "display_sha256": "cb191bcdea5f31ccf0310c91ada78b4e2294a64efbed51055b2acdc83ca9a409",
+      "display_blob_sha": "91ead49495ec30c37d5770cddb71bac9c904b471",
+      "display_original_site_sha256": "e334312da97e2c00411285d6eb2a534ea6de20cfe2b129e9970bad78a7bc090d",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allium-canadense/inat-626868515.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b99e9383dfd2777dd9ee12f78ca376083917d91b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344070479, photo 626868515, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75a5d45e53b69bdee22142086efd1554f8bfe0714c84eac72178a0d44141fd2b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Allium canadense maps to indexed species allium-canadense (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "75a5d45e53b69bdee22142086efd1554f8bfe0714c84eac72178a0d44141fd2b"
+      "sha256": "75a5d45e53b69bdee22142086efd1554f8bfe0714c84eac72178a0d44141fd2b",
+      "display_sha256": "804e4e09693cdb84088b586953d7f3c3b25cbeae74146714e99b860a0ce7df74",
+      "display_blob_sha": "a2cfc425c5b1d73ebd6a48e058723edf83ecfece",
+      "display_original_site_sha256": "75a5d45e53b69bdee22142086efd1554f8bfe0714c84eac72178a0d44141fd2b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allium-canadense/inat-630042655.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ec8b72a5b39d42b6ab743f2ccd64f6f7347e38b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345696069, photo 630042655, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da40b3751c36f07b301cf7d2cd0380161a49aac9ed152617be5b12987eb06142. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Allium canadense maps to indexed species allium-canadense (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "da40b3751c36f07b301cf7d2cd0380161a49aac9ed152617be5b12987eb06142"
+      "sha256": "da40b3751c36f07b301cf7d2cd0380161a49aac9ed152617be5b12987eb06142",
+      "display_sha256": "105275e71b9a61e48aa0c0386d70fabbf816897ed98c7c9ac4b1c5ea56d2d1bb",
+      "display_blob_sha": "186dfeb427f72e0b3015a540d59558190cfd2de7",
+      "display_original_site_sha256": "da40b3751c36f07b301cf7d2cd0380161a49aac9ed152617be5b12987eb06142",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allium-canadense/inat-630183573.jpg",
@@ -122,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb2f7812128416d46b3f220efe7d5d1f9bde4db8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345769536, photo 630183573, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0783e839d23dd2d7bc946609f61bdd662e15e9302731ae609f11d21ddd842e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Allium canadense maps to indexed species allium-canadense (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e0783e839d23dd2d7bc946609f61bdd662e15e9302731ae609f11d21ddd842e1"
+      "sha256": "e0783e839d23dd2d7bc946609f61bdd662e15e9302731ae609f11d21ddd842e1",
+      "display_sha256": "d55ecac3c2605088ab43202d11f1f22246dfa38db02799533b732ff2bdd37749",
+      "display_blob_sha": "4b9b3c118a89c5782370a6c87347887e4c9006b1",
+      "display_original_site_sha256": "e0783e839d23dd2d7bc946609f61bdd662e15e9302731ae609f11d21ddd842e1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/allium-canadense/inat-631439904.jpg",
@@ -141,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c54437901c34934d62bfc9770c5e21c9e475d674",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 346405968, photo 631439904, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 42ad470b6a4f160cb837afc91473ac7c8b45de2a62c94554d54d3c3e7b58e4a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Allium canadense maps to indexed species allium-canadense (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "42ad470b6a4f160cb837afc91473ac7c8b45de2a62c94554d54d3c3e7b58e4a6"
+      "sha256": "42ad470b6a4f160cb837afc91473ac7c8b45de2a62c94554d54d3c3e7b58e4a6",
+      "display_sha256": "37efaa674be4d9e059db943a5ae66d3574338cefe55fb29d2fda54251828e07f",
+      "display_blob_sha": "608fa69744fdb1ecb477ebcd06d64bf87ed87c70",
+      "display_original_site_sha256": "42ad470b6a4f160cb837afc91473ac7c8b45de2a62c94554d54d3c3e7b58e4a6",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

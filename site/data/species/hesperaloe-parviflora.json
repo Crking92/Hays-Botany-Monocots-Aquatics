@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8d602d52b8d7aeb0ed5af8993d4d675c5680b64f",
       "role": "Recognize · arching narrow-leaved clump in habitat; source scientific-name determination provisional, anatomical expertise pending",
-      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "modified": "Resized and recompressed web display copy; source note: Resaved JPEG with metadata removed (original source rights remain attached)",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 5168211359 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/505433655/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Cody Stricker; dHash distance 0; archived source SHA 8d602d52b8d7aeb0ed5af8993d4d675c5680b64f; exact image source https://www.inaturalist.org/photos/505433655",
       "taxon_review_evidence": "Original species record Hesperaloe parviflora linked to an original image and matching current gbif photo of source taxon Hesperaloe parviflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "7299c3277d7e999ff57cbb28016862a78ecf515636f2f9bde543d3c40b9639c4"
+      "sha256": "7299c3277d7e999ff57cbb28016862a78ecf515636f2f9bde543d3c40b9639c4",
+      "display_sha256": "0f967042e09e36b02d394aafb78abdfa3551931c8beb19d4e2c0b1b62a766878",
+      "display_blob_sha": "f460d62a58046af34407ff504a7c2a2a4ab28617",
+      "display_original_site_sha256": "7299c3277d7e999ff57cbb28016862a78ecf515636f2f9bde543d3c40b9639c4",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hesperaloe-parviflora/plantnet-archive-08baf396589592eb.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dbd6d310672e308df5e710c00a9cf34b32d9ea10",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 70591629, photo 114788704, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a5d64fc44d9cbfa586dd7e6d6b6013bdd88ef55acb65c13b2c732ecf17dcafb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hesperaloe parviflora maps to indexed species hesperaloe-parviflora; specialist morphology and BONAP range deferred.",
-      "sha256": "0a5d64fc44d9cbfa586dd7e6d6b6013bdd88ef55acb65c13b2c732ecf17dcafb"
+      "sha256": "0a5d64fc44d9cbfa586dd7e6d6b6013bdd88ef55acb65c13b2c732ecf17dcafb",
+      "display_sha256": "7976ce15f06fd6108ea368f4a9d8cd45fd19c763c17aa46b2d17cf26967c7d63",
+      "display_blob_sha": "77fbcf20eb03aec954423821ec3da7fbc1873b9e",
+      "display_original_site_sha256": "0a5d64fc44d9cbfa586dd7e6d6b6013bdd88ef55acb65c13b2c732ecf17dcafb",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hesperaloe-parviflora/inat-497703097.jpeg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79a3568202ba59313a4a15b02f959bc3213cc54e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 277171479, photo 497703097, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad1295f826da13dd65f61779a38e15b99a44160f59fc79a73474f91555cb4361. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hesperaloe parviflora maps to indexed species hesperaloe-parviflora; specialist morphology and BONAP range deferred.",
-      "sha256": "ad1295f826da13dd65f61779a38e15b99a44160f59fc79a73474f91555cb4361"
+      "sha256": "ad1295f826da13dd65f61779a38e15b99a44160f59fc79a73474f91555cb4361",
+      "display_sha256": "790019831362803b5f1b2023dd13f03ccb91bef249c6a651a976cbfa66693894",
+      "display_blob_sha": "9e28c5d6613c4521ba113eb867e96e3056b465b2",
+      "display_original_site_sha256": "ad1295f826da13dd65f61779a38e15b99a44160f59fc79a73474f91555cb4361",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hesperaloe-parviflora/inat-649066243.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cce18278cf239a5750ac4e035005e10ba742cd66",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355921511, photo 649066243, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b3eb8b69a46d6fce74e5fcbd357641427dff438e4302eac97505914b1da9ed11. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hesperaloe parviflora maps to indexed species hesperaloe-parviflora; specialist morphology and BONAP range deferred.",
-      "sha256": "b3eb8b69a46d6fce74e5fcbd357641427dff438e4302eac97505914b1da9ed11"
+      "sha256": "b3eb8b69a46d6fce74e5fcbd357641427dff438e4302eac97505914b1da9ed11",
+      "display_sha256": "b3e7c205021d69ccbf6e0e741c1a34251c41f70c5a374c7260d8bb1d84ab503f",
+      "display_blob_sha": "9c8bec93e599a8c2ac4233bf8a9ca2a7c5838245",
+      "display_original_site_sha256": "b3eb8b69a46d6fce74e5fcbd357641427dff438e4302eac97505914b1da9ed11",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

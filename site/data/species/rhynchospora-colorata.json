@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42215ab0afa5ca40713dec9fa02c607da66a3275",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/349350997 returned individual photo 637269012 license cc-by-nc, photographer (c) Daniel Finlayson, some rights reserved (CC BY-NC), SHA256 b9d2ee248aaa307d42b59589868339a8118874f51fd744976fa8ed3d4143a7eb; original image https://inaturalist-open-data.s3.amazonaws.com/photos/637269012/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora colorata; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "b9d2ee248aaa307d42b59589868339a8118874f51fd744976fa8ed3d4143a7eb"
+      "sha256": "b9d2ee248aaa307d42b59589868339a8118874f51fd744976fa8ed3d4143a7eb",
+      "display_sha256": "dd461ea6dd38ddf8c60088140bc5924d9bdbdba809e0de2e88e18f57b84ed08c",
+      "display_blob_sha": "95858f5ced364355f14fbe6277933259dffd74d3",
+      "display_original_site_sha256": "b9d2ee248aaa307d42b59589868339a8118874f51fd744976fa8ed3d4143a7eb",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-colorata/photo_1_46ae4aad665487fc.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5850145ac5ebe3794e2d5707ecdf425799627af5",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/349698969 returned individual photo 637959760 license cc-by-nc, photographer (c) milosmith, some rights reserved (CC BY-NC), SHA256 46ae4aad665487fc1e88718474ba82e05e71a81b75154cc457226e015659d2ff; original image https://inaturalist-open-data.s3.amazonaws.com/photos/637959760/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora colorata; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "46ae4aad665487fc1e88718474ba82e05e71a81b75154cc457226e015659d2ff"
+      "sha256": "46ae4aad665487fc1e88718474ba82e05e71a81b75154cc457226e015659d2ff",
+      "display_sha256": "3baa094364eecc294ba3a6d647498b7eff72f2f4e13556f985447cac74639e69",
+      "display_blob_sha": "f63855d6cf2d36b990f163d1c4e39df25c70a7d9",
+      "display_original_site_sha256": "46ae4aad665487fc1e88718474ba82e05e71a81b75154cc457226e015659d2ff",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-colorata/photo_2_19e1f6a978b014c4.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4cd1d429112c26f97fa33cff0f59688d9cf84a81",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/352150958 returned individual photo 642721707 license cc-by-nc, photographer (c) grizzlyatoms, some rights reserved (CC BY-NC), SHA256 19e1f6a978b014c4b9371353990f5e54cb86abd2e771c4dd372c647dbf761693; original image https://inaturalist-open-data.s3.amazonaws.com/photos/642721707/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora colorata; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "19e1f6a978b014c4b9371353990f5e54cb86abd2e771c4dd372c647dbf761693"
+      "sha256": "19e1f6a978b014c4b9371353990f5e54cb86abd2e771c4dd372c647dbf761693",
+      "display_sha256": "500928ef53e92888dbb054e559cd16e6cba4d5421c191614040a3b187c086738",
+      "display_blob_sha": "3a5762c2d7789837396f6c1069b1cbea8be083e3",
+      "display_original_site_sha256": "19e1f6a978b014c4b9371353990f5e54cb86abd2e771c4dd372c647dbf761693",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-colorata/photo_3_f80c425dc28df94a.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ad993dff2c678cf8e9b03d2808f1a0502e667b4f",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/350901247 returned individual photo 640292345 license cc-by-nc, photographer (c) Katie, some rights reserved (CC BY-NC), SHA256 f80c425dc28df94a88196e7945c5493b549cb04ea866c692c4c94301816f62ce; original image https://inaturalist-open-data.s3.amazonaws.com/photos/640292345/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora colorata; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "f80c425dc28df94a88196e7945c5493b549cb04ea866c692c4c94301816f62ce"
+      "sha256": "f80c425dc28df94a88196e7945c5493b549cb04ea866c692c4c94301816f62ce",
+      "display_sha256": "3e0dfa4fb4ea6855006acb7b6925a1c0444e5ec8b2996cefd051f98ed82726bd",
+      "display_blob_sha": "f150b8036bd52eaec0ebc52cc6d4b1df0a175a39",
+      "display_original_site_sha256": "f80c425dc28df94a88196e7945c5493b549cb04ea866c692c4c94301816f62ce",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchospora-colorata/photo_4_4809dcebe163ca0d.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "64a6f6dc8d84760b144be1600f5bb21201885795",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/349301944 returned individual photo 637175138 license cc-by-nc, photographer (c) Courtney Mathers, some rights reserved (CC BY-NC), SHA256 4809dcebe163ca0dba112d6d61374c4639d0c14010c5dd7d3efc51521610a853; original image https://inaturalist-open-data.s3.amazonaws.com/photos/637175138/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon rhynchospora colorata; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "4809dcebe163ca0dba112d6d61374c4639d0c14010c5dd7d3efc51521610a853"
+      "sha256": "4809dcebe163ca0dba112d6d61374c4639d0c14010c5dd7d3efc51521610a853",
+      "display_sha256": "a99e070137d1e68589aa885a72a902615df59d974c73c1a4a5c88fae4e008fb4",
+      "display_blob_sha": "7e854b67ed3184084de0cf4dceeaf946f166ee9f",
+      "display_original_site_sha256": "4809dcebe163ca0dba112d6d61374c4639d0c14010c5dd7d3efc51521610a853",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

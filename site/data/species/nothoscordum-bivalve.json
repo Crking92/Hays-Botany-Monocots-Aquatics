@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20661782f02c3289a2d4ecd5ae6d3a71558ab79b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 340856036, photo 620369906, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: faafb2752112f28aadcfcac85332d7d6fbf9e8aa0be49bec143a5fe5b7c601ec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nothoscordum bivalve maps to indexed species nothoscordum-bivalve (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "faafb2752112f28aadcfcac85332d7d6fbf9e8aa0be49bec143a5fe5b7c601ec"
+      "sha256": "faafb2752112f28aadcfcac85332d7d6fbf9e8aa0be49bec143a5fe5b7c601ec",
+      "display_sha256": "be79afeeae006e10903973f738dcbe43d32944483d88689b3e5dbe0f6f0433e9",
+      "display_blob_sha": "d4a5fb2058d1450586eee6fabefc522355ad06d0",
+      "display_original_site_sha256": "faafb2752112f28aadcfcac85332d7d6fbf9e8aa0be49bec143a5fe5b7c601ec",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nothoscordum-bivalve/inat-621898115.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a3d60528c20dac7e7d764984f221b9adb41944ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341598770, photo 621898115, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9a312a8fa37102b8fd1b67f6cab7b071aff442503967bc95b54bc9c67896d5dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nothoscordum bivalve maps to indexed species nothoscordum-bivalve (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9a312a8fa37102b8fd1b67f6cab7b071aff442503967bc95b54bc9c67896d5dc"
+      "sha256": "9a312a8fa37102b8fd1b67f6cab7b071aff442503967bc95b54bc9c67896d5dc",
+      "display_sha256": "9eae42609f47d1a1715becd24b2779d8c0c1afceecd5d2bfce6efefc2d67b71f",
+      "display_blob_sha": "73c2596c8b792b0d52a163c9c86b1586ba998873",
+      "display_original_site_sha256": "9a312a8fa37102b8fd1b67f6cab7b071aff442503967bc95b54bc9c67896d5dc",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nothoscordum-bivalve/inat-623279401.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7323ab1271099f32a491317de48bcdf88e6e2dc0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342282307, photo 623279401, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 742b30b67ab31e81b4ab51522d26328b324d46cfe798e8d857b9717bab0072bb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nothoscordum bivalve maps to indexed species nothoscordum-bivalve (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "742b30b67ab31e81b4ab51522d26328b324d46cfe798e8d857b9717bab0072bb"
+      "sha256": "742b30b67ab31e81b4ab51522d26328b324d46cfe798e8d857b9717bab0072bb",
+      "display_sha256": "0352ea84a2b3c3a97ea1bdcb90b010930a70e3e5022b997023d4a718aca401f5",
+      "display_blob_sha": "c1afc1d5215a1b84aa461c3c93de603aceff6539",
+      "display_original_site_sha256": "742b30b67ab31e81b4ab51522d26328b324d46cfe798e8d857b9717bab0072bb",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nothoscordum-bivalve/inat-624401863.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bfe36b84c5958fd70d81818b8e68a5f9291f6fb6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342844826, photo 624401863, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 00bcb096364f38b571599f667d6753ab4247b7295d213511ec0ef41216f6a674. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nothoscordum bivalve maps to indexed species nothoscordum-bivalve (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "00bcb096364f38b571599f667d6753ab4247b7295d213511ec0ef41216f6a674"
+      "sha256": "00bcb096364f38b571599f667d6753ab4247b7295d213511ec0ef41216f6a674",
+      "display_sha256": "36a45d1e1941f6830bc55c587fb0f0c9339bc21b1b5a371390301bb728d9eee5",
+      "display_blob_sha": "fae3e0ac7e8e451139e822a621d4a819ae350371",
+      "display_original_site_sha256": "00bcb096364f38b571599f667d6753ab4247b7295d213511ec0ef41216f6a674",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nothoscordum-bivalve/inat-625248705.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "796987c5f8329b3450fc9f98ca1882c925187715",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343262533, photo 625248705, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 393aa962ae226d787ccfda1f4c25db77af46aaa5b7aeef4ba435430ce24b5875. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nothoscordum bivalve maps to indexed species nothoscordum-bivalve (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "393aa962ae226d787ccfda1f4c25db77af46aaa5b7aeef4ba435430ce24b5875"
+      "sha256": "393aa962ae226d787ccfda1f4c25db77af46aaa5b7aeef4ba435430ce24b5875",
+      "display_sha256": "3d72f55e48ae6676e7efba872bd54cb60ccdc53b6bb83e0ddeeef38f884eb15f",
+      "display_blob_sha": "7124f6f4147367e81d06256be44100ea83698c86",
+      "display_original_site_sha256": "393aa962ae226d787ccfda1f4c25db77af46aaa5b7aeef4ba435430ce24b5875",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

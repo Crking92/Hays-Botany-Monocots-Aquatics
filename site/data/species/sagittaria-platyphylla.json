@@ -61,7 +61,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "86868cbfcee1363ece622e7fb621181db548a2f5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -69,7 +69,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 201508249, photo 355723498, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b480d90712cc589772392af5e120c3c561522eb007e9d2f20ed85eeb5a86b9cf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria platyphylla maps to indexed species sagittaria-platyphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b480d90712cc589772392af5e120c3c561522eb007e9d2f20ed85eeb5a86b9cf"
+      "sha256": "b480d90712cc589772392af5e120c3c561522eb007e9d2f20ed85eeb5a86b9cf",
+      "display_sha256": "8d13c607dd8415dd8b445a99354b10cf2a2ad36b2e782bd9ca1fcbd3a020c0f5",
+      "display_blob_sha": "e24bc3560f5f1f3589b065edcf72271c8e7ff7b1",
+      "display_original_site_sha256": "b480d90712cc589772392af5e120c3c561522eb007e9d2f20ed85eeb5a86b9cf",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sagittaria-platyphylla/inat-357381595.jpeg",
@@ -99,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "79c9ea6dde9b065bb0ed9748be06aa4cf3c8f988",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 203552328, photo 359657323, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0f97ebbe6a7554e88e26c9f8a6e951171796265100be353bd63b59c956a1d12. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria platyphylla maps to indexed species sagittaria-platyphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d0f97ebbe6a7554e88e26c9f8a6e951171796265100be353bd63b59c956a1d12"
+      "sha256": "d0f97ebbe6a7554e88e26c9f8a6e951171796265100be353bd63b59c956a1d12",
+      "display_sha256": "04f2a35c2a4807cad2243b994fee2a8508274e87ae98efc3eb1df78c65465983",
+      "display_blob_sha": "9a22aecad80906591436b6c20fa6a5f139517f07",
+      "display_original_site_sha256": "d0f97ebbe6a7554e88e26c9f8a6e951171796265100be353bd63b59c956a1d12",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sagittaria-platyphylla/inat-647072530.jpg",
@@ -118,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ef9cb5adb4c9d9a7f1eda731fc8e7f3af06bf61b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354729370, photo 647072530, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f3b2f157b471d7ebdb23a4a4af23306e1b8088ad480d2359b27db9e45a691d19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria platyphylla maps to indexed species sagittaria-platyphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f3b2f157b471d7ebdb23a4a4af23306e1b8088ad480d2359b27db9e45a691d19"
+      "sha256": "f3b2f157b471d7ebdb23a4a4af23306e1b8088ad480d2359b27db9e45a691d19",
+      "display_sha256": "cd2c1d70f32e49ecabf0fd04cc6229b29094bdd3a9c503e14ba289c78d7f169a",
+      "display_blob_sha": "e1a296b902d5a18a18246531dd48d2f017f746f3",
+      "display_original_site_sha256": "f3b2f157b471d7ebdb23a4a4af23306e1b8088ad480d2359b27db9e45a691d19",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sagittaria-platyphylla/inat-666795618.jpg",
@@ -137,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ba322c1fd5e71fbfabfb6bc40b5be8388e692438",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 365227410, photo 666795618, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 40c3383ec078dbf5c292e168791a85a71fc9679efd43258394e41474eaa5fd91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria platyphylla maps to indexed species sagittaria-platyphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "40c3383ec078dbf5c292e168791a85a71fc9679efd43258394e41474eaa5fd91"
+      "sha256": "40c3383ec078dbf5c292e168791a85a71fc9679efd43258394e41474eaa5fd91",
+      "display_sha256": "5072b77bbb0d7368b21cc5327bc95a80acf998421f99d6835d7660afaa4585f5",
+      "display_blob_sha": "e5a6b4b117cfa990c73acc0def8026c030e4ebcb",
+      "display_original_site_sha256": "40c3383ec078dbf5c292e168791a85a71fc9679efd43258394e41474eaa5fd91",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

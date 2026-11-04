@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e162ad90ceb45db75a759c59c787c9d09c82ee7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 248621988, photo 444272309, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff76930c0e53231362673ca1931d8548e7a9593b19f140831f9a61ec2b8d0f32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Canna glauca maps to indexed species canna-glauca; specialist morphology and BONAP range deferred.",
-      "sha256": "ff76930c0e53231362673ca1931d8548e7a9593b19f140831f9a61ec2b8d0f32"
+      "sha256": "ff76930c0e53231362673ca1931d8548e7a9593b19f140831f9a61ec2b8d0f32",
+      "display_sha256": "99a28dac37bedbfb3e6d7f30268537a7089727ff1593f6a5303c6838bdaafa45",
+      "display_blob_sha": "944a37824f0161b1dc4c2defe064e1be9ad65464",
+      "display_original_site_sha256": "ff76930c0e53231362673ca1931d8548e7a9593b19f140831f9a61ec2b8d0f32",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/canna-glauca/inat-450348335.jpeg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "77f3a07a8686ee1de093ee50ee95c209dd2effaf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 251665006, photo 450348335, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2dba3a00dcb87e7f60a7d0c6317751bac8bef2e6f4d573db5e7ca7bd21eea39. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Canna glauca maps to indexed species canna-glauca; specialist morphology and BONAP range deferred.",
-      "sha256": "c2dba3a00dcb87e7f60a7d0c6317751bac8bef2e6f4d573db5e7ca7bd21eea39"
+      "sha256": "c2dba3a00dcb87e7f60a7d0c6317751bac8bef2e6f4d573db5e7ca7bd21eea39",
+      "display_sha256": "2a3bc01cea099181baa756e02a34993a898aef80ba8e671b2bb1923a5093ca50",
+      "display_blob_sha": "a97936afcdcdc3c2773b12a59ce23709f1e8a16c",
+      "display_original_site_sha256": "c2dba3a00dcb87e7f60a7d0c6317751bac8bef2e6f4d573db5e7ca7bd21eea39",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/canna-glauca/inat-563162224.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fe82550cf5308d37342eaa9107dab83044a9bf1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 311945069, photo 563162224, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de06ee1500eb38cb95021faf60dcc7c5afb330c62547043c5cc1dd9c00759016. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Canna glauca maps to indexed species canna-glauca; specialist morphology and BONAP range deferred.",
-      "sha256": "de06ee1500eb38cb95021faf60dcc7c5afb330c62547043c5cc1dd9c00759016"
+      "sha256": "de06ee1500eb38cb95021faf60dcc7c5afb330c62547043c5cc1dd9c00759016",
+      "display_sha256": "4794d29fd0f5681eaeb599e20ab659c16d805c62e88e8e91371113e85309845f",
+      "display_blob_sha": "fa487bb683a8472958e906af0616508ee0dcd1da",
+      "display_original_site_sha256": "de06ee1500eb38cb95021faf60dcc7c5afb330c62547043c5cc1dd9c00759016",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/canna-glauca/inat-642105537.jpg",

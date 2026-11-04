@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c9bd6b07be430c47bdb43366fda82ccaf3439576",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 26078120, photo 40460059, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 285c0c49e1d3c28728b5dcab334e47f1a1d62542d8057af6778f62884faadc47. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus strigosus maps to indexed species cyperus-strigosus; specialist morphology and BONAP range deferred.",
-      "sha256": "285c0c49e1d3c28728b5dcab334e47f1a1d62542d8057af6778f62884faadc47"
+      "sha256": "285c0c49e1d3c28728b5dcab334e47f1a1d62542d8057af6778f62884faadc47",
+      "display_sha256": "8c3dbab4891f43e803c97624e11c2693a4d903775cae66b5a206072cd0aac2bd",
+      "display_blob_sha": "ff2a40e96a03ec52e6c220cfdadb3a2f940f476c",
+      "display_original_site_sha256": "285c0c49e1d3c28728b5dcab334e47f1a1d62542d8057af6778f62884faadc47",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-strigosus/inat-7765807.jpg",
@@ -86,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec94b20299cf71c50d61786b089df25302324813",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 6188708, photo 7765807, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e2976d7e4cb3b34207408d03c305f8b392c42d4ff32bb446842abbf6ed2e1836. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus strigosus maps to indexed species cyperus-strigosus; specialist morphology and BONAP range deferred.",
-      "sha256": "e2976d7e4cb3b34207408d03c305f8b392c42d4ff32bb446842abbf6ed2e1836"
+      "sha256": "e2976d7e4cb3b34207408d03c305f8b392c42d4ff32bb446842abbf6ed2e1836",
+      "display_sha256": "61dbea27567280fd7797dd46509f7abc44abe46ed8d911e61fc59d05dc7af1cc",
+      "display_blob_sha": "a8b8074913f3b25dc13fd2cce5fec21493e4a79b",
+      "display_original_site_sha256": "e2976d7e4cb3b34207408d03c305f8b392c42d4ff32bb446842abbf6ed2e1836",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

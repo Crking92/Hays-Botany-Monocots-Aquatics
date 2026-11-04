@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3d784baa8361d811adfc0de5abefa85d81634517",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 152527579, photo 263318455, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 66d88e9aa9c6b147a176461b284a2b4a04b5c62caba39a7f0b0a430f42dc705e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex emoryi maps to indexed species carex-emoryi; specialist morphology and BONAP range deferred.",
-      "sha256": "66d88e9aa9c6b147a176461b284a2b4a04b5c62caba39a7f0b0a430f42dc705e"
+      "sha256": "66d88e9aa9c6b147a176461b284a2b4a04b5c62caba39a7f0b0a430f42dc705e",
+      "display_sha256": "50a32bbd2f63383eecadb734c535b3635c15dcfa1eb7312a339d0a1f06c47c88",
+      "display_blob_sha": "c8d1b1c40fdd7b5fba1c2ddd0b4a93084cfa95d5",
+      "display_original_site_sha256": "66d88e9aa9c6b147a176461b284a2b4a04b5c62caba39a7f0b0a430f42dc705e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-emoryi/inat-355553720.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25c762c2d8d0508749ebfab2842d87abc4ca89aa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 201419429, photo 355553720, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1887d46f43d257c3700bd538f76f7ab9f729554f353629ce43ed3e0cb8c1819b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex emoryi maps to indexed species carex-emoryi; specialist morphology and BONAP range deferred.",
-      "sha256": "1887d46f43d257c3700bd538f76f7ab9f729554f353629ce43ed3e0cb8c1819b"
+      "sha256": "1887d46f43d257c3700bd538f76f7ab9f729554f353629ce43ed3e0cb8c1819b",
+      "display_sha256": "686ac03d8c3dec0f9021645564098f577d8cb532db46fa04446af95da6ec8dff",
+      "display_blob_sha": "9115e790d7c4c8ed9060d0ba6844935009b4c5f2",
+      "display_original_site_sha256": "1887d46f43d257c3700bd538f76f7ab9f729554f353629ce43ed3e0cb8c1819b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-emoryi/inat-493885022.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a46b4b098129d8bc75bad1ff030bda62f12bacd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274768331, photo 493885022, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63c67f43616011636c48f0c4944cc5049cfc7f6c041ed3ceed5c827a6186bade. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex emoryi maps to indexed species carex-emoryi; specialist morphology and BONAP range deferred.",
-      "sha256": "63c67f43616011636c48f0c4944cc5049cfc7f6c041ed3ceed5c827a6186bade"
+      "sha256": "63c67f43616011636c48f0c4944cc5049cfc7f6c041ed3ceed5c827a6186bade",
+      "display_sha256": "a04dcdf09debbe30501f47ed7728b9b135a1b03ac0ab1a9456496ce4bee33011",
+      "display_blob_sha": "939ff8d7beab9c1ddf9b76927c1798a9219ffa4e",
+      "display_original_site_sha256": "63c67f43616011636c48f0c4944cc5049cfc7f6c041ed3ceed5c827a6186bade",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-emoryi/inat-659092444.jpg",
@@ -161,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "550004ae645ecc5208c50e34721d0a39ecd5e4b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 361157723, photo 659092444, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec28e5ff65e7a24784ceb5accc1b48c1f45c8a992f47226f26c022e6d16beaa9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex emoryi maps to indexed species carex-emoryi; specialist morphology and BONAP range deferred.",
-      "sha256": "ec28e5ff65e7a24784ceb5accc1b48c1f45c8a992f47226f26c022e6d16beaa9"
+      "sha256": "ec28e5ff65e7a24784ceb5accc1b48c1f45c8a992f47226f26c022e6d16beaa9",
+      "display_sha256": "70c9df912dbaf265e3f5f0ef267caf3c4526ada07c0cf32d89bcbda2d79db4ef",
+      "display_blob_sha": "f4b7ce7eb87d58503655d609ef91d523e115d327",
+      "display_original_site_sha256": "ec28e5ff65e7a24784ceb5accc1b48c1f45c8a992f47226f26c022e6d16beaa9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

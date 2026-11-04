@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f7224781a43fbe53ff16b4493f43f680ffec1dc0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349324330, photo 637218838, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f1684d5654793ee4694ec01226bce60f779e7bdf76900365a5dcdfd9b3dbe58. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Zephyranthes chlorosolen maps to indexed species zephyranthes-chlorosolen (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2f1684d5654793ee4694ec01226bce60f779e7bdf76900365a5dcdfd9b3dbe58"
+      "sha256": "2f1684d5654793ee4694ec01226bce60f779e7bdf76900365a5dcdfd9b3dbe58",
+      "display_sha256": "e3259b0b069c4ca3b8bd7ade0ec70889ab4b3b2a80083cf9a5f2a0c14216b1bd",
+      "display_blob_sha": "db52743a7569b8cae15166828f57168a8f9cf729",
+      "display_original_site_sha256": "2f1684d5654793ee4694ec01226bce60f779e7bdf76900365a5dcdfd9b3dbe58",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zephyranthes-chlorosolen/inat-642805601.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e96b4eee1941f378862afcaf37ef37918e45c4d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352191416, photo 642805601, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1fd03e3852619d11dfe62747cb977fe529bea316a7da9f4a554e2e7a513343e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Zephyranthes chlorosolen maps to indexed species zephyranthes-chlorosolen (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b1fd03e3852619d11dfe62747cb977fe529bea316a7da9f4a554e2e7a513343e"
+      "sha256": "b1fd03e3852619d11dfe62747cb977fe529bea316a7da9f4a554e2e7a513343e",
+      "display_sha256": "f70fb56d13be9af1daac54f267c7c1bdf01a33380dafc9c2a4d047a5525c3da5",
+      "display_blob_sha": "8933b3ca3729787e795fb656612bb492b61321ad",
+      "display_original_site_sha256": "b1fd03e3852619d11dfe62747cb977fe529bea316a7da9f4a554e2e7a513343e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zephyranthes-chlorosolen/inat-655355649.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1fda0ffd071d8294bd7bb3f4f133aefd062b60f3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 359206629, photo 655355649, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d70bb54518483dfb696c55bec0258d03eaf61ba16c3f3ebb8ad7dfa0da84c374. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Zephyranthes chlorosolen maps to indexed species zephyranthes-chlorosolen (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d70bb54518483dfb696c55bec0258d03eaf61ba16c3f3ebb8ad7dfa0da84c374"
+      "sha256": "d70bb54518483dfb696c55bec0258d03eaf61ba16c3f3ebb8ad7dfa0da84c374",
+      "display_sha256": "dc8e3ac5e97cd806d00c649ad364e68358de6d598fbe86021de028e241eb7526",
+      "display_blob_sha": "da66896b8cde1c6761deabf09308d4b1982600ae",
+      "display_original_site_sha256": "d70bb54518483dfb696c55bec0258d03eaf61ba16c3f3ebb8ad7dfa0da84c374",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zephyranthes-chlorosolen/inat-658930494.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd21a9e708b903f194520478efa08c3d221f73b7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 361072582, photo 658930494, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab02eb83096213c9f822fe9e9869061a43d4507cf887500874abdc092bb20ec3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Zephyranthes chlorosolen maps to indexed species zephyranthes-chlorosolen (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ab02eb83096213c9f822fe9e9869061a43d4507cf887500874abdc092bb20ec3"
+      "sha256": "ab02eb83096213c9f822fe9e9869061a43d4507cf887500874abdc092bb20ec3",
+      "display_sha256": "6caa9d3ae03ee8cd7d37fe7d2cda1e91d79a982d4c9bcd21941f086dc9894aa7",
+      "display_blob_sha": "6779589b9b39968230c620965551918bae7cc332",
+      "display_original_site_sha256": "ab02eb83096213c9f822fe9e9869061a43d4507cf887500874abdc092bb20ec3",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zephyranthes-chlorosolen/inat-670431524.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "babf9dd15ebcf99b4b93d209db832b77f2213562",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Amaranthaceae/Amaryllidaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 367133240, photo 670431524, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98b01292407704c80ae7494c4ca57d26fedcaf26727e258a9f8c61197ee06b9b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Uploaded family ZIP images and contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Zephyranthes chlorosolen maps to indexed species zephyranthes-chlorosolen (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "98b01292407704c80ae7494c4ca57d26fedcaf26727e258a9f8c61197ee06b9b"
+      "sha256": "98b01292407704c80ae7494c4ca57d26fedcaf26727e258a9f8c61197ee06b9b",
+      "display_sha256": "fe27459624c2119a1d698396516be1634e4ac1f5ec1cea90563a32e17ea1e681",
+      "display_blob_sha": "4c47e42d0d91305de0515d050dd9f49108128cf5",
+      "display_original_site_sha256": "98b01292407704c80ae7494c4ca57d26fedcaf26727e258a9f8c61197ee06b9b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

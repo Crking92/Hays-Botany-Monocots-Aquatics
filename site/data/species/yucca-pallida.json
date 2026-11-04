@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1412d5383034b4d2516fc53b201cf326bf124315",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 91647909, photo 151631850, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 31738ef178b6e13ad9d84ebe1ab95f24b5ed1f5b7de4b196a3aee77b7a48b137. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca pallida maps to indexed species yucca-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "31738ef178b6e13ad9d84ebe1ab95f24b5ed1f5b7de4b196a3aee77b7a48b137"
+      "sha256": "31738ef178b6e13ad9d84ebe1ab95f24b5ed1f5b7de4b196a3aee77b7a48b137",
+      "display_sha256": "c502685a81b56a6f1e7a1d7a6cf93ca114671bd9f0b019a9598d7384600e3cc4",
+      "display_blob_sha": "7923d248f1330762f6c0095ef1e711648a42754f",
+      "display_original_site_sha256": "31738ef178b6e13ad9d84ebe1ab95f24b5ed1f5b7de4b196a3aee77b7a48b137",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-pallida/inat-198672228.jpg",
@@ -83,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "91e3f012724a489de15e5d78fbd9f02a32b50d2f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 117626489, photo 198672228, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2aefcc4f131c8e4b4aeb503c76fb675063b447492f18ce3eca853be7dfce0c2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca pallida maps to indexed species yucca-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "f2aefcc4f131c8e4b4aeb503c76fb675063b447492f18ce3eca853be7dfce0c2"
+      "sha256": "f2aefcc4f131c8e4b4aeb503c76fb675063b447492f18ce3eca853be7dfce0c2",
+      "display_sha256": "5b0d21e4859ef5fe0113435db34bc4e0ecd680eb4f96f0fc79081321777e058c",
+      "display_blob_sha": "70083df058c39f7407b46fb245369d48bace72a9",
+      "display_original_site_sha256": "f2aefcc4f131c8e4b4aeb503c76fb675063b447492f18ce3eca853be7dfce0c2",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-pallida/inat-267449903.jpg",
@@ -102,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7af20d315adb07489d178eb216aec008be55bbc2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 154766669, photo 267449903, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7609b1ec5f6cc6a56778609cb975ce1e9838aa4612ee049e4ee62f6dc6efa0f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca pallida maps to indexed species yucca-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "7609b1ec5f6cc6a56778609cb975ce1e9838aa4612ee049e4ee62f6dc6efa0f4"
+      "sha256": "7609b1ec5f6cc6a56778609cb975ce1e9838aa4612ee049e4ee62f6dc6efa0f4",
+      "display_sha256": "343b6394de0469dd36319626d2c879b333a61c88e3e85a3814e54b165a0190e5",
+      "display_blob_sha": "912f621948a7d27f6a247ae2d36557f8eb9c30b0",
+      "display_original_site_sha256": "7609b1ec5f6cc6a56778609cb975ce1e9838aa4612ee049e4ee62f6dc6efa0f4",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-pallida/inat-360519402.jpeg",
@@ -121,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "90561ab589e7c614180226accc60c379aba2a7f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 204002553, photo 360519402, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5258d87ba9019c56a3f6dce5ac92c8aab38371dea091023b14e89a3999069ac1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca pallida maps to indexed species yucca-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "5258d87ba9019c56a3f6dce5ac92c8aab38371dea091023b14e89a3999069ac1"
+      "sha256": "5258d87ba9019c56a3f6dce5ac92c8aab38371dea091023b14e89a3999069ac1",
+      "display_sha256": "8e0f75b16cdaf0185366f423bd11e0264517e4a60438ebfc1a7fdbbff016ec62",
+      "display_blob_sha": "25c6c8e233a571ff652817a402d97f3b68701dd0",
+      "display_original_site_sha256": "5258d87ba9019c56a3f6dce5ac92c8aab38371dea091023b14e89a3999069ac1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-pallida/inat-473675989.jpg",
@@ -140,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7031739cec5206446dfbca69419583420d49e95e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 263648741, photo 473675989, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c92e73166dc36d8edf36608944d8c622a81aa4662770017cf9962ac8060bb7d9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca pallida maps to indexed species yucca-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "c92e73166dc36d8edf36608944d8c622a81aa4662770017cf9962ac8060bb7d9"
+      "sha256": "c92e73166dc36d8edf36608944d8c622a81aa4662770017cf9962ac8060bb7d9",
+      "display_sha256": "ee42d18ad124ce4012db0a8186b31f138aae428e3c61e9ca0afd9a8de0497075",
+      "display_blob_sha": "35a57d73361fece49c75581192fb8540d9180adf",
+      "display_original_site_sha256": "c92e73166dc36d8edf36608944d8c622a81aa4662770017cf9962ac8060bb7d9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

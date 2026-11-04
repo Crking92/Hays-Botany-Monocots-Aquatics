@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7bb9c634a3b93080467fc69c22eb8cb0a9625ce1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367397545, photo 670944164, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 89ed278e6ecfbb5136bceb665173c640afd235aec4eef1a0372b70d124edc4d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Thalia geniculata maps to indexed species thalia-geniculata; specialist morphology and BONAP range deferred.",
-      "sha256": "89ed278e6ecfbb5136bceb665173c640afd235aec4eef1a0372b70d124edc4d0"
+      "sha256": "89ed278e6ecfbb5136bceb665173c640afd235aec4eef1a0372b70d124edc4d0",
+      "display_sha256": "a2ae8dd337179ffec952c68517d84d20bc04ea8d4f074c366e4b103b4feb3d53",
+      "display_blob_sha": "20a8bdc558d7c04963e991595172ae2e6254cadb",
+      "display_original_site_sha256": "89ed278e6ecfbb5136bceb665173c640afd235aec4eef1a0372b70d124edc4d0",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thalia-geniculata/inat-671600964.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9f9e62bd35e7e2979c0d3f29017824891e306f3b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367742456, photo 671600964, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc4a4a8b9536dc431ce58f86d29c5f3b1ff67328cc1f2adaebf6dc96a8e74489. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Thalia geniculata maps to indexed species thalia-geniculata; specialist morphology and BONAP range deferred.",
-      "sha256": "cc4a4a8b9536dc431ce58f86d29c5f3b1ff67328cc1f2adaebf6dc96a8e74489"
+      "sha256": "cc4a4a8b9536dc431ce58f86d29c5f3b1ff67328cc1f2adaebf6dc96a8e74489",
+      "display_sha256": "0211f11b3ee5810c28f6ac75e981caaaaa3bb39f99c6bc2920841c207e3bbb0f",
+      "display_blob_sha": "f9639267fc5d2817700f4ebf6719be9d1496e69e",
+      "display_original_site_sha256": "cc4a4a8b9536dc431ce58f86d29c5f3b1ff67328cc1f2adaebf6dc96a8e74489",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thalia-geniculata/inat-672779643.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9ff74793e8a79b33d276a21bdc4fb990ba17ad28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 368358165, photo 672779643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 947c89e50b7b81303090de03d1dfdfd47e8d27b5c722431bdcbf3bb35bbe7f46. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Thalia geniculata maps to indexed species thalia-geniculata; specialist morphology and BONAP range deferred.",
-      "sha256": "947c89e50b7b81303090de03d1dfdfd47e8d27b5c722431bdcbf3bb35bbe7f46"
+      "sha256": "947c89e50b7b81303090de03d1dfdfd47e8d27b5c722431bdcbf3bb35bbe7f46",
+      "display_sha256": "048054c60f89f146bb6df827dbfb4d38d0b5b9d701b27078f74813bb3fd45679",
+      "display_blob_sha": "7e9d3b8fe0c244a72f483d6de6704f19b939cf74",
+      "display_original_site_sha256": "947c89e50b7b81303090de03d1dfdfd47e8d27b5c722431bdcbf3bb35bbe7f46",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thalia-geniculata/inat-683585991.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "035fe1801810c9570baa861462a7e61bcd871902",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 376003148, photo 687433666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Thalia geniculata maps to indexed species thalia-geniculata; specialist morphology and BONAP range deferred.",
-      "sha256": "48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3"
+      "sha256": "48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3",
+      "display_sha256": "b3c6838b4c89dbbc0c17066f5579eb5faefc77b97560dbb2fb402a9044025566",
+      "display_blob_sha": "fb8b6ae192c58cf147ff01be97bea1ebf1698075",
+      "display_original_site_sha256": "48b85b7d326efacee7a6f0c6bc242269695772dc18196087a2c662e08c9d97e3",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thalia-geniculata/archived-927cf6d9cc4029ff.jpg",

@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fa5bf7f9f64067c898f97b027895e983e8c22182",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 270887254, photo 487214651, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bd289a9767c33ef725ba3addc3bd40e3491f2e718d5cdbe6c53d11a2a0c19c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Cabomba caroliniana maps to indexed species cabomba-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "1bd289a9767c33ef725ba3addc3bd40e3491f2e718d5cdbe6c53d11a2a0c19c8"
+      "sha256": "1bd289a9767c33ef725ba3addc3bd40e3491f2e718d5cdbe6c53d11a2a0c19c8",
+      "display_sha256": "b5249f9def4a5b4610c1283ef6f134863959d0ceef81f48bd94c192934ed4fd4",
+      "display_blob_sha": "ec2e0f5df4ced1df113decc8464f405dea264fa1",
+      "display_original_site_sha256": "1bd289a9767c33ef725ba3addc3bd40e3491f2e718d5cdbe6c53d11a2a0c19c8",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cabomba-caroliniana/inat-489835715.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f119cb555972f96d3bb6b0bc183d99ec1a75e33c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 272277099, photo 489835715, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a22faff33541cdb581a867eb742e649efd2352c90c4bd36f16a401ce4ca6382f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Cabomba caroliniana maps to indexed species cabomba-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "a22faff33541cdb581a867eb742e649efd2352c90c4bd36f16a401ce4ca6382f"
+      "sha256": "a22faff33541cdb581a867eb742e649efd2352c90c4bd36f16a401ce4ca6382f",
+      "display_sha256": "4efa340812ee77507f32f7dabe781dc3e51eda39c4f4603851186418748898fd",
+      "display_blob_sha": "766ec7bdac823a58ac09aecb3c922a1ba68a7040",
+      "display_original_site_sha256": "a22faff33541cdb581a867eb742e649efd2352c90c4bd36f16a401ce4ca6382f",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cabomba-caroliniana/inat-495796651.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08dfbe967dabf2d316d557a401df18dae08d1639",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 276024670, photo 495796651, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1fa163346964e415180c369dddafc5f9719fdd52ee74a735c0234b3b02b52a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Cabomba caroliniana maps to indexed species cabomba-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "d1fa163346964e415180c369dddafc5f9719fdd52ee74a735c0234b3b02b52a7"
+      "sha256": "d1fa163346964e415180c369dddafc5f9719fdd52ee74a735c0234b3b02b52a7",
+      "display_sha256": "46583662a955e734d9fb822cbf809f06536bc61161480fbbca40a1f4ba6dbf5d",
+      "display_blob_sha": "2f3b623ea9d404573ec6b4ea345eb3ebcfef4247",
+      "display_original_site_sha256": "d1fa163346964e415180c369dddafc5f9719fdd52ee74a735c0234b3b02b52a7",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cabomba-caroliniana/inat-495797606.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b8d5e7d8f4334d5012b2f38ba587a488236fe26",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 276025320, photo 495797606, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c8fc58489ef84b7e2d1c642833d3860ecfab3c46b86e599953bb43d00bba74c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Cabomba caroliniana maps to indexed species cabomba-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "8c8fc58489ef84b7e2d1c642833d3860ecfab3c46b86e599953bb43d00bba74c"
+      "sha256": "8c8fc58489ef84b7e2d1c642833d3860ecfab3c46b86e599953bb43d00bba74c",
+      "display_sha256": "bf88cbc523f8d45f0059707a76f922256a9fd7670eb26e3eecd62ba5f0a83144",
+      "display_blob_sha": "1bc5e2302d23f961f2e8f251ac3fad4335110b65",
+      "display_original_site_sha256": "8c8fc58489ef84b7e2d1c642833d3860ecfab3c46b86e599953bb43d00bba74c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cabomba-caroliniana/inat-639385368.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c89fe7192e8f06570e13e18107fd5801952e42ae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350428826, photo 639385368, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77f95ac4494c0001cd4302628950dd04bfca2b2fd0fffc65692c991807995bfa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Cabomba caroliniana maps to indexed species cabomba-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "77f95ac4494c0001cd4302628950dd04bfca2b2fd0fffc65692c991807995bfa"
+      "sha256": "77f95ac4494c0001cd4302628950dd04bfca2b2fd0fffc65692c991807995bfa",
+      "display_sha256": "31786ee6cb967f7e9f0e4f04e927649cf8e138fdf95c1aeb4dc635a223b5e45f",
+      "display_blob_sha": "c2b208d052f008f97d06276b0fa668a28991ff7b",
+      "display_original_site_sha256": "77f95ac4494c0001cd4302628950dd04bfca2b2fd0fffc65692c991807995bfa",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

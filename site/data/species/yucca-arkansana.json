@@ -106,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65e186488b346e94f137b17d6c41c9b1ffa74676",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343408091, photo 625543100, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fcaefd698e1a75326ffb84fcf0abd5dd3fac24dd000a3c92a41dfd47fddd44d7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca arkansana maps to indexed species yucca-arkansana; specialist morphology and BONAP range deferred.",
-      "sha256": "fcaefd698e1a75326ffb84fcf0abd5dd3fac24dd000a3c92a41dfd47fddd44d7"
+      "sha256": "fcaefd698e1a75326ffb84fcf0abd5dd3fac24dd000a3c92a41dfd47fddd44d7",
+      "display_sha256": "7eb01da208e267a5977246d0c896507d6c1a60eafdf503c173516f01fe423962",
+      "display_blob_sha": "216bd40467288f343b7412a5b114a10d4466e8a3",
+      "display_original_site_sha256": "fcaefd698e1a75326ffb84fcf0abd5dd3fac24dd000a3c92a41dfd47fddd44d7",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-arkansana/inat-644492019.jpg",
@@ -125,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fac28685389f94efe41b51a2945b0ee0ce964619",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353194856, photo 644492019, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a1da628d18f8e6ac7fa0a2ea341f1a415f188c9b36dcd4db1a4a4b5be7246f3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca arkansana maps to indexed species yucca-arkansana; specialist morphology and BONAP range deferred.",
-      "sha256": "a1da628d18f8e6ac7fa0a2ea341f1a415f188c9b36dcd4db1a4a4b5be7246f3d"
+      "sha256": "a1da628d18f8e6ac7fa0a2ea341f1a415f188c9b36dcd4db1a4a4b5be7246f3d",
+      "display_sha256": "f60702a94d220c2aaff39f8820c2ca4b48f2802c0947c774ad6d493acf0c871d",
+      "display_blob_sha": "d301dba4c7073859ce52c3d7b5b68486a8066d53",
+      "display_original_site_sha256": "a1da628d18f8e6ac7fa0a2ea341f1a415f188c9b36dcd4db1a4a4b5be7246f3d",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

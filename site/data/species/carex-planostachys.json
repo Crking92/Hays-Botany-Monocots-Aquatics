@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aeacf79c12d69f9d0479e279202fe5ec0e1560c3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353792139, photo 645471704, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 87cf41aea43a17bd476b7167a85ca8faf7527bb80557355a2e8a3d0edbf62844. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex planostachys maps to indexed species carex-planostachys; specialist morphology and BONAP range deferred.",
-      "sha256": "87cf41aea43a17bd476b7167a85ca8faf7527bb80557355a2e8a3d0edbf62844"
+      "sha256": "87cf41aea43a17bd476b7167a85ca8faf7527bb80557355a2e8a3d0edbf62844",
+      "display_sha256": "848b298c063dadcd6d9f84b28f7527c026a06cae957ef3fb69e21862a0c1ad6a",
+      "display_blob_sha": "136127ba6c5be3d4f3231d0879eb456dbf784dfd",
+      "display_original_site_sha256": "87cf41aea43a17bd476b7167a85ca8faf7527bb80557355a2e8a3d0edbf62844",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-planostachys/inat-645510133.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a86d382533331136d302f1aeed2950162d37bfb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353813533, photo 645510133, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 46c572d48cd2aef428bd809567e587ee4bdc827df31056cc45036a42a6b0c977. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex planostachys maps to indexed species carex-planostachys; specialist morphology and BONAP range deferred.",
-      "sha256": "46c572d48cd2aef428bd809567e587ee4bdc827df31056cc45036a42a6b0c977"
+      "sha256": "46c572d48cd2aef428bd809567e587ee4bdc827df31056cc45036a42a6b0c977",
+      "display_sha256": "726323aaa0d9a93ddcf3d6415a43a2d43381c0751f6ff9520ed1295969adfbb9",
+      "display_blob_sha": "3a3a7b8b661f84fdbe8b1244da7460921eb6a674",
+      "display_original_site_sha256": "46c572d48cd2aef428bd809567e587ee4bdc827df31056cc45036a42a6b0c977",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-planostachys/inat-646626564.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f53f26acfbabeca7825e7ddfc28c22df414567c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354466772, photo 646626564, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32dbece8356ea7ed81faf0c83c21d71051a63eb870e218d7440950c6d55e3895. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex planostachys maps to indexed species carex-planostachys; specialist morphology and BONAP range deferred.",
-      "sha256": "32dbece8356ea7ed81faf0c83c21d71051a63eb870e218d7440950c6d55e3895"
+      "sha256": "32dbece8356ea7ed81faf0c83c21d71051a63eb870e218d7440950c6d55e3895",
+      "display_sha256": "b1358b1535e8ec27ffeac2c7e8b9c851bd25c0d1cac1d711de38e7a029877b75",
+      "display_blob_sha": "96df44338705be98b9880c4d7ba761797ba327d1",
+      "display_original_site_sha256": "32dbece8356ea7ed81faf0c83c21d71051a63eb870e218d7440950c6d55e3895",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-planostachys/inat-648965910.jpg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05c42c9ae1bfefd82903f7bddb63672e65c7df90",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355866714, photo 648965910, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9ecbf61d8aa7d0c53245bf10512116eea127e9394850862eb0845fe30df4d6a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex planostachys maps to indexed species carex-planostachys; specialist morphology and BONAP range deferred.",
-      "sha256": "9ecbf61d8aa7d0c53245bf10512116eea127e9394850862eb0845fe30df4d6a7"
+      "sha256": "9ecbf61d8aa7d0c53245bf10512116eea127e9394850862eb0845fe30df4d6a7",
+      "display_sha256": "8ce5cd3ce789f9a4771215ec2f623fadaf742bc3cf017edcf0949b61f60edbe0",
+      "display_blob_sha": "8c667a08fec9019dabb5a06e00a015dc1b17b5cd",
+      "display_original_site_sha256": "9ecbf61d8aa7d0c53245bf10512116eea127e9394850862eb0845fe30df4d6a7",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-planostachys/inat-653181897.jpg",
@@ -144,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d073a41142536a3edbd1d4d0a612bb588e1355f9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 358084774, photo 653181897, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0647cc6516b25bd43de9e12d1ef4f8ebb5a30abc135e70372a49d140878c3ad9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex planostachys maps to indexed species carex-planostachys; specialist morphology and BONAP range deferred.",
-      "sha256": "0647cc6516b25bd43de9e12d1ef4f8ebb5a30abc135e70372a49d140878c3ad9"
+      "sha256": "0647cc6516b25bd43de9e12d1ef4f8ebb5a30abc135e70372a49d140878c3ad9",
+      "display_sha256": "82f9ebd9181f1d218ab66c478a19f2a2831b745da39ac49ed53c1c1f9d1ba12c",
+      "display_blob_sha": "4003cb5904840cab4fae8fe6096802429d0d470c",
+      "display_original_site_sha256": "0647cc6516b25bd43de9e12d1ef4f8ebb5a30abc135e70372a49d140878c3ad9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

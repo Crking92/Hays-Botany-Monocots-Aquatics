@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "400c3f1e6dcc99d0ec13579ff14a6100d03ef667",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357205401, photo 651477870, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 654fffb00a2e75de5920cfaacb4ba78c624d3e79f1942c4ace9155b8f7f53a39. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus retroflexus maps to indexed species cyperus-retroflexus; specialist morphology and BONAP range deferred.",
-      "sha256": "654fffb00a2e75de5920cfaacb4ba78c624d3e79f1942c4ace9155b8f7f53a39"
+      "sha256": "654fffb00a2e75de5920cfaacb4ba78c624d3e79f1942c4ace9155b8f7f53a39",
+      "display_sha256": "c0a7a7ccc73f12ab51f4e3ea61225772b0667b7cbbdf7dc1f658ba3f2581379c",
+      "display_blob_sha": "b3f541417fae73218dba641f00ec7a7e8f6f02b3",
+      "display_original_site_sha256": "654fffb00a2e75de5920cfaacb4ba78c624d3e79f1942c4ace9155b8f7f53a39",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-retroflexus/inat-652689812.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "28087bafcb0055ac1d3327baaad8b7b2114e0084",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357824972, photo 652689812, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a13b9bf2f2dab414b3c26051f5ba126c35a377fe71364bc573d487b30ede35b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus retroflexus maps to indexed species cyperus-retroflexus; specialist morphology and BONAP range deferred.",
-      "sha256": "2a13b9bf2f2dab414b3c26051f5ba126c35a377fe71364bc573d487b30ede35b"
+      "sha256": "2a13b9bf2f2dab414b3c26051f5ba126c35a377fe71364bc573d487b30ede35b",
+      "display_sha256": "b53606d42c5d15ea0d01e47e12a352fa2d3f488ce403a365094e70eceb0026ee",
+      "display_blob_sha": "d0c674c2d457a6d83f7fdaccfeb6b6f98bb5e3e3",
+      "display_original_site_sha256": "2a13b9bf2f2dab414b3c26051f5ba126c35a377fe71364bc573d487b30ede35b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

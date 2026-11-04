@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d2b090094634159e9eae3c869c0b3a08bda1f55c",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/180037401 returned individual photo 313533632 license cc-by, photographer (c) Reid Hardin, some rights reserved (CC BY), SHA256 c933c5bc7e9f6c0c7f0a5bf53593dd6b65ddb433b0b615964b326f276d33c1d2; original image https://inaturalist-open-data.s3.amazonaws.com/photos/313533632/original.jpeg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon fimbristylis vahlii; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "c933c5bc7e9f6c0c7f0a5bf53593dd6b65ddb433b0b615964b326f276d33c1d2"
+      "sha256": "c933c5bc7e9f6c0c7f0a5bf53593dd6b65ddb433b0b615964b326f276d33c1d2",
+      "display_sha256": "1dfbe350ca2f3a079e3f7b4a78e3d63c09091dc21e40176474a12225684ada23",
+      "display_blob_sha": "f728aada93ea3247a507a59ebbf6b0d559838061",
+      "display_original_site_sha256": "c933c5bc7e9f6c0c7f0a5bf53593dd6b65ddb433b0b615964b326f276d33c1d2",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fimbristylis-vahlii/photo_2_086d0118059d8dfc.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "287ed844b0d1e9e16eb41b63288ce56585ce078c",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/328839305 returned individual photo 595963751 license cc-by-nc, photographer (c) Emma Berndt, some rights reserved (CC BY-NC), SHA256 086d0118059d8dfc88d4b7eeaac939cdb3cc6a6f279f1cd4ab4f55de0f4f486e; original image https://inaturalist-open-data.s3.amazonaws.com/photos/595963751/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon fimbristylis vahlii; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "086d0118059d8dfc88d4b7eeaac939cdb3cc6a6f279f1cd4ab4f55de0f4f486e"
+      "sha256": "086d0118059d8dfc88d4b7eeaac939cdb3cc6a6f279f1cd4ab4f55de0f4f486e",
+      "display_sha256": "ceb71c9bd276d47f857c5846ec5af75d089de2cde468585dc9e80c18e3df163e",
+      "display_blob_sha": "858dc3885b3f3b4eaddd8bd565ef6052cb5e2b98",
+      "display_original_site_sha256": "086d0118059d8dfc88d4b7eeaac939cdb3cc6a6f279f1cd4ab4f55de0f4f486e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fimbristylis-vahlii/gbif-2807315839.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "cffb45def7093e8f003690700819d1c18f731bcb",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/2807315839 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65203787870892574622.att.jpg, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: f5ae22dbfe29584e04cff3c6370727a73d62e345dce0ded454973e0e2f6e5a24",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon fimbristylis vahlii; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "f5ae22dbfe29584e04cff3c6370727a73d62e345dce0ded454973e0e2f6e5a24"
+      "sha256": "f5ae22dbfe29584e04cff3c6370727a73d62e345dce0ded454973e0e2f6e5a24",
+      "display_sha256": "4c192be376fa854ce1c8db97be55df199466089efcf3885018f361fdbecd33f4",
+      "display_blob_sha": "300d517ad137e6b647586e01ee75cd400e4e9adf",
+      "display_original_site_sha256": "f5ae22dbfe29584e04cff3c6370727a73d62e345dce0ded454973e0e2f6e5a24",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fimbristylis-vahlii/gbif-4403306502.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2daf85bb2933e0d4565100ee5263561548a01b01",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/4403306502 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp63462916968708884995.att.JPG, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: dda108934ce77c00304f634bc9dad4ee59319f3f0f08229f6fb12387ef1f9c26",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon fimbristylis vahlii; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "dda108934ce77c00304f634bc9dad4ee59319f3f0f08229f6fb12387ef1f9c26"
+      "sha256": "dda108934ce77c00304f634bc9dad4ee59319f3f0f08229f6fb12387ef1f9c26",
+      "display_sha256": "f9970681483a2a4aab4159195c3d418a90f43518889693e835d7eeccf44e25a5",
+      "display_blob_sha": "18c49f7dc357453b3f3258151a62fcd286b41d06",
+      "display_original_site_sha256": "dda108934ce77c00304f634bc9dad4ee59319f3f0f08229f6fb12387ef1f9c26",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fimbristylis-vahlii/gbif-6490989610.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b81dfa1bae39a2d8dc846474c4f53f968df6ef86",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/6490989610 has exact media identifier https://intermountainbiota.org/media/intermt/WS/00417/WS070871.JPG, image-level license https://creativecommons.org/licenses/by-nc/4.0/, provider credit  Washington State University Marion Ownbey Herbarium (WS-WS) ; original uploaded ZIP SHA256 matches live media: 1d2f337b813fb96b1abd005886d885e7b123c9e473ffcabd3a10df2f4ac840ca",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon fimbristylis vahlii; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "1d2f337b813fb96b1abd005886d885e7b123c9e473ffcabd3a10df2f4ac840ca"
+      "sha256": "1d2f337b813fb96b1abd005886d885e7b123c9e473ffcabd3a10df2f4ac840ca",
+      "display_sha256": "38291652d3aec039c0ad4d68fb59643134f51893881dce3e31d151558d82acc1",
+      "display_blob_sha": "053f88c74ce6456d0ff4e173156e51df9cc44afd",
+      "display_original_site_sha256": "1d2f337b813fb96b1abd005886d885e7b123c9e473ffcabd3a10df2f4ac840ca",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a50efc8a55e1a3a550e4f8390f58098b1ceaa58e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 116882317, photo 197336050, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03b2cfd88333d44fcea45e77b767071b01fd12a7ec49d61b1ea6af76c7039fa4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Echinodorus berteroi maps to indexed species echinodorus-berteroi (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "03b2cfd88333d44fcea45e77b767071b01fd12a7ec49d61b1ea6af76c7039fa4"
+      "sha256": "03b2cfd88333d44fcea45e77b767071b01fd12a7ec49d61b1ea6af76c7039fa4",
+      "display_sha256": "3848e9abed8b20dd3c343a65aa11a74409259bce3a2d6d534839cf89cecff990",
+      "display_blob_sha": "8f5e9f30ebec567c5c8a359ca225ab72e7d7720d",
+      "display_original_site_sha256": "03b2cfd88333d44fcea45e77b767071b01fd12a7ec49d61b1ea6af76c7039fa4",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinodorus-berteroi/inat-548528000.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7cb44b4f8da4b3b7cdbdc99616d638ec4c64729c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 304287650, photo 548528000, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ccce59239f78c42beaf5942d54b95c9ced1060f169f23297c615c8f7c78693b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Echinodorus berteroi maps to indexed species echinodorus-berteroi (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ccce59239f78c42beaf5942d54b95c9ced1060f169f23297c615c8f7c78693b9"
+      "sha256": "ccce59239f78c42beaf5942d54b95c9ced1060f169f23297c615c8f7c78693b9",
+      "display_sha256": "c5c11c843ed6af0b697c8d062da7dabd81ea38103732db5e4ac56b2c814782c4",
+      "display_blob_sha": "328f56f9b013fa45cc0806f222203cac4cd834aa",
+      "display_original_site_sha256": "ccce59239f78c42beaf5942d54b95c9ced1060f169f23297c615c8f7c78693b9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/echinodorus-berteroi/inat-552016210.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5093bfd23b380d3d3532f65b6c9a9a92aca3558",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 371771459, photo 679277729, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a44a48942e7236e15b584c3c4e75eaa24e4a5329dc9846bd25eed1ae60c99c9a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Echinodorus berteroi maps to indexed species echinodorus-berteroi (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a44a48942e7236e15b584c3c4e75eaa24e4a5329dc9846bd25eed1ae60c99c9a"
+      "sha256": "a44a48942e7236e15b584c3c4e75eaa24e4a5329dc9846bd25eed1ae60c99c9a",
+      "display_sha256": "c00b3644f3bcf8d29fbfddf3f66b17d3803bfdc11d98360bb80007fb1e9532ee",
+      "display_blob_sha": "78626a84e9183bf02bd4ed3363e99c8089d540b6",
+      "display_original_site_sha256": "a44a48942e7236e15b584c3c4e75eaa24e4a5329dc9846bd25eed1ae60c99c9a",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

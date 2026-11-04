@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e993b3b60a299fc1b2885cfcb9df57b823e9aaa1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 153283235, photo 264722242, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2c8be0dada7efcdfd657a86cf65eefff16baad4663356b89893313ebf064ce91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Corallorhiza wisteriana maps to indexed species corallorhiza-wisteriana; specialist morphology and BONAP range deferred.",
-      "sha256": "2c8be0dada7efcdfd657a86cf65eefff16baad4663356b89893313ebf064ce91"
+      "sha256": "2c8be0dada7efcdfd657a86cf65eefff16baad4663356b89893313ebf064ce91",
+      "display_sha256": "dee019d8a379c3455bca5bd69e66d427038250da7555e34c8ff9d3d4a53a9ecd",
+      "display_blob_sha": "980da796c06abe062274a604007bd1d312fe471e",
+      "display_original_site_sha256": "2c8be0dada7efcdfd657a86cf65eefff16baad4663356b89893313ebf064ce91",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corallorhiza-wisteriana/inat-476945533.jpeg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0ddc0ee7176b339fbf653fcf6922b929ebe59b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341958697, photo 622631325, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94843cb50b457a4f0b0d9d96d086b9e8f68c35a87c17276e0514abcb42e746af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Corallorhiza wisteriana maps to indexed species corallorhiza-wisteriana; specialist morphology and BONAP range deferred.",
-      "sha256": "94843cb50b457a4f0b0d9d96d086b9e8f68c35a87c17276e0514abcb42e746af"
+      "sha256": "94843cb50b457a4f0b0d9d96d086b9e8f68c35a87c17276e0514abcb42e746af",
+      "display_sha256": "de7a543ed1317c0c9b0e0a179f562d5ef663a280805a07246514a7028b1ce0af",
+      "display_blob_sha": "92f52d0ae65c666355738bbc3913232a51c08172",
+      "display_original_site_sha256": "94843cb50b457a4f0b0d9d96d086b9e8f68c35a87c17276e0514abcb42e746af",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/corallorhiza-wisteriana/inat-624696830.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f19f9b9f1cb7c96c3bf02996146a50614423e1e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ophioglossaceae-Orobanchaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344743280, photo 628177981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 825e3e0a156f606cfcd2bd29bcdad9216534b1e74910074f59c6566175a71c48. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 family contact sheets inspected for obvious off-target organisms. Live source name Corallorhiza wisteriana maps to indexed species corallorhiza-wisteriana; specialist morphology and BONAP range deferred.",
-      "sha256": "825e3e0a156f606cfcd2bd29bcdad9216534b1e74910074f59c6566175a71c48"
+      "sha256": "825e3e0a156f606cfcd2bd29bcdad9216534b1e74910074f59c6566175a71c48",
+      "display_sha256": "d42f8418ef282d433d513bbda4e2625b07c1dd25eb7838de3f9d392c4346bd29",
+      "display_blob_sha": "9d4b73fa45b798855e038dd7153be759858363c1",
+      "display_original_site_sha256": "825e3e0a156f606cfcd2bd29bcdad9216534b1e74910074f59c6566175a71c48",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

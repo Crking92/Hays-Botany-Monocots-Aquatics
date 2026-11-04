@@ -80,12 +80,17 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3dd5533f680123f1f8ac2c0b78ac5d40f74541f4",
       "role": "Live field-habit view: basal leaves and several upright flowering stems with reddish-brown inflorescences; pavement-edge setting. Does not show underground tubers or diagnostic floret details.",
-      "modified": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
+      "modified": "Resized and recompressed web display copy; source note: Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 1805368371 was re-read; its exact media URL, image-level CC BY 4.0 license and credited creator match the download metadata. The GBIF taxon is accepted Cyperus rotundus. The new photograph adds a live field-habit view with basal leaves, upright stems and mature inflorescences at an urban pavement edge; existing gallery already shows inflorescence, spikelet detail and tuber. No Hays County locality or native-range claim is made.",
       "photo_approved_by": "Codex automated source and visual review; user-authorized publication",
-      "sha256": "90cce89217b96dcd95fad7f1ecaca911504b4a16f3970fc89acf40be1e714dde"
+      "sha256": "90cce89217b96dcd95fad7f1ecaca911504b4a16f3970fc89acf40be1e714dde",
+      "display_sha256": "f4783839848f4f2f858d14268b9534b0443f324f07d0155d1cf2150b02a2c9e1",
+      "display_blob_sha": "a9c92cfef146a94b03fa801c0ac5e014f8bc754f",
+      "display_original_site_sha256": "90cce89217b96dcd95fad7f1ecaca911504b4a16f3970fc89acf40be1e714dde",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-rotundus/inat-644154836.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "76eddff5ef1cf6edea829a4d468beac78fe3ce48",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353003975, photo 644154836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 727a4c2898112a3b973763857ef6b2f6a2b178162d70497340265a732a20f003. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus rotundus maps to indexed species cyperus-rotundus; specialist morphology and BONAP range deferred.",
-      "sha256": "727a4c2898112a3b973763857ef6b2f6a2b178162d70497340265a732a20f003"
+      "sha256": "727a4c2898112a3b973763857ef6b2f6a2b178162d70497340265a732a20f003",
+      "display_sha256": "b13eda37953c785d9488380b669eee56250fcf113099f559fca0f5ed276ccda9",
+      "display_blob_sha": "f1043bab9f1b5d7d2e4616c919c726c3f32ed035",
+      "display_original_site_sha256": "727a4c2898112a3b973763857ef6b2f6a2b178162d70497340265a732a20f003",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-rotundus/inat-648335437.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "425ef2d45679df63fd1a8bf9459d3d3dfc017e96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355529120, photo 648335437, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5db294857b419dabe4dbc966f93933960e8aa7a84e844f9001f4cb844e3ec4e9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus rotundus maps to indexed species cyperus-rotundus; specialist morphology and BONAP range deferred.",
-      "sha256": "5db294857b419dabe4dbc966f93933960e8aa7a84e844f9001f4cb844e3ec4e9"
+      "sha256": "5db294857b419dabe4dbc966f93933960e8aa7a84e844f9001f4cb844e3ec4e9",
+      "display_sha256": "ea81d255784e404a8159e3580db07d8e47c240ddbb6af8e353ebee44e5418f5e",
+      "display_blob_sha": "b5984a522c4dc60b35daf9d68f9a9fdfbb0386e9",
+      "display_original_site_sha256": "5db294857b419dabe4dbc966f93933960e8aa7a84e844f9001f4cb844e3ec4e9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-rotundus/inat-656595104.jpg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a1e636b3049b43d66ec582ca24dc3f6952157b42",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 359852429, photo 656595104, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b8b607ef29b2005636dfb93350f67f3d1fbd3a32c67804945e4f47170d93f8c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus rotundus maps to indexed species cyperus-rotundus; specialist morphology and BONAP range deferred.",
-      "sha256": "7b8b607ef29b2005636dfb93350f67f3d1fbd3a32c67804945e4f47170d93f8c"
+      "sha256": "7b8b607ef29b2005636dfb93350f67f3d1fbd3a32c67804945e4f47170d93f8c",
+      "display_sha256": "7cc60cbdb3c4edbfe66ef650763c232dd2d83ea2d7540d589417de5463ac5011",
+      "display_blob_sha": "6e2a7aea909dbb1acf50dd03a65ea423702371c4",
+      "display_original_site_sha256": "7b8b607ef29b2005636dfb93350f67f3d1fbd3a32c67804945e4f47170d93f8c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

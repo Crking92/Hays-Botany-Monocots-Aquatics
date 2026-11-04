@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7feb18fc686561a56440386e547b1f13881bea1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 76820760, photo 125643136, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ef9ded17a5f111e0ef3ab7b197652e1408d940ed43b1d806545d998432c48250. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca treculiana maps to indexed species yucca-treculiana; specialist morphology and BONAP range deferred.",
-      "sha256": "ef9ded17a5f111e0ef3ab7b197652e1408d940ed43b1d806545d998432c48250"
+      "sha256": "ef9ded17a5f111e0ef3ab7b197652e1408d940ed43b1d806545d998432c48250",
+      "display_sha256": "f58c0ec39f34070b81081dd77bb4bbfe9586b2099f1eb3319544c10f7d770158",
+      "display_blob_sha": "83aa12ef130525e2d5e86b1dea73232ef58b1e28",
+      "display_original_site_sha256": "ef9ded17a5f111e0ef3ab7b197652e1408d940ed43b1d806545d998432c48250",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-treculiana/inat-14169275.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7581063354f15b13c9024e75b3a85449c270c111",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 10245065, photo 14169275, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e62336fa87cf722426a916fdc70de1af8f252a73a902e0c216da6c2d48fb145. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca treculiana maps to indexed species yucca-treculiana; specialist morphology and BONAP range deferred.",
-      "sha256": "2e62336fa87cf722426a916fdc70de1af8f252a73a902e0c216da6c2d48fb145"
+      "sha256": "2e62336fa87cf722426a916fdc70de1af8f252a73a902e0c216da6c2d48fb145",
+      "display_sha256": "c315c8f2bb80cddd598421a4a6bf039c5f85925dab9be7bb537acaa9b5b0e615",
+      "display_blob_sha": "5f255823c0bb0ac82de1bbd033742d2caee0d8ca",
+      "display_original_site_sha256": "2e62336fa87cf722426a916fdc70de1af8f252a73a902e0c216da6c2d48fb145",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-treculiana/inat-192968736.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17ae2a97ea4e1772baf366cc3df1652cd28d4602",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 114263629, photo 192968736, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b21166cc26b87196bdadfc47153ae0ec3ee83a619f593aec7d377d633f4fc4e0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca treculiana maps to indexed species yucca-treculiana; specialist morphology and BONAP range deferred.",
-      "sha256": "b21166cc26b87196bdadfc47153ae0ec3ee83a619f593aec7d377d633f4fc4e0"
+      "sha256": "b21166cc26b87196bdadfc47153ae0ec3ee83a619f593aec7d377d633f4fc4e0",
+      "display_sha256": "d81e8f262e8e59ea186945a79b1c18d605c796ac6a4804a24ddd377fffa0fdbf",
+      "display_blob_sha": "fa6b16bd257d1de516c70a84f92f9263b8e1a6f8",
+      "display_original_site_sha256": "b21166cc26b87196bdadfc47153ae0ec3ee83a619f593aec7d377d633f4fc4e0",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-treculiana/inat-65303974.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d35cb5668a328899b0cfd86fa624e305d1597d31",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 41179975, photo 65303974, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a64f88b47b96aa76bb0a4ab995f66398fbde2e0e3718f3fdc3a571a6ef886eda. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca treculiana maps to indexed species yucca-treculiana; specialist morphology and BONAP range deferred.",
-      "sha256": "a64f88b47b96aa76bb0a4ab995f66398fbde2e0e3718f3fdc3a571a6ef886eda"
+      "sha256": "a64f88b47b96aa76bb0a4ab995f66398fbde2e0e3718f3fdc3a571a6ef886eda",
+      "display_sha256": "8d30c2be5f37906eb095fe9f0df23692973a4fb5577035a234cd9171135e537f",
+      "display_blob_sha": "339db53e992487725bc478a77ed6de421ffd0913",
+      "display_original_site_sha256": "a64f88b47b96aa76bb0a4ab995f66398fbde2e0e3718f3fdc3a571a6ef886eda",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-treculiana/inat-68641149.jpeg",
@@ -172,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd2cf00a4818d4889f44cc855d751ff7675a516b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 43246393, photo 68641149, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a4110850d2850d1c949c61dff2b66e071910e811ad98537b2ffe0555984c5324. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca treculiana maps to indexed species yucca-treculiana; specialist morphology and BONAP range deferred.",
-      "sha256": "a4110850d2850d1c949c61dff2b66e071910e811ad98537b2ffe0555984c5324"
+      "sha256": "a4110850d2850d1c949c61dff2b66e071910e811ad98537b2ffe0555984c5324",
+      "display_sha256": "906d377d5b608107fa645d0b0762ae7814ef09323fb74d260df68148e06e47c6",
+      "display_blob_sha": "9507699e69154e7addc3871417713f8b836deee4",
+      "display_original_site_sha256": "a4110850d2850d1c949c61dff2b66e071910e811ad98537b2ffe0555984c5324",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "10bb04dd3b44ced228294752059ee3c58ed66087",
       "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
-      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "modified": "Resized and recompressed web display copy; source note: Resaved JPEG with metadata removed (original source rights remain attached)",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 6188135843 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/634375198/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator mbyhower; dHash distance 1; archived source SHA 10bb04dd3b44ced228294752059ee3c58ed66087; exact image source https://www.inaturalist.org/photos/634375198",
       "taxon_review_evidence": "Original species record Tradescantia occidentalis linked to an original image and matching current gbif photo of source taxon Tradescantia occidentalis. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "731b278788ba1cdd787e202963c3813b2f10ee03abe4922b3bc95d1ade88a235"
+      "sha256": "731b278788ba1cdd787e202963c3813b2f10ee03abe4922b3bc95d1ade88a235",
+      "display_sha256": "3c0255a370bb7fe542a032c9aa4487f72a7c5c3934fb8707d14345420232daf7",
+      "display_blob_sha": "51681acc173d5478b3e812b57f3a5e645c1b7c96",
+      "display_original_site_sha256": "731b278788ba1cdd787e202963c3813b2f10ee03abe4922b3bc95d1ade88a235",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

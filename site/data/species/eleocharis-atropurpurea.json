@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "104c6bf05c1cafb809c3ea7154f9ca345c37a337",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 170329363, photo 295401638, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ac5b6ff83eab73b10d16b1ca28665b326182b300e5f5f2473d633d2885d3fd26. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Eleocharis atropurpurea maps to indexed species eleocharis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "ac5b6ff83eab73b10d16b1ca28665b326182b300e5f5f2473d633d2885d3fd26"
+      "sha256": "ac5b6ff83eab73b10d16b1ca28665b326182b300e5f5f2473d633d2885d3fd26",
+      "display_sha256": "e742fc7962d3108d381df1492ee604b2ba15fe827653effb014d350328c4dfc8",
+      "display_blob_sha": "114caeee805b1c870b6bef438638ccea53c3822a",
+      "display_original_site_sha256": "ac5b6ff83eab73b10d16b1ca28665b326182b300e5f5f2473d633d2885d3fd26",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/eleocharis-atropurpurea/inat-368329149.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ec0198ab8dccf9294d224860694da14f79b79bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208192614, photo 368329149, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49c5a2d0344c4ff53f25f9c41920226fb47e795d2b250a248bdb4bb8ba5e62c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Eleocharis atropurpurea maps to indexed species eleocharis-atropurpurea; specialist morphology and BONAP range deferred.",
-      "sha256": "49c5a2d0344c4ff53f25f9c41920226fb47e795d2b250a248bdb4bb8ba5e62c1"
+      "sha256": "49c5a2d0344c4ff53f25f9c41920226fb47e795d2b250a248bdb4bb8ba5e62c1",
+      "display_sha256": "9abc2b95776344831869e212793d4c9fc0c91e92cc9f472e0fdb6fac45e8ec55",
+      "display_blob_sha": "704ab3ee18be11e29e1bbf2dc490eaf2b9e07df7",
+      "display_original_site_sha256": "49c5a2d0344c4ff53f25f9c41920226fb47e795d2b250a248bdb4bb8ba5e62c1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

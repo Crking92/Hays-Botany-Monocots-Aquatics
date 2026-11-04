@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20f2dce006b0fe9bb0d5318c8ccc2cea792090f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349118320, photo 636811678, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02ea9eb29d7deba576b9d1d775387b1a745921a139d1001d45124c4e3e380713. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium ensigerum maps to indexed species sisyrinchium-ensigerum; specialist morphology and BONAP range deferred.",
-      "sha256": "02ea9eb29d7deba576b9d1d775387b1a745921a139d1001d45124c4e3e380713"
+      "sha256": "02ea9eb29d7deba576b9d1d775387b1a745921a139d1001d45124c4e3e380713",
+      "display_sha256": "db989cd0d59b6c9b5ef34c270406c51a44bc724839193011420728b62dc06759",
+      "display_blob_sha": "e1adf97341618713d51fd8d86097114d83944f2d",
+      "display_original_site_sha256": "02ea9eb29d7deba576b9d1d775387b1a745921a139d1001d45124c4e3e380713",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisyrinchium-ensigerum/inat-645902480.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96d73fb209e67af77657a21e79f24f64a1c17f65",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354031429, photo 645902480, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1654b7b5ad3931fd78e0047cc877f82b9841dd011eb8fa12f10041027541b735. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium ensigerum maps to indexed species sisyrinchium-ensigerum; specialist morphology and BONAP range deferred.",
-      "sha256": "1654b7b5ad3931fd78e0047cc877f82b9841dd011eb8fa12f10041027541b735"
+      "sha256": "1654b7b5ad3931fd78e0047cc877f82b9841dd011eb8fa12f10041027541b735",
+      "display_sha256": "5ae32c7d07045dcb0b21b73c13361a5be116454f67fec9da73a7533e4969e04c",
+      "display_blob_sha": "0a54c0a2ec6e17cdfdd19addfba56193d958b91b",
+      "display_original_site_sha256": "1654b7b5ad3931fd78e0047cc877f82b9841dd011eb8fa12f10041027541b735",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisyrinchium-ensigerum/inat-647118918.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08e33e494c775f8af529ff6f8ad221cfefc7b805",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354755333, photo 647118918, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b6867a07d6f9500bb530e4e26f302d858b0784cd9f97de6bed798e489591d570. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium ensigerum maps to indexed species sisyrinchium-ensigerum; specialist morphology and BONAP range deferred.",
-      "sha256": "b6867a07d6f9500bb530e4e26f302d858b0784cd9f97de6bed798e489591d570"
+      "sha256": "b6867a07d6f9500bb530e4e26f302d858b0784cd9f97de6bed798e489591d570",
+      "display_sha256": "00f314545ace668c7217a5611b75aa51f61566fd1404727c6c0084b63321aad6",
+      "display_blob_sha": "e74291a6e13b4e80a54b704129935eaf082ff336",
+      "display_original_site_sha256": "b6867a07d6f9500bb530e4e26f302d858b0784cd9f97de6bed798e489591d570",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sisyrinchium-ensigerum/inat-651709273.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a45c3e71fd4e32a04d6b561ce19e45e1b58daabf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353560307, photo 651709273, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c45c2de9b1fcef469055d0c22aa6c60c1250db36362bb3b840a1e711b7782ed5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Sisyrinchium ensigerum maps to indexed species sisyrinchium-ensigerum; specialist morphology and BONAP range deferred.",
-      "sha256": "c45c2de9b1fcef469055d0c22aa6c60c1250db36362bb3b840a1e711b7782ed5"
+      "sha256": "c45c2de9b1fcef469055d0c22aa6c60c1250db36362bb3b840a1e711b7782ed5",
+      "display_sha256": "a69753aba57ce1e23462c55df8127a3085e1db8bbf999838b8c488be729af134",
+      "display_blob_sha": "7bd57de3baad5e2733c67a94877d56334ee35f6f",
+      "display_original_site_sha256": "c45c2de9b1fcef469055d0c22aa6c60c1250db36362bb3b840a1e711b7782ed5",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

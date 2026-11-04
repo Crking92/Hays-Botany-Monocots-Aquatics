@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "398346dc390625bdfeb24deeef993716b87dffbd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 340861008, photo 620380528, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ea0b89a0b7c7cbeddc6e5f63aff3c9b9f20fb151852637778418c6a12bb5914. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tillandsia recurvata maps to indexed species tillandsia-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "2ea0b89a0b7c7cbeddc6e5f63aff3c9b9f20fb151852637778418c6a12bb5914"
+      "sha256": "2ea0b89a0b7c7cbeddc6e5f63aff3c9b9f20fb151852637778418c6a12bb5914",
+      "display_sha256": "f41d701016211a42a92dcfdd578f9785db47c4d6faf2bd322dff094c68926ba2",
+      "display_blob_sha": "9035316d853d3b1deb6ffd42557503923196cca8",
+      "display_original_site_sha256": "2ea0b89a0b7c7cbeddc6e5f63aff3c9b9f20fb151852637778418c6a12bb5914",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tillandsia-recurvata/inat-620977191.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9cd2defb9afcc584663e52918045cd9be7d7153f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341150825, photo 620977191, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0015ff4e263b0b523fc107527cebe626bcb4b6e2da2efcf0ddbc9f134f722f2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tillandsia recurvata maps to indexed species tillandsia-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "0015ff4e263b0b523fc107527cebe626bcb4b6e2da2efcf0ddbc9f134f722f2c"
+      "sha256": "0015ff4e263b0b523fc107527cebe626bcb4b6e2da2efcf0ddbc9f134f722f2c",
+      "display_sha256": "0b3542e78f796d8053b379c8543284a5abba43b23153b81f9540cea6983d8e5d",
+      "display_blob_sha": "173946ec4d9f0b2eacf3c25812f7075e2f9467dc",
+      "display_original_site_sha256": "0015ff4e263b0b523fc107527cebe626bcb4b6e2da2efcf0ddbc9f134f722f2c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tillandsia-recurvata/inat-621732214.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f2d43fa3be776bebcabfbe97c61420b0f0dc9340",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342833062, photo 624377859, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a442798e14442da1f139c0a59cd20580bf09e3bc64510ec3dbf7a00d5d3a038d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tillandsia recurvata maps to indexed species tillandsia-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "a442798e14442da1f139c0a59cd20580bf09e3bc64510ec3dbf7a00d5d3a038d"
+      "sha256": "a442798e14442da1f139c0a59cd20580bf09e3bc64510ec3dbf7a00d5d3a038d",
+      "display_sha256": "4cd40af17af0863a54dd59ffca32aa01e3cd10163cab00c780eb26280bf19cd0",
+      "display_blob_sha": "02568c30adb2e0db472c3572f6a98e00f2c52808",
+      "display_original_site_sha256": "a442798e14442da1f139c0a59cd20580bf09e3bc64510ec3dbf7a00d5d3a038d",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tillandsia-recurvata/inat-624929551.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f19c8b1b83cb3d1150e1434edda1ab60a88a200",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Brassicaceae–Cabombaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343105720, photo 624929551, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07962ab84180232e55ff39cd49eec654a13890ec3d080f55fb2622867a0524d9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "22 species contact sheets inspected for obvious off-target organisms. Live source name Tillandsia recurvata maps to indexed species tillandsia-recurvata; specialist morphology and BONAP range deferred.",
-      "sha256": "07962ab84180232e55ff39cd49eec654a13890ec3d080f55fb2622867a0524d9"
+      "sha256": "07962ab84180232e55ff39cd49eec654a13890ec3d080f55fb2622867a0524d9",
+      "display_sha256": "420309a657f916b0d474f470616d50185a9e4b1579d0459f187a080798967cfb",
+      "display_blob_sha": "3a5ddc1b4e245bea6007e523b83625eb8ece3d95",
+      "display_original_site_sha256": "07962ab84180232e55ff39cd49eec654a13890ec3d080f55fb2622867a0524d9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

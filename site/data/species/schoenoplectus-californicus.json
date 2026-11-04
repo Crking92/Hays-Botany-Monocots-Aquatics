@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7f1db09d6d73e5d5ab5e23d26b72abad54b30933",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/207387150 returned individual photo 366829470 license cc-by-nc, photographer (c) Sequoia Janirella Wrens, some rights reserved (CC BY-NC), SHA256 527a91da4114eb925b998521ef87285ad125f48a5166b8a9c5e4c1526ed42ce0; original image https://inaturalist-open-data.s3.amazonaws.com/photos/366829470/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon schoenoplectus californicus; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "527a91da4114eb925b998521ef87285ad125f48a5166b8a9c5e4c1526ed42ce0"
+      "sha256": "527a91da4114eb925b998521ef87285ad125f48a5166b8a9c5e4c1526ed42ce0",
+      "display_sha256": "6dbaefaa8e5c2e5b233af682fea51c1681f4e7ab6afcad514222d60ad957157e",
+      "display_blob_sha": "81c3c0b052a163553237c2dd66eeb07b2a5dd77f",
+      "display_original_site_sha256": "527a91da4114eb925b998521ef87285ad125f48a5166b8a9c5e4c1526ed42ce0",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schoenoplectus-californicus/photo_1_cd0678bad040b021.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0889d73df12157da37f34be1e8d8cab6c34597c1",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/248948860 returned individual photo 444924800 license cc-by-nc, photographer (c) Scott Buckel, some rights reserved (CC BY-NC), SHA256 cd0678bad040b021f164bcb4882667b80b1c5a25b5e1a57cccc4e5d6599e5d73; original image https://inaturalist-open-data.s3.amazonaws.com/photos/444924800/original.jpeg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon schoenoplectus californicus; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "cd0678bad040b021f164bcb4882667b80b1c5a25b5e1a57cccc4e5d6599e5d73"
+      "sha256": "cd0678bad040b021f164bcb4882667b80b1c5a25b5e1a57cccc4e5d6599e5d73",
+      "display_sha256": "5e48facdc5ffa6b3c7227dd0cc67bcee5ae3adb7a243271105cf3550ac938c3c",
+      "display_blob_sha": "8fdb921fec0f181f06889a45982c48e273103e45",
+      "display_original_site_sha256": "cd0678bad040b021f164bcb4882667b80b1c5a25b5e1a57cccc4e5d6599e5d73",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schoenoplectus-californicus/photo_3_b51af77dcdd76b60.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d749199afc65d33a7bfee2371146c164ef476e91",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/355039556 returned individual photo 647622417 license cc-by-nc, photographer (c) meageliz, some rights reserved (CC BY-NC), SHA256 b51af77dcdd76b6065c258269e76281289ea907e64679e3cce050f066fda6b77; original image https://inaturalist-open-data.s3.amazonaws.com/photos/647622417/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon schoenoplectus californicus; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "b51af77dcdd76b6065c258269e76281289ea907e64679e3cce050f066fda6b77"
+      "sha256": "b51af77dcdd76b6065c258269e76281289ea907e64679e3cce050f066fda6b77",
+      "display_sha256": "8714b7e02df4e01cf0319978a2dba139f3c39b793c25ab7cea3e13abee2186a5",
+      "display_blob_sha": "0b03252d4c6bf4c4012e0aaed4d3216caab727bb",
+      "display_original_site_sha256": "b51af77dcdd76b6065c258269e76281289ea907e64679e3cce050f066fda6b77",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schoenoplectus-californicus/photo_4_81f3eeaa2c2d6265.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "13b9fdf89c77ffdecf3b22b6c8a9b4b838c67d06",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/355042016 returned individual photo 647626878 license cc-by-nc, photographer (c) Tracey Burke, some rights reserved (CC BY-NC), SHA256 81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9; original image https://inaturalist-open-data.s3.amazonaws.com/photos/647626878/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon schoenoplectus californicus; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9"
+      "sha256": "81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9",
+      "display_sha256": "a41920351827e7a126cea885759a5f7c556f9e9afc6fbcb53d5e742c6a45401a",
+      "display_blob_sha": "e8a79e44503de53efd50bf370e50b8c7f80f1d82",
+      "display_original_site_sha256": "81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schoenoplectus-californicus/gbif-2807287492.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f08a517bac9acaea0cf616d50154c4cc37b4aa32",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/2807287492 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp67913792699159803721.att.jpg, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: 996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon schoenoplectus californicus; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c"
+      "sha256": "996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c",
+      "display_sha256": "5e62901001e82bc8a6162abe9a48118092435795fd81ba362dcf2c817f9a9d23",
+      "display_blob_sha": "8f8b3767fbda4accc5479a27537db911d5b63420",
+      "display_original_site_sha256": "996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

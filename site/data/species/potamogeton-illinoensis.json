@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "461a85f82c1c7b08f917ab49ba971a1b728f3195",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -77,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 153351413, photo 264851186, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a5483a6b773819216420c50f228ef6f30b1898602d2809cfccc6227815e0ec8a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Potamogeton illinoensis maps to indexed species potamogeton-illinoensis; specialist morphology and BONAP range deferred.",
-      "sha256": "a5483a6b773819216420c50f228ef6f30b1898602d2809cfccc6227815e0ec8a"
+      "sha256": "a5483a6b773819216420c50f228ef6f30b1898602d2809cfccc6227815e0ec8a",
+      "display_sha256": "08d25b55bd3f1917d167d2f8a84a86655fe3b340e4a15221e0f6165024d1c3f5",
+      "display_blob_sha": "de31e62cd70a851ef99bcf547fd549f4b0fe5dbb",
+      "display_original_site_sha256": "a5483a6b773819216420c50f228ef6f30b1898602d2809cfccc6227815e0ec8a",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/potamogeton-illinoensis/inat-445524532.jpeg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "214a0ca8231f5e5d4e87dbf50a0c72f71f127c75",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 249253031, photo 445524532, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2dbb8f03386e0d3fa83da41673ee3ab99d8122c58dfef9c113c8df5a8f01416f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Potamogeton illinoensis maps to indexed species potamogeton-illinoensis; specialist morphology and BONAP range deferred.",
-      "sha256": "2dbb8f03386e0d3fa83da41673ee3ab99d8122c58dfef9c113c8df5a8f01416f"
+      "sha256": "2dbb8f03386e0d3fa83da41673ee3ab99d8122c58dfef9c113c8df5a8f01416f",
+      "display_sha256": "3630821cd4d95c7c2194333eec5482975c8eb95a0f0bd1c3a4b64f059c0ba181",
+      "display_blob_sha": "c7db8982e9b14ff6353981c354d9b01be3d13e63",
+      "display_original_site_sha256": "2dbb8f03386e0d3fa83da41673ee3ab99d8122c58dfef9c113c8df5a8f01416f",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/potamogeton-illinoensis/inat-574486080.jpg",

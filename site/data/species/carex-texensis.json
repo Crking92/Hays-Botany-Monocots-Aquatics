@@ -85,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f45193d41118c224858ce223ebd718361a51198c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 280034769, photo 502912056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63a5625979ea93ccab2e52e9d5bb196f1306ad0294f5cb1d1bb03b55e1c1e6b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex texensis maps to indexed species carex-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "63a5625979ea93ccab2e52e9d5bb196f1306ad0294f5cb1d1bb03b55e1c1e6b0"
+      "sha256": "63a5625979ea93ccab2e52e9d5bb196f1306ad0294f5cb1d1bb03b55e1c1e6b0",
+      "display_sha256": "251b2ed296aecc0a06675b793f3c37019843a0e798c6b435b292e73088d0537a",
+      "display_blob_sha": "b0a36a5b73e8dafb14add8e19ed6aaa55e935e08",
+      "display_original_site_sha256": "63a5625979ea93ccab2e52e9d5bb196f1306ad0294f5cb1d1bb03b55e1c1e6b0",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-texensis/inat-502920309.jpeg",
@@ -104,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aaa523ca146bc1d11e4ddb39990fda2fa059bbfd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 280039620, photo 502920309, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2a2b22f0652812244ca2aefc50686a22491c761dfbd4cbc807c7a4582af126b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex texensis maps to indexed species carex-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "a2a2b22f0652812244ca2aefc50686a22491c761dfbd4cbc807c7a4582af126b"
+      "sha256": "a2a2b22f0652812244ca2aefc50686a22491c761dfbd4cbc807c7a4582af126b",
+      "display_sha256": "86e1ea8a9ed822037ade14754f474119850e97ed3e5895cbe10110629d14a004",
+      "display_blob_sha": "c60926bb26f22999ea56656a1f3c60c210cc603c",
+      "display_original_site_sha256": "a2a2b22f0652812244ca2aefc50686a22491c761dfbd4cbc807c7a4582af126b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-texensis/inat-624974568.jpg",
@@ -123,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f447de91e1289310bceec3871a6b2edc18fc006c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343128776, photo 624974568, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2b45feddfd52c69ebf75cb4b18951d9a21857d4d053fc30c7142c0d10c1f2d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex texensis maps to indexed species carex-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "c2b45feddfd52c69ebf75cb4b18951d9a21857d4d053fc30c7142c0d10c1f2d8"
+      "sha256": "c2b45feddfd52c69ebf75cb4b18951d9a21857d4d053fc30c7142c0d10c1f2d8",
+      "display_sha256": "8e92b8929c1c6e19e6b171028ebbba48a36a7cd1b6eab4b2077d1541bc71ad7d",
+      "display_blob_sha": "9db36eb228c5698ed707cf13205413f8d2b7d959",
+      "display_original_site_sha256": "c2b45feddfd52c69ebf75cb4b18951d9a21857d4d053fc30c7142c0d10c1f2d8",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

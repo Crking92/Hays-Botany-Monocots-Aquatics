@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8f74e71bc7f2b0e20a36630ae853053aeac8f1f",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/57492537 returned individual photo 91708840 license cc-by-nc, photographer (c) Curren Frasch, some rights reserved (CC BY-NC), SHA256 7c17b23969667b4b5d493ce13b1ac317b9a052c5f002b4ee6ce6925e8dabfbc5; original image https://inaturalist-open-data.s3.amazonaws.com/photos/91708840/original.jpeg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon fuirena simplex; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "7c17b23969667b4b5d493ce13b1ac317b9a052c5f002b4ee6ce6925e8dabfbc5"
+      "sha256": "7c17b23969667b4b5d493ce13b1ac317b9a052c5f002b4ee6ce6925e8dabfbc5",
+      "display_sha256": "89786274b5c4a7a3693a3195f895c594e02c55b958de48fab39efd8863c3abf6",
+      "display_blob_sha": "6b4ee1dbb701e748776fb58f3964b81e677c62f3",
+      "display_original_site_sha256": "7c17b23969667b4b5d493ce13b1ac317b9a052c5f002b4ee6ce6925e8dabfbc5",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fuirena-simplex/photo_2_34339e31af89bacd.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd63161d4cb799aaa69086cf77803b866cc72df8",
       "role": "General species recognition photograph; diagnostic structures not certified",
-      "modified": "Original image bytes, unmodified",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, unmodified",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact media license, creator, observation taxon and original image hash verified from live iNaturalist source.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT bulk photo-first visual review and independently checked iNaturalist API",
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/14078436 returned individual photo 20841712 license cc-by-nc, photographer (c) Matt, some rights reserved (CC BY-NC), SHA256 34339e31af89bacdb9c56ade9339dfa4ff29638e02c72b99bcc07d2863205e45; original image https://inaturalist-open-data.s3.amazonaws.com/photos/20841712/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon fuirena simplex; recognition gallery only, no diagnostic-anatomy certification.",
-      "sha256": "34339e31af89bacdb9c56ade9339dfa4ff29638e02c72b99bcc07d2863205e45"
+      "sha256": "34339e31af89bacdb9c56ade9339dfa4ff29638e02c72b99bcc07d2863205e45",
+      "display_sha256": "3f03710909a9932ef06455d15c889cc2b44a145b34e319a15ae3618ea0df322d",
+      "display_blob_sha": "e010a15babc3c2a909661e63dc38cb3500b0e032",
+      "display_original_site_sha256": "34339e31af89bacdb9c56ade9339dfa4ff29638e02c72b99bcc07d2863205e45",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fuirena-simplex/photo_3_4bf211aa09b5d033.jpeg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "984a8e2d3ab01d921636665b94546d60db10ad1e",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/2807329795 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp65372365983648343503.att.jpg, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: fea7180a292f0c0e379f090f15d932434d22d8d049a52eb657dcc37723c4926c",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon fuirena simplex; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "fea7180a292f0c0e379f090f15d932434d22d8d049a52eb657dcc37723c4926c"
+      "sha256": "fea7180a292f0c0e379f090f15d932434d22d8d049a52eb657dcc37723c4926c",
+      "display_sha256": "a99c21c58b9e9b95e5ea08bc5b908f9a8feedce8234d985dd3df507294a53725",
+      "display_blob_sha": "30712b0e41819eb6d89f19694e6e19bd7448fb0a",
+      "display_original_site_sha256": "fea7180a292f0c0e379f090f15d932434d22d8d049a52eb657dcc37723c4926c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/fuirena-simplex/gbif-2807381662.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "dea298ee0f816fa37d1374eb90adca56f7f5c5c1",
       "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
-      "modified": "Original source JPEG, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original source JPEG, no alterations",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
       "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/2807381662 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp66772278334810870447.att.jpg, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: f19d9b4f3b04a73a3636ee8e8cf7244d0310a543dac9baf36e52e9ed719e98bb",
       "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon fuirena simplex; general specimen recognition only, detailed label and diagnostic identification deferred.",
-      "sha256": "f19d9b4f3b04a73a3636ee8e8cf7244d0310a543dac9baf36e52e9ed719e98bb"
+      "sha256": "f19d9b4f3b04a73a3636ee8e8cf7244d0310a543dac9baf36e52e9ed719e98bb",
+      "display_sha256": "f65e89ebf13dad9cf64c3ba4accd125407f44e4cfa7eba0abf693c82bbee2eb2",
+      "display_blob_sha": "8fd1ccab32b2392a9d478d93a9855b401aa7027e",
+      "display_original_site_sha256": "f19d9b4f3b04a73a3636ee8e8cf7244d0310a543dac9baf36e52e9ed719e98bb",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

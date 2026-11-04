@@ -85,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a08636eec78fb37008676514bcabbeb82bc3075",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271719747, photo 488787490, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e25e7a07fa9fd174fd898fa6e7230743ac8e093a8f510eb99cf2a00f57058733. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex cherokeensis maps to indexed species carex-cherokeensis; specialist morphology and BONAP range deferred.",
-      "sha256": "e25e7a07fa9fd174fd898fa6e7230743ac8e093a8f510eb99cf2a00f57058733"
+      "sha256": "e25e7a07fa9fd174fd898fa6e7230743ac8e093a8f510eb99cf2a00f57058733",
+      "display_sha256": "347d7b88d5ee86f1a27d153be56429a891ca9ad0c0bdf5c94214ba9f99e4381a",
+      "display_blob_sha": "4dcaefaf3ef0c9ce5deac079ac52c7b3f87d0c43",
+      "display_original_site_sha256": "e25e7a07fa9fd174fd898fa6e7230743ac8e093a8f510eb99cf2a00f57058733",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-cherokeensis/inat-489507221.jpg",
@@ -104,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00c2258a2f11abeefab91aa5a964bac664625eb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 272098490, photo 489507221, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e513d5baa2a941bd19273dc3d80f51c6b27c8cb687cc4d1e5f6d5176b5402dc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex cherokeensis maps to indexed species carex-cherokeensis; specialist morphology and BONAP range deferred.",
-      "sha256": "9e513d5baa2a941bd19273dc3d80f51c6b27c8cb687cc4d1e5f6d5176b5402dc"
+      "sha256": "9e513d5baa2a941bd19273dc3d80f51c6b27c8cb687cc4d1e5f6d5176b5402dc",
+      "display_sha256": "e1e57d0d91bc7ce70a9b48e90d990da5ef0a40fd2167523a08b0367e18a12c26",
+      "display_blob_sha": "4201a6d786dba515c7a11dd648532dce5270304c",
+      "display_original_site_sha256": "9e513d5baa2a941bd19273dc3d80f51c6b27c8cb687cc4d1e5f6d5176b5402dc",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-cherokeensis/inat-490409426.jpg",
@@ -123,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "425b26a0a724b941775addd97d83723c67130039",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 272587666, photo 490409426, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc50fd395a32cfdf74ceb6ff53b4cab80ae40a1d136caaded3368ff78ed43fa1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex cherokeensis maps to indexed species carex-cherokeensis; specialist morphology and BONAP range deferred.",
-      "sha256": "cc50fd395a32cfdf74ceb6ff53b4cab80ae40a1d136caaded3368ff78ed43fa1"
+      "sha256": "cc50fd395a32cfdf74ceb6ff53b4cab80ae40a1d136caaded3368ff78ed43fa1",
+      "display_sha256": "34ad13e155d2c980bbb2008eac82281dae9d304813fd60d10f76c01d327a1b2b",
+      "display_blob_sha": "5d1946662c238c0d46e7ac940c7b40cbb02fd07f",
+      "display_original_site_sha256": "cc50fd395a32cfdf74ceb6ff53b4cab80ae40a1d136caaded3368ff78ed43fa1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-cherokeensis/inat-495677589.jpg",
@@ -142,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99aa6a1ca66986a236b53780839e2b4bc85b716e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +165,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275946608, photo 495677589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c09beadcc48eed3aaa22fa35050e50814507bfe10e4ffc8ad06f0c53996a045a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex cherokeensis maps to indexed species carex-cherokeensis; specialist morphology and BONAP range deferred.",
-      "sha256": "c09beadcc48eed3aaa22fa35050e50814507bfe10e4ffc8ad06f0c53996a045a"
+      "sha256": "c09beadcc48eed3aaa22fa35050e50814507bfe10e4ffc8ad06f0c53996a045a",
+      "display_sha256": "3c06a407e22dad2f27779dd74af12a92c3373d1269b2716c7a76f300563648bb",
+      "display_blob_sha": "bbfca2976596018581e29291e5e4a8ecf89b42f9",
+      "display_original_site_sha256": "c09beadcc48eed3aaa22fa35050e50814507bfe10e4ffc8ad06f0c53996a045a",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-cherokeensis/inat-645785332.jpg",
@@ -161,7 +181,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "50354c9e1bdb6335b8e1364dea07caf343041363",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +189,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353967047, photo 645785332, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de8bdf634537f6bc7be15c20731bd105c358590d11fa268bb4b866d60c2754bd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex cherokeensis maps to indexed species carex-cherokeensis; specialist morphology and BONAP range deferred.",
-      "sha256": "de8bdf634537f6bc7be15c20731bd105c358590d11fa268bb4b866d60c2754bd"
+      "sha256": "de8bdf634537f6bc7be15c20731bd105c358590d11fa268bb4b866d60c2754bd",
+      "display_sha256": "1d39af1997e1133f232c9dc05fb8928315ddb9324daecf0af753662f4e1b093f",
+      "display_blob_sha": "d840061a1f16117b2bf2476224c98b5d2155926e",
+      "display_original_site_sha256": "de8bdf634537f6bc7be15c20731bd105c358590d11fa268bb4b866d60c2754bd",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

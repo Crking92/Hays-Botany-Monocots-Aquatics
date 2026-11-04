@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "203272fb3afcd59febfcc58d50369ff489dc963d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353067832, photo 644265985, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b62c0ed580c6ab0bb86741edb687cd028e804bcdbe8bba3bc6206f914c629159. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Manfreda maculosa maps to indexed species manfreda-maculosa; specialist morphology and BONAP range deferred.",
-      "sha256": "b62c0ed580c6ab0bb86741edb687cd028e804bcdbe8bba3bc6206f914c629159"
+      "sha256": "b62c0ed580c6ab0bb86741edb687cd028e804bcdbe8bba3bc6206f914c629159",
+      "display_sha256": "b030cbf59d017c42169277ac81fe4786f6dc9756906b5cd6b482388e3839f92f",
+      "display_blob_sha": "917fc2fe046fd4ac2dccf029f34714f1fd9441fc",
+      "display_original_site_sha256": "b62c0ed580c6ab0bb86741edb687cd028e804bcdbe8bba3bc6206f914c629159",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/manfreda-maculosa/inat-647169833.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27d0037bb862787c2b43fabd88eafca9c6071763",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354784578, photo 647169833, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6147cf900b3575d4c494eaadca53f09b5569702c78da184f3db895e625805da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Manfreda maculosa maps to indexed species manfreda-maculosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a6147cf900b3575d4c494eaadca53f09b5569702c78da184f3db895e625805da"
+      "sha256": "a6147cf900b3575d4c494eaadca53f09b5569702c78da184f3db895e625805da",
+      "display_sha256": "80a9584bb0e73e550d4c793d324445e678cad030c3aa609b4c9b8722ec2add56",
+      "display_blob_sha": "39e77ee90b244b382a99fe7f3047659c5cfa9cc3",
+      "display_original_site_sha256": "a6147cf900b3575d4c494eaadca53f09b5569702c78da184f3db895e625805da",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/manfreda-maculosa/inat-647209240.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e7c923d0d6d0fe9e8eb7b1233b11a9bbabe19b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354807282, photo 647209240, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 611a32a11f6c84452f9c948282c792d224c78ad19004d43fcf15b7b4fe6f9fb3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Manfreda maculosa maps to indexed species manfreda-maculosa; specialist morphology and BONAP range deferred.",
-      "sha256": "611a32a11f6c84452f9c948282c792d224c78ad19004d43fcf15b7b4fe6f9fb3"
+      "sha256": "611a32a11f6c84452f9c948282c792d224c78ad19004d43fcf15b7b4fe6f9fb3",
+      "display_sha256": "88a2561e4339d3a64d4fb26f293d075c63f1bc11dbe543fdfffb1cda5b67482e",
+      "display_blob_sha": "eede4af0d90b7a9f78f167704eb6a243ddaba583",
+      "display_original_site_sha256": "611a32a11f6c84452f9c948282c792d224c78ad19004d43fcf15b7b4fe6f9fb3",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/manfreda-maculosa/inat-647582092.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4b7a1269e5bf5355651697b1ea26285754bc262",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355017560, photo 647582092, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe111ed071db2c4b023bd16fa2e15d7514f27abd9236e8762c1f45ff781af4f3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Manfreda maculosa maps to indexed species manfreda-maculosa; specialist morphology and BONAP range deferred.",
-      "sha256": "fe111ed071db2c4b023bd16fa2e15d7514f27abd9236e8762c1f45ff781af4f3"
+      "sha256": "fe111ed071db2c4b023bd16fa2e15d7514f27abd9236e8762c1f45ff781af4f3",
+      "display_sha256": "17acc483402c231e89cf50ebc011690d7e2b5ebe082e004284ce7b03ade41ac2",
+      "display_blob_sha": "1708f8fc90c2afa08256abe547a434efbc07a8da",
+      "display_original_site_sha256": "fe111ed071db2c4b023bd16fa2e15d7514f27abd9236e8762c1f45ff781af4f3",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/manfreda-maculosa/inat-647584928.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3b75c16b1516720b344f3356fc2afe752bc09b7c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355019008, photo 647584928, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32dd7faa3d75de835140595cf4c7c1a0051732ebf40965e0597d7b8646bb983e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Manfreda maculosa maps to indexed species manfreda-maculosa; specialist morphology and BONAP range deferred.",
-      "sha256": "32dd7faa3d75de835140595cf4c7c1a0051732ebf40965e0597d7b8646bb983e"
+      "sha256": "32dd7faa3d75de835140595cf4c7c1a0051732ebf40965e0597d7b8646bb983e",
+      "display_sha256": "b2f570641a3eb9016360a3057b46df248ef53db466d94dcf43e33a65e808405f",
+      "display_blob_sha": "5e99164338ce98fe90ebcac78e7b3ae5faacebb8",
+      "display_original_site_sha256": "32dd7faa3d75de835140595cf4c7c1a0051732ebf40965e0597d7b8646bb983e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -54,7 +54,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "13dadf5f0bad98b0411ba24f55722395d9716ca4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -62,7 +62,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341019430, photo 620704244, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f93ccf280504c515c1328efe77711d17960ece0c1080f7530f4c2c1263c6e67. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal minor maps to indexed species sabal-minor; specialist morphology and BONAP range deferred.",
-      "sha256": "3f93ccf280504c515c1328efe77711d17960ece0c1080f7530f4c2c1263c6e67"
+      "sha256": "3f93ccf280504c515c1328efe77711d17960ece0c1080f7530f4c2c1263c6e67",
+      "display_sha256": "b34b0cb4042a88bb144f6c9a1261026b6d050759c9ed0868f5367c95f12b9a04",
+      "display_blob_sha": "7f08f72b1a6f40c5eba395e7c518c8aa4b1a1e11",
+      "display_original_site_sha256": "3f93ccf280504c515c1328efe77711d17960ece0c1080f7530f4c2c1263c6e67",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-minor/inat-624813399.jpg",
@@ -73,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4bc67a8814292d0c15eb32aa98789be11a042783",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343055467, photo 624813399, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7166587d23b39d80ec11721fdd4f67a07245295b39d2621d8c0c20bf15b7a511. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal minor maps to indexed species sabal-minor; specialist morphology and BONAP range deferred.",
-      "sha256": "7166587d23b39d80ec11721fdd4f67a07245295b39d2621d8c0c20bf15b7a511"
+      "sha256": "7166587d23b39d80ec11721fdd4f67a07245295b39d2621d8c0c20bf15b7a511",
+      "display_sha256": "33a736303ea9ff1991a24cee425c82587b6861847d648d3a2ab03868b22b6f4e",
+      "display_blob_sha": "1fb838490261cb6b17a2a3b79d29fb340a113179",
+      "display_original_site_sha256": "7166587d23b39d80ec11721fdd4f67a07245295b39d2621d8c0c20bf15b7a511",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-minor/inat-628224479.jpg",
@@ -92,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "33ccb66443ec9372fbf2cf126fc8ab72abf92cb9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344771045, photo 628224479, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 779b2c6f09060a87d0943004f05f3bcf3752aeed1072de113d21e7b97c696f92. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal minor maps to indexed species sabal-minor; specialist morphology and BONAP range deferred.",
-      "sha256": "779b2c6f09060a87d0943004f05f3bcf3752aeed1072de113d21e7b97c696f92"
+      "sha256": "779b2c6f09060a87d0943004f05f3bcf3752aeed1072de113d21e7b97c696f92",
+      "display_sha256": "8586a94b2eae311f7ad1fd9881dcd84cb8c2f8585113cb6837e2d4a3282b09e9",
+      "display_blob_sha": "6708639ff9966adab3516cd748c457a7059d7b00",
+      "display_original_site_sha256": "779b2c6f09060a87d0943004f05f3bcf3752aeed1072de113d21e7b97c696f92",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-minor/inat-632677409.jpg",
@@ -111,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "809ef2d0fefaa58e7fa8e110f1984101666a4828",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 347029106, photo 632677409, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9eac801f1fffc068f592b5ce9d7bd61bd6b38099916c98df07a453bb0be83d85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal minor maps to indexed species sabal-minor; specialist morphology and BONAP range deferred.",
-      "sha256": "9eac801f1fffc068f592b5ce9d7bd61bd6b38099916c98df07a453bb0be83d85"
+      "sha256": "9eac801f1fffc068f592b5ce9d7bd61bd6b38099916c98df07a453bb0be83d85",
+      "display_sha256": "f3ae962fcd49b51d421e309a4bb45737bb6aa98f46f21a9cb74cdd2c011c31c3",
+      "display_blob_sha": "7c36caf787d2b83c9f7fba53de84368df5f340f7",
+      "display_original_site_sha256": "9eac801f1fffc068f592b5ce9d7bd61bd6b38099916c98df07a453bb0be83d85",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sabal-minor/inat-637020387.jpg",
@@ -130,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "988fab76f004e45153129639f965a0338f4676d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349222712, photo 637020387, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eeb200adf9718eab08065971bdf989888e3be143666ab7a9594d46f8f2107ae7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sabal minor maps to indexed species sabal-minor; specialist morphology and BONAP range deferred.",
-      "sha256": "eeb200adf9718eab08065971bdf989888e3be143666ab7a9594d46f8f2107ae7"
+      "sha256": "eeb200adf9718eab08065971bdf989888e3be143666ab7a9594d46f8f2107ae7",
+      "display_sha256": "9c1e4c7ffc452621937f0d7698495119d799f0c2339eec1ac22438fa8a4f5024",
+      "display_blob_sha": "b91219bc75db61fa5ca28e06d6a0d16862a72f43",
+      "display_original_site_sha256": "eeb200adf9718eab08065971bdf989888e3be143666ab7a9594d46f8f2107ae7",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

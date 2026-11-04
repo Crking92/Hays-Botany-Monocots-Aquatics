@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28a77d6bf5fd2d83669042d573b536ba4cb936a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342032092, photo 622778170, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: beb3f5a0e2157980b51fd79e9cb0fcd29844276a2f6a9cbe0b6c8829f4d8c980. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nolina lindheimeriana maps to indexed species nolina-lindheimeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "beb3f5a0e2157980b51fd79e9cb0fcd29844276a2f6a9cbe0b6c8829f4d8c980"
+      "sha256": "beb3f5a0e2157980b51fd79e9cb0fcd29844276a2f6a9cbe0b6c8829f4d8c980",
+      "display_sha256": "cc8509ecfb4e39f54561cda56b4c2a8190757579334aab7d2135ced83f27b18c",
+      "display_blob_sha": "edbd66a604ecb575ad6e16b1257132d53dc40653",
+      "display_original_site_sha256": "beb3f5a0e2157980b51fd79e9cb0fcd29844276a2f6a9cbe0b6c8829f4d8c980",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nolina-lindheimeriana/inat-624746909.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "77ce1e11b3057a4acf72e1391b0f9a75dc995b58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016738, photo 624746909, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed3971664991dee67aa3fc9f4f70b520f9c9f2d7382bd462020a6736dc3cef39. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nolina lindheimeriana maps to indexed species nolina-lindheimeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "ed3971664991dee67aa3fc9f4f70b520f9c9f2d7382bd462020a6736dc3cef39"
+      "sha256": "ed3971664991dee67aa3fc9f4f70b520f9c9f2d7382bd462020a6736dc3cef39",
+      "display_sha256": "7a139fb3c8bc882837dec04ccdbebbd15f2a738980f5fb9220d2188dac225bbb",
+      "display_blob_sha": "dee80d811080aed381fd3cb815d1c63af313cfdf",
+      "display_original_site_sha256": "ed3971664991dee67aa3fc9f4f70b520f9c9f2d7382bd462020a6736dc3cef39",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nolina-lindheimeriana/inat-628886201.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ccb213d7c3c1692c93b33119b6dbddc8c8fd388b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345110662, photo 628886201, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d52238123d6093e527a913b127548eb45ced1dabc0545eb1329c795e10b5e9c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nolina lindheimeriana maps to indexed species nolina-lindheimeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "d52238123d6093e527a913b127548eb45ced1dabc0545eb1329c795e10b5e9c3"
+      "sha256": "d52238123d6093e527a913b127548eb45ced1dabc0545eb1329c795e10b5e9c3",
+      "display_sha256": "781ebb961d3296339b82e7987b2992df95d3c7db51cfaa82a06214acc2c9d9c7",
+      "display_blob_sha": "a6b2f2ee00abcbcd2081a3392cbce4ae5aa10262",
+      "display_original_site_sha256": "d52238123d6093e527a913b127548eb45ced1dabc0545eb1329c795e10b5e9c3",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nolina-lindheimeriana/inat-647137303.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b77ce24945b4173230d9dab7ab20d9d6a5dbc411",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355287403, photo 647998155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75aacc60d3aa6cbf7e7927caee927b716b941fea771e19d548ed21549e61d951. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Nolina lindheimeriana maps to indexed species nolina-lindheimeriana; specialist morphology and BONAP range deferred.",
-      "sha256": "75aacc60d3aa6cbf7e7927caee927b716b941fea771e19d548ed21549e61d951"
+      "sha256": "75aacc60d3aa6cbf7e7927caee927b716b941fea771e19d548ed21549e61d951",
+      "display_sha256": "88b67d8db9e820c67f49d266d095990941dba2659c860510b9a62d9549a702aa",
+      "display_blob_sha": "d60780d01eb82fff154af88be438bff7bfab1c3a",
+      "display_original_site_sha256": "75aacc60d3aa6cbf7e7927caee927b716b941fea771e19d548ed21549e61d951",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

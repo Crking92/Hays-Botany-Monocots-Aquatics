@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "850361dd1205fceea68f6be84df7b50ac8342d63",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 272428234, photo 490114643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c9483f4913c5eb0d7204087a2f5589ac24eb0cd41364349ce1e46bc8c1a51969. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria graminea maps to indexed species sagittaria-graminea (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c9483f4913c5eb0d7204087a2f5589ac24eb0cd41364349ce1e46bc8c1a51969"
+      "sha256": "c9483f4913c5eb0d7204087a2f5589ac24eb0cd41364349ce1e46bc8c1a51969",
+      "display_sha256": "0192d6693768398feb63bc5c5003723011a76421c2a382d43da425bb0893a174",
+      "display_blob_sha": "029ccfddba817dfa8322f38dc809159e448ec6ac",
+      "display_original_site_sha256": "c9483f4913c5eb0d7204087a2f5589ac24eb0cd41364349ce1e46bc8c1a51969",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sagittaria-graminea/inat-622294263.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "21aa97b466655610cb250660aeee6f0ee6633b94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341802018, photo 622294263, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c6d09075158691c50bdbf1b029b52940e32cf8976b761329e8d580fdaaa6be7d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria graminea maps to indexed species sagittaria-graminea (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c6d09075158691c50bdbf1b029b52940e32cf8976b761329e8d580fdaaa6be7d"
+      "sha256": "c6d09075158691c50bdbf1b029b52940e32cf8976b761329e8d580fdaaa6be7d",
+      "display_sha256": "24e22b5b9c2a33cb0d7c14799ac00c8b778667c18503911c11a17f5f28d2c7c0",
+      "display_blob_sha": "cc73bc4de3781bc99533b5fbc43432036304718e",
+      "display_original_site_sha256": "c6d09075158691c50bdbf1b029b52940e32cf8976b761329e8d580fdaaa6be7d",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sagittaria-graminea/inat-623658489.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0fbb439037361efa83075eb41d261c00d671949f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 364531671, photo 665480085, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed4b194a2cc297bf69cbb9ed34cfe66266dcf5a4d486730d7dc640a12caa2f37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Sagittaria graminea maps to indexed species sagittaria-graminea (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ed4b194a2cc297bf69cbb9ed34cfe66266dcf5a4d486730d7dc640a12caa2f37"
+      "sha256": "ed4b194a2cc297bf69cbb9ed34cfe66266dcf5a4d486730d7dc640a12caa2f37",
+      "display_sha256": "01033760dd3edaa6e53c252eb6e14bbd69b6410dff0e3d10f5c09580428a2bd6",
+      "display_blob_sha": "419386830aa86df5b2dc859ae9a7e2c3dde64c96",
+      "display_original_site_sha256": "ed4b194a2cc297bf69cbb9ed34cfe66266dcf5a4d486730d7dc640a12caa2f37",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

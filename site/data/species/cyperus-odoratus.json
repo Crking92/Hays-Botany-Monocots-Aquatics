@@ -67,7 +67,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d3660eb8769b10230afa44670f9f7465c8724a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -75,7 +75,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 181102064, photo 315579180, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d3d7dfa9d4b9fadc99e037ed676a89ed56784a77313eb005297e0106a3f24c9e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus odoratus maps to indexed species cyperus-odoratus; specialist morphology and BONAP range deferred.",
-      "sha256": "d3d7dfa9d4b9fadc99e037ed676a89ed56784a77313eb005297e0106a3f24c9e"
+      "sha256": "d3d7dfa9d4b9fadc99e037ed676a89ed56784a77313eb005297e0106a3f24c9e",
+      "display_sha256": "14eaae64c16c1812fd9b9f478616208f7db3fd939b3c477c50ca21141091a2fd",
+      "display_blob_sha": "bfc93b6d9d37e348b3ad897a18c0b75088fd63bc",
+      "display_original_site_sha256": "d3d7dfa9d4b9fadc99e037ed676a89ed56784a77313eb005297e0106a3f24c9e",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-odoratus/inat-591639243.jpg",
@@ -86,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4762643ca51a59ff2d73fb1cd1f535d30b03fa05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -94,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 326649978, photo 591639243, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 65c0d459193b9add974d734909898ae3b8f665df39b38a0efcb05b7a49535af6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus odoratus maps to indexed species cyperus-odoratus; specialist morphology and BONAP range deferred.",
-      "sha256": "65c0d459193b9add974d734909898ae3b8f665df39b38a0efcb05b7a49535af6"
+      "sha256": "65c0d459193b9add974d734909898ae3b8f665df39b38a0efcb05b7a49535af6",
+      "display_sha256": "566ad027723762afdda5f871745ec79c4a3a43226994104faa74cf21ea409679",
+      "display_blob_sha": "f9ea3d26aa2fe8da7eaf883ca78f388fb835581d",
+      "display_original_site_sha256": "65c0d459193b9add974d734909898ae3b8f665df39b38a0efcb05b7a49535af6",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-odoratus/inat-595568555.jpg",
@@ -105,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e0ca4461d75ee4fcda49d4d6126fb51784cc2733",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -113,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 328642445, photo 595568555, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 78fef45c82b4f95c34b1c393f2f6928b1654046839b7f89315360529f4c4fa51. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus odoratus maps to indexed species cyperus-odoratus; specialist morphology and BONAP range deferred.",
-      "sha256": "78fef45c82b4f95c34b1c393f2f6928b1654046839b7f89315360529f4c4fa51"
+      "sha256": "78fef45c82b4f95c34b1c393f2f6928b1654046839b7f89315360529f4c4fa51",
+      "display_sha256": "7ffa7cd8739fa9f43fb7e250e18a4bce186a2207161a29223294df3ccf934b05",
+      "display_blob_sha": "c0b11ff26567249bd25d206ed5f73a95320427c3",
+      "display_original_site_sha256": "78fef45c82b4f95c34b1c393f2f6928b1654046839b7f89315360529f4c4fa51",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-odoratus/inat-596527091.jpg",
@@ -124,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "656c4d4d135aa32205fe60fa005dd20bd50efb1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -132,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 329120856, photo 596527091, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d8d6b02f7808694764a31d952375bdeba217cd88360863906af560c52a5b47f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus odoratus maps to indexed species cyperus-odoratus; specialist morphology and BONAP range deferred.",
-      "sha256": "d8d6b02f7808694764a31d952375bdeba217cd88360863906af560c52a5b47f5"
+      "sha256": "d8d6b02f7808694764a31d952375bdeba217cd88360863906af560c52a5b47f5",
+      "display_sha256": "03bdd7dafc32a4abb42b1464093af2964973739739f43a8bede1b84e2281152e",
+      "display_blob_sha": "e8f15de8bafccfadebc1b64cbcbef834fc2fd6d5",
+      "display_original_site_sha256": "d8d6b02f7808694764a31d952375bdeba217cd88360863906af560c52a5b47f5",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

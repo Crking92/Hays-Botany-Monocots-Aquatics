@@ -129,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c49c029e3693356fb7fda46ae53d87b95106e735",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353668748, photo 645261286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80edb5f5639c1d24f64630bc3f5cef6c79e29c6e78e905a1d9e18b13983a7309. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex tetrastachya maps to indexed species carex-tetrastachya; specialist morphology and BONAP range deferred.",
-      "sha256": "80edb5f5639c1d24f64630bc3f5cef6c79e29c6e78e905a1d9e18b13983a7309"
+      "sha256": "80edb5f5639c1d24f64630bc3f5cef6c79e29c6e78e905a1d9e18b13983a7309",
+      "display_sha256": "395e455e41fce659d59600ca120e5f6a6d93334cab01553765ab23219a32ba7b",
+      "display_blob_sha": "e856d1653ee0f1a943101e76572ea2cc17f3699a",
+      "display_original_site_sha256": "80edb5f5639c1d24f64630bc3f5cef6c79e29c6e78e905a1d9e18b13983a7309",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

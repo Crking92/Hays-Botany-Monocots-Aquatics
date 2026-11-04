@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "141fc4020fe6fc18bd03cce20940755720130f14",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 156521377, photo 270664085, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b73a31c1cbe282e223f91c87c4be55f156212e96b0ed3483676df9ddbf2a584. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Heteranthera dubia maps to indexed species heteranthera-dubia; specialist morphology and BONAP range deferred.",
-      "sha256": "0b73a31c1cbe282e223f91c87c4be55f156212e96b0ed3483676df9ddbf2a584"
+      "sha256": "0b73a31c1cbe282e223f91c87c4be55f156212e96b0ed3483676df9ddbf2a584",
+      "display_sha256": "473b6226e0c8657a3dfc14dc19c1066c98a59d4eb17388f6d54573fcc1de1854",
+      "display_blob_sha": "c3172a75e856a008853568bfe666d3bde18087f5",
+      "display_original_site_sha256": "0b73a31c1cbe282e223f91c87c4be55f156212e96b0ed3483676df9ddbf2a584",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heteranthera-dubia/inat-279526447.jpeg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "634b5c0605ae3c1e4642a7ca9ac96a603c4bb47e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 161705295, photo 279526447, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f4b04e1fa87329e9b03502acbb2aa273663b8dcb2cfdb29a2b18454943462266. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Heteranthera dubia maps to indexed species heteranthera-dubia; specialist morphology and BONAP range deferred.",
-      "sha256": "f4b04e1fa87329e9b03502acbb2aa273663b8dcb2cfdb29a2b18454943462266"
+      "sha256": "f4b04e1fa87329e9b03502acbb2aa273663b8dcb2cfdb29a2b18454943462266",
+      "display_sha256": "2d62798ed008c98090b09f4512bea7b6f50e6931dfc01a1197a79979a7465306",
+      "display_blob_sha": "f4ce9b3e1709df1c5903b9780d7ec80f511b8939",
+      "display_original_site_sha256": "f4b04e1fa87329e9b03502acbb2aa273663b8dcb2cfdb29a2b18454943462266",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heteranthera-dubia/inat-508989447.jpg",
@@ -103,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7354ab559d600c8430ebcd0dc741fe2e0d7b2200",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 283274944, photo 508989447, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 01207f9ecad50db884022ddfdf059e8769dc8cad60170283b007d4b5a5648f8f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Heteranthera dubia maps to indexed species heteranthera-dubia; specialist morphology and BONAP range deferred.",
-      "sha256": "01207f9ecad50db884022ddfdf059e8769dc8cad60170283b007d4b5a5648f8f"
+      "sha256": "01207f9ecad50db884022ddfdf059e8769dc8cad60170283b007d4b5a5648f8f",
+      "display_sha256": "d62196685dbe4a7f2f96b90b1ba8324e8b2ae47bc6954475cf348ebcc76b83e2",
+      "display_blob_sha": "47cf6113e52dd5261391113bc4ff90e510acbbf1",
+      "display_original_site_sha256": "01207f9ecad50db884022ddfdf059e8769dc8cad60170283b007d4b5a5648f8f",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/heteranthera-dubia/inat-554449238.jpg",

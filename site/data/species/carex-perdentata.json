@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63cb888d687449ff2f8d57587b4e0bcf975efcf9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268547825, photo 482730539, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f01b81bfc8926d6e23e83026104ff6b85bf75516169a3eccc4ce5cd8e4a66ce. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex perdentata maps to indexed species carex-perdentata; specialist morphology and BONAP range deferred.",
-      "sha256": "0f01b81bfc8926d6e23e83026104ff6b85bf75516169a3eccc4ce5cd8e4a66ce"
+      "sha256": "0f01b81bfc8926d6e23e83026104ff6b85bf75516169a3eccc4ce5cd8e4a66ce",
+      "display_sha256": "8488e625bb57919a99069984f73f5f3936f392762c51ea295d098e339057e53c",
+      "display_blob_sha": "81fe2d9cb9795f05f67c5cb68ba716ca6af84462",
+      "display_original_site_sha256": "0f01b81bfc8926d6e23e83026104ff6b85bf75516169a3eccc4ce5cd8e4a66ce",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-perdentata/inat-506419029.jpg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc24774672783b34f8334d14e7986b5856cae0af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 281899142, photo 506419029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa111fdf014b191cceac5dcf4bd5cf6a29459bd339b1dc3f5afcd3caaafa9bfd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex perdentata maps to indexed species carex-perdentata; specialist morphology and BONAP range deferred.",
-      "sha256": "fa111fdf014b191cceac5dcf4bd5cf6a29459bd339b1dc3f5afcd3caaafa9bfd"
+      "sha256": "fa111fdf014b191cceac5dcf4bd5cf6a29459bd339b1dc3f5afcd3caaafa9bfd",
+      "display_sha256": "f82c2568b15b8cebada76aaa196b5f35f19a9f9a32bbd3a045923431b305b93e",
+      "display_blob_sha": "94227963300ccc9767245c9c687ea665e1549cec",
+      "display_original_site_sha256": "fa111fdf014b191cceac5dcf4bd5cf6a29459bd339b1dc3f5afcd3caaafa9bfd",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-perdentata/inat-644068122.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f055f5bc7a53c760c2fcaaf8ba0cf674aff2c7c5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352953656, photo 644068122, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ff84442d20a1c42ac8d256470c75d8275e38cb5bb01320e02054827c7b2994b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex perdentata maps to indexed species carex-perdentata; specialist morphology and BONAP range deferred.",
-      "sha256": "5ff84442d20a1c42ac8d256470c75d8275e38cb5bb01320e02054827c7b2994b"
+      "sha256": "5ff84442d20a1c42ac8d256470c75d8275e38cb5bb01320e02054827c7b2994b",
+      "display_sha256": "e55d4c8b7bb5579ce9f33cfdc227053c863fb8ceaae1efc59a15b4195ea6a0a5",
+      "display_blob_sha": "abe732102ad8059f8dcbd7acf329f08b1ae3e36d",
+      "display_original_site_sha256": "5ff84442d20a1c42ac8d256470c75d8275e38cb5bb01320e02054827c7b2994b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

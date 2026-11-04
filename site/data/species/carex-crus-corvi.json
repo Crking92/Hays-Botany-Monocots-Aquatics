@@ -100,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "baecc35f66b45bd7f184d5bca8b5f09d59a9f194",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 12040867, photo 17260857, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc35dcf998b6a4bea5f8763cad8e62aa8e21545250bd1d0e5e0bd2554e3598be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex crus-corvi maps to indexed species carex-crus-corvi; specialist morphology and BONAP range deferred.",
-      "sha256": "fc35dcf998b6a4bea5f8763cad8e62aa8e21545250bd1d0e5e0bd2554e3598be"
+      "sha256": "fc35dcf998b6a4bea5f8763cad8e62aa8e21545250bd1d0e5e0bd2554e3598be",
+      "display_sha256": "5849fe366cb16c1af8bb91436710aa3a7e6641b2008a5f7c3eabbfcd06b97aa8",
+      "display_blob_sha": "2369d728cc32f745461ee3af40a6b0f367458b16",
+      "display_original_site_sha256": "fc35dcf998b6a4bea5f8763cad8e62aa8e21545250bd1d0e5e0bd2554e3598be",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-crus-corvi/inat-368641642.jpeg",
@@ -119,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc76c957ea692846fafdf6194824a3853e315111",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208360135, photo 368641642, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b9eee4eb51614b318e7b05c2dbc9675a5cec00a64d1b2863dc0dca50ed52521. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex crus-corvi maps to indexed species carex-crus-corvi; specialist morphology and BONAP range deferred.",
-      "sha256": "6b9eee4eb51614b318e7b05c2dbc9675a5cec00a64d1b2863dc0dca50ed52521"
+      "sha256": "6b9eee4eb51614b318e7b05c2dbc9675a5cec00a64d1b2863dc0dca50ed52521",
+      "display_sha256": "4094996a2a1fbde81ff798a1981c4e3a2e8813d937d90313b7b6d6ac393ad28c",
+      "display_blob_sha": "68f2dbd6deab3d87e024ac7dc4ba7f4669693871",
+      "display_original_site_sha256": "6b9eee4eb51614b318e7b05c2dbc9675a5cec00a64d1b2863dc0dca50ed52521",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-crus-corvi/inat-481989201.jpg",
@@ -138,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3753ac571625645bc6777aaf99d42e9c250d71ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268161211, photo 481989201, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82581d10baf8bf755d694caf50013761f75fea9605727ca9120fd69741edb2e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex crus-corvi maps to indexed species carex-crus-corvi; specialist morphology and BONAP range deferred.",
-      "sha256": "82581d10baf8bf755d694caf50013761f75fea9605727ca9120fd69741edb2e1"
+      "sha256": "82581d10baf8bf755d694caf50013761f75fea9605727ca9120fd69741edb2e1",
+      "display_sha256": "13f2a09ef9e6b3a6f6b5010bc1fbb3c286ee06715a14bd94cfffb92f2900487b",
+      "display_blob_sha": "a00f19afb5744facf57af8b35bd6c7ad5c342893",
+      "display_original_site_sha256": "82581d10baf8bf755d694caf50013761f75fea9605727ca9120fd69741edb2e1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-crus-corvi/inat-484643664.jpeg",
@@ -157,7 +172,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "99e5e6d74294cdea4c37f44186194ced4d446780",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -165,7 +180,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 269538745, photo 484643664, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8dce4d227dcbbad678c1aa16710ca9adfcdf25ba334481baf4025cdeda0af898. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex crus-corvi maps to indexed species carex-crus-corvi; specialist morphology and BONAP range deferred.",
-      "sha256": "8dce4d227dcbbad678c1aa16710ca9adfcdf25ba334481baf4025cdeda0af898"
+      "sha256": "8dce4d227dcbbad678c1aa16710ca9adfcdf25ba334481baf4025cdeda0af898",
+      "display_sha256": "a8a4ae188b0c19ae11d79c37f801ba9d7bea6692ba8e76f755943bcb68267ec6",
+      "display_blob_sha": "fa7a911e75b68b17815442b3573cb784e7d79593",
+      "display_original_site_sha256": "8dce4d227dcbbad678c1aa16710ca9adfcdf25ba334481baf4025cdeda0af898",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

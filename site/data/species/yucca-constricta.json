@@ -89,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cbbb434e0ced66cd8658a5ae56a7410a4ed95218",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -97,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 269360554, photo 484302565, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 05cedee7697b722e2699f02200e44319614b7c95a96bcd937b4942713130842c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca constricta maps to indexed species yucca-constricta; specialist morphology and BONAP range deferred.",
-      "sha256": "05cedee7697b722e2699f02200e44319614b7c95a96bcd937b4942713130842c"
+      "sha256": "05cedee7697b722e2699f02200e44319614b7c95a96bcd937b4942713130842c",
+      "display_sha256": "6db4bf1a90177904602a7bac045a0e0117a069caabe2eb5feabcca406d60f0c8",
+      "display_blob_sha": "19c29d6d534f1bdf02df8a55d014b6e915867d38",
+      "display_original_site_sha256": "05cedee7697b722e2699f02200e44319614b7c95a96bcd937b4942713130842c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-constricta/inat-492463190.jpg",
@@ -108,7 +113,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ce7998b830663bc2f6367b70389ccfa23b6c78c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -116,7 +121,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 273871432, photo 492463190, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba830e764efa5c5040bb2eb6e6b27d6411b79b87c5ac7cc37e2f6f857aff217c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca constricta maps to indexed species yucca-constricta; specialist morphology and BONAP range deferred.",
-      "sha256": "ba830e764efa5c5040bb2eb6e6b27d6411b79b87c5ac7cc37e2f6f857aff217c"
+      "sha256": "ba830e764efa5c5040bb2eb6e6b27d6411b79b87c5ac7cc37e2f6f857aff217c",
+      "display_sha256": "8f8a05005d4098895dab591aa0e027169e0821d94fc8e927ac0b3c6a21d77071",
+      "display_blob_sha": "ef772cb23fc638d72386364298ea4389538bcac2",
+      "display_original_site_sha256": "ba830e764efa5c5040bb2eb6e6b27d6411b79b87c5ac7cc37e2f6f857aff217c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-constricta/inat-632850162.jpg",
@@ -127,7 +137,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68846089bea4c8fa0fdb8791ea00c593fe3a9ea7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -135,7 +145,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 347116227, photo 632850162, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5dedb577514e8cc6e1a100cd4aa479b0ba76e9ca3b3c002ec47be96cb0762dd7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca constricta maps to indexed species yucca-constricta; specialist morphology and BONAP range deferred.",
-      "sha256": "5dedb577514e8cc6e1a100cd4aa479b0ba76e9ca3b3c002ec47be96cb0762dd7"
+      "sha256": "5dedb577514e8cc6e1a100cd4aa479b0ba76e9ca3b3c002ec47be96cb0762dd7",
+      "display_sha256": "7464141a5d69f2f77bdbb0be7d4625480a7554e2ddc5fb3eabd3bb44a7292aed",
+      "display_blob_sha": "d8a6ee90de48937008db8d43142fa553fd52c25d",
+      "display_original_site_sha256": "5dedb577514e8cc6e1a100cd4aa479b0ba76e9ca3b3c002ec47be96cb0762dd7",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-constricta/inat-643994319.jpg",
@@ -146,7 +161,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c20fd024bc26f36afa7614ee41f9231ce0c4c89",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -154,7 +169,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352909153, photo 643994319, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80a10f8ac873670e325e0f5b610896a4eb400de1ab46b7cab14883a9af7bf424. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca constricta maps to indexed species yucca-constricta; specialist morphology and BONAP range deferred.",
-      "sha256": "80a10f8ac873670e325e0f5b610896a4eb400de1ab46b7cab14883a9af7bf424"
+      "sha256": "80a10f8ac873670e325e0f5b610896a4eb400de1ab46b7cab14883a9af7bf424",
+      "display_sha256": "61103d006220c899b3d15593bcc2e6864ead65fd227f4758a7839efdd43e519c",
+      "display_blob_sha": "3b161f8b120fe0bc6fc3b1c67ee5968e84d23b40",
+      "display_original_site_sha256": "80a10f8ac873670e325e0f5b610896a4eb400de1ab46b7cab14883a9af7bf424",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/yucca-constricta/inat-649061528.jpg",
@@ -165,7 +185,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae4b66a69a74328213ab92c29df25a94441c9c73",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -173,7 +193,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Arecaceae–Aspleniaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355918823, photo 649061528, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fb100f8e20a519ffe57d67af417881236c36234022c2aaccefa8fe55a1c8782b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Yucca constricta maps to indexed species yucca-constricta; specialist morphology and BONAP range deferred.",
-      "sha256": "fb100f8e20a519ffe57d67af417881236c36234022c2aaccefa8fe55a1c8782b"
+      "sha256": "fb100f8e20a519ffe57d67af417881236c36234022c2aaccefa8fe55a1c8782b",
+      "display_sha256": "8554d3db6746a0edeaca4644fb88bf0ce11691a16051043357203e502b321886",
+      "display_blob_sha": "93df813b0f59cfdbc57fde371ac4403d1e73bc70",
+      "display_original_site_sha256": "fb100f8e20a519ffe57d67af417881236c36234022c2aaccefa8fe55a1c8782b",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

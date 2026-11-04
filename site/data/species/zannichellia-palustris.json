@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d815fca587cca2eb5b1f440d08a1c660cd9c9e8f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 201985291, photo 356646170, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Zannichellia palustris maps to indexed species zannichellia-palustris; specialist morphology and BONAP range deferred.",
-      "sha256": "7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0"
+      "sha256": "7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0",
+      "display_sha256": "4753623cb8f86c50c66067f4fbc65086caf070b54a5d2a4fa039e96f511e77de",
+      "display_blob_sha": "0a37dae7c34923c80107d17b5a6b9d9fff276f87",
+      "display_original_site_sha256": "7b70d1a637096d0e0d4199c45ed40ae0389a078740703c1847f3d63dbd0351c0",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zannichellia-palustris/inat-470011471.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9a3ef251bd4b5bab3e3d4c16f68b7e635482cc08",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 261602273, photo 470011471, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Zannichellia palustris maps to indexed species zannichellia-palustris; specialist morphology and BONAP range deferred.",
-      "sha256": "94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8"
+      "sha256": "94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8",
+      "display_sha256": "7b7cfa6723dfbb9f0983cbd30be346370ebf525cc9a593dd8beb1a3734979de6",
+      "display_blob_sha": "dd98451ea6c57ded0c131e90726b6c860aa4193f",
+      "display_original_site_sha256": "94961896e9002f6abf36cbeb0ecba04f42322ec2837837dd76f26823123184f8",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/zannichellia-palustris/archived-adbf5a99f23fa1ae.jpg",

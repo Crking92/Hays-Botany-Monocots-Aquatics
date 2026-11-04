@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da15f4cc76dda5ea0f99381daf7dc733dcd8c278",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 409147, photo 511755, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11256603a0fce4abd57d408d5afd83b1f0f0666c635b81d052b93f95ef9e7c73. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Myriophyllum heterophyllum maps to indexed species myriophyllum-heterophyllum; specialist morphology and BONAP range deferred.",
-      "sha256": "11256603a0fce4abd57d408d5afd83b1f0f0666c635b81d052b93f95ef9e7c73"
+      "sha256": "11256603a0fce4abd57d408d5afd83b1f0f0666c635b81d052b93f95ef9e7c73",
+      "display_sha256": "d95a7747beab99e89f291d93705e673b37e45795563368df2c76ff3e738a9c0c",
+      "display_blob_sha": "1b7663070da8f035c4aa80644b6e01d2c786eb81",
+      "display_original_site_sha256": "11256603a0fce4abd57d408d5afd83b1f0f0666c635b81d052b93f95ef9e7c73",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/myriophyllum-heterophyllum/inat-645713280.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b80f0966b47c17996cddebf9e0ea6a77aecaf5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353927478, photo 645713280, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea4a816d4cad2d6e9737c30598646e228454fd6d003ecb43468e5c18b9bf652d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Myriophyllum heterophyllum maps to indexed species myriophyllum-heterophyllum; specialist morphology and BONAP range deferred.",
-      "sha256": "ea4a816d4cad2d6e9737c30598646e228454fd6d003ecb43468e5c18b9bf652d"
+      "sha256": "ea4a816d4cad2d6e9737c30598646e228454fd6d003ecb43468e5c18b9bf652d",
+      "display_sha256": "0282254d77c9dbe1261cb4c606429ecbe759e135c72bf7662c02f5c84a41e42a",
+      "display_blob_sha": "45a39160c435dec1ea28dcce3f29b6552bc96ed7",
+      "display_original_site_sha256": "ea4a816d4cad2d6e9737c30598646e228454fd6d003ecb43468e5c18b9bf652d",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/myriophyllum-heterophyllum/inat-645768877.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2615a7077030ceb88d924f4ee3297fab5763edcb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353957453, photo 645768877, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 187899f2d82b16f113c60c75b7e627fc50e30524051b7b6d62ef94c392f70fc5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Myriophyllum heterophyllum maps to indexed species myriophyllum-heterophyllum; specialist morphology and BONAP range deferred.",
-      "sha256": "187899f2d82b16f113c60c75b7e627fc50e30524051b7b6d62ef94c392f70fc5"
+      "sha256": "187899f2d82b16f113c60c75b7e627fc50e30524051b7b6d62ef94c392f70fc5",
+      "display_sha256": "282f2fbc4c439e80dd26f71d6ea5064709ef4b81ba76d0139dc3d5aa2f0671e8",
+      "display_blob_sha": "957f3c61249561248006a192f431871946228481",
+      "display_original_site_sha256": "187899f2d82b16f113c60c75b7e627fc50e30524051b7b6d62ef94c392f70fc5",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "76e3f35b0a628168a36f34adfa3b79f5227d1ed8",
       "role": "Old cattail spike and upright leaves (general recognition, not anatomical diagnostic certification)",
-      "modified": "Unmodified original source photo; no edits",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source photo; no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for general cattail photos, with independent exact-media rights and original-image integrity checks.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact iNaturalist photo source and original ZIP integrity check",
       "source_review_evidence": "Live iNaturalist observation 1061070 explicitly contains photo 1330295 under CC BY-NC with its real creator, and the original photo bytes match the user's ZIP SHA256 e68c57c5330218fea9bb3bfdfd447b56bd6f2dbf7e11274ce8bc8aab236adc6a.",
       "taxon_review_evidence": "Source observation taxon typha latifolia matches assigned species; uploaded contact sheet reviewed for general cattail habit. Detailed anatomical determination and county nativity separately deferred.",
-      "sha256": "e68c57c5330218fea9bb3bfdfd447b56bd6f2dbf7e11274ce8bc8aab236adc6a"
+      "sha256": "e68c57c5330218fea9bb3bfdfd447b56bd6f2dbf7e11274ce8bc8aab236adc6a",
+      "display_sha256": "61be81df188f1fe6c06b659226e05f5fdd12678fa307b6fef56f1ee8b9f38b9b",
+      "display_blob_sha": "03b1ee3ef799a5571ccf96c593b686a8e359c976",
+      "display_original_site_sha256": "e68c57c5330218fea9bb3bfdfd447b56bd6f2dbf7e11274ce8bc8aab236adc6a",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/typha-latifolia/inat-37433236.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6cfafd13c24d2161679d6c41c7d6a1fa7f4237e",
       "role": "Waterside cattail leaves and habitat (general recognition, not anatomical diagnostic certification)",
-      "modified": "Unmodified original source photo; no edits",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source photo; no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for general cattail photos, with independent exact-media rights and original-image integrity checks.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact iNaturalist photo source and original ZIP integrity check",
       "source_review_evidence": "Live iNaturalist observation 24208899 explicitly contains photo 37433236 under CC BY-NC with its real creator, and the original photo bytes match the user's ZIP SHA256 322635b75ff9f4a96b9fc3caef20fbe7b8ccd5a2df2d113383047ad41d420fa6.",
       "taxon_review_evidence": "Source observation taxon typha latifolia matches assigned species; uploaded contact sheet reviewed for general cattail habit. Detailed anatomical determination and county nativity separately deferred.",
-      "sha256": "322635b75ff9f4a96b9fc3caef20fbe7b8ccd5a2df2d113383047ad41d420fa6"
+      "sha256": "322635b75ff9f4a96b9fc3caef20fbe7b8ccd5a2df2d113383047ad41d420fa6",
+      "display_sha256": "5824d6e128ac309b873bd81745963076833ce5e30de0353fb1cd611b11242a3d",
+      "display_blob_sha": "fb0c8a7de7222a0c6dcf654abdd1b11835bbeb0c",
+      "display_original_site_sha256": "322635b75ff9f4a96b9fc3caef20fbe7b8ccd5a2df2d113383047ad41d420fa6",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/typha-latifolia/inat-411656649.jpeg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ccdfdc559fb165bfa4a81d2375b710b78e854813",
       "role": "Close view of broad cattail leaf blade in hand (general recognition, not anatomical diagnostic certification)",
-      "modified": "Unmodified original source photo; no edits",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source photo; no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for general cattail photos, with independent exact-media rights and original-image integrity checks.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact iNaturalist photo source and original ZIP integrity check",
       "source_review_evidence": "Live iNaturalist observation 231753382 explicitly contains photo 411656649 under CC BY-NC with its real creator, and the original photo bytes match the user's ZIP SHA256 b31ca9fb1ac07b6ab8a5a1cb5a2cd0dd48f19275841afcef97a7c32546a46342.",
       "taxon_review_evidence": "Source observation taxon typha latifolia matches assigned species; uploaded contact sheet reviewed for general cattail habit. Detailed anatomical determination and county nativity separately deferred.",
-      "sha256": "b31ca9fb1ac07b6ab8a5a1cb5a2cd0dd48f19275841afcef97a7c32546a46342"
+      "sha256": "b31ca9fb1ac07b6ab8a5a1cb5a2cd0dd48f19275841afcef97a7c32546a46342",
+      "display_sha256": "83700ee3e5e5525e72991730ccb82c8f32f89f8153c43f8b716b134cd36ee508",
+      "display_blob_sha": "f9d18d70162ea3f766452a9a9d3ec35b7d89f13b",
+      "display_original_site_sha256": "b31ca9fb1ac07b6ab8a5a1cb5a2cd0dd48f19275841afcef97a7c32546a46342",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/typha-latifolia/inat-492412974.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9d0d2de4116d4de063e1538f679e436df169854",
       "role": "Wetland clump of cattail leaves and fruiting spikes (general recognition, not anatomical diagnostic certification)",
-      "modified": "Unmodified original source photo; no edits",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source photo; no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for general cattail photos, with independent exact-media rights and original-image integrity checks.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact iNaturalist photo source and original ZIP integrity check",
       "source_review_evidence": "Live iNaturalist observation 273838814 explicitly contains photo 492412974 under CC BY-NC with its real creator, and the original photo bytes match the user's ZIP SHA256 6bb6a1e2f768ed96adf2ec2d3ccafdb7d9d584c1965017899fd9306f83a76bb2.",
       "taxon_review_evidence": "Source observation taxon typha latifolia matches assigned species; uploaded contact sheet reviewed for general cattail habit. Detailed anatomical determination and county nativity separately deferred.",
-      "sha256": "6bb6a1e2f768ed96adf2ec2d3ccafdb7d9d584c1965017899fd9306f83a76bb2"
+      "sha256": "6bb6a1e2f768ed96adf2ec2d3ccafdb7d9d584c1965017899fd9306f83a76bb2",
+      "display_sha256": "2567e17b4c3a922157c93892504cd02c05fda446c40116279ba7673cef80f534",
+      "display_blob_sha": "db1fb37c39878fc875f74bf3d7b56e166c97372a",
+      "display_original_site_sha256": "6bb6a1e2f768ed96adf2ec2d3ccafdb7d9d584c1965017899fd9306f83a76bb2",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/typha-latifolia/inat-73802833.jpeg",

@@ -81,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "90a881f88eaa2234fe8367f4d0944a37e807ab3c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 20942969, photo 32329338, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 90f167100406234847892bfab9369109039c61bc08c79067bfa654ecdd52c395. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex blanda maps to indexed species carex-blanda; specialist morphology and BONAP range deferred.",
-      "sha256": "90f167100406234847892bfab9369109039c61bc08c79067bfa654ecdd52c395"
+      "sha256": "90f167100406234847892bfab9369109039c61bc08c79067bfa654ecdd52c395",
+      "display_sha256": "f49df637f37775ccabc1c7cf8c75a4544e86979b0fb5828faa8e97f4e6826d93",
+      "display_blob_sha": "4d45f8e5da4413bfd8e407eb54647fbde8d60945",
+      "display_original_site_sha256": "90f167100406234847892bfab9369109039c61bc08c79067bfa654ecdd52c395",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-blanda/inat-355573098.jpg",
@@ -100,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "86d4eb52f7c063bddc18aceb6bb750915c66228b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 201429410, photo 355573098, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 975d9d60ce36125758bf2e445b1f73b108ebe77f842b65d5d0ac64345565c60c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex blanda maps to indexed species carex-blanda; specialist morphology and BONAP range deferred.",
-      "sha256": "975d9d60ce36125758bf2e445b1f73b108ebe77f842b65d5d0ac64345565c60c"
+      "sha256": "975d9d60ce36125758bf2e445b1f73b108ebe77f842b65d5d0ac64345565c60c",
+      "display_sha256": "e65095d2820b85eb292694a2a33d3b0bd0d34fbaa93585329050bc3bd3daf533",
+      "display_blob_sha": "bcb4fb5e7bf254a87224c450228b2ca9db0f1fda",
+      "display_original_site_sha256": "975d9d60ce36125758bf2e445b1f73b108ebe77f842b65d5d0ac64345565c60c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-blanda/inat-357240394.jpeg",
@@ -119,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2ab082ae607dffac63e806ddd4e8d5d34a2ec3d7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 202289856, photo 357240394, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9904f567f4cc8cc16c8b2dae68298da8dd4d9917b4dd6e541d59147de7b74172. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex blanda maps to indexed species carex-blanda; specialist morphology and BONAP range deferred.",
-      "sha256": "9904f567f4cc8cc16c8b2dae68298da8dd4d9917b4dd6e541d59147de7b74172"
+      "sha256": "9904f567f4cc8cc16c8b2dae68298da8dd4d9917b4dd6e541d59147de7b74172",
+      "display_sha256": "e0c695a1bd6b4f498d1145dded7ba799b2c629d725ab46f91dab79e43028d3f4",
+      "display_blob_sha": "b1dc1f1ae31f476c86b0a671d9ad86c6192059ff",
+      "display_original_site_sha256": "9904f567f4cc8cc16c8b2dae68298da8dd4d9917b4dd6e541d59147de7b74172",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-blanda/inat-63619517.jpeg",
@@ -138,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c6b93406a77d0f1f28d2c22cb5fcc3e484ad8bbf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 40058220, photo 63619517, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5d6c7bbe478a3f3a03eb2cdf4c4644c7af802b12bde768af87530b976df7b572. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex blanda maps to indexed species carex-blanda; specialist morphology and BONAP range deferred.",
-      "sha256": "5d6c7bbe478a3f3a03eb2cdf4c4644c7af802b12bde768af87530b976df7b572"
+      "sha256": "5d6c7bbe478a3f3a03eb2cdf4c4644c7af802b12bde768af87530b976df7b572",
+      "display_sha256": "17890b81bd6a4207d2e976d5d1d1c74d28a5782c911e259944672afc9d40e79b",
+      "display_blob_sha": "f8c810f88ef6b7a8e8f2e88cec5ed8e6c8357521",
+      "display_original_site_sha256": "5d6c7bbe478a3f3a03eb2cdf4c4644c7af802b12bde768af87530b976df7b572",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

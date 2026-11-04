@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ceb94ff8c1651415f6b7aa2a3ee13b442e097e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 110128394, photo 185727688, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ceb5b93d0eac7515d054c898b42baadca571aabb6690565d47a0fb7b50a44ea6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex microdonta maps to indexed species carex-microdonta; specialist morphology and BONAP range deferred.",
-      "sha256": "ceb5b93d0eac7515d054c898b42baadca571aabb6690565d47a0fb7b50a44ea6"
+      "sha256": "ceb5b93d0eac7515d054c898b42baadca571aabb6690565d47a0fb7b50a44ea6",
+      "display_sha256": "4a28f9918b97bcd6c54a94ac598fd0807aba947c5a241738f22476ef23aa8a3d",
+      "display_blob_sha": "70708775c580587b0f8d8212a62c8e4fed60cc5e",
+      "display_original_site_sha256": "ceb5b93d0eac7515d054c898b42baadca571aabb6690565d47a0fb7b50a44ea6",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-microdonta/inat-265630145.jpeg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65c6aa4b20e03bc511985fea1ce5b314e8c85c0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 153771692, photo 265630145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb309847a890b9c01621eb61fed90aec4a6ebf7c62d486b6d64afe88f45fe127. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex microdonta maps to indexed species carex-microdonta; specialist morphology and BONAP range deferred.",
-      "sha256": "eb309847a890b9c01621eb61fed90aec4a6ebf7c62d486b6d64afe88f45fe127"
+      "sha256": "eb309847a890b9c01621eb61fed90aec4a6ebf7c62d486b6d64afe88f45fe127",
+      "display_sha256": "a3c7273c2604b4de3f53d9696ee75e1ecdff22b4849c353ad448d9f95e6c9523",
+      "display_blob_sha": "54e18fa93ad978a8efbe7ad23b61c44e4d8c4562",
+      "display_original_site_sha256": "eb309847a890b9c01621eb61fed90aec4a6ebf7c62d486b6d64afe88f45fe127",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-microdonta/inat-358957581.jpeg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8f37ed7bb6c607b8c8d1417914f70761805526e3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 203187882, photo 358957581, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93043ae154581c8478b2fbed42e80544ace7b319d990dfce51446800e2b50147. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex microdonta maps to indexed species carex-microdonta; specialist morphology and BONAP range deferred.",
-      "sha256": "93043ae154581c8478b2fbed42e80544ace7b319d990dfce51446800e2b50147"
+      "sha256": "93043ae154581c8478b2fbed42e80544ace7b319d990dfce51446800e2b50147",
+      "display_sha256": "d5bc776c8034f03c794308601b50837075819427cf7ec548b38fbfbbe5438a99",
+      "display_blob_sha": "5d8b3fb8c1bd4ab69c2319add5b51ed15c77e57c",
+      "display_original_site_sha256": "93043ae154581c8478b2fbed42e80544ace7b319d990dfce51446800e2b50147",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-microdonta/inat-362352809.jpeg",
@@ -125,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8895f4f6155e140ebd501d52e63074890f2713ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 204970785, photo 362352809, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9ad60970f4941e58e7dac3783be0f767762a85f1baab67eb1880e3801f03fe02. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Carex microdonta maps to indexed species carex-microdonta; specialist morphology and BONAP range deferred.",
-      "sha256": "9ad60970f4941e58e7dac3783be0f767762a85f1baab67eb1880e3801f03fe02"
+      "sha256": "9ad60970f4941e58e7dac3783be0f767762a85f1baab67eb1880e3801f03fe02",
+      "display_sha256": "cfdd64d90100fefea2f498f30b99fe1e527dc25780317e37a3797b2d034f9d19",
+      "display_blob_sha": "df23d0a1ae43b254fd9cafc7aa67aacf86155b8b",
+      "display_original_site_sha256": "9ad60970f4941e58e7dac3783be0f767762a85f1baab67eb1880e3801f03fe02",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carex-microdonta/inat-630044219.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "13df90a1a8811f56d4e64f631be7d3513d946e2f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 149641311, photo 257887457, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a8446990f76c80d2a188ade2d71bef33e5c13e26232c8f60e5e256d26598e98c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Luzula bulbosa maps to indexed species luzula-bulbosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a8446990f76c80d2a188ade2d71bef33e5c13e26232c8f60e5e256d26598e98c"
+      "sha256": "a8446990f76c80d2a188ade2d71bef33e5c13e26232c8f60e5e256d26598e98c",
+      "display_sha256": "65380c35c0568b36e8fffe0810ec2e441cdbd6ed6d0cf5a4484d01a3420afd3a",
+      "display_blob_sha": "059876d74157e099369c889f204868851f47b9f1",
+      "display_original_site_sha256": "a8446990f76c80d2a188ade2d71bef33e5c13e26232c8f60e5e256d26598e98c",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "6f6604b0d86a16844d38983d395875b1c0eb9940",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 142680822, photo 244660913, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed30dd7e0327c6add3caded18280b1c036d3dc77f173fc1fdb3f0c18adb64f93.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Smilax tamnoides maps to indexed species smilax-tamnoides; specialist morphology and BONAP range deferred.",
-      "sha256": "ed30dd7e0327c6add3caded18280b1c036d3dc77f173fc1fdb3f0c18adb64f93"
+      "sha256": "ed30dd7e0327c6add3caded18280b1c036d3dc77f173fc1fdb3f0c18adb64f93",
+      "display_sha256": "d294d687f10ed2b960e865062c3b5982b8d771f973cad3aaf1ac7355fca8d5f4",
+      "display_blob_sha": "7d532b0ac09534046e918553c25dd3813c353ccd",
+      "display_original_site_sha256": "ed30dd7e0327c6add3caded18280b1c036d3dc77f173fc1fdb3f0c18adb64f93",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/smilax-tamnoides/inat-320704531.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c5224f97bdca6fa4578f58a3df24ee684eb097e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 183794446, photo 320704531, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed8a20edf967ad3022e3713940c8cd1bf0e173392809a8d0d1dfbfce73f227e2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Smilax tamnoides maps to indexed species smilax-tamnoides; specialist morphology and BONAP range deferred.",
-      "sha256": "ed8a20edf967ad3022e3713940c8cd1bf0e173392809a8d0d1dfbfce73f227e2"
+      "sha256": "ed8a20edf967ad3022e3713940c8cd1bf0e173392809a8d0d1dfbfce73f227e2",
+      "display_sha256": "49bee891f7220bb573c6597a9f8ea6c58534dcf960190e31d47339422cb27711",
+      "display_blob_sha": "4ccd0e1abffb870a85a9b04f6dcd521ee6d5a530",
+      "display_original_site_sha256": "ed8a20edf967ad3022e3713940c8cd1bf0e173392809a8d0d1dfbfce73f227e2",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/smilax-tamnoides/inat-446527006.jpeg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "940cca904fb7de566966355bd23b7c29a091f07e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 249755001, photo 446527006, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de58b5e2ae1c0b6f9d597c7dfa8add2c342227a174842ab4196589495be070b1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Smilax tamnoides maps to indexed species smilax-tamnoides; specialist morphology and BONAP range deferred.",
-      "sha256": "de58b5e2ae1c0b6f9d597c7dfa8add2c342227a174842ab4196589495be070b1"
+      "sha256": "de58b5e2ae1c0b6f9d597c7dfa8add2c342227a174842ab4196589495be070b1",
+      "display_sha256": "55bbe442379479b6f0204f7a7ad7bea3f7d9e0b9f1a5fe86f74d9e55e2a76e74",
+      "display_blob_sha": "2a88ecce9264dff8a8b491676741f34c3959048b",
+      "display_original_site_sha256": "de58b5e2ae1c0b6f9d597c7dfa8add2c342227a174842ab4196589495be070b1",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/smilax-tamnoides/inat-454006351.jpeg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "01d76860d7bb361fc246bd6a6bfab2f56bf16773",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 253546203, photo 454006351, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: b2802f77dc79480d3c52302152ea1e5472f21f6fe4da9458c9f9dfcec040fa24.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Smilax tamnoides maps to indexed species smilax-tamnoides; specialist morphology and BONAP range deferred.",
-      "sha256": "b2802f77dc79480d3c52302152ea1e5472f21f6fe4da9458c9f9dfcec040fa24"
+      "sha256": "b2802f77dc79480d3c52302152ea1e5472f21f6fe4da9458c9f9dfcec040fa24",
+      "display_sha256": "3b775c10f868666121be28b181d263be1e9a9994635e7ed7bbfe0cc5291eb5fa",
+      "display_blob_sha": "5d34826530318fe503573e624192c37e50c60236",
+      "display_original_site_sha256": "b2802f77dc79480d3c52302152ea1e5472f21f6fe4da9458c9f9dfcec040fa24",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/smilax-tamnoides/inat-582315789.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "def967fc3edfa37cd6234c09995e9a1a30efe3b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 321946691, photo 582315789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fdb7730fa5dc876d674ef569194e6ade1fdb060dc8454e6b1c8e4b3a67056080.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Smilax tamnoides maps to indexed species smilax-tamnoides; specialist morphology and BONAP range deferred.",
-      "sha256": "fdb7730fa5dc876d674ef569194e6ade1fdb060dc8454e6b1c8e4b3a67056080"
+      "sha256": "fdb7730fa5dc876d674ef569194e6ade1fdb060dc8454e6b1c8e4b3a67056080",
+      "display_sha256": "f59eb5f9138bde98a1739314778dcefef0e667de12290cbd086a14f441e5f15e",
+      "display_blob_sha": "4ec562594a72e18b677eeaa586e3bc417e1968ad",
+      "display_original_site_sha256": "fdb7730fa5dc876d674ef569194e6ade1fdb060dc8454e6b1c8e4b3a67056080",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/smilax-tamnoides/archived-2cef898360e7b1fe.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "746811089e592f473b51ada4c6099ce9a3623968",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363194022, photo 662952073, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7960d34f45bc96ef206c90c5daf51d8a349b5cb890fd6c99d5034e38e3e16235. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus acuminatus maps to indexed species cyperus-acuminatus; specialist morphology and BONAP range deferred.",
-      "sha256": "7960d34f45bc96ef206c90c5daf51d8a349b5cb890fd6c99d5034e38e3e16235"
+      "sha256": "7960d34f45bc96ef206c90c5daf51d8a349b5cb890fd6c99d5034e38e3e16235",
+      "display_sha256": "a38cb6687849a2498d7fb44f76ddd47041b7f9b64030e5329002874774f135f9",
+      "display_blob_sha": "906e20df6dd5c8e828695d08c513177ba487bbbd",
+      "display_original_site_sha256": "7960d34f45bc96ef206c90c5daf51d8a349b5cb890fd6c99d5034e38e3e16235",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cyperus-acuminatus/inat-662954218.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ddbeacdeb5d8781fc007caeb097b4a3aa3b8a3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cyperaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363195107, photo 662954218, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 504e4b1916d22cc6b8da060112fd5eab0f3cbc2979b4ef309798e000f68126c9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Cyperaceae ZIP contact sheet inspected for obvious off-target plants; herbarium imagery needs specimen-label verification before publication. Live source name Cyperus acuminatus maps to indexed species cyperus-acuminatus; specialist morphology and BONAP range deferred.",
-      "sha256": "504e4b1916d22cc6b8da060112fd5eab0f3cbc2979b4ef309798e000f68126c9"
+      "sha256": "504e4b1916d22cc6b8da060112fd5eab0f3cbc2979b4ef309798e000f68126c9",
+      "display_sha256": "f0f70b46aaccf0755b7d5a0840157d49eca23325b6225df4d1f86ca5daa27cbb",
+      "display_blob_sha": "eb873c049cd394ba1130ce3a3d70bddc25a15919",
+      "display_original_site_sha256": "504e4b1916d22cc6b8da060112fd5eab0f3cbc2979b4ef309798e000f68126c9",
+      "display_original_archive_commit": "aa1a51877785ffe3c71ec1fc2d6c0fec6686231e",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

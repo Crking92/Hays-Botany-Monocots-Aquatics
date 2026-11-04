@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 112,
-  "photo_count": 387,
+  "photo_count": 421,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -106,27 +106,27 @@
       "first_src": "media/manfreda-maculosa/archived-95b9ab226f498555.jpg"
     },
     "nolina-lindheimeriana": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/nolina-lindheimeriana/archived-7005a09768feb6e3.jpg"
     },
     "nolina-texana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/nolina-texana/archived-d3217bdfd8de7b28.jpeg"
     },
     "yucca-arkansana": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/yucca-arkansana/archived-66aa2409bd269940.jpg"
     },
     "yucca-constricta": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/yucca-constricta/archived-71d788e5b5139412.jpg"
     },
     "yucca-pallida": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/yucca-pallida/archived-675c5c0e59c249b6.jpg"
     },
     "yucca-rupicola": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/yucca-rupicola/01-habit.jpg"
     },
     "yucca-torreyi": {
@@ -134,7 +134,7 @@
       "first_src": "media/yucca-torreyi/01-habit.jpg"
     },
     "yucca-treculiana": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/yucca-treculiana/01-wild-habitat.jpg"
     },
     "hechtia-texensis": {

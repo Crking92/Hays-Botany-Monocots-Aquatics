@@ -19,6 +19,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            site/data
+            site/media/fimbristylis-vahlii
+            site/media/fuirena-simplex
+            site/media/rhynchospora-colorata
+            site/media/rhynchospora-nivea
+            site/media/schoenoplectus-californicus
+            site/media/schoenoplectus-tabernaemontani
       - name: Confirm all source-cleared Cyperaceae_002 photos are linked with credits and real files
         run: |
           python3 - <<'PY'

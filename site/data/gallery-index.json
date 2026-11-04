@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 112,
-  "photo_count": 421,
+  "photo_count": 442,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -50,23 +50,23 @@
       "first_src": "media/amorphophallus-titanum/archived-0d44562da16ca531.jpg"
     },
     "arisaema-dracontium": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/arisaema-dracontium/archived-95ce556c450843fd.jpg"
     },
     "lemna-minor": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/lemna-minor/archived-6a9ef23e8822bd57.jpg"
     },
     "pistia-stratiotes": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pistia-stratiotes/archived-01d4df04a0845341.jpg"
     },
     "spirodela-polyrhiza": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/spirodela-polyrhiza/archived-f8b70aa2775a1038.jpg"
     },
     "wolffia-columbiana": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/wolffia-columbiana/archived-149d4f69be18831a.jpg"
     },
     "sabal-mexicana": {

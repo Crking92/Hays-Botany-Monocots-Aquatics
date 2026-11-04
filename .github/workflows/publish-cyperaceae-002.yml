@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'photo-intake/remote-candidates/Cyperaceae_002.tsv'
+      - '.github/workflows/publish-cyperaceae-002.yml'
   workflow_dispatch:
 permissions:
   contents: write
@@ -68,8 +69,32 @@ jobs:
           fi
           git diff --cached --check
           git commit -m "Publish independently verified Cyperaceae batch photographs and source audit"
-          git push origin HEAD:main
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if test "$attempt" -eq 4; then
+              echo "Failed to install after 4 source-safe retries" >&2
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/publish_verified_remote_photo_batch.py \
+              --manifest photo-intake/remote-candidates/Cyperaceae_002.tsv \
+              --site-root site \
+              --report "$RUNNER_TEMP/cyperaceae-002-result.json"
+            mkdir -p photo-intake/remote-results
+            cp "$RUNNER_TEMP/cyperaceae-002-result.json" photo-intake/remote-results/Cyperaceae_002.json
+            python3 scripts/verify_automatic_gallery.py --site-root site
+            git add site/media site/data/collection-index.json site/data/gallery-index.json site/data/species photo-intake/remote-results/Cyperaceae_002.json
+            if git diff --cached --quiet; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Publish verified Cyperaceae_002 photographs after concurrent family update"
+          done
       - name: Rebuild family Pages
         if: steps.release.outputs.changed == 'true'
         env:

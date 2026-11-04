@@ -67,7 +67,7 @@ def main():
     cards={x["id"]:x for x in source["entries"]}
     if m["batch_id"]!="brassicaceae-through-cabombaceae-2026-11-03":raise SystemExit("Unexpected batch")
     if m["repository"]!=site_meta.get("repository_full_name"):raise SystemExit("Manifest routed to incorrect family website")
-    if m["original_images"]!=m["image_hashes_validated"] or m["exact_internal_duplicates"]!=0:raise SystemExit("Uploaded ZIP integrity not confirmed")
+    if m["original_images"]!=m["image_hashes_validated"] or m["internal_duplicates"]!=0:raise SystemExit("Uploaded ZIP integrity not confirmed")
     if len(m["species"])!=len(set(m["species"])):raise SystemExit("Duplicate species in manifest")
     current=set(); current_shas=set()
     for sid in m["species"]:

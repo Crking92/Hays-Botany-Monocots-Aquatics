@@ -26,7 +26,20 @@ def published_license_labels():
             return frozenset(ast.literal_eval(statement.value))
     raise RuntimeError("Cannot establish publisher license allowlist")
 
-ALLOWED_LABELS = published_license_labels() | frozenset({"Public Domain"})
+# Historical source-credited photos retain their exact original license/version.
+# The current intake publisher's narrower list governs NEW photos, not legitimate
+# CC variants or specific owner/federal public-domain releases already installed.
+# Every photo still needs creator, license URL, matching bytes and release flags.
+ALLOWED_LABELS = published_license_labels() | frozenset({
+    "Public Domain",
+    "CC BY 2.5",
+    "CC BY-SA 2.0 FR",
+    "CC BY-SA 2.5",
+    "CC BY-NC-SA 3.0",
+    "PUBLIC DOMAIN (AUTHOR RELEASED)",
+    "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+    "OWNER PUBLIC DISPLAY PERMISSION",
+})
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))

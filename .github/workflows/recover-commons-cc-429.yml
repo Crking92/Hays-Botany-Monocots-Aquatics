@@ -1,4 +1,4 @@
-name: Recover verified Commons CC BY photos held on HTTP 429
+name: Recover Flickr-verified Spirodela archival image and correct photographer credit
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 530e2598324ea30ee48f81e75fa459c10affc29e
+          ref: 6c6da7bd31814e4de16b26e6b3392bf982afdf12
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder

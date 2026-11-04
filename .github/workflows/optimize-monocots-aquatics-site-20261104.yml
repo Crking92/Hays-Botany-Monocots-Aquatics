@@ -84,3 +84,5 @@ jobs:
 # Support documented regional Creative Commons licenses with exact CC license URL matches.
 
 # Correct exact country-ported CC license regex and rerun original-safe photo optimization.
+
+# Include locally documented CC BY-NC-SA 3.0 photo restrictions in gallery validator.

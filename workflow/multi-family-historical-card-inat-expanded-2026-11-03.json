@@ -1,0 +1,46 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_EXPANDED_2026-11-03",
+  "checked_at": "2026-11-04T02:34:25.086961+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "prior_historical_review_preserved": 125,
+    "card_lacks_exact_photo_and_observation_ids": 26,
+    "already_public_identical_bytes": 52,
+    "already_indexed_exact_inat_photo": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "canna-glauca",
+      "family": "Cannaceae",
+      "filename": "public-inat-canna-glauca-693989391.jpg",
+      "original_path": "content/taxa/Cannaceae/Canna/canna-glauca/images/public-inat-canna-glauca-693989391.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cannaceae/Canna/canna-glauca/images/public-inat-canna-glauca-693989391.jpg",
+      "git_blob_sha": "abdba433b65b673b9e1c207872866f8c2c4383ad",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Rocío Esmeralda Pose",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/693989391",
+      "taxon": "Canna glauca",
+      "src": "media/canna-glauca/archived-88f758e3d53a59a1.jpg",
+      "sha256": "88f758e3d53a59a1addd4530200e63f4334d6f0c2ed615d0a63f514d511b84bb"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

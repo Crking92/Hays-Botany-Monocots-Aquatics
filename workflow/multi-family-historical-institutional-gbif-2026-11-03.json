@@ -1,0 +1,75 @@
+{
+  "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
+  "batch_key": "MULTIFAMILY_HISTORICAL_INSTITUTIONAL_GBIF_2026-11-03",
+  "checked_at": "2026-11-04T00:20:18.897149+00:00",
+  "source_files": 205,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 3,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 3,
+  "selected_by_lane": {
+    "gbif": 3
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 202
+  },
+  "new_installed": 3,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "schoenoplectus-tabernaemontani",
+      "family": "Cyperaceae",
+      "filename": "library-review027-9d711a17d4fa2e1.jpg",
+      "original_path": "content/taxa/Cyperaceae/Schoenoplectus/schoenoplectus-tabernaemontani/images/library-review027-9d711a17d4fa2e1.jpg",
+      "archive_path": "migration/private-original-photo-holds/Cyperaceae/Schoenoplectus/schoenoplectus-tabernaemontani/images/library-review027-9d711a17d4fa2e1.jpg",
+      "git_blob_sha": "d05ac91c185e2b65c38b995aab467ad29485dcc0",
+      "lane": "gbif",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ingrid P. Lin",
+      "license": "CC0 1.0",
+      "source_page": "https://www.gbif.org/occurrence/3960442351",
+      "taxon": "Schoenoplectus tabernaemontani",
+      "src": "media/schoenoplectus-tabernaemontani/archived-f88d14f2c9b76798.jpg",
+      "sha256": "f88d14f2c9b767986a2822de085e6db0c369d7b716d5337c6fe7131f1674f186"
+    },
+    {
+      "species_id": "tradescantia-edwardsiana",
+      "family": "Commelinaceae",
+      "filename": "gbif-manual-5067995163-213c2192e.jpg",
+      "original_path": "content/taxa/Commelinaceae/Tradescantia/tradescantia-edwardsiana/images/gbif-manual-5067995163-213c2192e.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Tradescantia/tradescantia-edwardsiana/images/gbif-manual-5067995163-213c2192e.jpg",
+      "git_blob_sha": "4cada21b17f5b8959ff42839f66db1e312973b0b",
+      "lane": "gbif",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Albion R. Hodgdon Herbarium, University of New Hampshire",
+      "license": "CC0 1.0",
+      "source_page": "https://www.gbif.org/occurrence/5067995163",
+      "taxon": "Tradescantia edwardsiana",
+      "src": "media/tradescantia-edwardsiana/archived-7563f377dd0a4143.jpg",
+      "sha256": "7563f377dd0a41439213ef8c1b9540f65b5f849a1814dba26b26e0b9f1ba3eb7"
+    },
+    {
+      "species_id": "tradescantia-pedicellata",
+      "family": "Commelinaceae",
+      "filename": "gbif-manual-4907021426-666029ead.jpg",
+      "original_path": "content/taxa/Commelinaceae/Tradescantia/tradescantia-pedicellata/images/gbif-manual-4907021426-666029ead.jpg",
+      "archive_path": "migration/private-original-photo-holds/Commelinaceae/Tradescantia/tradescantia-pedicellata/images/gbif-manual-4907021426-666029ead.jpg",
+      "git_blob_sha": "9773881791d202cb84b41a16e871d6e6d9475187",
+      "lane": "gbif",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "MBG",
+      "license": "CC BY-NC-SA 3.0",
+      "source_page": "https://www.gbif.org/occurrence/4907021426",
+      "taxon": "Tradescantia pedicellata",
+      "src": "media/tradescantia-pedicellata/archived-0f36774ce7b48a23.jpg",
+      "sha256": "0f36774ce7b48a23a0a9e9457a2d2786c3e8f58916941ea2599cc656543efb7e"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 0
+}

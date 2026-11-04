@@ -48,6 +48,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/tradescantia-edwardsiana/archived-7563f377dd0a4143.jpg",
+      "creator": "Albion R. Hodgdon Herbarium, University of New Hampshire",
+      "source_page": "https://www.gbif.org/occurrence/5067995163",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "4cada21b17f5b8959ff42839f66db1e312973b0b",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact original GBIF occurrence 5067995163, individual media https://media01.symbiota.org/media/cnh/UniversityofNewHampshire_NHA/NHA-523/NHA-523290.jpg, image-specific rights https://creativecommons.org/publicdomain/zero/1.0/, original per-photo institutional credit 'Albion R. Hodgdon Herbarium, University of New Hampshire', current GBIF media credit 'Albion R. Hodgdon Herbarium, University of New Hampshire', original archive image SHA validated and dHash distance 0; archived source SHA 4cada21b17f5b8959ff42839f66db1e312973b0b; exact image source https://www.gbif.org/occurrence/5067995163",
+      "taxon_review_evidence": "Original species record Tradescantia edwardsiana linked to an original image and matching current institutional-gbif photo of source taxon Tradescantia edwardsiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7563f377dd0a41439213ef8c1b9540f65b5f849a1814dba26b26e0b9f1ba3eb7"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

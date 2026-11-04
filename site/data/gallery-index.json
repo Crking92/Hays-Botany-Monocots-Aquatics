@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 106,
-  "photo_count": 296,
+  "photo_count": 299,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -170,7 +170,7 @@
       "first_src": "media/tinantia-anomala/archived-6c9ca0c441d99a7c.jpg"
     },
     "tradescantia-edwardsiana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tradescantia-edwardsiana/tradescantia-edwardsiana-provisional-face.jpg"
     },
     "tradescantia-gigantea": {
@@ -190,7 +190,7 @@
       "first_src": "media/tradescantia-occidentalis/archived-03939df2e807fe52.jpg"
     },
     "tradescantia-pedicellata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tradescantia-pedicellata/archived-073208d99ca0bed3.jpg"
     },
     "carex-blanda": {
@@ -310,7 +310,7 @@
       "first_src": "media/schoenoplectus-californicus/archived-6921cfab4042876f.jpg"
     },
     "schoenoplectus-tabernaemontani": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/schoenoplectus-tabernaemontani/archived-9453cb0dfa306aeb.jpg"
     },
     "myriophyllum-aquaticum": {

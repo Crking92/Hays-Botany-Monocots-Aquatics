@@ -4,12 +4,13 @@ on:
     branches: [main]
     paths:
       - 'photo-intake/remote-candidates/Cyperaceae_002_GBIF.tsv'
+      - '.github/workflows/publish-cyperaceae-002-gbif.yml'
   workflow_dispatch:
 permissions:
   contents: write
   pages: write
 concurrency:
-  group: cyperaceae-002-photo-first
+  group: cyperaceae-002-gbif-source-v2
   cancel-in-progress: false
 jobs:
   publish:
@@ -43,8 +44,32 @@ jobs:
           fi
           git diff --cached --check
           git commit -m "Install source-verified Cyperaceae_002 herbarium specimens and credit audit"
-          git push origin HEAD:main
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            if test "$attempt" -eq 4; then
+              echo "Unable to publish after 4 safe retries" >&2
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/publish_verified_cyperaceae_002_gbif.py \
+              --manifest photo-intake/remote-candidates/Cyperaceae_002_GBIF.tsv \
+              --site-root site \
+              --report "$RUNNER_TEMP/cyperaceae-002-gbif-result.json"
+            python3 scripts/verify_automatic_gallery.py --site-root site
+            mkdir -p photo-intake/remote-results
+            cp "$RUNNER_TEMP/cyperaceae-002-gbif-result.json" photo-intake/remote-results/Cyperaceae_002_GBIF.json
+            git add site/media site/data/collection-index.json site/data/gallery-index.json site/data/species photo-intake/remote-results/Cyperaceae_002_GBIF.json
+            if git diff --cached --quiet; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Install Cyperaceae_002 GBIF photos after concurrent family update"
+          done
       - name: Rebuild public Pages
         if: steps.release.outputs.changed == 'true'
         env:

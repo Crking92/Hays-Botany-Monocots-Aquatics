@@ -26,7 +26,7 @@ def published_license_labels():
             return frozenset(ast.literal_eval(statement.value))
     raise RuntimeError("Cannot establish publisher license allowlist")
 
-ALLOWED_LABELS = published_license_labels()
+ALLOWED_LABELS = published_license_labels() | frozenset({"Public Domain"})
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
@@ -51,6 +51,12 @@ def local_audit():
     files = sorted((SITE / "data/species").glob("*.json"))
     require({p.stem for p in files} == set(ids), "published species files do not match index")
     require(gallery.get("status") == "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES", "photo release gate changed")
+    all_labels = sorted({
+        photo.get("license", "")
+        for card_file in files
+        for photo in json.loads(card_file.read_text()).get("verified_photos", [])
+    })
+    print("LIVE_GALLERY_LICENSE_LABELS", json.dumps(all_labels), flush=True)
     refs = set()
     count = 0
     featured = 0

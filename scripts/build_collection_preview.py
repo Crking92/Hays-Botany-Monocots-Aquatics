@@ -29,7 +29,21 @@ for row in idx["entries"]:
     for p in photos:
         src=p["src"]
         assert src.startswith("media/"+sid+"/") and ".." not in src
-        assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://creativecommons.org/")
+        # Preserve existing individually verified public-display and public-domain grants;
+        # never broaden them to Creative Commons or third-party redistribution.
+        owner_display=(p["license"]=="OWNER PUBLIC DISPLAY PERMISSION"
+            and p.get("site_display_only") is True and p.get("public_reuse") is False
+            and p["creator"]=="Glass Root Garden"
+            and p["license_url"]=="https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md")
+        federal_public=(p["license"]=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+            and p["license_url"]=="https://www.copyright.gov/title17/92chap1.html#105"
+            and p["source_page"].startswith("https://commons.wikimedia.org/wiki/File:"))
+        conrad_dedicated=(p["license"]=="Public Domain (photographer dedication)"
+            and p["creator"]=="Jim Conrad"
+            and p["license_url"]=="https://www.backyardnature.net/j/copyrite.htm")
+        assert p["creator"] and p["source_page"].startswith("https://") and (
+            p["license_url"].startswith("https://creativecommons.org/")
+            or owner_display or federal_public or conrad_dedicated),(sid,src,p.get("license"),p.get("license_url"))
         assert p["private_rights_review_only"] is False
         is_nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
         assert p["noncommercial_only"] is is_nc

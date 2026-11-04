@@ -1,0 +1,65 @@
+{
+  "batch": "Cyperaceae_002_GBIF",
+  "checked": 11,
+  "ready": [
+    {
+      "species": "fimbristylis-vahlii",
+      "gbif_id": "2807315839",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "fimbristylis-vahlii",
+      "gbif_id": "4403306502",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "fimbristylis-vahlii",
+      "gbif_id": "6490989610",
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "species": "fuirena-simplex",
+      "gbif_id": "2807329795",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "fuirena-simplex",
+      "gbif_id": "2807381662",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-californicus",
+      "gbif_id": "2807287492",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-tabernaemontani",
+      "gbif_id": "2807578990",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-tabernaemontani",
+      "gbif_id": "3866874309",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-tabernaemontani",
+      "gbif_id": "2807495342",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-tabernaemontani",
+      "gbif_id": "3866883584",
+      "license": "CC BY 4.0"
+    },
+    {
+      "species": "schoenoplectus-tabernaemontani",
+      "gbif_id": "3866889694",
+      "license": "CC BY 4.0"
+    }
+  ],
+  "already": [],
+  "held": [],
+  "installed": 11,
+  "site_photo_count_after": 590
+}

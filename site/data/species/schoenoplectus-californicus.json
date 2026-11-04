@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation API https://api.inaturalist.org/v1/observations/355042016 returned individual photo 647626878 license cc-by-nc, photographer (c) Tracey Burke, some rights reserved (CC BY-NC), SHA256 81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9; original image https://inaturalist-open-data.s3.amazonaws.com/photos/647626878/original.jpg",
       "taxon_review_evidence": "Basic contact-sheet visual sanity screen of user-supplied Cyperaceae_002.zip plus live observation taxon schoenoplectus californicus; recognition gallery only, no diagnostic-anatomy certification.",
       "sha256": "81f3eeaa2c2d6265cb6da8f6102e9711af3e244f7afc17f96b65e02ed7d5cec9"
+    },
+    {
+      "src": "media/schoenoplectus-californicus/gbif-2807287492.jpg",
+      "creator": "The University of Texas at Austin",
+      "source_page": "https://www.gbif.org/occurrence/2807287492",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f08a517bac9acaea0cf616d50154c4cc37b4aa32",
+      "role": "Pressed herbarium specimen showing general culms and inflorescence; original voucher label visible",
+      "modified": "Original source JPEG, no alterations",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Verified original specimen media source, image-specific CC license, provider, accepted taxon, source image bytes and source attribution.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by ChatGPT visual sample review plus live GBIF individual media-license and exact-byte verifier",
+      "source_review_evidence": "Live GBIF occurrence https://api.gbif.org/v1/occurrence/2807287492 has exact media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp67913792699159803721.att.jpg, image-level license https://creativecommons.org/licenses/by/4.0/, provider credit  The University of Texas at Austin ; original uploaded ZIP SHA256 matches live media: 996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c",
+      "taxon_review_evidence": "Basic visual contact sheet review of original herbarium sheet, current GBIF occurrence taxon schoenoplectus californicus; general specimen recognition only, detailed label and diagnostic identification deferred.",
+      "sha256": "996eda14ea6fee5297f114960c77777407aed58ab3a68bf7772d1c181155ff7c"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

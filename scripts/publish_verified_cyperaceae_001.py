@@ -15,6 +15,12 @@ LICENSES={
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
 SYNONYMS={
+ # Rank-omitted display name for the same iNaturalist subspecies (taxon 200034).
+ # https://www.inaturalist.org/taxa/200034-Cladium-mariscus-jamaicense
+ "cladium-mariscus-subsp-jamaicense":{"cladium mariscus jamaicense"},
+ # iNaturalist rank-omitted autonym is nested in the accepted species at POWO.
+ # https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:300668-2
+ "cyperus-esculentus":{"cyperus esculentus esculentus"},
  "botrychium-biternatum":{"sceptridium biternatum"}, # Ferns of Texas: https://ferns.brit.org/?q=node%2F79
  "azolla-caroliniana":{"azolla cristata"},
  "smilax-tamnoides":{"smilax hispida"},

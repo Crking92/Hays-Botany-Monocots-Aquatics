@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Monocots-Aquatics",
   "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T02:04:56.868417+00:00",
+  "checked_at": "2026-11-04T02:07:09.470194+00:00",
   "source_files": 205,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 1,
@@ -13,8 +13,8 @@
   "skipped_or_previously_published": {
     "outside_exact_owner_permission_list": 204
   },
-  "new_installed": 0,
-  "held_checked": 1,
+  "new_installed": 1,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -25,16 +25,39 @@
       "archive_path": "migration/private-original-photo-holds/Asparagaceae/Yucca/yucca-constricta/images/glass-root-615486659-first-photo.jpg",
       "git_blob_sha": "ebef338647610b0c1a1edfb3c5f60b67e3d8ba92",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/615486659",
+      "taxon": "Yucca constricta",
+      "src": "media/yucca-constricta/archived-cdb3bbc8d6763331.jpg",
+      "sha256": "cdb3bbc8d6763331c3a1e9d27b23a46f4df88524cf211a6465a0cbb0d2a35082"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:04:56.868417+00:00",
+      "selected_candidates": 1,
+      "new_installed": 0,
+      "held_checked": 1,
+      "records": [
+        {
+          "species_id": "yucca-constricta",
+          "family": "Asparagaceae",
+          "filename": "glass-root-615486659-first-photo.jpg",
+          "original_path": "content/taxa/Asparagaceae/Yucca/yucca-constricta/images/glass-root-615486659-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Asparagaceae/Yucca/yucca-constricta/images/glass-root-615486659-first-photo.jpg",
+          "git_blob_sha": "ebef338647610b0c1a1edfb3c5f60b67e3d8ba92",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Owner permission attribution not confirmed by exact photo": 1
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
   "cumulative_held_reviewed": 1
 }

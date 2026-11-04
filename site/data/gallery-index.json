@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
   "photo_species": 109,
-  "photo_count": 331,
+  "photo_count": 332,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -118,7 +118,7 @@
       "first_src": "media/yucca-arkansana/archived-66aa2409bd269940.jpg"
     },
     "yucca-constricta": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/yucca-constricta/archived-71d788e5b5139412.jpg"
     },
     "yucca-pallida": {

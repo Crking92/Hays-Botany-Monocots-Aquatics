@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 113,
-  "photo_species": 106,
-  "photo_count": 299,
+  "photo_species": 107,
+  "photo_count": 309,
   "entries": {
     "aquarius-cordifolius": {
       "count": 1,
@@ -154,11 +154,11 @@
       "first_src": "media/cabomba-caroliniana/archived-cb538bb5834f0aa4.jpg"
     },
     "canna-glauca": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/canna-glauca/inat-38476640.jpg"
     },
     "ceratophyllum-demersum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ceratophyllum-demersum/archived-7d6249a360c50ebc.jpg"
     },
     "commelina-erecta": {

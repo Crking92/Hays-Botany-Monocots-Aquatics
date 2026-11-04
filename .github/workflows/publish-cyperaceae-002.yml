@@ -10,7 +10,7 @@ permissions:
   contents: write
   pages: write
 concurrency:
-  group: cyperaceae-002-photo-first
+  group: cyperaceae-002-release-v2
   cancel-in-progress: false
 jobs:
   publish:

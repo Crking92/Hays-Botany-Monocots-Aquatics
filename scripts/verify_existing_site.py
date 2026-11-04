@@ -94,12 +94,20 @@ def local_audit():
                     sid + ": unknown/non-public photo license: " + photo["license"])
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery links to a private-review image")
-            nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","CC BY-NC-SA 3.0","OWNER PUBLIC DISPLAY PERMISSION"}
-            require(photo.get("noncommercial_only") is nc,
-                    sid + ": noncommercial restriction does not match the individual photo license")
-            if nc:
+            nc=photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","CC BY-NC-SA 3.0"}
+            owner_site_permission=photo["license"]=="OWNER PUBLIC DISPLAY PERMISSION"
+            if owner_site_permission:
+                require(photo.get("creator")=="Glass Root Garden"
+                        and photo.get("site_display_only") is True
+                        and photo.get("public_reuse") is False
+                        and "GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION" in str(photo.get("source_review_evidence") or ""),
+                        sid + ": owner-only site display terms or proof missing")
+            else:
+                require(photo.get("noncommercial_only") is nc,
+                        sid + ": noncommercial restriction does not match the individual photo license")
+            if nc or owner_site_permission:
                 require(meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True,
-                        sid + ": CC BY-NC media requires confirmed noncommercial family site")
+                        sid + ": restricted media requires confirmed noncommercial family site")
             require(photo["source_page"].startswith("https://") and photo["license_url"].startswith("https://"),
                     sid + ": missing exact source/license URL")
     actual = {p.relative_to(SITE).as_posix() for p in (SITE / "media").rglob("*") if p.is_file()}

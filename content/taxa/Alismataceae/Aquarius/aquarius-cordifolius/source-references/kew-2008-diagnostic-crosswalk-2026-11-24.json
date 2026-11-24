@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_taxonomic_and_species_morphology_reconciliation",
+  "review_date": "2026-11-24",
+  "species_id": "aquarius-cordifolius",
+  "previous_file": "content/taxa/Alismataceae/Aquarius/aquarius-cordifolius/species.json",
+  "taxonomy": {
+    "accepted": "Aquarius cordifolius (L.) Christenh. & Byng",
+    "historical_name": "Echinodorus cordifolius (L.) Griseb.",
+    "other_name": "Alisma cordifolium L.",
+    "authority": "Kew POWO",
+    "url": "https://powo.science.kew.org/taxon/77182733-1"
+  },
+  "specific_source": {
+    "citation": "Lehtonen (2008), An integrative approach to species delimitation in Echinodorus, Kew Bulletin 63: 525–563",
+    "doi": "10.1007/s12225-008-9068-0",
+    "view": "Kew POWO general information reproduces source attribution under synonym Echinodorus cordifolius",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77182733-1/general-information"
+  },
+  "source_reported_morphology": {
+    "habit": "Perennial, rhizomatous aquatic or wetland herb, to about 200 cm",
+    "leaves": "Emergent ovate to oval leaf blades 7–30 × 4–20 cm, about 5–9 major veins, leaf base attenuate to cordate, petioles 11–60 cm",
+    "inflorescence": "Racemose to paniculate, 3–8 whorls of 6–22 flowers, decumbent and potentially producing vegetative plantlets",
+    "flower": "White petals; flowers 2–3.5 cm across; 15–28 stamens",
+    "achene": "1.3–3 mm long, ribbed and keeled, with circular glands separated by ribs and a terminal erect beak"
+  },
+  "key_literature_comparison": "Flora of North America formerly treats this as Echinodorus cordifolius, with a subspecies concept; do not copy subspecies-only details onto all modern Aquarius specimens.",
+  "source_anomaly": "Kew display of the quoted 2008 description contains an implausible petal dimension (13 cm); this value is explicitly excluded pending inspection of original article. Other listed flower dimensions are cross-check targets, not substitute correction of the apparent typo.",
+  "status": "ACCEPTED_NAME_AND_SOURCE_MORPHOLOGY_CORROBORATED_PETAL_DIMENSION_HELD",
+  "bonap_status": "DEFERRED_BY_OWNER",
+  "preservation": "Additive research only; images/photo rights/public site unchanged"
+}

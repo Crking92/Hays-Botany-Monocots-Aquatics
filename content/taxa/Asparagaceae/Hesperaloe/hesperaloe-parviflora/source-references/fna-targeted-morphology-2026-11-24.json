@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_fna_species_morphology",
+  "review_date": "2026-11-24",
+  "inventory_taxon": "Hesperaloe parviflora (Torr.) J.M.Coult.",
+  "source": {
+    "citation": "Flora of North America vol. 26, Hesperaloe parviflora",
+    "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101656"
+  },
+  "taxonomic_reference": {
+    "authority": "Kew POWO",
+    "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1213420-2",
+    "accepted_name": "Hesperaloe parviflora",
+    "synonym": "Yucca parviflora Torr."
+  },
+  "source_reported_morphology": {
+    "leaf_blade_length_cm": "50–125",
+    "leaf_blade_width_cm": "1–2.5",
+    "leaf_character": "Dark green, barely constricted along length, margins with slender filament threads",
+    "panicle_height_m": "1–2.5",
+    "flower": "Narrowly tubular rosy red to salmon perianth",
+    "tepal_length_cm": "2.5–3.5",
+    "capsule_length_cm": "2.5–3",
+    "seed_length_mm": "9–10",
+    "seed_width_mm": "6–7",
+    "flowering_source_reported": "Late winter to early summer (FNA study area; not Hays phenology)"
+  },
+  "comparison": "FNA distinguishes H. funifera by broader, often yellow-green leaves (2–5 cm wide) and green/purple-tinged bell-shaped flowers; note that ornamental cultivars may not meet these wild-species floral characters.",
+  "limitation": "FNA expressly cautions that ornamental and roadside planting obscures historic wild distributions. Record only as a morphology source caution; DO NOT perform any BONAP county-level or nativity determination here.",
+  "status": "SOURCE_BACKED_SPECIES_MORPHOLOGY_DOCUMENTED_TAXONOMY_CONFIRMED",
+  "pending": [
+    "Photo identity/variant and publication rights have not been reassessed",
+    "Do not interpret ornamental occurrences as county-native evidence"
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive research file only; existing photos, attribution, site and species record untouched"
+}
